@@ -1,18 +1,21 @@
 [
     {
         "project": "SpaceBudz",
+        "tags": ["SpaceBud"],
         "policies": [
             "d5e6bf0500378d4f0da4e8dde6becec7621cd8cbf5cbb9b87013d4cc"
         ]
     },
     {
         "project": "PXLZ",
+        "tags": ["PXLZ"],
         "policies": [
             "1ec85dcee27f2d90ec1f9a1e4ce74a667dc9be8b184463223f9c9601"
         ]
     },
     {
         "project": "Unsigned Algorithms",
+        "tags": ["unsig_"],
         "policies": [
             "0e14267a8020229adc0184dd25fa3174c3f7d6caadcb4425c70e7c04"
         ]
@@ -38,6 +41,13 @@
 	"08224379a0c37063d74d24d1881debbb7773eb28cd6efdc1f923b0fe",
 	"44dfbf4da21fce480912d25043cf5d653ae025da570b96cc66cdfa8a",
 	"13d50e918e235f23dcad7b9117ee91bde515d45e88d5fdd2910f9279"
+        ]
+    },
+    {
+        "project": "PlanetPalz",
+        "tags": ["PlanetPalz"],
+        "policies": [
+            "89fa6dc66a24799ccaee43a3a16930bb045a8152fdf2a2642034774f"
         ]
     }
 ]
