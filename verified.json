@@ -22,5 +22,11 @@
         "policies": [
             "5e889bcb83b884bb6d768cfc483845cd6ccee79c2b5a4a15dae7ff47"
         ]
+    },
+    {
+        "project": "Cardano Warriors",
+        "policies": [
+            "8f80ebfaf62a8c33ae2adf047572604c74db8bc1daba2b43f9a65635"
+        ]
     }
 ]
