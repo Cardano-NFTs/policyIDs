@@ -1,1 +1,26 @@
-CNFT.IO PolicyIDs
+[
+    {
+        "project": "SpaceBudz",
+        "policies": [
+            "d5e6bf0500378d4f0da4e8dde6becec7621cd8cbf5cbb9b87013d4cc"
+        ]
+    },
+    {
+        "project": "PXLZ",
+        "policies": [
+            "1ec85dcee27f2d90ec1f9a1e4ce74a667dc9be8b184463223f9c9601"
+        ]
+    },
+    {
+        "project": "Unsigned Algorithms",
+        "policies": [
+            "0e14267a8020229adc0184dd25fa3174c3f7d6caadcb4425c70e7c04"
+        ]
+    },
+    {
+        "project": "Crypto Mayor",
+        "policies": [
+            "5e889bcb83b884bb6d768cfc483845cd6ccee79c2b5a4a15dae7ff47"
+        ]
+    }
+]
