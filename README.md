@@ -12,7 +12,8 @@ Make a pull request to add a file to the repository in this format.
         "PlanetPalz"
     ],
     "policies": [
-        "89fa6dc66a24799ccaee43a3a16930bb045a8152fdf2a2642034774f"
+        "89fa6dc66a24799ccaee43a3a16930bb045a8152fdf2a2642034774f",
+        "example66a24799ccaee43a3a16930bb045a8152fdf2a2642034774f"
     ]
 }
 ```
