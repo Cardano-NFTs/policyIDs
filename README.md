@@ -4,6 +4,7 @@ CNFTs Verified Policy Database
 __**To add your project to the list of verified policies for the marketplace:**__
 
 Make a pull request to add a file to the repository in this format.
+Sufficient proof must be provided that you are the creator, providing a link to your twitter / discord will be great
 
 ```json
 {
