@@ -5,6 +5,7 @@ __**To add your project to the list of verified policies for the marketplace:**_
 
 **__Important:__ You must show proof of your project by tweeting your pull request to your projects twitter and linking in your pull request
 Alternatively, provide adequate proof such as a direct link to project website with policies**
+
 Make a pull request to add a file to the repository in this format.
 
 Single Project:
