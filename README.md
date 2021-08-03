@@ -6,6 +6,7 @@ __**To add your project to the list of verified policies for the marketplace:**_
 Make a pull request to add a file to the repository in this format.
 Sufficient proof must be provided that you are the creator, providing a link to your twitter / discord will be great
 
+Single Project:
 ```json
 {
     "project": "PlanetPalz",
@@ -18,6 +19,35 @@ Sufficient proof must be provided that you are the creator, providing a link to 
     ]
 }
 ```
+
+Multiple Projects under one name:
+```json
+[
+    {
+        "project": "Example 1",
+        "tags": [
+            "Example"
+        ],
+        "policies": [
+            "Example1",
+            "Example2"
+        ]
+    },
+    {
+        "project": "Example 2",
+        "tags": [
+            "Example 2"
+        ],
+        "policies": [
+            "Example 2"
+        ]
+    }
+]
+
+
+
+```
+
 
 **Project** should be the name of your project.
 **Tags** should include specific keywords that would identify the name of your NFTS, used to spot fakes.
