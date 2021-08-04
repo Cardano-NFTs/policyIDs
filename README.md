@@ -3,8 +3,17 @@ CNFTs Verified Policy Database
 
 __**To add your project to the list of verified policies for the marketplace:**__
 
+**__Important:__ You must show proof of your project by tweeting your pull request to your projects twitter and linking in your pull request
+Alternatively, provide adequate proof such as a direct link to project website with policies**
+
 Make a pull request to add a file to the repository in this format.
-Sufficient proof must be provided that you are the creator, providing a link to your twitter / discord will be great
+
+__**Information:**__
+**project:** Name of your project
+**tags:** Uniquely identifiable tags for the name of your assets (mustn't be vague, is used for finding fakes)
+**policies** one or many policy ids of your project
+
+https://www.youtube.com/watch?v=z6yPjed4sMI
 
 Single Project:
 ```json
