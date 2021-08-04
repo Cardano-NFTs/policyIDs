@@ -8,6 +8,13 @@ Alternatively, provide adequate proof such as a direct link to project website w
 
 Make a pull request to add a file to the repository in this format.
 
+__**Information:**__
+**project:** Name of your project
+**tags:** Uniquely identifiable tags for the name of your assets (mustn't be vague, is used for finding fakes)
+**policies** one or many policy ids of your project
+
+https://www.youtube.com/watch?v=z6yPjed4sMI
+
 Single Project:
 ```json
 {
