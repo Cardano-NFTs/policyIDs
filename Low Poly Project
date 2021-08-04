@@ -1,11 +1,11 @@
 {
     "project": "The LowPoly Project",
     "tags": [
-        "Low Poly"
-        "Low Poly Art"
-        "Low Poly Augmented Reality"
-        "Low Poly Portraits"
-        "Augmented Reality Art"
+        "Low Poly",
+        "Low Poly Art",
+        "Low Poly Augmented Reality",
+        "Low Poly Portraits",
+        "Augmented Reality Art",
         "AR Art"
     ],
     "policies": [
@@ -23,7 +23,7 @@
         "e3922cf97f5115591a2103f8fedfd1f1827edabb99687f0c680e748e",
         "8b5c69429adcb651973ce4b25c703145f706c2bce4792b3f4d035742",
         "3fc2763a88bd108f88d7cadfd8b720ce1e2819a79673a1a25250103d",
-        "92244b7dc25020992fa9902c9e0292c9474ce5782452ec12e7feb396",
+        "92244b7dc25020992fa9902c9e0292c9474ce5782452ec12e7feb396"
          
         
     ]
