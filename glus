@@ -1,7 +1,9 @@
 	{
         "project": "glus",
         "tags": [
-            "cryptodelics", "End Violence", "Cardano Demon" 
+            "cryptodelics", 
+	    "End Violence", 
+	    "Cardano Demon" 
 			],
         "policies": [
             "4fc17ed958dbf8ff4f2f7e876b262ceb8c127511ec99419c65f3cd6f", 
