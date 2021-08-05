@@ -1,11 +1,7 @@
 [
   {
     "project": "NFT Update: Season 1",
-    "tags": [
-      "NFT Update",
-      "NFTU",
-      "Buffy Bot"
-    ],
+    "tags": [],
     "policies": [
       "920102f4353f24c817e38b45f5282b4d7ccf9f64f445cc852e01c475",
       "883b7a579dd41444c66a6629e5841e1e714e812e51ab01537edd2d5b",
@@ -27,15 +23,7 @@
   },
   {
     "project": "Digital Mortal: Season 1",
-    "tags": [
-      "Digital Mortal",
-      "Trevor",
-      "Alyssa",
-      "Never Engine",
-      "NFT News Update",
-      "Scott Chestnut"
-
-    ],
+    "tags": [],
     "policies": [
       "8e076e3b9a081f66d39f6c7b1600241f12ee276899391c7a4b11ea42",
       "562cc9b320034711440fce12b054307bb652d1868130de91f858cc8b",
@@ -63,11 +51,7 @@
   },
   {
     "project": "withfaces: Season 1",
-    "tags": [
-      "withfaces",
-      "withspaces",
-      "Tyler Rogrigues"
-    ],
+    "tags": [],
     "policies": [
       "9cd614b79e7947794b9cbc3385c04c9dba39c6001e0d26201b29af38",
       "13cd3473eb7d33c5c2a0cfa8c770e8eb57c5155821f9e1bca6f9da12",
@@ -83,11 +67,7 @@
   },
   {
     "project": "NFT Update: Season 2",
-    "tags": [
-      "NFT Update",
-      "NFTU",
-      "Buffy Bot"
-    ],
+    "tags": [],
     "policies": [
       "c649951090e9bc3e42b5caa07ec84336dc38514749e1bae74dc6762a",
       "4e50e0081a2e60bdb81c8f78466c84bcf9f2d727d03dd3549e5ad258",
