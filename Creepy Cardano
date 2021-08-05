@@ -1,7 +1,13 @@
 {
         "project": "Creepy Cardano",
         "tags": [
-            "FineSuitIndeedCC","Servo S.A.M Limited", "Creator, Age 20", "Carla Cuts Limited", "Love", "Carla, Cutting Free" 
+            "FineSuitIndeedCC",
+	    "Servo S.A.M Limited", 
+	    "Creator, Age 20", 
+	    "Carla Cuts Limited", 
+	    "Love", 
+	    "Carla,
+	    Cutting Free" 
         ],
         "policies": [
             "ca3faeb4d8443a4ac18c58c66324609364b2885690fa71c78944ac5c",
