@@ -6,7 +6,7 @@
         ],
         "policies": [
             "06f17d447555d63781e6a36b1e244e94261a909428f7a247118e1747"
-            
+
         ]
     },
     {
@@ -17,9 +17,7 @@
         "policies": [
             "01c5b1861d7b47297c5fab90cbc6090197da33c92d169fba5495890a"
         ]
-    }
-]
-[
+    },
     {
         "project": "The Atomic Heroes: Hydrogen Hexes",
         "tags": [
@@ -27,7 +25,7 @@
         ],
         "policies": [
             "cb6c1d68c12ba6ee79bd59811b20e59b5b03b5022038f1caed22bdc7"
-            
+
         ]
     },
     {
@@ -41,9 +39,7 @@
         "policies": [
             "34dbb5f4d84d2c422a19dd31b4551094ec28851909f5e44280393b89"
         ]
-    }
-]
-[
+    },
     {
         "project": "The Atomic Heroes: Atomic Minion Puzzle",
         "tags": [
@@ -51,7 +47,7 @@
         ],
         "policies": [
             "05f5cc6b68da044903ddcaf341df318cbb1c5149b90e15e3bc6ff74a"
-            
+
         ]
     },
     {
