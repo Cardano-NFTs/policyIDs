@@ -1,8 +1,0 @@
-name: Validate JSON
-on: [pull_request]
-jobs:
-  Explore-GitHub-Actions:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Validate JSON
-        uses: OrRosenblatt/validate-json-action@0.1.0
