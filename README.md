@@ -9,8 +9,11 @@ Alternatively, provide adequate proof such as a direct link to project website w
 Make a pull request to add a file to the repository in this format.
 
 __**Information:**__
+
 **project:** Name of your project
+
 **tags:** Uniquely identifiable tags for the name of your assets (mustn't be vague, is used for finding fakes)
+
 **policies** one or many policy ids of your project
 
 https://www.youtube.com/watch?v=z6yPjed4sMI
@@ -52,12 +55,4 @@ Multiple Projects under one name:
         ]
     }
 ]
-
-
-
 ```
-
-
-**Project** should be the name of your project.
-**Tags** should include specific keywords that would identify the name of your NFTS, used to spot fakes.
-**Policies** is an array of policy ids that can be seperated by commas
