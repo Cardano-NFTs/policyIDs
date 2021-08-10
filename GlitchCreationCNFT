@@ -7,10 +7,12 @@
         "AstralGlitch",
         "End Violence 003",
         "LifeInPrism",
-        "Pistols4Peace"
+        "Pistols4Peace",
+        "TechnoRonin"
         
     ],
     "policies": [
+        "6cf6b2fa1fd2191ad48f74cc8cba258d1c5948f42325a078a79d6f9e",
         "695871943cd6bb1b47451f7ef7b076eb269b542e8cf870d26abb902b",
         "776f700a98d35c4deeaa4ede7697ca45d7947d9e63b028924db6ebca",
         "4b3e019d063b8e7b896f8c5674cb188317f127779a188b2ef50e4d81",
