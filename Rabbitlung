@@ -2,10 +2,16 @@
     "project": "Rabbitlung",
     "tags": [
         "Rabbit #001",
-        "Rabbit #002"
-        #
+        "Rabbit #002",
+        "First Five",
+        "Rabbit Pride Parade",
+        "Rabbit",
+        "Rabbitlung",
+        "Bunny G"
     ],
     "policies": [
-        "4cb3e4ec3885e8af7be38771d9a83dd3a1501e61c352958e27c959ae"   
+        "4cb3e4ec3885e8af7be38771d9a83dd3a1501e61c352958e27c959ae",
+        "9de4e5573b9bcd70544a6b371f906c46eee9f180dd5ed2885108afde",
+        "7f9fe6ede293c4f9cf855a0310f5680a3f1d03e311ab83e9eac00304"   
     ]
 }
