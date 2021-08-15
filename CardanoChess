@@ -1,0 +1,9 @@
+{
+    "project": "CardanoChess",
+    "tags": [
+        "CardanoChess"
+    ],
+    "policies": [
+        "29c8d1558754dc760d3e6144a5ecf6cd39334e800fae21583c64d14b"
+    ]
+}
