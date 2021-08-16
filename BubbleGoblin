@@ -1,14 +1,11 @@
-
+{   
     "project": „BubbleGoblin“,
 
     "tags": [
-
         „BubbleGoblin“
 
     ],
-
     "policies": [
-
         "f777159f6ffbc799906aefbe87b790bc1fbd2740200542437dbbbeb4",
         "139abfce3774e66a66da1d7e9918903cb5e61a6c9ad60072090f09c4",
         "4ad09f73bf13f17c1c0a30976dda9db8b3996fddee67ab9cb63d359e“,
@@ -25,7 +22,5 @@
         "06b8b78c68c6a3a49168b9c0f0f4c3c9189865e0ec11681ad32d904e“,
         "fa51d06ebd5c861f5857dca8c3c7c95a0f6b1657209d727cbb25818f“,
         "660f0e22b21ad4a8c7ba68db1eed2665a3d18d2f195295ef06d6c873“
-
     ]
-
 }
