@@ -1,0 +1,10 @@
+{
+    "project": "CardanoFlowers",
+    "tags": [
+        "CardanoFlowers"
+    ],
+    "policies": [
+        "BabyStick0001",
+        "BabyStick0002"
+    ]
+}
