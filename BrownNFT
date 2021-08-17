@@ -1,7 +1,7 @@
 {
-    "project": "Adalotls & Co",
+    "project": "BrownNFT",
     "tags": [
-        "Adalotls"
+        "Adalotls, Lucky Neko"
     ],
     "policies": [
         "c91721b68a9e4a34b25dd7570c25cce7b9f20d5e03818893cd42dd25",
@@ -13,6 +13,9 @@
 	"56b07f1eb36fe0412dad7f6cdb8bb296fdde12e4395fcde3d48caa93",
 	"30e5975f73b63c6b30057e1a1b202afc425271b08fffcc00ed27dc2e",
 	"9d10f41b2527d769b6f9feaa49f57c1384fb7474858b08ba75695ad5",
-	"1aeec4afd78a1c7c322b5a85aa701307412536dc63ab8e349946df73"
+	"1aeec4afd78a1c7c322b5a85aa701307412536dc63ab8e349946df73",
+        "a8731ef90e36acc7083d9bd501f733cb610ad67e7143d891fd45ab89",
+        "12d557a2405d6772efb98498ecc49f29125fcd4ea93c3c9eb005dc34",
+        "cc405b8dd4f3ffe52e876f1d3b7342e5969f6a4d1e79ad09593280bf"
     ]
 }
