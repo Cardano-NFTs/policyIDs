@@ -2,8 +2,8 @@
     "project": "Aether Crypto",
     "tags": [
         "Aether Crypto",
-        "Launch Day"
-        "2021.08.16"
+        "Launch Day",
+        "2021.08.16",
         "The first crypto to be sent to space"
     ],
     "policies": [
@@ -21,4 +21,15 @@
         "ef1fb79ef19a7c9414fcf635930c9aa0ed6f535dfd6788f937263fa3",
         "856caace625849cbabd851b83d64814396cd48982b857ef25357c989"
     ]
-}
+    },
+    
+    {
+        "project": "Augmented Life",
+        "tags": [
+            "Example 2"
+        ],
+        "policies": [
+            "Example 2"
+        ]
+    }
+]
