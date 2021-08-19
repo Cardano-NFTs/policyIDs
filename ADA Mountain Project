@@ -2,7 +2,10 @@
     "project": "HolyMountain",
     "tags": [
         "Mt. ADA",
-        "Mt ADA"
+        "Mt ADA",
+        "HolyMountain",
+        "ADA Mountain",
+        "ADAMountain"
     ],
      "policies": [
 "329b2dfe1da595551c47bfa62d7e02be84bf5dacd0dfcdb4c403c2d2",
@@ -29,6 +32,13 @@
 "742433452253d3a93984d0584f245e5be5b301676ae58d143bef43a4",
 "aba6f80feb7d27e3384738c62b20036622616e570fddce68433399c4",
 "b8bfc01ac6b26805d9d14a2ae18e622f36e16e68f39852cb3d3798bd",
-"6f0e828a12081a4824af87dc24538d8fbe781a1bf2497eb6bb6693a3"
+"6f0e828a12081a4824af87dc24538d8fbe781a1bf2497eb6bb6693a3",
+"866c07724ec45ec61b9a313acb23efc832c87c20fe36c2e03c6711ef",
+"c18dd3f02f9fe2da07b554fc1f04605ee128f52513ff021cbb987121",
+"be1a747281b3c8c2ad79a69b4d39fbc4b94831b7b5deb1b22254151a",
+"06d09d4168d760fcd1876db455eed0de6bfe123cb77d6e5be27997bd",
+"a2dc0cb6ea27914602a53d8ddee33740426576d2727492de8fc89174",
+"60d56915a26a77cea93471fc32c2bc32c5bfd68e11910d68159d8ebd",
+"b5af191cadb04db2423c957571f5cc2fc78273fbbe96a846a11f6222"
     ]
 }
