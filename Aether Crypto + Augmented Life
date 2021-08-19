@@ -21,7 +21,21 @@
         "856caace625849cbabd851b83d64814396cd48982b857ef25357c989"
     ]
     },
-
+    {
+    "project": "The Pasta Society",
+    "tags": [
+        "The Pasta Society",
+        "Pasta Society"
+    ],
+    "policies": [
+        "53c2a41961eb26e5f577c04821b70833464df8b3780343c1a514223e",
+        "87e5280d6ebaebf3fc5c3344481239bdb4a8d4f69b50fa98078df215",
+        "20abe915cff2bf9abe6aae27f680a20d994f369f22488ed52258b05e",
+        "4d7b334e801982efb5ee5dd6d2da22e6145992506f079f361b8497db",
+        "08551ea3443bc845832fe1e0af9840ecbd9cf988e560fab5d976b313",
+        "9d7630be0ffb9856789c26870059c4f77270818ad3763feb0d9713e4"
+    ]
+    },
     {
     "project": "Augmented Life",
     "tags": [
@@ -33,5 +47,7 @@
         "a50d3a7193466a1b8aa7e97b8410921efb67c4d61bbcb35634e72320",
         "3b26d5222ae57a2b352f00e102b5d059f5ca8c57ee1e5cf4ccab189e"
     ]
+}
+]
 }
 ]
