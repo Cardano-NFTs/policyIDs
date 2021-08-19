@@ -1,0 +1,10 @@
+{
+  "project": "CardanoGirl",
+  "tags": [
+       "CardanoGirl"
+       ],
+       "policies": [
+            "0197ff5816a13e73d39c2fd86d5551865c90ef5404fe6582720c3014",
+            "04936c3a05208aa05d71ddd453cedd06c72e0b8b83066ec93a51f6cd"
+            ]
+ }
