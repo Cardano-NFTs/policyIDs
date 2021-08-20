@@ -1,2 +1,17 @@
-BRUTE! KMFDM First Series
-3abe9b1ac12456f681f453066e11d71669ac19a6f97ab8e081c0d8b6
+
+
+
+[
+    {
+        "project": "BRUTE! KMFDM First Series",
+        "policies": [
+            "3abe9b1ac12456f681f453066e11d71669ac19a6f97ab8e081c0d8b6",
+        ]
+    },
+    {
+        "project": "Lords of Acid - Children of Acid",
+        "policies": [
+            "66ab2f6e3896764be2d99c6e6e40757e2ab96d97e60d9be97f62dd9c"
+        ]
+    }
+]
