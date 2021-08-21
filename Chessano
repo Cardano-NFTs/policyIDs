@@ -1,8 +1,7 @@
 {
     "project": "Chessano",
-    "tags": [ "Chessano" ] ,
+    "tags": ["Chessano"] ,
     "policies": [
-        "89fa6dc66a24799ccaee43a3a16930bb045a8152fdf2a2642034774f",
-        "example66a24799ccaee43a3a16930bb045a8152fdf2a2642034774f"
+        "89fa6dc66a24799ccaee43a3a16930bb045a8152fdf2a2642034774f"
     ]
 }
