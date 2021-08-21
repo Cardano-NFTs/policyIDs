@@ -1,9 +1,14 @@
 [
     {
-        "project": "PBHP Cardano Gen",
+        "project": "Punk Baby House Party",
         "tags": [
             "PBHP",
             "PBHP Cardano Gen",
+            "PBHP Baby Chuck",
+            "PBHP Shelley Gen",
+            "PBHP Mary Gen",
+            "PBHP Alonzo Gen",
+            "PBHP Goguen Gen",
             "Punk Baby House Party"
         ],
         "policies": [
@@ -63,9 +68,12 @@
             "f0926d46f184324ee7df88c8c01606e140bfcd3ca6da1ed66ea31494",
             "6c01d693bc698d04d97f0e820287e53bd94644b03ba435b756aa5378",
             "bb50c80339397fe9fecd018acb248f0e7bfa769cab79a6b384e5e564",
-            "d0726801cb63adf63c4d08d10867f0e8934a5deb21c2e2e1d9f5c5c6"
+            "d0726801cb63adf63c4d08d10867f0e8934a5deb21c2e2e1d9f5c5c6",
+            "dc6014133b92012f3fca687f423968dd680ea6287d042c72ce93b5ba",
+            "97a0a26f5bdf48217ac44c97d894e32277b9d9aee78d3bcb44e5c657",
+            "66a692adb6c56e37cae866c90e3c141f47dabdec3ff38da04b1652db",
+            "a4682779459ada7fdf89d8755e72a1f58c7bd0f66d661dd69222e2c2"
 
-            
         ]
     },
     {
@@ -89,18 +97,5 @@
               "68cc36c77b39748a1681b0bba82f276e36843ee123c082514a984c92",
               "7a3b04e600a85d1611ada8a095b0f52f9faefce18da55675d5e018ea"
         ]
-    },
-    {
-        "project": "PBHP Baby Chuck",
-        "tags": [
-              "PBHP Baby Chuck"
-        ],
-        "policies": [
-              "dc6014133b92012f3fca687f423968dd680ea6287d042c72ce93b5ba",
-              "97a0a26f5bdf48217ac44c97d894e32277b9d9aee78d3bcb44e5c657",
-              "66a692adb6c56e37cae866c90e3c141f47dabdec3ff38da04b1652db",
-              "a4682779459ada7fdf89d8755e72a1f58c7bd0f66d661dd69222e2c2"
-
-        ]
-    }              
+    }            
 ]
