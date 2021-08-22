@@ -1,0 +1,15 @@
+[
+    {
+        "project": "Tree of Life",
+        "policies": [
+            "9c876d1a0312bd1d4b2cf35076ae696511364dfa5761743a8e94eba0",
+            
+        ]
+    },
+    {
+        "project": "Genesis",
+        "policies": [
+            "c12160a51e7063e3677e22e648da2757f623870fd1c093782bd188dc"
+        ]
+    }
+]
