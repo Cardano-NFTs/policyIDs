@@ -127,5 +127,15 @@
       "policies":[
          "bee442057d77db8c7c273aeeddc66ab55f6ae18fb2b0c444ff316dee"
       ]
+   },
+   {
+      "project”:”3DSwankLab”,
+      "tags":[
+         "swankpie",
+         “3DMintLab”
+      ],
+      "policies":[
+         "f2685de667cab4ea956cd5a81c7cdcb33acf6ed3106c4169f131646a"
+      ]
    }
 ]
