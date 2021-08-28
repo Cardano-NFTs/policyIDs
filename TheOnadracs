@@ -1,27 +1,14 @@
-[
-    {
-        "project": "The Onadracs Series 1 Suladead",
-        "policies": [
-            "8634f3bf5cd864c4b661ff25789ae0154b34084d431c222d242bc39c",
-            "Example2"
-        ]
-    },
-    {
-        "project": "The Onadracs Series 2 Nainadrac",
-        "policies": [
-            "8634f3bf5cd864c4b661ff25789ae0154b34084d431c222d242bc39c"
-        ]
-    },
-    {
-        "project": "The Onadracs Series 3 Oznola",
-        "policies": [
-            "8634f3bf5cd864c4b661ff25789ae0154b34084d431c222d242bc39c"
-        ]
-    },
-    {
-        "project": "The Onadracs Series 4 Neugog",
-        "policies": [
-            "8634f3bf5cd864c4b661ff25789ae0154b34084d431c222d242bc39c"
-        ]
-    }
-]
+{
+  "project": "The Onadracs",
+  "tags": [
+    "theonadracs",
+    "onadracs",
+    "suladead",
+    "oznola",
+    "nainadrac",
+    "neugog"
+  ],
+  "policies": [
+    "8634f3bf5cd864c4b661ff25789ae0154b34084d431c222d242bc39c"
+  ]
+}
