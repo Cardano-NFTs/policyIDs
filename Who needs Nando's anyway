@@ -1,0 +1,7 @@
+{
+    "project": "Foodiefood",
+    "tags": "Foodiefood"
+    "policies": [
+        "policy 1": "food"
+    ]
+}
