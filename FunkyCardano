@@ -1,0 +1,15 @@
+[
+    {
+        "project": "FunkyDreams",
+        "policies": [
+            "2f10f077252fb5b0fcd82abb6e50a178ad15e1e0920cf4b911eb45ff",
+            "6c9c5303bd52ebbdab20c430d555c55d5951850a515fd948f2a00db1"
+        ]
+    },
+    {
+        "project": "FunkyMaps",
+        "policies": [
+            "c568971030288b46870b922c26ea50320d96a393979bf3c2020207c3"
+        ]
+    }
+]
