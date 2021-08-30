@@ -1,5 +1,8 @@
 {
     "project": "PixieNFT",
+    "tags": [
+        "PixieNFT", "Pixie", "NFT", "pixelart", "pixie guys"
+    ],
     "policies": [
         "02cb191f52ed9a57d7b3c9b1a117e3fa7cf56cc0becab9a1e6d515d0"
     ]
