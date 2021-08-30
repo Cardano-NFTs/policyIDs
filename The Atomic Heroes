@@ -60,3 +60,16 @@
         ]
     }
 ]
+        ]
+    },
+    {
+        "project": "The Atomic Heroes: Heroes Collection",
+        "tags": [
+            "Atomic Hero",
+            "AtomicHero"
+        ],
+        "policies": [
+            "40150f1e3887c8b3388432d08367c85f653dfd55c0be2d42f9c8ad15"
+        ]
+    }
+]
