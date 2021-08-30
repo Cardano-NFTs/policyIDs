@@ -1,0 +1,14 @@
+{
+    "project": "CardanoFunks",
+    "tags": [
+        "CardanoFunks",
+        "CardanoMonkeyFunks",
+        "AdaMonkeyFunks",
+        "AdaFunks"
+    ],
+    "policies": [
+        "989137c8a6ea91d95d97c61de0c78f032cba805a4f0eb33684204092",
+        "b36a70c323e4e7b65539e1535445d4397e5e96843f69b09785fe1f98",
+        "e0a918fac749311db848783cf80341c691595726318fc53d63d4356c"
+    ]
+}
