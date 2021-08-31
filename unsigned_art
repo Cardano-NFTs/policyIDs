@@ -1,9 +1,7 @@
 {
     "project": "unsigned_art",
-    "tags":     [
-          "uArt",
-          "Planetary Orbits"
-    ],
+    "tags": ["uArt "],
+    "tags": ["uArt"],
     "policies": [
         "c076a488bd4bfdd08c5472438797ecdc73eb06a0a365640f6701a66a",
     ]
