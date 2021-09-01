@@ -1,5 +1,12 @@
 {
     "project": "CryptoNinjas",
+    "tags": [
+        "CryptoNinjas",
+        "KoalaCat",
+        "Ninjas",
+        "CryptoCollection",
+        "NinjaPixels"
+    ],
     "policies": [
         "61fa22328ef11c08ed54ebe8ffd8ef4347f9834e37ecbd02303ab3fe",
         "c163143e83b9bc87068d87197026c2f5553f72d9fb3acd66e5da2376",
