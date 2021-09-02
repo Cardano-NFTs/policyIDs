@@ -1,6 +1,7 @@
 {
-    "project": "Riemann",
+    "project": "CardanoMath",
     "policies": [
         "277dd7302470e5e3d2cfc4e63f4e6d91ce7a8344a5de377fab7c315a"
+        "98ef4543968deebe4e469e8ef3d0613465b41937b41c5b9923acc1ed"
     ]
 }
