@@ -1,9 +1,21 @@
-{
-    "project": "MNKY",
-    "tags": [
-        "SpiralCNFT"
-    ],
-    "policies": [
-        "5e19af97c6822fba98258a9cdffaffbc79945d15cc519ab7b7d1547f"
-    ]
-}
+[
+    {
+        "project": "DigitalPlasma",
+        "tags": [
+            "DigitalPlasma",
+            "DigitalPlasmaSphere"
+        ],
+        "policies": [
+            "79786e973d901e592263158ed6c394179beee777afae0401b407b41d"
+        ]
+    },
+    {
+        "project": "SpiralCNFT",
+        "tags": [
+            "SpiralCNFT"
+        ],
+        "policies": [
+            "5e19af97c6822fba98258a9cdffaffbc79945d15cc519ab7b7d1547f"
+        ]
+    }
+]
