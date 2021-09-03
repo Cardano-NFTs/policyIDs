@@ -1,6 +1,6 @@
 [
     {
-        "project": "The Atomic Heroes: Minions Collection",
+        "project": "The Atomic Minions Collection",
         "tags": [
             "Atomic Minion"
         ],
@@ -10,7 +10,7 @@
         ]
     },
     {
-        "project": "The Atomic Heroes: Atomicon Attendance",
+        "project": "The Atomicon Attendance Tokens",
         "tags": [
             "Atomicon Attendance Token"
         ],
@@ -19,7 +19,7 @@
         ]
     },
     {
-        "project": "The Atomic Heroes: Hydrogen Hexes",
+        "project": "The Hydrogen Hexes",
         "tags": [
             "HydrogenHex"
         ],
@@ -29,7 +29,7 @@
         ]
     },
     {
-        "project": "The Atomic Heroes: Team Tokens",
+        "project": "The Atomic Team Tokens",
         "tags": [
         "Team Nitrogen Token",
         "Team Carbon Token",
@@ -41,7 +41,7 @@
         ]
     },
     {
-        "project": "The Atomic Heroes: Atomic Minion Puzzle",
+        "project": "The Atomic Minions Puzzle",
         "tags": [
             "Atomic Minion Puzzle"
         ],
@@ -51,7 +51,7 @@
         ]
     },
     {
-        "project": "The Atomic Heroes: Honorary Atomic Profile Picture",
+        "project": "The Honorary Atomic Profile Pictures",
         "tags": [
             "HonoraryAtomicPP"
         ],
@@ -60,7 +60,7 @@
         ]
     },
     {
-        "project": "The Atomic Heroes: Heroes Collection",
+        "project": "The Atomic Heroes Collection",
         "tags": [
             "Atomic Hero",
             "AtomicHero"
