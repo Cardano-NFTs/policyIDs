@@ -10,6 +10,16 @@
         ]
     },
     {
+        "project": "DigitalHearts",
+        "tags": [
+            "DigitalHeart",
+            "DigitalHearts"
+        ],
+        "policies": [
+            "802a6a37904be2028977ad5c77f31e1abd408fdd64789d31f3d5a136"
+        ]
+    },
+    {
         "project": "SpiralCNFT",
         "tags": [
             "SpiralCNFT"
