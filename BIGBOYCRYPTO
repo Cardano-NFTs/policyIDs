@@ -1,7 +1,9 @@
 {
-    "project": "PlanetPalz",
+    "project": "Crypto Family",
+    "tags": [
+      "Crypto Family"
+      ],
     "policies": [
-        "89fa6dc66a24799ccaee43a3a16930bb045a8152fdf2a2642034774f",
-        "example66a24799ccaee43a3a16930bb045a8152fdf2a2642034774f"
+        "6c71198dcde22a694ea8d95b0605193a8764126a3d05baaa12ec14c0"
     ]
 }
