@@ -1,7 +1,7 @@
 {
     "project": "GUERT",
     "tags": [
-        "guert, saguaro, lights, christmas, holidays, cactus, pixel art sasquatch, 8-bit, dogecoin, delebot, angery, misc"
+        "guert, saguaro, cardano cactus, christmas lights, christmas, holidays, cactus, pixel art, sasquatch, squatch, squatchy badger, dogecoin, delebot, angery, blitmap, jupiter, misc"
     ],
     "policies": [
         "07d74a834525ad0abea6e009011b9fed38d52564475d0de145a5d077",
@@ -77,5 +77,6 @@
         "6788f55131cff00f509039621ae600c7d6170252e0f8664812875a05",
         "d30bbb16b7d0a95141fdef0d45e6f5d1f3d0d60ac2e63b0177a06da2",
         "0d416cec6c2c9f555b648639eeb37c8fa6fe3612c9ab24d903f2983e",
-        "90073bb8cad3aa99c9a7c5bc1181d58fc152102cc15685d38f96e45b"
+        "90073bb8cad3aa99c9a7c5bc1181d58fc152102cc15685d38f96e45b",
+        "e2d824b2120c0157672ce89e0116f4fb7231f613ecf1f77affd9d5d4"
     ]
