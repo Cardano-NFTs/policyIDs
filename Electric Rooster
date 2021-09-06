@@ -1,8 +1,13 @@
+  
 {
-    "project": "Electric Rooster",
-    "Expironauta": [
-        "cff9052ca75ef03a9e70db3b4e291fe5de5f98f174a5a699611d45d2",
-        "d509de54de204da29ca91f5aa5f0834def2daffef610474fb73220c4",
-        "9de5bf77f95a23fc9c620a0732d81063089dfb55fad5a7c77d68e335"
+    "project": "Expironauta",
+    "tags": [
+        "Expironauta"
+    ],
+    "policies": [
+        "cff9052ca75ef03a9e70db3b4e291fe5de5f98f174a5a699611d45d2", 
+        "d509de54de204da29ca91f5aa5f0834def2daffef610474fb73220c4", 
+        "9de5bf77f95a23fc9c620a0732d81063089dfb55fad5a7c77d68e335" 
+      
     ]
 }
