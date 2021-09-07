@@ -1,9 +1,6 @@
 {
     "project": "RockstarNFTs",
-    "tags": [
-         "RockstarNFTs"
-         ],
-    "policies": [
+      "policies": [
         "cbbd54809c7d246ccc1d67d530a6da6375b6dd197d3f61e18b28a5d0"
      ]
 }
