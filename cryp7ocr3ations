@@ -1,6 +1,7 @@
 [{
 		"project": "cryp7ocr3ations",
-		"tags": [],
+		"tags": [ "cryp7ocr3ations"
+		],
            "policies": [
 			"8ac4bc9f6017ebc42f4578b9737fd2e09bede9f5979b56aeb6c30ab7",
 			"1fc3a6e2146ba4007e8b51756dffbd8e941886f0f4cf1ecc3b694563",
