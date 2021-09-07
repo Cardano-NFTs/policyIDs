@@ -1,7 +1,8 @@
 {
     "project": "VisionAI",
     "tags": [
-        "VisionAI"
+        "VisionAI",
+	"gcuriom"
     ],
     "policies": [
         "1b0dbea27f9256c992e04784551dc521e622b514a8c15ae3ca2a3c17",
@@ -25,6 +26,7 @@
 	"c7ef0ea1ecea49a5b078f6b34dff5ba4fd82041e760b6e96e26ca37c",
 	"077ac4b43122e2d1aa543959ce36db57851b25b33c27a747e6507cd6",
 	"2e392f233b93e392f0bdf30874db95f419d496be6f8e03f2f0486b89",
-	"7aa2b13545ea0f5cef4faacaaf0ae038a680a35262c97ecfba06f7a2"
+	"7aa2b13545ea0f5cef4faacaaf0ae038a680a35262c97ecfba06f7a2",
+	"31f80112d253350b1037e26425d188e79e989cff8b2c35eb9df0c041"
     ]
 }
