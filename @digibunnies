@@ -1,5 +1,9 @@
 {
     "project": "@Digibunnies",
+    "tags": [
+          "digibunnies"
+          "Digibunnies"
+          "@digibunnies"
     "policies": [
         "ce638e305c0c761189ad43e762ae2475e4a9eacb8ff1eb75d3a0d683"
             ]
