@@ -34,10 +34,15 @@
         "Team Nitrogen Token",
         "Team Carbon Token",
         "Team Oxygen Token",
-        "Team Fluorine Token"
+        "Team Fluorine Token",
+        "Team Phosphorus Token",
+        "Team Silicon Token",
+        "Team Sulfur Token",
+        "Team Chlorine Token"
         ],
         "policies": [
             "34dbb5f4d84d2c422a19dd31b4551094ec28851909f5e44280393b89"
+            "334860494ea017acfd9b990cd35cd833d74c4f56e8bacbfa2fc707cd"
         ]
     },
     {
