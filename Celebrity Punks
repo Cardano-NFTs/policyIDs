@@ -11,6 +11,7 @@
           "GeneSimmonsPunk",
           "NikolaTeslaPunk",
           "JuiceWrldPunk",
+          "TysonPunk",
       
     ]
     "policies": [
@@ -23,6 +24,7 @@
         "d2dfc46f90f0d249121eb0b6af6e13d656c803ea13897de6f74deed3",
         "cfcc6090e0c90907f23ca72dda50937c282d0fcf97a740256201874d",
         "bf0b9634220916fd0bfedc903f2e18c0703700f32f79f3f6c6c945fd",
+        "ab624de69663b64decda6147531d8e0e81af8dc8a362defd90d70650",
 
     ]
 }
