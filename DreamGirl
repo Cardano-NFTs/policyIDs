@@ -1,0 +1,15 @@
+{
+    "project": "DreamGirl",
+    "tags": [],
+    "policies": [
+        "5a8bba14ad4e742d790c6a232962845fc4dd55c9cc79f28e8d74ec96"
+    ]
+   
+    "project": "DailyGirl",
+    "tags": [],
+    "policies": [
+        "693d42fcedc505cecf1feecd0adff28d0e3862f4270e5b89d3503d3a",
+        "abbcd5d9af302a0a7728b13efd3ff8e450fa754360dd7755fac2cf09",
+        "297379da0ace6c624ccc439eed817299d0139dc6d21c9aae6ffeb7ba"
+    ]
+}
