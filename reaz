@@ -29,7 +29,11 @@
     {
         "project": "Nanabots",
         "tags": [
-            "Nanabots"        
+            "Nanabots: ORION",
+            "Nanabots: RAM",
+            "Nanabots: BIO",
+            "Nanabots: ACE",
+            "Nanabots: CRITTER"
         ],
         "policies": [
             "98f977ee0b993b518c5d48c4c6a8eea74453ef781a86ac626d7d0775",
