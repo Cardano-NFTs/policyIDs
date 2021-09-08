@@ -11,10 +11,12 @@
     {
         "project": "AlienInvader",
         "tags": [
-            "AlienInvador: Invader01B"        
+            "AlienInvader: Invader01B",
+            "AlienInvader: Invader01C Jungle Cannon"
         ],
         "policies": [
-            "65c9a1f8913c5498e54b728fefa85b03819a005246f04b9ae7851af1"
+            "65c9a1f8913c5498e54b728fefa85b03819a005246f04b9ae7851af1",
+            "0ec405816f4bc09f9706ce30c674355b6e5aa644d21ab2c80ce1da20"
         ]
     },
     {
