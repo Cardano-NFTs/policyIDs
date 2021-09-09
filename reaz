@@ -12,11 +12,13 @@
         "project": "AlienInvader",
         "tags": [
             "AlienInvader: Invader01B",
-            "AlienInvader: Invader01C Jungle Cannon"
+            "AlienInvader: Invader01C Jungle Cannon",
+            "AlienInvader: Invader21"
         ],
         "policies": [
             "65c9a1f8913c5498e54b728fefa85b03819a005246f04b9ae7851af1",
-            "0ec405816f4bc09f9706ce30c674355b6e5aa644d21ab2c80ce1da20"
+            "0ec405816f4bc09f9706ce30c674355b6e5aa644d21ab2c80ce1da20",
+            "e324824455710b0e523abbc341d4d68940609252536a158286f92a8e"
         ]
     },
     {
