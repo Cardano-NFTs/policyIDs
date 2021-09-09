@@ -1,5 +1,8 @@
 {
     "project": "BigTalker",
+    "tags": [
+        "BigTalker"
+    ],
     "policies": [
         "9d52004835678f20ea4b8cd44f9aef12971515bd08e9f7807fea9eae",
     ]
