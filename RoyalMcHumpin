@@ -1,15 +1,6 @@
 [
   {
     "project": "KamaZOOtra",
-    "tags": [
-      "KamaZOOtra",
-      "Royal McHumpin",
-      "Bunnies,
-      "Koalas",
-      "Kitties",
-      "KamaZOOtra Shelf",
-      "Sloths"
-    ],
     "policies": [
       "aea113e92fffed1d663d33321a0e982f2fbbd67a11a717e0fbc4c62c",
       "0499a6369635300d298f8936dc50aec6c7d98a2529cac6840284abe4",
@@ -21,10 +12,6 @@
   },
   {
     "project": "Royal McHumpin",
-    "tags": [
-      "Royal McHumpin",
-      "Love Glove"
-    ],
     "policies": [
       "7f3a3a4c01ee4b25b7b4bfa583c262d3c22721ef6cddc603dc070872"
     ]
