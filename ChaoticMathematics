@@ -1,13 +1,20 @@
 {
-    "project": "Chaotic Mathematics",
-    "tags": [
-        "Chaotic Mathematics",
-        "Mandelbulb"
-    ],
-    "policies": [
-      "d5f4a1fee4a378fa0496ea0f2bcb09f122a11cd632925764eee3a191",
-      "d3805771f8860e718df91b530b3723b7c821dc40c128629539859603",
-      "339fa5c6ec49c944ebb8df6180c740c071f0cf381a9095cf57cec219",
-      "56cffff175760004b9f2da7d2120341baee137f2131b09e7a0ad3eb4"
-    ]
+  "project": "Chaotic Mathematics",
+  "tags": [
+    "Chaotic Mathematics",
+    "Disco Nebula",
+    "Mandelbulb",
+    "Happy Ending",
+    "Hotel Collection",
+    "Hector",
+    "Lorenz Attractor"
+  ],
+  "policies": [
+    "d5f4a1fee4a378fa0496ea0f2bcb09f122a11cd632925764eee3a191",
+    "d3805771f8860e718df91b530b3723b7c821dc40c128629539859603",
+    "339fa5c6ec49c944ebb8df6180c740c071f0cf381a9095cf57cec219",
+    "56cffff175760004b9f2da7d2120341baee137f2131b09e7a0ad3eb4",
+    "2bc831721f01b1e3815c2ca8df8338ded8ac3dfed8dd98147c7e951d",
+    "c1cfe7ddc11a254bf34fc7ff9e4af33ece086ec64f3f14503853d0ba"
+  ]
 }
