@@ -1,0 +1,32 @@
+[
+    {
+        "project": "Stop Hate 1",
+        "policies": [
+            "c5379ff600c1b24da5e51fd554fdd87081fbd11f4e8c20b18ade9235"
+        ]
+    },
+    {
+        "project": "Stop Hate 2",
+        "policies": [
+            "91883cf00da6dacbb89ac85205a1817570345a4eedf26ae015603403"
+        ]
+    }
+     {
+        "project": "Stop Hate 3",
+        "policies": [
+            "18fc93ea73589775fb594286a96b793c58b5c35987367370ba83add3"
+        ]
+    }
+     {
+        "project": "Stop Hate 4",
+        "policies": [
+            "a034f083b65f41f345c10bf13dede3aa29a17ae12b424dd561c4a70c"
+        ]
+    }
+     {
+        "project": "Stop Hate 5",
+        "policies": [
+            "19550c3363cbd8fd031a4af2f16282c4dd603a64ea00efc87f69e1c4"
+        ]
+    }
+]
