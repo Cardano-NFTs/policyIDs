@@ -1,0 +1,28 @@
+[
+    {
+        "project": "ADAkawaii",
+        "policies": [
+            "d6f58216e602613eedec7cf3532c4038532c8bb6f5812bc4c280f644"
+        ],
+        "tags":[
+          "AdaKawaii",
+          "adakawaii.io",
+          "Cardanians",
+          "kawaii",
+          "cardano"
+		]
+    },
+    
+    {
+        "project": "adasso.art",
+        "policies": [
+            "f9c81e2b3c13565dacc92cc9ea424617a2f06909244e229881b0262f"
+        ],
+        "tags":[
+          "adasso",
+          "adasso.art",
+          "Cardanians",
+          "cardano"
+		]
+    }
+]
