@@ -1,5 +1,10 @@
 {
     "project": "The Psychedelic",
+     "tags": [
+        "The Psychedelic",
+        "Psychedelic",
+        "The Psychedelic Original",        
+    ],
     "policies": [
         "43b5fb96b9657331798999991fca2522aa285c992e61bf26d6cd5534",
         "2870cccb6127793af0df733e74175d077ff7414c1c5b7063f61e449f",
