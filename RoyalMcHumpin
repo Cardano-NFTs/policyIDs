@@ -1,0 +1,19 @@
+[
+  {
+    "project": "KamaZOOtra",
+    "policies": [
+      "aea113e92fffed1d663d33321a0e982f2fbbd67a11a717e0fbc4c62c",
+      "0499a6369635300d298f8936dc50aec6c7d98a2529cac6840284abe4",
+      "57c31da47aa8ee5ff85a3d80fd7cfc29f704059dcb19b82ff4d3fd92",
+      "d3bbe5b2a27a392fbac2471e0c42f54ddd55da1005f86e9c18c3e082",
+      "847bdd622e77472b7c393a36fbc571c42d92e76c88af1f3e0c7022a1",
+      "9eefdfdecfc4b0c1a2d86245727bddd288231fb72b2cae9e0e2d901c"
+    ]
+  },
+  {
+    "project": "Royal McHumpin",
+    "policies": [
+      "7f3a3a4c01ee4b25b7b4bfa583c262d3c22721ef6cddc603dc070872"
+    ]
+  }
+]
