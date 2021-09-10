@@ -2,7 +2,10 @@
     {
         "project": "TimeTravelingBanana",
         "tags": [
-            "TimeTravelingBanana"        
+            "TimeTravelingBanana",
+            "Time Travel",
+            "Banana",
+            "Yellow"
         ],
         "policies": [
             "b522693740c85612e921af63cdee778ea30e796c8944210e88e7d286",
@@ -13,7 +16,10 @@
         "tags": [
             "AlienInvader: Invader01B",
             "AlienInvader: Invader01C Jungle Cannon",
-            "AlienInvader: Invader21"
+            "AlienInvader: Invader21",
+            "Alien",
+            "Invader",
+            "Camouflage"
         ],
         "policies": [
             "65c9a1f8913c5498e54b728fefa85b03819a005246f04b9ae7851af1",
