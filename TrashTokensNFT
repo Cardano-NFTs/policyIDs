@@ -1,0 +1,9 @@
+{
+    "project": "TrashTokensNFT",
+    "tags": [
+        "TrashTokens"
+    ],
+    "policies": [
+        "Policy1",
+    ]
+}
