@@ -22,6 +22,17 @@
     ]
     },
     {
+    "project": "Commemorative and Events",
+    "tags": [
+        "Commemorative"
+        "Events"
+    ],
+    "policies": [
+        "abb5bbd061fabb4ffa3d3feff0b4e057fd386b2c76f55261cfffe31b",
+        "08264d9af80202727cd602667fb89a89c237566a7caa316f8ad074ad"
+    ]
+    },
+    {
     "project": "The Pasta Society",
     "tags": [
         "The Pasta Society",
