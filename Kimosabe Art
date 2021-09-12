@@ -1,0 +1,21 @@
+[
+    {
+        "project": "Cyberpunk Samurais",
+        "policies": [
+            "d070fd5f"
+        ]
+    },
+    {
+        "project": "Zombie-Kong",
+        "policies": [
+            "ef39cc88"
+        ]
+    },
+    {
+        "project": "T800",
+        "policies": [
+            "7b42adc1"
+        ]
+    }
+        
+]
