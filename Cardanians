@@ -11,18 +11,5 @@
           "kawaii",
           "cardano"
 		]
-    },
-    
-    {
-        "project": "adasso.art",
-        "policies": [
-            "f9c81e2b3c13565dacc92cc9ea424617a2f06909244e229881b0262f"
-        ],
-        "tags":[
-          "adasso",
-          "adasso.art",
-          "Cardanians",
-          "cardano"
-		]
     }
 ]
