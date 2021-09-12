@@ -2,15 +2,19 @@
 
     "project": "CryptoZoo",
     "tags": [
-         "CryptoZoo" 
-         "Lion"
-         "wild animals"
-         "nurno"
+         "CryptoZoo",
+         "Lion",
+         "wild animals",
+         "nurno",
+         "Crypto Zoo",
     ],
     "policies": [
         "89fa6dc66a24799ccaee43a3a16930bb045a8152fdf2a2642034774f",
         "example66a24799ccaee43a3a16930bb045a8152fdf2a2642034774f",
         "c868e5d8a81a63707bd9dad9e1b03eb29b9e1630268e9bddf5ba2a44",
-       
+        "00d15effe2e5e948ea21f13806ed5ef524eeb5fd58a39fc2503c2bb6",
+        "0e8323fe2f2d4c9b92cee773c3467d91214c3320acaa3f680c9013ef",
+        "44f3e0646cd7b2e2468b6fd76a66424eee855ed823adf453dbbba259",
+        "5de022a1d5d242e00412022bf59004dbc8090f6bc9b16c1791849fa7",
     ]
 }
