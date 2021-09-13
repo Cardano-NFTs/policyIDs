@@ -1,6 +1,9 @@
 {
     "project": "A state of bob",
     "policies": [
+        "6902bdffb0bb479f85f6b3f24f7bb73d02d99b22857bce77175ec688"
+        "13ec9b0f166531f8ce652f58ebf86c260d2f5bb647313b18c7f5fd20"
+        "ce3d785e9d178a238454a0dd827a62cbca5e24b8b994ffecc2110940"
         "f2ff924e4e93e8e2d101054eb70b5178dab3a22035b51909d53d0520"
     ]
 }
