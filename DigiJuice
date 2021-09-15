@@ -1,0 +1,18 @@
+[
+    {
+        "project": "DigiJuice",
+        "policies": [
+            "a910aeb715a9ebf1a003544a47a9af6b94f1f66c78002a93e1bb2187",
+            "ac7eee27a13ae7b8a0bc485a28af8748cb3bff0b5af9049e4bd28607",
+            "56026d72f845caf9ea4d8c94d6e99863601d4c4f0b4b4479e526ab3b",
+            "3415100593b50dd0ffb20e9c20f8844c6cdef00b9697103730913512",
+            "4edc2247cc0ff1588cc3d58c1c559b3fa9571bce361a9ad2f02b2f32",
+        ]
+    },
+    {
+        "project": "DigiRabbits",
+        "policies": [
+            "Example 2"
+        ]
+    }
+]
