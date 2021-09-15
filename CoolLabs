@@ -1,0 +1,23 @@
+{
+    "project": "CoolLabs",
+    "tags": [
+      "CoolLabs"
+    ],
+    "policies": [
+        "7a4e9fb24d83157675eef1d3d57926ec833bf20ff6da23a321ae860b",
+        "be183e367ed975b3354a0f657614ccf2203a0aeb7b7ed7e3bfcc418f",
+        "0b990fbe4e83fea9b5fba67d4f1832bfb08b913fdeddded906eaa1fd",
+        "267e3c26fed4ba4a84695d5d10b8eb81f8130e3ca7f65ece00c819dc",
+        "3703a7ad51364ae14e953c1076b5161ddc50762c7bad11ef9b2af7e8",
+        "348aa16d726e75e9de807fa5e0378545b08f984bff731366b6573cc0",
+        "144613456b32a619432dbe53ecc51188a5ae83be9f3f89211a7dc87f",
+        "226ac23bfecc562b494cacf8ac52e31e43737f6979bddadfb2b0709b",
+        "25d2d3a53306e6615c1f123e2968d99ce922a8308979e666bc36b611",
+        "8160ec992831097a0c6f99baf11d340d05ffa671b0119fac906ec710",
+        "4f4d88a6b0b3b5449a0637d5ee27ebca79e2a3c18b4abbedaf56ca25",
+        "9a503723687a5e484a99559a03d3296e32e67a9cb4b00e1e49274877",
+        "6b80bc9dc644f8aeb4395ec36f400c82cefcddc93924145c6ca1646c",
+        "ccc39ba009f1c8a2cab8581d5301b2d4223c7c5299c319c32fb247cb",
+        "d04897973adeadecc1537786cdaa60bab5511c6b90a33ced312eb121"
+    ]
+}
