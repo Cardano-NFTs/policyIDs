@@ -1,0 +1,31 @@
+[
+    {
+        "project": "Fruits Face",
+        "policies": [
+            "f5872216adba9669c2d661ce41a1fb3812af7ac0cf6ed0d9a48356fd"
+            "4a3bbaed3b49c5293fcfdb65c41653a1a558a8618021a617df28fe2a"
+            "03788835ad222b68e0362488ebf9e87148be96416d800a360daf479c"
+            "69e2c91c57c6ad0203c9eac8f27c72b5d9a0b8895f6ba898aef9a6a8"
+            "f368929e762c2d6f266d3ecb6b84b1f70aac2219192be3e0f4fc9d23"
+            "f71b8bce6d3a3db75b9b75f35b7f2a52ccafa72c4153f4e7989cb993"
+            "8c5eae212cc2bb0ea9c6e8f4d3d7d851b16818db628014f475ace187"
+            "94f90335cfe3b9b849d7eb2fe069ba35165c0f303b29c446254bb066"
+            "36cc2d4cbd82700e144605d74b90cd5547405f751d0fbb8b4383c8e3"
+            "b2fa1ae8813504c61072aaf850e41725ff35bec8c3165e6b5b2c2dcb"
+            "6f8fe8feef5e1406d85858c3c754ea99a13d9decef3c8b72e1c428cb"
+            "18c6289852e028fde64e21e026403629aace1467e223832a231604c6"
+            "ad71523e26e34228f37bd8eec7807ac6bcc89466fcdae102971ebeed"
+            "91dc3a2ddddace37f34d8a84b9de8423f3d1cb9255720aaf5341aa39"
+            "36b622aaa0f0497c3e1627e1a81165f3bb02cdef981a280ef1a53a4a"
+            "0d4da33373fd4f7c15de317130aa3a75cb36ea77d7d426888fe1207e"
+            "da2dbf41a307a17adb18cd4174650d4fe5d96f258ce26d4ffc4e80ef"
+            "75de1bc93b3ed021746911ac5dfdfc032d9726d609e176ed63516d5a"
+        ]
+    },
+    {
+        "project": "The Dot",
+        "policies": [
+            "dea08e1d576e69330b2cbb29d758d9853560e565b8f5e13dbe55e121"
+        ]
+    }
+]
