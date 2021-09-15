@@ -4,9 +4,6 @@
         "BusyBeesCNFT"
     ],
     "policies": [
-        "ef953a6fd9f1d63ddce1d4f861aea25ee80465ab184a211d015af442",
-        "92e2418fafc95a6ccf33f076464d94bcdfe7341ff7536f22cc42363a",
-        "08b351dede2dc9442af0f7475915e802852f7f46e1361c90a3b7704b",
         "00e8bf1c3a4f1fb843ce7a05e8448ee5ace3e1fd23bc16417b41e6b6"
     ]
 }
