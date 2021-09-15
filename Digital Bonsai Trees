@@ -1,7 +1,9 @@
 {
     "project": "DigitalBonsaiTrees",
+    "tags": [
+        "DigitalBonsaiTrees"
+    ],
     "policies": [
-        "89fa6dc66a24799ccaee43a3a16930bb045a8152fdf2a2642034774f",
-        "example66a24799ccaee43a3a16930bb045a8152fdf2a2642034774f"
+        "9eac2b2c17009849eb27ef87c0cdf422e187e0a4aec924fd64180f58"
     ]
 }
