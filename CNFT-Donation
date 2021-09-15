@@ -1,0 +1,11 @@
+{
+    "project": "CNFT-Donation",
+    "tags": [
+        "CNFT-Donation",
+        "CNFTDonation"        
+    ],
+     "policies": [ 
+     "e141040f2df162e04e9179b32d8a9a3e9f32dbabbe34cf98962b5985",
+     "c37b77898cb8a2d09b0d31c1502b7d84ec5818815025754c5405e43d"
+    ]
+}
