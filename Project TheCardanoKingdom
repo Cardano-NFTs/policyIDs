@@ -1,0 +1,14 @@
+{
+    "project": "TheCardanoKingdom",
+    "tags": [
+        "TheCardanoKingdom"
+    ],
+    "policies": [
+        "ac73da95528ae9382a75a25d9b33a386410443cd4188ed795754c50c",
+        "b55b6b72ca566d97e381906fb98417f3024bea8f3793e568180c8920",
+        "1d26f08b9256e89a1aab5ad4b9659942951909fb97e05cfcc287a75d",
+        "7e1ff1d8a3634aa2e4d8be8297af1a897257c04101dd0e1eb417a7fb",
+        "b92e2c3656e126821ef37ebc0486a0f21574fd3cac9ffc314bca62c2",
+        "de78a72635ae7d2580b7c6217edb71ba7921016ba319393b61de837e"
+        ]       
+}
