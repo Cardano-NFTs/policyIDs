@@ -1,0 +1,10 @@
+{
+    "project": "CryptoMS",
+    "tags" : [
+            "CryptoMS"
+     ],
+    "policies": [
+        "e2cd20923999d88040d8bd9d9d7afe6b1290408c1a1adf71ffeea3c5",
+        "910885bc3871c933541a988598a8bf90f5facad4f16842a95dc7fc65"
+    ]
+}
