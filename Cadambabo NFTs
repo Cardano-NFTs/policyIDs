@@ -1,9 +1,11 @@
 {
     "project": "Cadambabo NFTs",
     "tags": [
-        "Cadambabo NFTs", "Cadambabo", Cardano Kingdom"
+        "Cadambabo NFTs", "Cadambabo", "Cardano Kingdom"
     ],
     "policies": [
-        "064ae297a28f04d3f2d4b322c0a8af6e0eec675b3485cc849b99cc2b"
+        "064ae297a28f04d3f2d4b322c0a8af6e0eec675b3485cc849b99cc2b" 
+        "3dfe5369924c8253ab3d456f006dc2792c9f59fd6efc9c5d0029e264"
+        "80cb6c31a4b706e828f1ce031428af41797f36fb6c39a1b7e7585311"
     ]
 }
