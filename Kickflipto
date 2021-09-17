@@ -1,5 +1,8 @@
 {
-    "project": "Kickflipto",
+    "project": "Vegemate",
+    "tags": [
+        "Kickflipto"
+    ],
     "policies": [
         "1c8243310625416c88b3a65110eb2598a0157ea7d8b014f470f957b3",
         "722a056096ff058757242574a4942c0854343a8b85cd55e64c33fb8d",
