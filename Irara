@@ -1,30 +1,12 @@
-[
-  {
-    "project": "irara pattern",
-    "tags": [
-      "irara pattern",
-      "irara",
-      "inusha",
-      "pattern"
-    ],
-    "policies": [
-      "db60e52377734e971df11fd6f4971a3f455bcdbee41bb26480dc1117"
-    ]
-  },
-  {
-    "project": "my dear",
-    "tags": [
-      "irara",
-      "inusha",
-      "cooper",
-      "caylee",
-      "cat",
-      "daughter",
-      "son",
-      "pet"
-    ],
-    "policies": [
-      "93adedd4ea04be10b49c0f4a11fe6bc8a4f7bb5d3873c94de5666ce1"
-    ]
-  }
-]
+{
+  "project": "irara pattern",
+  "tags": [
+    "irara pattern",
+    "irara",
+    "inusha",
+    "pattern"
+  ],
+  "policies": [
+    "db60e52377734e971df11fd6f4971a3f455bcdbee41bb26480dc1117"
+  ]
+}
