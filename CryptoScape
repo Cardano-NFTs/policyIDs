@@ -1,0 +1,24 @@
+[
+    {
+        "project": "CryptoScape",
+        "policies": [
+            "808950671de27b197ecff82bfad72a9333c7038969295983e20ab187",
+            "808950671de27b197ecff82bfad72a9333c7038969295983e20ab187"
+            "f6ed844404c6e2b454ba8a5de587a9a7cd5be35770ceacc0785c2443"
+            "59668baf012f70c1cd9dc395acd7664b95cc2a31c28090b06db60389"
+            "d66330238c51331fe0e29fb336b3f1c3d4f428de3cdecc751087d7f8"
+            "dcaa65ed9bd5411993312bb93805886fd1c6b47e2ce3c37e14d282f1"
+            "81408be605ffeb3232a46614de940e23e18b69e56505319f0c9b4597"
+            "c82d88a3664c981a62cffbb4c3034eb3d62818f9fa8f4934aadc5cd3"
+            "4faf794d70faa875ed98ca26acf37f07e2268af80c5a4bbdda866457"
+            "ddeedb7832516f5cec4813dfe3b62c949bf60e6fcf1f128ca219d9e2"
+        ]
+    },
+    {
+        "project": "CryptoScape Limited",
+        "policies": [
+            "01360778420110558e75a68caa233530c76c884e8a10a3ab0ff88783"
+            "a2ba586c49f75c6788e59c7738bb2e04f92ca1a89c2bb1bc69f92422"
+        ]
+    }
+]
