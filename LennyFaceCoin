@@ -1,6 +1,8 @@
 {
     "project": "LennyFaceCoin",
     "policies": [
-        "fda3a7fd13c7ae3d962e13d08ad9cdf66cb1a121ed8db83862576eb6"
+        "fda3a7fd13c7ae3d962e13d08ad9cdf66cb1a121ed8db83862576eb6",
+        "ac64cbe320ee3042e384cfe9a9a4c6bcf75ebbf22d8f3efe42400577",
+        "be9f247a348a4f123ffbb026a34a8cf3e93e3107d518855934bc7a44"
     ]
 }
