@@ -1,0 +1,10 @@
+{
+    "project": "The CardanoVerse",
+    "tags": [
+        "CardanoVerse"
+    ],
+    "policies": [
+        "e4066aaa037f9a5cfc66bfc2e3a5dd02ba3461d136ae10dc6cdc822b",
+        "4a41880e6a76b365befc29a23ce96f4ca8bb01535ffe580f1a7bc5a0"
+    ]
+}
