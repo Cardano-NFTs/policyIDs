@@ -1,0 +1,10 @@
+{
+    "project": "The CardanoVerse",
+    "tags": [
+        "CardanoVerse"
+    ],
+    "policies": [
+        "Policy1",
+        "Policy4"
+    ]
+}
