@@ -1,6 +1,9 @@
 {
     "project": "John Smith CNFTs",
     "policies": [
+    "tags": [
+            "JohnSmith"
+        ],
         "d34a4b115c998313b16ac140b6ef3236d9aeb81058133c6539f03e74"
     ]
 }
