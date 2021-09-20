@@ -1,6 +1,9 @@
 {
-    "project": "TildenArt",
+    "project": "Tilden Art",
+        "tags": [
+        "TildenArt"
+        ],
     "policies": [
-             "0832104e254f979a039d61969f0f973be4be93276e6fd53c975e41d9",
+             "0832104e254f979a039d61969f0f973be4be93276e6fd53c975e41d9"
        ]
 }
