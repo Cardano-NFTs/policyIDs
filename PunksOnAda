@@ -1,5 +1,7 @@
 {
     "project": "PunksOnAdA",
+    "tags": [
+         "PunksOnAda"
     "policies": [
         "807720f90b63777bd33f06640407247fbe3d2ec981e9952fc6f29c40",
         "c21fd9b86912e3da5df95d49178fc33fd22bb7e11b168f38f8e478ee",
