@@ -1,0 +1,7 @@
+{
+    "project": "3DCardanoAdaCoin",
+    "policies": [
+        "72c11b705fb2a25976ca6c9ad76d39abc3da32a35ef8e6d0a7f424aa",
+        "030b04c006028150f42eeb95d345498a2b27fa8d01cee87b569e8398"
+    ]
+}
