@@ -1,7 +1,6 @@
 {
     "project": "AbstractArt",
-    "policies": [
-        "d49bb1c67950e1a8a72033874898f16419a4fcf800ccf2c8ddf4be30", 
+    "policies": [ 
         "4a4d914dfc5744b5d055a8644f9e10223f3e8f6783ca66c307226bed", 
         "16aa4936412ddc6f389e206c57a703232ff0faeacf7770cda8bb53b6"
     ]
