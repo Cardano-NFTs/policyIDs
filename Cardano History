@@ -1,0 +1,15 @@
+{
+    "project": "Cardano History",
+    "tags": [
+        "CardanoHistory"
+    ],
+    "policies": [
+         "0484e4cfef65690181a1abb6fc1b6be68149a1d31ea52fa5e037d0b6",
+         "de69d7b4613f69e3bc131bb75a6ab63cfaf1029965ff8386eb9bfd08",
+         "6427fd00bc684b2907555b3e080d6d1fdf0ea8026704bf3e4ab0be0e",
+         "d3fa103ad45a9af2a60d1cf83a9bd82c619db702d64f872ec26eeb6b",
+         "def4ab0a07eec59d38a3073f3dc1839a767ed4e48e0b22eb06e257f4",
+         "1ef48ac01b8380506f8ee9b68c2ad7f7c4cf1f74598f91facd831162",
+         "f55dfaa24ac08874405206588859ec2804b722a51eb71651433135ef"
+    ]
+}
