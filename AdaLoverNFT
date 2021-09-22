@@ -1,5 +1,8 @@
 {
     "project": "AdaLoverNFT",
+     "tags": [
+        "AdaLover", "AdaLoverNFT"
+    ],
     "policies": [
         "84bfbea86c641bb7279d5fd7d8145515834844f40dae9b50195a399b",
         "0ae3a3ffbf3df34062789ef237ff8637d3d0701e2437b32a29ff1bf6",
