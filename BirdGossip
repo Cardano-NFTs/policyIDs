@@ -1,0 +1,12 @@
+{
+    "project": "BirdGossip",
+    "tags": [
+         "BirdGossip"
+    ],
+    "policies": [
+        "18befe897691f62762da390ee5e4e060a2d337c539028efdf88f7995",
+        "a35034f7c28db8dac904038da0a0e1ac3763f6c1077a91a686d626af",
+        "0c4a03c06a648b93e038a40e0152c0ba14ad692548d617c56490d630",
+        "296dd8871d0a7ad1417813463acf93897f76d87821c5739932f92db4,
+    ]
+}
