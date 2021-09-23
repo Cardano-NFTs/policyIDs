@@ -1,6 +1,7 @@
 {
     "project": "The LowPoly Project",
     "tags": [
+        
     ],
     "policies": [
         "3a3e81005c80b674505cfeedeaef55e6801db785acaa92fa4301d6d1",
@@ -20,6 +21,7 @@
         "92244b7dc25020992fa9902c9e0292c9474ce5782452ec12e7feb396",
         "96337d7b3b84ff4b64642c1cdb910a5986a7f8b1d6e6d6294348fb93",
         "e21b889cf0f681ac1b00ecc2b1d187019831e6282c0207277913de36",
-        "1bbca5bdb9fcc02cebcadc0b372894b3c4260a3f52494596e1f17d40"
+        "1bbca5bdb9fcc02cebcadc0b372894b3c4260a3f52494596e1f17d40",
+        "911e1c69d924c98ba403bf5bc2e405413b139a29251783574c23f2ba"
     ]
 }
