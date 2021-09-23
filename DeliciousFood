@@ -1,11 +1,11 @@
 {
     "project": "DeliciousFood-NigiriSushi",
     "tags": [
-        "DeliciousFood",
-        "Sushi"
+        "DeliciousFood-NigiriSushi"
     ],
     "policies": [
         "27ccb71469db422dcad94956ad09ff1adfd881c1890281ff4e70131f"
+
           ]
 }
 
