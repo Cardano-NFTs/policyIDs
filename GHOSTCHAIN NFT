@@ -1,5 +1,10 @@
 {
     "project": "GHOSTCHAIN NFT",
+    "tags": [
+"GHOSTCHAIN",
+"GHOSTCHAIN NFT",
+"GHOST"
+],
     "policies": [
         "a1204806e5ef611afcfee140b8b198c859268ff0f8b9c0a910f0dfc9",
         "e114305966f5f8e1ca8e92913683023a445b28a56065ef842539fbf1",
