@@ -1,0 +1,11 @@
+{
+    "project": "CardanoIdols",
+    "tags": [ 
+        "CardanoIdols",
+        "Idols"
+    ],
+    "policies": [
+        "df6885dd696909eb16116ad90596913177d038735456363e0e022226",
+        "db33a907158a1a2abd389c43a71fdf67f024e6d56c1ea2527d11246c"
+    ]
+}
