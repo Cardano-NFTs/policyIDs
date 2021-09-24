@@ -1,3 +1,4 @@
+[
 {
     "project": "Distortion Ada",
     "tags": [
@@ -6,4 +7,22 @@
     "policies": [
         "9d3024e8bcf332a39aa15a146d9163afb5d2a08a4804411152cb51ee"
     ]
-}
+},
+{
+    "project": "Distorted Squares",
+    "tags": [
+        "DistortedSquare"
+    ],
+    "policies": [
+        "8fc003280ff3bf51777527e1243028bcebfb24eef4f5f48e0d25d830"
+    ]
+},
+{
+    "project": "Complete Distortion",
+    "tags": [
+        "CmpltDistortion"
+    ],
+    "policies": [
+        "11f9eb48c51eed7d17752783c12e6f406771945b0d03792a3c7e7e20"
+    ]
+}]
