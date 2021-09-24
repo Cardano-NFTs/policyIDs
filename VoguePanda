@@ -1,10 +1,11 @@
 {
-    "project": "VoguePanda",
+    "project": "Vogue Panda",
     "tags": [
-        "VoguePanda"
+        "Vogue Panda"
     ],
     "policies": [
-        "policy1"
+        "578df569ce49d5997c90893e58adf1b8302fd5178c977358929bfdd8",
+        "ba52a7c73a09f8ed38adbcf3de76317e1e17757117060ef4dab7eaec"
           ]
 }
 
