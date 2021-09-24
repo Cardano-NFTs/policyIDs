@@ -1,0 +1,9 @@
+{
+    "project": "CardanoMotionMood",
+    "tags": [
+        "CardanoMotionMood"
+    ],
+    "policies": [
+        "adb0677eb90a0e3c2c7b9fea302535e1e4427f77b545bdad8fc725c8",
+          ]
+}
