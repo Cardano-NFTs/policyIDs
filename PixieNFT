@@ -9,6 +9,7 @@
     },
     {
         "project": "VoxelNFT",
+        "tags": ["Voxelart", "VoxelGuys"],
         "policies": [
             "565456c29e006d917bba186ce056c6958dafa6885c63bbcb2b06a3a5"
         ]
