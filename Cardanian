@@ -1,0 +1,16 @@
+[
+    {
+        "project": "CoinCardano",
+        "policies": [
+            "cb604654d003d02cda286d58e82e3827838a06b6a91bf4b25b318402",
+            "e52e87a78731bddc4f452b4f0ae8d50eb226f84119508b8b312f0b15",
+            "928c33a4b0cc8826d612a171878ebf3096096b000b2fbfcee001eaf4"
+        ]
+    },
+    {
+        "project": "DeadFish",
+        "policies": [
+            "3c6097dcd53be4926c956147cfaf7aba71d4da4cee0e24d6cf8298d2"
+        ]
+    }
+]
