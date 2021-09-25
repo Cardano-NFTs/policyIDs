@@ -37,14 +37,24 @@
 			"2095c547cfa92e9683db5105778eebbb0130196fd2a31631835981b0",
 			"486ec28e1b8f10eaa4714eb364503faa5c7892fae958495ec7f6ee4f",
 			"beabd854d6181636a8db46710bb1e36036a8d39f4e4411c0e44ec79c"
+			
 		]
 	},
 	{
-		"project": "VanityTrophiesxcryp7ocr3ations",
+		"project": "VanityTrophies x cryp7ocr3ations",
 		"tags": [],
 
 		"policies": [
 			"5edd05fb06c1fa3f0c9df501983f449019b4b9cfc494248ed89d7e26"
+		]
+
+	},
+	{
+		"project": "HealingSoon x cryp7ocr3ations",
+		"tags": [],
+
+		"policies": [
+			"da68de126bff859c36274ed04aff7c6e3be77c0e3260581a021eed1e"
 		]
 
 	}
