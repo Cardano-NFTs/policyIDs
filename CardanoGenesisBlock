@@ -1,0 +1,9 @@
+{
+    "project": "CardanoGenesisBlock",
+    "tags": [
+        "CardanoGenesisBlock"
+    ],
+    "policies": [
+        "3a0444e63d4d0935a97b77048165c400d0199436658e7b4751937427"
+          ]
+}
