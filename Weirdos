@@ -21,6 +21,13 @@
     },
     
     {
+        "project": "LittlePlanets",
+        "policies": [
+            "4ecbc02c170b387166a08c6928c0765eca5c989b4708d6c55a7bd31d",       
+        ]
+    },
+    
+    {
         "project": "No more sleep",
         "policies": [
             "cc9db6364af16ae70143ec72cf73a156b1db9e09244ed3b12ba7b79c"
