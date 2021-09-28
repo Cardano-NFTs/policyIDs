@@ -1,6 +1,8 @@
-{
-    "project": "NOIRGUYS",
+"project": "NOIRGUYS",
+    "tags": [
+        "NOIRGUYS"
+    ],
     "policies": [
         "16bc936c146dc69cd05ef1d5ff6912f1e97ea589dc4467ffdf737c4b",
-    ]
-}
+              "e217ff287638ee2458386bf47447a154430947c32f482b410a278a9a"
+          ]
