@@ -1,11 +1,16 @@
-{
-    "project": "Cardatoons",
-    "tags": [
-        "artist: suwunk31",
-    ],
-        
-    "policies": [
-        "23896f578aef012e48c2926305802c6b278d0ed655354928f4a9291f",
-        "655324be4bc4c8581fea33a44f7fa3601ffc30b410ea8643f17865d9"
-    ]
-}
+[
+    {
+        "project": "Cardatoons by Suwunk31",
+        "policies": [
+            "23896f578aef012e48c2926305802c6b278d0ed655354928f4a9291f"
+        ]
+    },
+    {
+        "project": "Cardatoons by Suwunk31",
+        "policies": [
+            "655324be4bc4c8581fea33a44f7fa3601ffc30b410ea8643f17865d9"
+        ]
+    }
+]
+
+
