@@ -1,7 +1,9 @@
 {
 	"project": "Clay Mates",
 	"tags": [
-		"Clay Mates"
+		"Clay Mates",
+		"Clay-Mate",
+		"Mystery Mate"
 	],
 	"policies": [
 		"6e9ddb1bfafae89c4b026a4d3c1721bf6948027fea9ec03658f0c72c",
@@ -32,6 +34,8 @@
 		"db572f3df42417ce7df52be19905dc30c58f508fa2da10c241dcd713",
 		"48be3c470cd1a795cce89f0cfd22d7b7a7a0053c934eb0475920923d",
 		"383f2f50695bb809cb9286d1c39e3a90d24f948330f895bdf115ed93",
-		"7ec6005e633510073c76c08632de1fcaaeba040e190bba9ef2c16503"
+		"7ec6005e633510073c76c08632de1fcaaeba040e190bba9ef2c16503",
+		"9c1510b8e290e285caa5b56feb7df5842554f20b09cafbc82410fb6f",
+		"11bb3bb07db9dc6c4b236f2ec4bc6b9a623484778243054996144c95"
 	]
 }
