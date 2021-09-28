@@ -1,0 +1,17 @@
+{
+    "project": "CryptoNinjas",
+    "tags": [
+        "CryptoNinjas",
+        "KoalaCat",
+        "Ninjas",
+        "CryptoCollection",
+        "NinjaPixels"
+    ],
+    "policies": [
+        "61fa22328ef11c08ed54ebe8ffd8ef4347f9834e37ecbd02303ab3fe",
+        "c163143e83b9bc87068d87197026c2f5553f72d9fb3acd66e5da2376",
+        "2fd2afee3a6cd1597e902a6f76a17cdf611d6b99a8b6159db084bb5c",
+        "feee9ca096cbddd02245c6477374233dbe0281550dda3588d13af27a",
+        "de91d463607418a965f65485b27effa097fec286bc4bdc5313d060ce"
+    ]
+}
