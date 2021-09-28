@@ -1,0 +1,12 @@
+{
+    "project": "xanyart",
+    "tags": [
+        "xanyart"
+    ],
+    "policies": [
+        "policy1",
+              "policy2",
+              "policy3"
+          ]
+}
+
