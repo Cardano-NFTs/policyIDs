@@ -1,0 +1,10 @@
+{
+    "project": "Cardomination",
+    "tags": [
+        "Cardomination"
+    ],
+    "policies": [
+        "Single-issuer policy",
+    ]
+}
+
