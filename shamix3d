@@ -11,7 +11,7 @@
       ]
    },
    {
-      "project":"CrystalsRockets",
+      "project":"CrystalRockets",
       "tags":[
          "CrystalRockets",
          "Crystal Rockets",
@@ -20,5 +20,16 @@
       "policies":[
          "b55b59ea0c6e2b1e8bc5b570347433097329e1b248e0631077c255e3"
       ]
-   }
+   },
+   {
+      "project":"CrystalBites",
+      "tags":[
+         "CrystalBites",
+         "Crystal Bites",
+         "Bites"
+      ],
+      "policies":[
+         "57667116c4de8a5067d3413cc157edb5a7b06eff35309f7fb210f3b0"
+      ]
+   }   
 ]
