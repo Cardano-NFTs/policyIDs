@@ -64,12 +64,14 @@
       "Collectibles",
       "Cardano Robin Egg",
       "Succubus Egg",
-      "Moon Egg"
+      "Moon Egg",
+      "OG Eggs"
     ],
     "policies": [
       "ba104b5f6d0a7b5562ed5e10eda1d87a0cd0a2a772f953768006eea3",
       "1be0a6289e8be45788a6731e1c77c5273cbffa1a64fc53c970cb837d",
-      "e521ff81606befadffb5c76e6a5c824e8d3baa724aff477b6bc432ea"
+      "e521ff81606befadffb5c76e6a5c824e8d3baa724aff477b6bc432ea",
+      "1a38c72fdef91ab2625cf1b0cd3fc6e2dbc370e235f27bf48e3368cb"
     ]
   }
 ]
