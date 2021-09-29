@@ -11,6 +11,12 @@
         ]
     },
     {
+        "project": "Vires In Numeris",
+        "policies": [
+            "ab9c9ba8ac8dd3c529ebf03175d0c71c5997bd8981ea790c836d364a"
+        ]
+    },
+    {
         "project": "Pixano Formula 1",
         "policies": [
             "83343c733713e967e51d374be7d8ccb287d0409aa07e35a4b5da44a4",
