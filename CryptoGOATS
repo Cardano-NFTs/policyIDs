@@ -1,5 +1,8 @@
 {
     "project": "CryptoGoats",
+    "tags": [
+        "CryptoGoats"
+    ],
     "policies": [
         "81b1340aa365d3febd4731622d06bbc43804204b902dfd93d4a5272c",
         "08199d09248a0041e90d96ba7d65d8dabca2226eecbfe5e764df8877",
