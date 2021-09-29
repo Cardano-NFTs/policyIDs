@@ -1,0 +1,14 @@
+{
+  "project": "CardanoPets",
+  "tags": [
+    "Cardano Pets",
+    "Cardano Pet",
+    "CardanoPets",
+    "CardanoPet"
+  ],
+  "policies": [
+    "a572be48a2e2e778405adcbfa42a3b2b41117790f35df8ba217ea98d",
+    "22bce843d74aa5715b40eae87589e77376255697bdb99d7bb427f135",
+    "b04799c528b2100fc2da5f8003b14f11a8604515a7c6550d38c37002"
+  ]
+}
