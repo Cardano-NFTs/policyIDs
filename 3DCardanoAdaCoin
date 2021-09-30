@@ -1,5 +1,8 @@
 {
     "project": "3DCardanoAdaCoin",
+     "tags": [
+        "3DCardanoAdaCoin"
+    ],
     "policies": [
         "1d269ee087f2a2b3ebd1209078659dc5f791a0aa92ae6f3ccd7e3e16",
         "01a3c8a6d99f35aa768975c4afd1ce653c50fa45c457eaeb1a2eac16",
