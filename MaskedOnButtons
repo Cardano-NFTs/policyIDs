@@ -32,4 +32,16 @@
             "bea41cde225159466664b35dc93e7c5c76458a4a7cc9f7aceb645788"
             ]
      }
+     {
+        "project": "MOB Parasite",
+        "tags": [
+            "Masked On Buttons",
+            "MOB",
+            "MOB Parasite"
+            ],
+        "policies": [
+            "c9d1eca7345a8fd8ddf8309cc612bfd2a05e56db42353853956d8a6a",
+            "074fed91205b602077de6a9bcfe0ec146962baf083bd0f8a231025b9"
+            ]
+     }
 ]

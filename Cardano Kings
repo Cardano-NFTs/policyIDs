@@ -1,12 +1,12 @@
-{
+[{
     "project": "Cardano Kings",
     "tags": [
         "Cardano Kings",
-        "Cardano Kings PunksterArt"
+        "Cardanokings"
     ],
     "policies": [
         "b140351bf1d7e89c15e57e4adbed7fc3f282f189e0d3b72c92487611",
-        "ab66b80391e678f1224232de5b0b690cf23de41a2b4fe43089abc80a",
+	"a4ee04a73d297323a9afbbbd663b109954e99633c085dfc2f38c0c94",
         "3c44c5f2cb3f2cfb35b9368ea0b246b696067a0c2eaf198040110206",
         "7999e4042c271262ffa0a8050a2edd639208bf795855dcdeab361467",
         "3bfcb21deffb60eb6493f4d5c56f77ec82755549fcc50ac2716747e2",
@@ -108,4 +108,13 @@
         "26b74766650fc77b654a1a2fd460569f5bf284ec5880b5bb75dea023",
         "a3f7e8e525514954cd6fb3c5ba240cdbc562035947d9fa319318d67f"
     ]
-}
+},
+{
+    "project": "Cardano Kings PunksterArt",
+    "tags": [
+      "Cardano Kings PunksterArt"
+    ],
+    "policies": [
+        "ab66b80391e678f1224232de5b0b690cf23de41a2b4fe43089abc80a"
+    ]
+}]
