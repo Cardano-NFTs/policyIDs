@@ -1,9 +1,9 @@
 {
     "project": "ICS Rocket Shop",
     "tags": [
-           "ICS.Rocket.Shop"
-           "MK1 Rocket"
-           "Rocket"
+           "ICS.Rocket.Shop",
+           "MK1 Rocket",
+           "Rocket",
            "MK1"
     ],
     "policies": [
