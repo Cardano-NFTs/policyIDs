@@ -1,7 +1,8 @@
 {
     "project": "420dubesNFT",
     "tags": [
-    "420dubesNFT"
+        "420dubesNFT",
+        "420dubes"
     ],
     "policies": [
         "e7faa825c433b28b95611ba1ea3178125b06a31b5ccbb318d1b9a3c7",
