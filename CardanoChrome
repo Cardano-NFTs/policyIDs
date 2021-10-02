@@ -4,6 +4,7 @@
         "CardanoChrome"
     ],
     "policies": [
-        "54e986a5e7f4345952096e4c23a8cebc98ebdf2279430660b4750ccb"
+        "54e986a5e7f4345952096e4c23a8cebc98ebdf2279430660b4750ccb",
+        "8d1c205548efc40087484d3a4d684acd4009c194d2d0379b99fbe18d"
     ]
 }
