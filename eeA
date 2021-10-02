@@ -1,5 +1,9 @@
 {
-    "project": "eeArt",
+    "project": "eeA",
+    "tags": [
+            "eeA",
+            "eeArt"
+            ],
     "policies": [
         "411f37e39fcce1a98df6dd4b6ceb0fb67dd44655b9943f62bc5b2942",
         "ba2db85bb9495e9411b111403d4c7b347ece1881c3ecf53e98d33364",
