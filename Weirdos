@@ -7,6 +7,13 @@
     },
     
     {
+        "project": "Bixies",
+        "policies": [
+            "9210bc60e1240722cf15c906fc4428987fe7e5662fbdb48686852c8e",       
+        ]
+    },
+    
+    {
         "project": "DOS1 Bot",
         "policies": [
             "240eafd8a01fa6cf68f531c42a0b892f4ff5ac9382828520ac237674",       
