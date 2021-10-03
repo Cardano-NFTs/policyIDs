@@ -1,8 +1,8 @@
 {
     "project": "The MountainGoat Experiment",
-    "tag": "The MountainGoat Experiment", [
+    "tag": ["The MountainGoat Experiment"]
     "policies": [
-        "4be8d5ec333c706c6269c67d7c6bc8a3913fca8232937f8186fa5fd3",
+        "4be8d5ec333c706c6269c67d7c6bc8a3913fca8232937f8186fa5fd3"
       
     ]
 }
