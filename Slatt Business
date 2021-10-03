@@ -8,7 +8,7 @@
         "Minotaur",
         "Dealer",
         "Vans",
-        "Weirdo",
+        "Weirdo"
     ],
     "policies": [
         "0a15a0a425442de561b09d6b8bb9480dc6b49c7b0446eeed7c7b0b19",
@@ -20,6 +20,6 @@
         "be5c1c75f3501b25d57fdeed77cc3df0d32b63bcb929c126ef294faf",
         "dfe90fc1519a0c65a21968f238d192d1e1356da1da34b536807ef656",
         "e0284fcd71ba995bd8cb53e07b931474d132aa2c1963e9f410c05182",
-        "86a80ab2b493501f2678005b6acecec361061a20832a5f466797e777",
+        "86a80ab2b493501f2678005b6acecec361061a20832a5f466797e777"
     ]
 }
