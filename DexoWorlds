@@ -1,8 +1,7 @@
 {
     "project": "DexoWorlds",
-    "tags": ["Dexo", "DexoWorlds", "DexoTokens"],
+    "tags": ["Dexo", "DexoWorlds"],
     "policies": [
-        "862cd06c4504de6114a29e0b863751ee84ad455493d43aeeb727d896",
-        "c18a63222025e36e1f87bb582dc8b80021e5f87e740d6b3ef58d27a1"
+        "862cd06c4504de6114a29e0b863751ee84ad455493d43aeeb727d896"
     ]
 }

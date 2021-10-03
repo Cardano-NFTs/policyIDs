@@ -1,3 +1,5 @@
+ [
+ 
  {
         "project": "Backwards Geometry",
         "tags": [
@@ -6,17 +8,60 @@
         ],
         "policies": [
             "9c9cc19ada98d50a783432a073239fe6d69c5bb695f1972b5d07c3fb",
-            "bee442057d77db8c7c273aeeddc66ab55f6ae18fb2b0c444ff316dee",
-            "0b00bb51a9db3a581c4df6a88ac9fe5dab97220fd945613fea1233c8",
             "49640d18210d384d93dafbbf7f147eaa91d0aa7a0cc652e3913a89e4",
-            "000006126365b110b339bd39c5b5c0fc89eb146cc186ba8c90a3c9ca",
             "3b4444442355df172b2ab202f41f33be79a725b7429914eae50d9196",
             "5650d121d024db2285dbbb848a7fd4add1f746d8bda80d62a64d1294",
             "7b86666669fc119d2a688886004a3fbec201e2d224676176afcc96ab",
-            "efffff02c8a09063dc89b61d53c077bf53b4fa3f41a60458c70ffd4f",
-            "c780a0fe4f9e3065d5780937527af93e0d2a5947fd0b7d9061595444",
-            "8057f2140681278160715a93d4b7ad9c98cb2060746f3e5c4a3c8a24",
-            "0487b486010bd636cd57cdf6b63dd44e40e23e794770b3dddf637ffc"
+            "0487b486010bd636cd57cdf6b63dd44e40e23e794770b3dddf637ffc",
+            "71b8c44444b45163512f6d1ecfa0a4734733feeb6ee6d59b031db03c"
 
         ]
-    }
+    },
+    {
+       "project": "Backwards Geometry x Darkartopia",
+       "tags": [
+       "Backwards Geometry", "Darkartopia", "Animated", "Purple Spell", "The Darkest"
+       
+       ],
+       "policies": [
+         "c780a0fe4f9e3065d5780937527af93e0d2a5947fd0b7d9061595444"
+       ]
+       },
+   {
+       "project": "Backwards Geometry x BrownNFT",
+       "tags": [
+       "Backwards Geometry", "Neko", "Lucky Neko", "BrownNFT", "Adalotls"
+       ],
+       "policies": [
+         "000006126365b110b339bd39c5b5c0fc89eb146cc186ba8c90a3c9ca"
+       ]
+       },
+   {
+       "project": "Backwards Geometry x Rain of Hearts",
+       "tags": [
+       "Backwards Geometry", "Rain of Hearts", "Music", "Instrumental", "Timelapse"
+       ],
+       "policies": [
+         "8057f2140681278160715a93d4b7ad9c98cb2060746f3e5c4a3c8a24"
+       ]
+       },
+   {
+       "project": "Backwards Geometry x Cardano Robin",
+       "tags": [
+       "Backwards Geometry", "Cardano Robin", "Stamps"
+       ],
+       "policies": [
+         "efffff02c8a09063dc89b61d53c077bf53b4fa3f41a60458c70ffd4f"
+       ]
+       },
+   {
+       "project": "Backwards Geometry x Visions",
+        "tags": [
+       "Backwards Geometry", "Visions"
+       ],
+       "policies": [
+         "0b00bb51a9db3a581c4df6a88ac9fe5dab97220fd945613fea1233c8"
+       ]
+   }    
+       
+]
