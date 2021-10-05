@@ -1,0 +1,21 @@
+[
+    {
+        "project": "ElementZSomeTwist",
+        "policies": [
+            "db3b809f2cb1076e2120aa5fcb81326ab048f461fc05b86d3b169439",
+            "0dfa01922f8472159ce8fb8859c0e26bbe4aa235615a586813688416"
+        ]
+    },
+    {
+        "project": "ElementZDreamsNeverDie",
+        "policies": [
+            "8506f7c6514fcd3ab254f173c3203212f85b3a0bcedd22f4a90dafe9"
+        ]
+    },
+    {
+        "project": "ElementZ - FractalBlocks",
+        "policies": [
+            "0dfa01922f8472159ce8fb8859c0e26bbe4aa235615a586813688416"
+        ]
+    }
+]
