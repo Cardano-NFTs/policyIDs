@@ -1,9 +1,11 @@
 {
     "project": "Hide! Series",
     "tags": [
-        "HideUnknown", "HideSquid", "HideJellyFish", "HideShark", "HideOrca", "HideOctopus", "HideStingRay", "HideSwordFish", "HideDolphin", "HideDiver"
+        "HideUnknown", "HideSquid", "HideJellyFish", "HideShark", "HideOrca", "HideOctopus", "HideStingRay", "HideSwordFish", "HideDolphin", "HideDiver",
+        "HideExplorer", "HideOstrich", "HideHyena", "HideCheetah", "HideHippo", "HideGiraffe", "HideRhino", "HideElephant", "HideLion"
     ],
     "policies": [
-        "8e74e225d4a2a7e5889bc56ec5802bb9d203c63b99196fbcef7edd5a"
+        "8e74e225d4a2a7e5889bc56ec5802bb9d203c63b99196fbcef7edd5a",
+        "ed7fd9e10a3effe0e5f591ffbbb1bf6a60325fa523731a8880a73f55"
     ]
 }
