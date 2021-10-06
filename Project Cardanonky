@@ -1,30 +1,30 @@
 {
-    "project": "Cardanonky",
-    "tags": [
-        "Cardanonky"
-        "Cardanonkys"
-        "Cardamonky"
-        "Cardanonkys"
-        "ProjectCardanonky"
-        "ProjectCardanonkys"
-        "Cardanonkey"
-        "Cardanonkeys"
-        "Cardamonkey"
-        "Cardanonkeys"
-        "ProjectCardanonkey"
-        "ProjectCardanonkeys"
-    ],
-    "policies": [
-         "de366c2f26f30e6ba126eb4f526e7ebc1527794ad9571e7756410b43",
-         "389e461844410feee63560afd83c228f700d53b878e05a56005eec68",
-         "5ed3483e0a9832b40ecf69849e31f827ff1a84d58569bd9c606395c2",
-         "004ca8cc34f24f9fc8d0004900bf78923da13c642e4d8105371a4c54",
-         "e612d1a417ae45641e22f892fd8d24095608428a443c6b22aad8abcb",
-         "8793ca5d3ddfc452a45b1025984cf45b84ff8f2421ee24d21bfccfc0",
-         "d1fe420e387e3994a81d786cbcc0301413fe795903b42de13dca648b",
-         "ecd7af346d9c7b81130debb08c356d831f6fa43d29b1770b3f26d113",
-         "515647df285e65b160a5c0c10fa7844408a6232265f6e133b075ef47",
-         "c555a6347d496bb4293a1a7791ae4b05ffc0c95be74fd0a2288b8eef",
-         "077146a09e2d55133982073fd70ee3ade328b13e3b785d4f240507ba",
-    ]
+  "project": "Cardanonky",
+  "tags": [
+    "Cardanonky",
+    "Cardanonkys",
+    "Cardamonky",
+    "Cardanonkys",
+    "ProjectCardanonky",
+    "ProjectCardanonkys",
+    "Cardanonkey",
+    "Cardanonkeys",
+    "Cardamonkey",
+    "Cardanonkeys",
+    "ProjectCardanonkey",
+    "ProjectCardanonkeys"
+  ],
+  "policies": [
+    "de366c2f26f30e6ba126eb4f526e7ebc1527794ad9571e7756410b43",
+    "389e461844410feee63560afd83c228f700d53b878e05a56005eec68",
+    "5ed3483e0a9832b40ecf69849e31f827ff1a84d58569bd9c606395c2",
+    "004ca8cc34f24f9fc8d0004900bf78923da13c642e4d8105371a4c54",
+    "e612d1a417ae45641e22f892fd8d24095608428a443c6b22aad8abcb",
+    "8793ca5d3ddfc452a45b1025984cf45b84ff8f2421ee24d21bfccfc0",
+    "d1fe420e387e3994a81d786cbcc0301413fe795903b42de13dca648b",
+    "ecd7af346d9c7b81130debb08c356d831f6fa43d29b1770b3f26d113",
+    "515647df285e65b160a5c0c10fa7844408a6232265f6e133b075ef47",
+    "c555a6347d496bb4293a1a7791ae4b05ffc0c95be74fd0a2288b8eef",
+    "077146a09e2d55133982073fd70ee3ade328b13e3b785d4f240507ba"
+  ]
 }
