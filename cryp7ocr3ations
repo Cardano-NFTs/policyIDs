@@ -1,6 +1,7 @@
 [{
 		"project": "cryp7ocr3ations",
-		"tags": [],
+		"tags": [ "cryp7ocr3ations"
+		],
            "policies": [
 			"8ac4bc9f6017ebc42f4578b9737fd2e09bede9f5979b56aeb6c30ab7",
 			"1fc3a6e2146ba4007e8b51756dffbd8e941886f0f4cf1ecc3b694563",
@@ -33,15 +34,27 @@
 			"a4574bcfb3210e9d0a36aa5a53de06c22b9b28cbea20034d89992941",
 			"7e875eec5c0d4785aa2be7267baa8ee5a85ddef5782fbf0c1e995d27",
 		        "909b266e40b829adcefa9e2494e801fe8ed6d3c2da6946c677af6027",
-			"2095c547cfa92e9683db5105778eebbb0130196fd2a31631835981b0"
+			"2095c547cfa92e9683db5105778eebbb0130196fd2a31631835981b0",
+			"486ec28e1b8f10eaa4714eb364503faa5c7892fae958495ec7f6ee4f",
+			"beabd854d6181636a8db46710bb1e36036a8d39f4e4411c0e44ec79c"
+			
 		]
 	},
 	{
-		"project": "VanityTrophiesxcryp7ocr3ations",
+		"project": "VanityTrophies x cryp7ocr3ations",
 		"tags": [],
 
 		"policies": [
 			"5edd05fb06c1fa3f0c9df501983f449019b4b9cfc494248ed89d7e26"
+		]
+
+	},
+	{
+		"project": "HealingSoon x cryp7ocr3ations",
+		"tags": [],
+
+		"policies": [
+			"da68de126bff859c36274ed04aff7c6e3be77c0e3260581a021eed1e"
 		]
 
 	}
