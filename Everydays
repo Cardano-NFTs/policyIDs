@@ -1,330 +1,251 @@
-{
+[
+  {
     "project": "leviathan",
     "policies": [
-        "ad169b7d4702e42f71da63a7d7a716d300ebb2b477ca300734a18cc4"
-        
+      "ad169b7d4702e42f71da63a7d7a716d300ebb2b477ca300734a18cc4"
     ]
-}
-{
+  },
+  {
     "project": "Heart and Mind",
     "policies": [
-        "4bf7005d764bc3d0e31f434a1ff35045446dc836fd5999a870eaa671
-"
-        
+      "4bf7005d764bc3d0e31f434a1ff35045446dc836fd5999a870eaa671"
     ]
-}
-{
+  },
+  {
     "project": "Ocean Air",
     "policies": [
-        "2ae0ee1bbb6d2f41489b3d5d538f9038391df5275d7312dafba08954
-"
-        
+      "2ae0ee1bbb6d2f41489b3d5d538f9038391df5275d7312dafba08954"
     ]
-}
-{
+  },
+  {
     "project": "Children Of Gods",
     "policies": [
-        "8f6f5e9d69f4cf86cf40442dc93df2d431fe568a495a9e46acbc5013
-"
-        
+      "8f6f5e9d69f4cf86cf40442dc93df2d431fe568a495a9e46acbc5013"
     ]
-}
-{
+  },
+  {
     "project": "Tranquillity",
     "policies": [
-        "51d2d014ec2e2d22e9182b869b7cbb60777f0b1d96e736bb85638caf
-"
-        
+      "51d2d014ec2e2d22e9182b869b7cbb60777f0b1d96e736bb85638caf"
     ]
-}
-{
+  },
+  {
     "project": "Nucleus",
     "policies": [
-        "2307c4e0fd19d23e856bdf474bec7cbafd81dffeaac68674b6039da0
-","f3a96ef78338cd1d712f555cb2534f0170b31b06c78267b60197a6a9
-","8ddfee24ffc494504b9d1ea45d7835d13085fa89888204cb8b061687
-","83cf46ee78bc7d860f718ac1cb4a6ef00ec93a62d98485d8ffbdf977
-"
-        
+      "2307c4e0fd19d23e856bdf474bec7cbafd81dffeaac68674b6039da0",
+      "f3a96ef78338cd1d712f555cb2534f0170b31b06c78267b60197a6a9",
+      "8ddfee24ffc494504b9d1ea45d7835d13085fa89888204cb8b061687",
+      "83cf46ee78bc7d860f718ac1cb4a6ef00ec93a62d98485d8ffbdf977"
     ]
-}
-{
+  },
+  {
     "project": "Dark Depths",
     "policies": [
-        "b577eebeb318ceb2148f57094121295bae5b9d6b6f3dd0cf107cf658
-"
-        
+      "b577eebeb318ceb2148f57094121295bae5b9d6b6f3dd0cf107cf658"
     ]
-}
-{
+  },
+  {
     "project": "Lost Shipment",
     "policies": [
-        "f9901780029e4590523768d16f7d08e58fac6c52d224dab99cbcba19
-"
-        
+      "f9901780029e4590523768d16f7d08e58fac6c52d224dab99cbcba19"
     ]
-}
-{
+  },
+  {
     "project": "Up In Smoke",
     "policies": [
-        "0a8f33a160c1b34c819e51b8d53983c17d870d1babb9a267896fc515
-"
-        
+      "0a8f33a160c1b34c819e51b8d53983c17d870d1babb9a267896fc515"
     ]
-}
-{
+  },
+  {
     "project": "Reduce Reuse",
     "policies": [
-        "2e3922ca9e553ad79ea41baf23f93c5a38b91709dbca238b701428a4
-"
-        
+      "2e3922ca9e553ad79ea41baf23f93c5a38b91709dbca238b701428a4"
     ]
-}
-{
+  },
+  {
     "project": "ADA Holders",
     "policies": [
-        "b4b6974ae44144a68c6fef37e3bf7f73c4f912b5597e5c614512ea1f
-"
-        
+      "b4b6974ae44144a68c6fef37e3bf7f73c4f912b5597e5c614512ea1f"
     ]
-}
-{
+  },
+  {
     "project": "The Climb",
     "policies": [
-        "3bdc40260bcc24c9d9a1fe6941473af8c5ebd06744757d1a11b52364
-"
-        
+      "3bdc40260bcc24c9d9a1fe6941473af8c5ebd06744757d1a11b52364"
     ]
-}
-{
+  },
+  {
     "project": "Unfamiliar Ground",
     "policies": [
-        "5e55c54a6325611f6f6195dfb6632ccf6f156b5e9f3fe657b14e0832
-"
-        
+      "5e55c54a6325611f6f6195dfb6632ccf6f156b5e9f3fe657b14e0832"
     ]
-}
-{
+  },
+  {
     "project": "Never Really Gone Completely",
     "policies": [
-        "d3a18a71d7b26968c79fa9edffbed2322963804ae823c77bdcc257bd
-"
-        
+      "d3a18a71d7b26968c79fa9edffbed2322963804ae823c77bdcc257bd"
     ]
-}
-{
+  },
+  {
     "project": "End Of The World",
     "policies": [
-        "0e183033683cc6953a35ad7367b4ad1276b2554d259c278cad25b983
-"
-        
+      "0e183033683cc6953a35ad7367b4ad1276b2554d259c278cad25b983"
     ]
-}
-{
+  },
+  {
     "project": "In The Clouds",
     "policies": [
-        "31e31efff076235e8d2b7964256870212ecd26a74bb8e9f505d8f0da
-"
-        
+      "31e31efff076235e8d2b7964256870212ecd26a74bb8e9f505d8f0da"
     ]
-}
-{
+  },
+  {
     "project": "The Journey Home",
     "policies": [
-        "3cee442c738bd19d700ba7a511b860f3026b0026aa2f527473cf92a5
-"
-        
+      "3cee442c738bd19d700ba7a511b860f3026b0026aa2f527473cf92a5"
     ]
-}
-{
+  },
+  {
     "project": "Greener Grasses",
     "policies": [
-        "3bc23935b313c07d918330af1e6c3fcf3b9f3e3deec752af92551ec1
-"
-        
+      "3bc23935b313c07d918330af1e6c3fcf3b9f3e3deec752af92551ec1"
     ]
-}
-{
+  },
+  {
     "project": "Retrospective",
     "policies": [
-        "b577eebeb318ceb2148f57094121295bae5b9d6b6f3dd0cf107cf658
-"
-        
+      "b577eebeb318ceb2148f57094121295bae5b9d6b6f3dd0cf107cf658"
     ]
-}
-{
+  },
+  {
     "project": "Newtopia",
     "policies": [
-        "3946451d3f66842117e76301ff9ebe48d346914a257d7e124472407a
-"
-        
+      "3946451d3f66842117e76301ff9ebe48d346914a257d7e124472407a"
     ]
-}
-{
+  },
+  {
     "project": "Final Rest",
     "policies": [
-        "01d647a14feccc160e103d48a96707b4b2839ee5f93f499bf54c43f6
-"
-        
+      "01d647a14feccc160e103d48a96707b4b2839ee5f93f499bf54c43f6"
     ]
-}
-{
+  },
+  {
     "project": "The Split",
     "policies": [
-        "776152a6b2acef732ecd71c33261c38cfe041182d94b595a75094823
-"
-        
+      "776152a6b2acef732ecd71c33261c38cfe041182d94b595a75094823"
     ]
-}
-{
+  },
+  {
     "project": "Type 2",
     "policies": [
-        "e0b551b53a0a921811658582f48f08be8ba5efea113204e483c77dbf
-"
-        
+      "e0b551b53a0a921811658582f48f08be8ba5efea113204e483c77dbf"
     ]
-}
-{
+  },
+  {
     "project": "Reclaimed",
     "policies": [
-        "a30c8d8bc2d4a3b21677bde0cfdc4321f245829415279922cef23174
-"
-        
+      "a30c8d8bc2d4a3b21677bde0cfdc4321f245829415279922cef23174"
     ]
-}
-{
+  },
+  {
     "project": "City Trawling",
     "policies": [
-        "5957814eab53e18f697b06c7dfdc2af248212197722b83f8478f07e8
-"
-        
+      "5957814eab53e18f697b06c7dfdc2af248212197722b83f8478f07e8"
     ]
-}
-{
+  },
+  {
     "project": "High Rise",
     "policies": [
-        "ef664a2dcea5dc1d9b7657f5e966a3fd13d569cfc99e0cf304f39e60
-"
-        
+      "ef664a2dcea5dc1d9b7657f5e966a3fd13d569cfc99e0cf304f39e60"
     ]
-}
-{
+  },
+  {
     "project": "Last Stop",
     "policies": [
-        "e271acdd6f800e9f9a62f9a9529e34adf2ab6f1596a60c72f1f6ca73
-"
-        
+      "e271acdd6f800e9f9a62f9a9529e34adf2ab6f1596a60c72f1f6ca73"
     ]
-}
-{
+  },
+  {
     "project": "Behavioural Sink",
     "policies": [
-        "b021fb1a95f4e4a925253cec9740614f7229e48e0d56c533e78d4f79
-"
-        
+      "b021fb1a95f4e4a925253cec9740614f7229e48e0d56c533e78d4f79"
     ]
-}
-{
+  },
+  {
     "project": "Reflections",
     "policies": [
-        "54ed71ec986fe071269679c4800a7bff5d0cb8b1159ee4ecb8446a3a
-"
-        
+      "54ed71ec986fe071269679c4800a7bff5d0cb8b1159ee4ecb8446a3a"
     ]
-}
-{
+  },
+  {
     "project": "Weather Balloon",
     "policies": [
-        "941390c8e5b6011cfae564ade6dd2f1aa34de26de55d679b44729c77
-",
-        
+      "941390c8e5b6011cfae564ade6dd2f1aa34de26de55d679b44729c77"
     ]
-}
-{
+  },
+  {
     "project": "Never Forgotten",
     "policies": [
-        "8ced9409189022f72d7dc889cabffe9b00f1300c5bf21773d6b80e63
-"
-        
+      "8ced9409189022f72d7dc889cabffe9b00f1300c5bf21773d6b80e63"
     ]
-}
-{
+  },
+  {
     "project": "Hot Spot",
     "policies": [
-        "8ddfee24ffc494504b9d1ea45d7835d13085fa89888204cb8b061687
-"
-        
+      "8ddfee24ffc494504b9d1ea45d7835d13085fa89888204cb8b061687"
     ]
-}
-{
+  },
+  {
     "project": "Guardian Of Flames",
     "policies": [
-        "ce591af5e0d63cc030bfe632f3af6a9c553def0a8784f94362d81a24
-"
-        
+      "ce591af5e0d63cc030bfe632f3af6a9c553def0a8784f94362d81a24"
     ]
-}
-{
+  },
+  {
     "project": "Industrial Power",
     "policies": [
-        "44809ae8a245a10580fc9c17e00eefbe2e3339979a54e6190633fe90
-"
-        
+      "44809ae8a245a10580fc9c17e00eefbe2e3339979a54e6190633fe90"
     ]
-}
-{
+  },
+  {
     "project": "VGA",
     "policies": [
-        "7ef378f0dea8a24d1140374121e0001d778d4959ec67b9d02c4091f6
-"
-        
+      "7ef378f0dea8a24d1140374121e0001d778d4959ec67b9d02c4091f6"
     ]
-}
-{
+  },
+  {
     "project": "Hide And Wait",
     "policies": [
-        "ecce00fba63a798460d22deab4d4ac6213cf232cf586324d46158b94
-"
-        
+      "ecce00fba63a798460d22deab4d4ac6213cf232cf586324d46158b94"
     ]
-}
-{
+  },
+  {
     "project": "Don't Leave",
     "policies": [
-        "2b8812c9f965d0b7c4d494ef70d9b4a21d38431e664174642cd59e54
-"
-        
+      "2b8812c9f965d0b7c4d494ef70d9b4a21d38431e664174642cd59e54"
     ]
-}
-{
+  },
+  {
     "project": "Breathing Space",
     "policies": [
-        "b09089b526f6d98f3193f9f04e9ef52effb1512df97d66854be79bdf
-"
-        
+      "b09089b526f6d98f3193f9f04e9ef52effb1512df97d66854be79bdf"
     ]
-}
-{
+  },
+  {
     "project": "Continued Existence",
     "policies": [
-        "1c413c3bc8c581ef776782806487de8c85017b153abb938c4a85d8db
-"
-        
+      "1c413c3bc8c581ef776782806487de8c85017b153abb938c4a85d8db"
     ]
-}
-{
+  },
+  {
     "project": "Hail The Whale",
     "policies": [
-        "2d74aee38979b690a3fc52793ab17cbf2d348b0aea1e32e450cdc30d
-"
-        
+      "2d74aee38979b690a3fc52793ab17cbf2d348b0aea1e32e450cdc30d"
     ]
-}
-{
+  },
+  {
     "project": "Day Dreamer",
     "policies": [
-        "9f6cf9f408fb1bc980f6f43433fb072e8b7de0e43b6505c40b5da514
-"
-        
+      "9f6cf9f408fb1bc980f6f43433fb072e8b7de0e43b6505c40b5da514"
     ]
-}
+  }
+]
