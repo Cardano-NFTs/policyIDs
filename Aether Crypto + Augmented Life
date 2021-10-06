@@ -22,6 +22,17 @@
     ]
     },
     {
+    "project": "Commemorative and Events",
+    "tags": [
+        "Commemorative",
+        "Events"
+    ],
+    "policies": [
+        "abb5bbd061fabb4ffa3d3feff0b4e057fd386b2c76f55261cfffe31b",
+        "08264d9af80202727cd602667fb89a89c237566a7caa316f8ad074ad"
+    ]
+    },
+    {
     "project": "The Pasta Society",
     "tags": [
         "The Pasta Society",
@@ -40,6 +51,21 @@
     ]
     },
     {
+    "project": "Cardano420 Stake Pool",
+    "tags": [
+        "Cardano420",
+        "Cardano_420",
+        "WEED"
+    ],
+    "policies": [
+        "abb5bbd061fabb4ffa3d3feff0b4e057fd386b2c76f55261cfffe31b",
+        "f6d8a162e249d53c2275c0b9c566da6914f3be59c8d91c93557d47ba",
+        "47ef3342ead318b175f00173f65b4b95c59df54f0ddedd3e591a1ceb",
+        "45b0906c1bbe1d185af9cb3afd13ec3b9c667896c3b5487709a915fe",
+        "08393e1c6f23ca900a9d282b7e2bff302ce04eee158f31f00e9c501c"
+    ]
+    },
+    {
     "project": "Augmented Life",
     "tags": [
         "Dolores del Sol",
@@ -48,8 +74,9 @@
     "policies": [
         "a9ce1062084a83a1f576e41eb27fa93b88e18830f8fe26515e03a71d",
         "a50d3a7193466a1b8aa7e97b8410921efb67c4d61bbcb35634e72320",
+        "c075a016e7334dca9f78ba7be07c15ab9d7a96f3d65c10a65f6af321",
         "3b26d5222ae57a2b352f00e102b5d059f5ca8c57ee1e5cf4ccab189e",
-        "c075a016e7334dca9f78ba7be07c15ab9d7a96f3d65c10a65f6af321"
+        "d1f065402b9f8b2943bc8efecd9536a2bff44f84a26eb1590971f84a"       
     ]
 }
 ]
