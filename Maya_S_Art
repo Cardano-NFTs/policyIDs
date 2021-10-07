@@ -1,9 +1,9 @@
 {
-    "project": "Maya_S_Art",
-    "tags": [ 
-        "Maya_S" 
-    ]
-    "policies": [
-        "2a8c4fe925fcac8bce56c5ca69690e0ac2ca15c8c42bf118bab8a45c"
-    ]
+  "project": "Maya_S_Art",
+  "tags": [
+    "Maya_S"
+  ],
+  "policies": [
+    "2a8c4fe925fcac8bce56c5ca69690e0ac2ca15c8c42bf118bab8a45c"
+  ]
 }
