@@ -1,6 +1,8 @@
 {
-    "project":
-    "Energia Galáxia",
+    "project": "Galaxy Energy",
+    "tags": [
+        "Galaxy Energy"
+    ],
 "policies": [
  "Galaxy Energy bde52528724eb3761a921dc68aa85e4fa259d5a5b50b86442229ae5f",
               
