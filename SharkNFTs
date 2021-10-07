@@ -1,16 +1,19 @@
 {
-    "project": "SharkNFTs",
-    "tags": [
-        "GreatWaveSharkdano",
-        "Sharkdano",
-        "Pating Series #00",
-        "Shark For Good"
-    ],
-    "policies": [
-        "1f2350f7308030cce847ae7437a8d94bab3ee3227998d9f74f4203ef",
-        "2b772d509c363c5bbbb6938bcb39e92013391efac0bbd0c3c44e785c",
-        "660f0e22b21ad4a8c7ba68db1eed2665a3d18d2f195295ef06d6c873",
-        "602b9a4b3ee513104934e945ab9ebf6785718d8efb89a03a15f05fdc",
-        "476463f977d6d60e6763a1c119b3a16e38c5e1ac61c59ba5d866dccd"
-    ]
+  "project": "SharkNFTs",
+  "tags": [
+    "GreatWaveSharkdano",
+    "Pating Series #00",
+    "Shark For Good",
+    "Shark Contract"
+  ],
+  "policies": [
+    "1f2350f7308030cce847ae7437a8d94bab3ee3227998d9f74f4203ef",
+    "2b772d509c363c5bbbb6938bcb39e92013391efac0bbd0c3c44e785c",
+    "660f0e22b21ad4a8c7ba68db1eed2665a3d18d2f195295ef06d6c873",
+    "602b9a4b3ee513104934e945ab9ebf6785718d8efb89a03a15f05fdc",
+    "476463f977d6d60e6763a1c119b3a16e38c5e1ac61c59ba5d866dccd",
+    "4e2ea878676dbe78ff700eef77edd71d5df0d775707823cb0c6ec795",
+    "de3604072af66039fc773418bc755092c3d0dd8b77ee7068b4b69fd4",
+    "8d4eaf81bbdae53cc6492d1b61895fa57f97784a6ef8086918240dcb"
+  ]
 }
