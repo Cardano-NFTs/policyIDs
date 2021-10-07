@@ -1,10 +1,14 @@
 {
     "project": "Carolina Mascarenhas",
     "tags" : [
-          "Carolina Mascarenhas"
+          "Carolina Mascarenhas",
+          "Rare",
+          "Very Rare",
+          "Unique",
+          "Artwork",
           ],
     "policies": [
-        "95f3cab8923005f91b24b375b4ec0204eac9d0f8b37894eb854cdbc4"
-      
+        "95f3cab8923005f91b24b375b4ec0204eac9d0f8b37894eb854cdbc4",
+        "ab7665d06c8300f4ab8dfeba0e11ca6320fa724f746536bdfed9c882"
     ]
 }
