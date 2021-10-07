@@ -1,18 +1,18 @@
 {
-    "project": "FM MOOD",
-    "tags": [
-        "FM MOOD",
-        "MF DOOM",
-        "DOOMSDAY",
-        "hip hop",
-        "music",
-        "art",
-        "trading card",
-        "rare",
-        "limited"
-    ],
-    "policies": [
-        "36f40f154fe1a787d80eb3327130e5b9d3b1fc0466bd6b107207bc90"
-          ]
+   "project":"FM MOOD",
+   "tags":[
+      "FM MOOD",
+      "MF DOOM",
+      "MM FOOD",
+      "DOOM",
+      "art",
+      "rare",
+      "limited",
+      "GIF",
+      "hip hop",
+      "music"
+   ],
+   "policy":[
+      "36f40f154fe1a787d80eb3327130e5b9d3b1fc0466bd6b107207bc90"
+   ]
 }
-
