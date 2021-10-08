@@ -9,12 +9,21 @@
         ]
     },
     {
-        "project": "CardanoDaughters",
+        "project": "CustomWaifus",
         "tags": [
-            "CardanoDaughters"
+            "CustomWaifus"
         ],
         "policies": [
             "c9f082d0e2e1c46d7e43dc2633b91054841001ee618004de22f66a8e"
+        ]
+    },
+    {
+        "project": "MangaCover",
+        "tags": [
+            "MangaCover"
+        ],
+        "policies": [
+            "b211283237d50e5fae22fef8dda898297a02ebe8d36be51f17ff3391"
         ]
     }
 ]
