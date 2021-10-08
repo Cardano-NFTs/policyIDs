@@ -1,0 +1,38 @@
+[
+  {
+    "project": "ElementZ - SomeTwist",
+    "policies": [
+      "db3b809f2cb1076e2120aa5fcb81326ab048f461fc05b86d3b169439"
+    ]
+  },
+  {
+    "project": "ElementZ - DreamsNeverDie",
+    "policies": [
+      "8506f7c6514fcd3ab254f173c3203212f85b3a0bcedd22f4a90dafe9"
+    ]
+  },
+  {
+    "project": "ElementZ - FractalBlocks - SeriesOne",
+    "policies": [
+      "0dfa01922f8472159ce8fb8859c0e26bbe4aa235615a586813688416"
+    ]
+  },
+  {
+    "project": "ElementZ - FractalBlocksRemix - DeepFuchsia",
+    "policies": [
+      "86af7b23edc9058668a9f57ddefa1b73a936e238722ec91e75c7f430"
+    ]
+  },
+  {
+    "project": "ElementZ - FractalBlocksRemix - Ignition",
+    "policies": [
+      "6dc8d48d161d7f6dde127c16211be59cf55f99835bf54485b40b2441"
+    ]
+  },
+  {
+    "project": "ElementZ - FractalBlocks - DigitalTrip 2021",
+    "policies": [
+      "eeee5d56020b39aeb21b94f75b34981ff40f1bd1147f519456065eb4"
+    ]
+  }
+]
