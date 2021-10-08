@@ -1,9 +1,10 @@
 {
-        "project": "Cryptodelic-NFrogTs",
-        "tags": [
-            "CryptodelicFrog", "CryptodelicNFrogT"
-        ]
-        "policies": [
-            "0f5a6226cf45c5687d2ddb6c12d067d05292dbc9ffc8d4897e5e82d6"
-        ]
-    }
+  "project": "Cryptodelic-NFrogTs",
+  "tags": [
+    "CryptodelicFrog",
+    "CryptodelicNFrogT"
+  ],
+  "policies": [
+    "0f5a6226cf45c5687d2ddb6c12d067d05292dbc9ffc8d4897e5e82d6"
+  ]
+}
