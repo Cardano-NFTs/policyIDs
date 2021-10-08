@@ -1,0 +1,11 @@
+{
+    "project": "GenerativeDrop",
+    "tags": [
+      "GenerativeDrop"
+    ],
+    "policies": [
+        "c45ead7e149c46eeec65f537965d361c3256b6fd10742a3e10553b31",
+        "198c7229535c4c33567ccee66caa6bdb04bd967442fb725121db5640",
+        "9ec4a38028060de286c388d043586c2d6160307c887bd02dab4b3e86"
+    ]
+}
