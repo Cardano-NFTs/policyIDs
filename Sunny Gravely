@@ -1,8 +1,6 @@
 {
-    "project": "Sunny Gravely",
-    "policies": 
-        "ae35e299b05cc52c8508e1869d8cfa86698219bb16d2ddc9a992e233"    
+  "project": "Sunny Gravely",
+  "policies": [
+    "ae35e299b05cc52c8508e1869d8cfa86698219bb16d2ddc9a992e233"
+  ]
 }
-"social_media": {
-"twitter": "Sunny Gravely@FousheeSunny",
-"website": "www.sgravelyoriginals.com"
