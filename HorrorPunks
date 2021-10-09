@@ -3,9 +3,14 @@
     "tags": [
         "Horror",
         "Punks",
-        "HorrorPunks"
+        "HorrorPunks",
+        "HorrorPunksPreDrop",
+        "PreDrop"
     ],
     "policies": [
-        "d8a96afb1e6edb4e45955ecf82d59b81ed6de694b2623ec4e1811e50"
+        "d8a96afb1e6edb4e45955ecf82d59b81ed6de694b2623ec4e1811e50",
+        "cd7ff30a1f52348f0488ef2ff034d7ad7ecfb18d684b2836e5e8d2ba",
+        "0173b1185ed51597b94545eb7317745c09e9c77ceecb428cbc47cc80",
+        "61efc9cbfa6d023f9ac0059aae3373df4d81d0824dc3a9c9d051f609"
     ]
 }
