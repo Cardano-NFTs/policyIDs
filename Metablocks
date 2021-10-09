@@ -1,21 +1,20 @@
 {
-    "project": "Metablocks",
-    "tags": [
-        "Metablocks",
-        "Metablock",
-        "Meta",
-        "block",
-        "generative"
-        "ghostart"
-    ],
-    "policies": [
-"741dbf55aadb628d7da206d4b07e0e5ad0c8c3ec7647de116e69bd6f",
-"a4df288a62fbd23ed411234aa42d90f1a643ce808227781274b07d13",
-"03e3dd415fdfe5ef9aae1812717cec5e71cb04af5415d730b6e800f9",
-"c2642b62d52b818eb7fef6008a5e0026835ea96d48c45ce66cdeab6e",
-"86d028cfcc606084b808fcb7b0d43e0788f8781f690e7255baf90a6f",
-"a6728aa2b3e70daee9ba46e602c2cb11ebe57781f2573e776b3fe75e",
-"3648e267704f55ad6403efbf0f9be74c111de087d13e2c29dccbd345"
-        
-    ]
+  "project": "Metablocks",
+  "tags": [
+    "Metablocks",
+    "Metablock",
+    "Meta",
+    "block",
+    "generative",
+    "ghostart"
+  ],
+  "policies": [
+    "741dbf55aadb628d7da206d4b07e0e5ad0c8c3ec7647de116e69bd6f",
+    "a4df288a62fbd23ed411234aa42d90f1a643ce808227781274b07d13",
+    "03e3dd415fdfe5ef9aae1812717cec5e71cb04af5415d730b6e800f9",
+    "c2642b62d52b818eb7fef6008a5e0026835ea96d48c45ce66cdeab6e",
+    "86d028cfcc606084b808fcb7b0d43e0788f8781f690e7255baf90a6f",
+    "a6728aa2b3e70daee9ba46e602c2cb11ebe57781f2573e776b3fe75e",
+    "3648e267704f55ad6403efbf0f9be74c111de087d13e2c29dccbd345"
+  ]
 }
