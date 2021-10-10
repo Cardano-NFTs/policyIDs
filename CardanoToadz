@@ -1,0 +1,10 @@
+{
+    "project": "CardanoToadz",
+    "tags": [
+        "CardanoToadz"
+    ],
+    "policies": [
+      "p1 here",
+      "p2 here"
+    ]
+}
