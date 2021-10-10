@@ -2,6 +2,7 @@
     "project": "CardanoChain",
     "tags":[
                "CardanoChain"
+               "CardanoPunks"
     ],
     "policies": [
          "24f62c178ea87dffec51ff56d084a11ebc674e7c4512a9285fbd5b4c",
