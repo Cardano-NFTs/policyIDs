@@ -1,5 +1,8 @@
 {
-    "project": "Bomber Boy",
+    "project": "Bomber Boy 1",
+    "tags": [
+    "BomberBoy1"
+    ]
     "policies": [
         "18fc93ea73589775fb594286a96b793c58b5c35987367370ba83add3"
     ]
