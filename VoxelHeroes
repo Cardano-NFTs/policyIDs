@@ -1,7 +1,7 @@
 
 [
    {
-      "project":"VoxelHeroes",
+      "project":"Toys in the box",
       "tags":[
          "VoxelHeroes",
          "voxel",
@@ -12,7 +12,9 @@
          "fz",
          "3d",
          "360views",
-         "kufi"
+         "toy",
+         "toyinabox"
+         
       ],
       "policies":[
          "f9b5e1c27e29759b45b1fa42e43906408c0c17cbff6b4e100afbda58"
