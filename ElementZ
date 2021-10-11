@@ -66,5 +66,43 @@
         "policies": [
             "eeee5d56020b39aeb21b94f75b34981ff40f1bd1147f519456065eb4"
         ]
+    },
+    {
+        "project": "ElementZ - FractalBlocks - Digital Noise",
+        "tags": [
+        "ElementZ",
+        "FractalBlocks",
+        "Fractal",
+        "Digital",
+        "Noise"
+        ],           
+        "policies": [
+            "8bd8070c29c40a94eaa3edfe8360f5bd4a8924295e408d793970132b"
+        ]
+    },
+    {
+        "project": "ElementZ - FractalBlocksRemix - Bubbles11",
+        "tags": [
+        "ElementZ",
+        "FractalBlocks",
+        "Fractal",
+        "Bubbles"
+        ],           
+        "policies": [
+            "236aca4aed82364caa87d84d6183da65ab4ab97bd7e8ccff5ca0b300"
+        ]
+    },
+        {
+        "project": "ElementZ - FractalBlocks - Limited - BubbleArt-Bubbles11",
+        "tags": [
+        "ElementZ",
+        "FractalBlocks",
+        "Fractal",
+        "Bubbles",
+        "limited"
+        ],           
+        "policies": [
+            "ff7667108af88c7a9bf01005088c49b71582f222d71f7581ae3aa499"
+        ]
     }
 ]
