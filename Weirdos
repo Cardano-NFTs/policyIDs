@@ -1,5 +1,12 @@
 [
     {
+        "project": "Project AiDa",
+        "policies": [
+            "46a69b3de7f2b8ff9d0cddd801ff5eee019743a0bbc1b4330567f90c",       
+        ]
+    },
+
+    {
         "project": "Weirdos",
         "policies": [
             "7532f854a01fb5b3fe943d19832bc266e1e86d3f8f3e99a6f2c154d6",       
