@@ -1,6 +1,14 @@
-{
-    "project": "Crypto Commander",
-    "policies": [
-        "cdbd75709f1a5a18d8c16f08680a30f2ce7860abd42bbc9413680074"
-    ]
-}
+[
+   {
+      "project":"Crypto Commander",
+      "policies":[
+         "cdbd75709f1a5a18d8c16f08680a30f2ce7860abd42bbc9413680074"
+      ]
+   },
+   {
+      "project":"the gf project",
+      "policies":[
+         "04b9d9c2505f60a2bdf329dd1c982fa39f9594d7190c4f7bbd2507c6"
+      ]
+   }
+]
