@@ -1,18 +1,18 @@
 {
-    "project": "CardanoComics",
-    "tags": [
-        "CardanoComics",
-        "Captain Cardano",
-        "Protocol Liqwid",
-        "World Staker",
-        "The Typist"
-        "Fahadouken"
-    ],
-    "policies": [
-        "204f2989b16e075f01c8360e3d085e18194b7e978994a732a8638522",
-        "cecc2f46771fe7c3b5f3d3a37969055b16bc72d8787b8228279853cb",
-        "13f65655055cffd4c3bdc835d473ea1ec88835b7eeda7582e4c5589c",
-        "76922ad035bf8f4770cf83785fc3039fe1950b2064414de230ecdf51",
-        "490c7f44496713a4bbcbf031945738574d365fb8b7c09b8871757745"
-    ]
+  "project": "CardanoComics",
+  "tags": [
+    "CardanoComics",
+    "Captain Cardano",
+    "Protocol Liqwid",
+    "World Staker",
+    "The Typist",
+    "Fahadouken"
+  ],
+  "policies": [
+    "204f2989b16e075f01c8360e3d085e18194b7e978994a732a8638522",
+    "cecc2f46771fe7c3b5f3d3a37969055b16bc72d8787b8228279853cb",
+    "13f65655055cffd4c3bdc835d473ea1ec88835b7eeda7582e4c5589c",
+    "76922ad035bf8f4770cf83785fc3039fe1950b2064414de230ecdf51",
+    "490c7f44496713a4bbcbf031945738574d365fb8b7c09b8871757745"
+  ]
 }
