@@ -1,11 +1,11 @@
 {
-    "project": "CardanoAmigos",
-    "tags": [
-        "CardanoAmigos"
-        "Cardano Amigos"
-    ],
-    "policies": [
-        "8be65842bc095e460f6fdb817ff99cdf33d40750ddf6e7c0624439b3"
-        "429636662a375df6c6cf5194c0fff340baab8775a76f6da0a2b20b9d"
-    ]
+  "project": "CardanoAmigos",
+  "tags": [
+    "CardanoAmigos",
+    "Cardano Amigos"
+  ],
+  "policies": [
+    "8be65842bc095e460f6fdb817ff99cdf33d40750ddf6e7c0624439b3",
+    "429636662a375df6c6cf5194c0fff340baab8775a76f6da0a2b20b9d"
+  ]
 }
