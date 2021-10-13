@@ -1,5 +1,19 @@
 {
     "project": "SevenDeadlySins",
+    "tags": [ 
+        "thesevendeadlysins",
+        "TSDS",
+        "tsds",
+        "seven",
+        "sins",
+        "greed",
+        "envy",
+        "gluttony",
+        "lust",
+        "pride",
+        "sloth",
+        "wrath"
+    ],
     "policies": [
         "3a76db773877b534f453b600c4ad5394bc7612298ab4859edf64e4cc"
     ]
