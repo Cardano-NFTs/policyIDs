@@ -16,15 +16,22 @@ __**Information:**__
 
 https://www.youtube.com/watch?v=z6yPjed4sMI
 
+Validate your code before requesting: https://jsonformatter.curiousconcept.com/#
+
 Single Project:
 ```json
 {
-    "project": "PlanetPalz",
+    "project": "CardanianSnowGlobes",
+    "tags": [
+        "CardanianSnowGlobes"
+    ],
     "policies": [
-        "89fa6dc66a24799ccaee43a3a16930bb045a8152fdf2a2642034774f",
-        "example66a24799ccaee43a3a16930bb045a8152fdf2a2642034774f"
-    ]
+        "2d1e33d10789b2284788e7e67bd3fd2d07194720bc81f475adf45cbe",
+              "eadf22778135584d96da25ebf4696de1e2bed4b9422ea24444442ade",
+              "8aae5b74fb6f66755911200634427ea484bfd2bd313db30a37e96c7b"
+          ]
 }
+
 ```
 
 Multiple Projects under one name:
