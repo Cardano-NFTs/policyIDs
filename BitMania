@@ -1,27 +1,28 @@
 [
-{
+  {
     "project": "BitMania",
     "tags": [
-        "Bit Mania",
-        "Bitmania",
-        "Mania",
-        "Bit"
+      "Bit Mania",
+      "Bitmania",
+      "Mania",
+      "Bit"
     ],
     "policies": [
-        "f106cf30e10297c20d96ec76770b4bab585ddb8a92cbe0e9dc3931a3",
-        "886c7b57ef145886f68fd7c0666cfdbd5737eff1c9fc3050247b5e9e",
-        "6c02bdd3eae555709203edc7e1a9e99f6bb542c7f75fe4ed33fc9145",
-        "a32ea2bce61c5bc23730a15531a8574eac68f44eeddd536e8359c9dc"
+      "f106cf30e10297c20d96ec76770b4bab585ddb8a92cbe0e9dc3931a3",
+      "886c7b57ef145886f68fd7c0666cfdbd5737eff1c9fc3050247b5e9e",
+      "6c02bdd3eae555709203edc7e1a9e99f6bb542c7f75fe4ed33fc9145",
+      "a32ea2bce61c5bc23730a15531a8574eac68f44eeddd536e8359c9dc"
     ]
-},
-    {
-      "project": "PinkGalaxy",
-      "tags": [
-        "Pink",
-        "PinkGalaxy"
-      "policies": [
-        "bd74264901821cf6b5e623598412d7e549962bf9fbff17197efff404",
-        "36c8ff36b15fdc85e773e8feccbc1ec06b81d5ece3e9760eda5e25c6"
-        ]
-    }
+  },
+  {
+    "project": "PinkGalaxy",
+    "tags": [
+      "Pink",
+      "PinkGalaxy"
+    ],
+    "policies": [
+      "bd74264901821cf6b5e623598412d7e549962bf9fbff17197efff404",
+      "36c8ff36b15fdc85e773e8feccbc1ec06b81d5ece3e9760eda5e25c6"
+    ]
+  }
 ]
