@@ -1,10 +1,21 @@
-{
-    "project": "KrizADArt",
-    "tags": [
-        "KrizADArt"
-     ],   
-    "policies": [
-        "35a7d615732156442c779a227dcb53e2e6841c24aa4012b63729da98"
+[
+    {
+        "project": "KrizADArt",
+        "policies": [
+            "35a7d615732156442c779a227dcb53e2e6841c24aa4012b63729da98"
+        ]
         
-    ]
-}
+    }
+    ,
+    {
+        "project": "RoboWorld V1",
+        "policies": [
+            "7ea47d67ee20f5188c4f38e7da509775cb64d5bc31894ae92afbecaa",
+            "0db9913e95b49f9ae497e6a8eb559937b1965fd359d82eb347020aa2",
+            "8ff6131d0a6dd8eff09e17ae655b383456699d0a19cd310ce440c4f8",
+            "c4d2ad659aef9c1cb727892fb5a0525dc1030baa67a9b134f96ff57e"
+        ]
+        
+    }
+    
+]
