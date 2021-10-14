@@ -1,3 +1,4 @@
+[
 {
     "project": "BeyondRockets",
     "tags": [
@@ -10,7 +11,16 @@
         "1a645cd395468cf51b24ba319aefb0279e9cac89a193dc2348619fff",
         "638c8bb1686bc2cbaf746d1c1c7e0058b2070bb9544d671569dce438",
         "4ef91729afe00e44b12c1e2234f151fb8e15bf4a4c3c99684b6a9b13",
-        "b60e747a753d36c8eaf08e58608e79e2d64152c94d8acd4b2a7ea25e",
+        "b60e747a753d36c8eaf08e58608e79e2d64152c94d8acd4b2a7ea25e"
+    ]
+},
+{
+    "project": "BeyondRockets Records",
+    "tags": [
+        "BeyondRockets Records"
+    ],
+    "policies": [
         "dee73575bbe4adb82b286fcb47aa9db4db5ae431209e64f19cc19c5b"
     ]
 }
+]
