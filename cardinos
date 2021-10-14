@@ -1,16 +1,36 @@
+[
 {
     "project": "Cardinos",
-    "tags": [
-        "Cardino", "Skydino"
-    ],
+    "tags": [ "Cardino", "Cardinos"],
     "policies": [
-        "4a7f6db810294738dae82fdb201230f32ac18c0640d02fa0100756c0", 
-        "56af1016943d18a253c7e2eff9e48dc7c39c977181b8ccb0d8b9b0b2", 
+        "4a7f6db810294738dae82fdb201230f32ac18c0640d02fa0100756c0",
         "010aa7bbd3ccbf5090dca56c59e2b0179f5d8fabbbee5bd002a655df",
         "62bdafbedb05cab49c90ed11218bd71983570bdcfd98f1635050e22a",
         "f88609f8bca9965d40de6610e42859fa59571dd697dcf276c0fc9981",
         "151eb3836fa22de8cfd16b17de7189e76c866842e7ce59b0a76705bb",
-        "bd3602618dc1d4aec509e3532032ef204e0583ff6d5ad4ea81e96145",
         "56a82d55b266c9e39310f02df6b53236d5312a528c9e0711647d5aa0"
     ]
+},
+{
+    "project": "Skydinos",
+    "tags": [ "Skydino", "Skydinos"],
+    "policies": [
+        "56af1016943d18a253c7e2eff9e48dc7c39c977181b8ccb0d8b9b0b2"
+    ]
+},
+{
+    "project": "Seadinos",
+    "tags": [ "Seadino", "Seadinos"],
+    "policies": [
+        "bd3602618dc1d4aec509e3532032ef204e0583ff6d5ad4ea81e96145"
+    ]
+},
+{
+    "project": "Reginald NFT",
+    "tags": [ "Reginald", "Reggie", "Cardinos"],
+    "policies": [
+        "b9d660d6e74946fb04ae4cef4e6cb6817ebc6de2bbe679afed95566a",
+        "fece5531a79a26dbff8f59c39ce111bcdaf1499af7ee601765b58bfd"
+    ]
 }
+]
