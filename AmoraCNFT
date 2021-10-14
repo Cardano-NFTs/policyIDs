@@ -1,23 +1,15 @@
 {
-
-    "project": "AmoraCNFT“,
-
-    "tags": [
-
-        "AmoraCNFT“
-
-    ],
-
-    "policies": [
-
-        "698fd14299231c1b0b5a2176a5b5ae28cc33817a59a55fbab0f09922",
-        "02fbbf022859a2530d2ee456db4b2de6cd6580131a06344bde50eca3",
-        "588e3b4a501245af52e29333623299e8b594ef73259e75a9c118cc6e“,
-        "7f6b2ce8fac10938d59d6be0afc967bcbf5ea48f898af49f7075bc9b",
-        "4b9a81b5ca932aa2bde26e09ab42cf5b7af2d6435329666462615388",
-        "7637a792ea1e7cf8cc3246e7ff5b66d6a8a0a5301744eb661e6f256f“,
-        "0b80019f933ca8152ed63a7ab6c5addc0ff2d3157fe983a11cba55f7“
-
-    ]
-
+  "project": "AmoraCNFT",
+  "tags": [
+    "AmoraCNFT"
+  ],
+  "policies": [
+    "698fd14299231c1b0b5a2176a5b5ae28cc33817a59a55fbab0f09922",
+    "02fbbf022859a2530d2ee456db4b2de6cd6580131a06344bde50eca3",
+    "588e3b4a501245af52e29333623299e8b594ef73259e75a9c118cc6e",
+    "7f6b2ce8fac10938d59d6be0afc967bcbf5ea48f898af49f7075bc9b",
+    "4b9a81b5ca932aa2bde26e09ab42cf5b7af2d6435329666462615388",
+    "7637a792ea1e7cf8cc3246e7ff5b66d6a8a0a5301744eb661e6f256f",
+    "0b80019f933ca8152ed63a7ab6c5addc0ff2d3157fe983a11cba55f7"
+  ]
 }
