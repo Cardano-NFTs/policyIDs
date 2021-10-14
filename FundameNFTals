@@ -1,11 +1,9 @@
 {
-  "project":"FundameNFTals",
+  "project": "FundameNFTals",
   "tags": [
     "FundameNFTals"
-],
-
-"policies":,
-      [
+  ],
+  "policies": [
     "765f976201cc499aab5a34074dd86bdf82368bc3a2644cf3c2a14a74"
-   ]
+  ]
 }
