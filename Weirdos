@@ -1,0 +1,51 @@
+[
+    {
+        "project": "Project AiDA",
+        "policies": [
+            "46a69b3de7f2b8ff9d0cddd801ff5eee019743a0bbc1b4330567f90c",       
+        ]
+    },
+
+    {
+        "project": "Weirdos",
+        "policies": [
+            "7532f854a01fb5b3fe943d19832bc266e1e86d3f8f3e99a6f2c154d6",       
+        ]
+    },
+    
+    {
+        "project": "Bixies",
+        "policies": [
+            "9210bc60e1240722cf15c906fc4428987fe7e5662fbdb48686852c8e",       
+        ]
+    },
+    
+    {
+        "project": "DOS1 Bot",
+        "policies": [
+            "240eafd8a01fa6cf68f531c42a0b892f4ff5ac9382828520ac237674",       
+        ]
+    },
+    
+    {
+        "project": "Aki Ninja",
+        "policies": [
+            "a81242c01864fedb083339ec34ab1866dd697bebfa316bb5691408be",       
+        ]
+    },
+    
+    {
+        "project": "LittlePlanets",
+        "policies": [
+            "4ecbc02c170b387166a08c6928c0765eca5c989b4708d6c55a7bd31d",       
+        ]
+    },
+    
+    {
+        "project": "No more sleep",
+        "policies": [
+            "cc9db6364af16ae70143ec72cf73a156b1db9e09244ed3b12ba7b79c"
+        ]
+    }
+]
+
