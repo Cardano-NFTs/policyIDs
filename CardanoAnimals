@@ -1,0 +1,14 @@
+{
+    "project": "CardanoAnimals",
+    "tags": [
+        "CardanoAnimals"
+    ],
+    "policies": [
+        "15bfd1663d928e0010a68e0c4fed9c10f4ba71e42de85ea81bdde460",
+              "7e1e1b91f2a2db531ba3b2c13450cf46fb58b4cbd6ea8104c930df89",
+              "8020438cfe72a9e2082d875addb138636dfcaf654742ea1dafdff8e3",
+              "2161229a08e1e4e6ba9b2bb4c6a086f12689a47803a7ee7d37112c8e",
+              "2de015ff03eff5f071d1604e5d84f8363609da27e1a80e54276f9bb2",
+              "db2069cdd3ed11009e3db65bbb0d44aacbc5608fb20ef9f720d2c691",
+          ]
+}
