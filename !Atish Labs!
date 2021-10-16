@@ -1,3 +1,4 @@
+[
 {
     "project": "KarateXplosion",
     "tags": [ 
@@ -14,8 +15,7 @@
      "policies": [
         "8f629c447287cd0e64a156acbcd65495b36be6b7002256c8c9231cfb"
          ]
-}
-[
+    },
     {
         "project": "FF1Punks",
         "tags": [ 
@@ -24,7 +24,7 @@
             "punk",
             "punkz",
             "punks",
-            "atish"
+            "atish",
             "labs",
             "lab",
             "ff1"
@@ -63,7 +63,7 @@
             "lab"
         ],
         "policies": [
-            "8e02449e569323e1d4d329f9cbdcccca592949f432402e25ca390937"
+            "8e02449e569323e1d4d329f9cbdcccca592949f432402e25ca390937",
             "83ae38349ebc09f35e78f603cb716a0329ce2e34587e57b3c80619d8"
         ]
     }
