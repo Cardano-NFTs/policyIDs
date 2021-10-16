@@ -1,0 +1,14 @@
+[
+    {
+        "project": "CardanoSticks",
+        "policies": [
+            "161b4083f3e72aaf9abfe59e6c3d3090fbbf30da605388b7b37a32ea"
+        ]
+    },
+    {
+        "project": "HalloweenSpecial",
+        "policies": [
+            "cc670783d2348bd4baae8a964a2a7b3e5a6c68f22b7834f70f40838b"
+        ]
+    }
+]
