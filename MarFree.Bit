@@ -1,12 +1,12 @@
 {
-    "project": "MarFree.Bit",
-    "tags":  [
-        "MarFree.Bit"
-    ]
-    "policies": [
-        "0b4a30514a6104700ccfa25497dec1fc17478f5887453d8e230e66a8",
-        "6cbc81274f818d2db7680c8514204723646e647486359f2b77a3b0ae",
-        "e6d8d10acede41b33b26dcc9d24de42072ca877c663661961d0ed829",
-        "3b72dbe145ab0c38f48b1ab8ad16a9ede962ab3f99c0c4902010c7fd"
-    ]
+  "project": "MarFree.Bit",
+  "tags": [
+    "MarFree.Bit"
+  ],
+  "policies": [
+    "0b4a30514a6104700ccfa25497dec1fc17478f5887453d8e230e66a8",
+    "6cbc81274f818d2db7680c8514204723646e647486359f2b77a3b0ae",
+    "e6d8d10acede41b33b26dcc9d24de42072ca877c663661961d0ed829",
+    "3b72dbe145ab0c38f48b1ab8ad16a9ede962ab3f99c0c4902010c7fd"
+  ]
 }
