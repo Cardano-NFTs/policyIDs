@@ -1,0 +1,27 @@
+[
+    {
+        "project": "Cyberpunk Samurais",
+        "policies": [
+            "asset172m63rv8m6kzglnylcxmf0uup2654s62xqyu3h"
+        ]
+    },
+    {
+        "project": "Zombie-Kong",
+        "policies": [
+            "asset1q0amgshuunrx8fucpt62s8tn9yk7uht6cq3nmw"
+        ]
+    },
+    {
+        "project": "T800",
+        "policies": [
+            "7b42adc18b3769119f66b71f0c7e3a16c382c343a2c8cbfe24046bf5"
+        ]
+    },
+    {
+        "project": "Symbiotes Collection",
+        "policies": [
+            "a4c634ee5f8edc1ca5b755c306612a1f7058c02dc08d51a19ea856ab"
+        ]
+    }
+    
+    ]
