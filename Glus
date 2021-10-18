@@ -67,5 +67,11 @@
         "policies": [
             "8bb97f61ef50177d075679a37c32c1461797b230b2ee7e7b52b813ff"
         ]
+    },
+    {
+        "project": "Glus X CardanoKeys - Mushroom Keys",
+        "policies": [
+            "bdf8c6170793a8d6c49089264e08dfe5cd589e1321393777150dd06e"
+        ]
     }
 ]

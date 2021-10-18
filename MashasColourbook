@@ -9,7 +9,13 @@
 	"grace",
 	"inky gal",
 	"deadly high",
-	"Masha"
+	"Masha",
+	"Madonna",
+	"Sublimis",
+	"Peter",
+	"Saint",
+	"SaintPeter",
+	"St.Peter"
     ],
     "policies": [
         "172d454841162427171f30de44672bdaedf5159d431bc19cf3e98e07",
@@ -18,6 +24,7 @@
 		"8d7c801fc5063bb9f7c192d432b0a51229286549ae6732178e293254",
 		"4cc0b7c9d4bb39a5a363fb3557c39ff2de804b7b70553f94e25d9220",
 		"cccf7981e8b1cb0884428427ad3e4b064f1439a27b27caa3717d4ebf",
-		"1fa515e2f008c3bc192b62793ac50706715306926713fafaa8064a38"
+		"1fa515e2f008c3bc192b62793ac50706715306926713fafaa8064a38",
+		"12946f74d526bacab033e99877329af50564ed92d5e36c58989d337d"
     ]
 }

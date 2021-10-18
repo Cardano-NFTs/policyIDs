@@ -1,8 +1,17 @@
-{
-    "project": "PixieNFT",
-    "tags": ["PixieCards", "PixieGuys"],
-    "policies": [
-        "02cb191f52ed9a57d7b3c9b1a117e3fa7cf56cc0becab9a1e6d515d0",
-        "bdd75cf45a6ac9872a51248ec84db6decdee0d70fde1457fa208f53e"
-    ]
-}
+[
+    {
+        "project": "PixieNFT",
+        "tags": ["PixieCards", "PixieGuys"],
+        "policies": [
+            "02cb191f52ed9a57d7b3c9b1a117e3fa7cf56cc0becab9a1e6d515d0",
+            "bdd75cf45a6ac9872a51248ec84db6decdee0d70fde1457fa208f53e"
+        ]
+    },
+    {
+        "project": "VoxelNFT",
+        "tags": ["Voxelart", "VoxelGuys"],
+        "policies": [
+            "565456c29e006d917bba186ce056c6958dafa6885c63bbcb2b06a3a5"
+        ]
+    }
+]

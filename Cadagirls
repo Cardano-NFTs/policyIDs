@@ -1,14 +1,11 @@
 {
-    "project": "Cadagirls",
-    "tags": [
-      
-    ],
-    "policies": [
-        "9daed478bfd62ca2c8599d498da171538e906040e929c3dfc1077f42"
-        "f3d21c06dbfddc431b9a7f9e577a9f4e8159544102aceeb88964da2c"
-        "76821f7ee3b9d2f1f2b317cbe35e37998a295eaca3ee9e8b6a84e9a4"
-        "e58a48f20539611b3cb3ec2e03bcc06b5ddaad42c1cc16c8ddcec268"
-        "4653b965904ca3c7a4f4c845dc41d9dcc9ace74a8aec6d1f747c4941"
-        
-    ]
+  "project": "Cadagirls",
+  "tags": [],
+  "policies": [
+    "9daed478bfd62ca2c8599d498da171538e906040e929c3dfc1077f42",
+    "f3d21c06dbfddc431b9a7f9e577a9f4e8159544102aceeb88964da2c",
+    "76821f7ee3b9d2f1f2b317cbe35e37998a295eaca3ee9e8b6a84e9a4",
+    "e58a48f20539611b3cb3ec2e03bcc06b5ddaad42c1cc16c8ddcec268",
+    "4653b965904ca3c7a4f4c845dc41d9dcc9ace74a8aec6d1f747c4941"
+  ]
 }
