@@ -1,0 +1,12 @@
+{
+    "project": "SAMANADA",
+    "tags": [
+        "SAMANADA"
+    ],
+    "policies": [
+        "policy1",
+        "policy2",
+        "policy3"
+          ]
+}
+
