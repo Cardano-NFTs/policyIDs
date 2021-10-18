@@ -1,13 +1,13 @@
 {
-    "CelebrateAlonzo",
+    "project": "CelebrateAlonzo",
     "tags": [
-        "ADAm"
-    ],
-    "policies": [
-        "115b2d208d6e62fdcf4d7283e3b3cd4b9a32f7b306d498180e1b5f73",
-              "6aef50c5baf6c51604381702f69bb8cc178f4ae2c31362488efb99f5",
-              "861b5e3087b1ee5824f76de9dfe08b60e17826c0c76ca6d861eb8af9",
-              "580d623615e7e9026f2c91270bd0830f3ef73ef7cafc859b8cb4d764"
-          ]
+         "ADAm"
+      ],
+      "policies": [
+     "115b2d208d6e62fdcf4d7283e3b3cd4b9a32f7b306d498180e1b5f73",
+     "6aef50c5baf6c51604381702f69bb8cc178f4ae2c31362488efb99f5",
+     "861b5e3087b1ee5824f76de9dfe08b60e17826c0c76ca6d861eb8af9",
+     "580d623615e7e9026f2c91270bd0830f3ef73ef7cafc859b8cb4d764"
+     ]
 }
 
