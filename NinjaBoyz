@@ -1,0 +1,23 @@
+{
+    "project": "NinjaCoin",
+    
+    "tags":[
+   
+    "Ninja Boy"
+    
+    ],
+    
+    "policies": [
+        "0b4387497ce5f77d3d8a440f89c7aea954fb692a3313d0431e05644f",
+        "28c2915fbbca91b0bf964fa76ddc39c110e4c657538c5c02e7ea7832",
+        "3376aefd7e5c1d7395c8e68c5c7fa77a6e02a0f3f1d318355a81568c",
+        "a8b2cb0e175beb59f82c02282775194d8c912e4f3cf2038670799d6d",
+        "b8c92f1021a49e47f9af05cc7d1f222e1302676c9ac37a8e55ffb84b",
+        "cc6f30ba93898f79a26c03529aae3aa373253c59b816cb446599116f",
+        "dbfbb1552de7ecd1c701b9771cdb7aae26fc7d0bf5afa5c5114f5986",
+        "e395605a2cda33af67298e89cd898962c7e0f037a20ebb01ccfa5103",
+        "eb2748c0b4150c3c9b7a246e3254d5528bad0915cbc7d9652e7e44e5",
+        "58856fa87c55859afdafeb142e837288d225a07afc32cbefebd131eb"
+       
+    ]
+}
