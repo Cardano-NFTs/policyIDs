@@ -19,4 +19,14 @@
         "4c1749abf4b74cdf2ee617be2cd976b92d2529889ba885e5d0c648a5",
         "4acc21ce6bdb9fc89b203bc7a7650f2107986d90de3fbc62bac1ccba"
     ]
-}
+},
+    {
+        "project": "Yummi Universe - Spoopy Naru",
+        "tags": [
+        "Yummi Universe"
+    ],
+        "policies": [
+            "7d2d1ee92be476d47043d26ac5a45402e3bdb50a34aa8d716babeefc"
+        ]
+    }
+]
