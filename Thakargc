@@ -2,13 +2,12 @@
     "project": "Thakargc",
     "tags": [
         "Thakargc",
-	"Basilik"
+	      "Basilik"
     ],
     "policies": [
         "f1de447d8e02394b82ab7f301ba38e2f282c41a245b621571100ed58",
         "a8ab83f410a6f3fbde7dceb07c55843867dcfb4220e0c3e63d865c1e",
 		    "3f99903897029385ef325a80a182758fac49f689a0eb3ea809f17bd6",
-		    "d8268ddd65af08b0e2a7cc5967df72a3820fc729d0ab6bf587628163",
-		    "893d2702e08d2fde48221b5fe513d216cb2dc05ea4c6652d764af3cf"
+		    "d8268ddd65af08b0e2a7cc5967df72a3820fc729d0ab6bf587628163"
     ]
 }
