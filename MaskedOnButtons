@@ -1,47 +1,47 @@
 [
-    {
-        "project": "MOB Origins",
-        "tags": [
-            "Masked On Buttons",
-            "MOB",
-            "MOB Origins"
-            ],
-        "policies": [
-            "1f02ffd171edc73021154e4103ad1240eb188751ecb035d12f231756"
-        ]
-    },
-    {
-        "project": "MOB ADA Buttons",
-        "tags": [
-            "Masked On Buttons",
-            "MOB",
-            "MOB ADA Buttons"
-            ],
-        "policies": [
-            "1b97e4f5687359064968c726d171ce6472f9a8ad19fb922d70fe48b1"
-            ]
-     },
-     {
-        "project": "MOB Lore Hunt",
-        "tags": [
-            "Masked On Buttons",
-            "MOB",
-            "MOB Lore Hunt"
-            ],
-        "policies": [
-            "bea41cde225159466664b35dc93e7c5c76458a4a7cc9f7aceb645788"
-            ]
-     }
-     {
-        "project": "MOB Parasite",
-        "tags": [
-            "Masked On Buttons",
-            "MOB",
-            "MOB Parasite"
-            ],
-        "policies": [
-            "c9d1eca7345a8fd8ddf8309cc612bfd2a05e56db42353853956d8a6a",
-            "074fed91205b602077de6a9bcfe0ec146962baf083bd0f8a231025b9"
-            ]
-     }
+  {
+    "project": "MOB Origins",
+    "tags": [
+      "Masked On Buttons",
+      "MOB",
+      "MOB Origins"
+    ],
+    "policies": [
+      "1f02ffd171edc73021154e4103ad1240eb188751ecb035d12f231756"
+    ]
+  },
+  {
+    "project": "MOB ADA Buttons",
+    "tags": [
+      "Masked On Buttons",
+      "MOB",
+      "MOB ADA Buttons"
+    ],
+    "policies": [
+      "1b97e4f5687359064968c726d171ce6472f9a8ad19fb922d70fe48b1"
+    ]
+  },
+  {
+    "project": "MOB Lore Hunt",
+    "tags": [
+      "Masked On Buttons",
+      "MOB",
+      "MOB Lore Hunt"
+    ],
+    "policies": [
+      "bea41cde225159466664b35dc93e7c5c76458a4a7cc9f7aceb645788"
+    ]
+  },
+  {
+    "project": "MOB Parasite",
+    "tags": [
+      "Masked On Buttons",
+      "MOB",
+      "MOB Parasite"
+    ],
+    "policies": [
+      "c9d1eca7345a8fd8ddf8309cc612bfd2a05e56db42353853956d8a6a",
+      "074fed91205b602077de6a9bcfe0ec146962baf083bd0f8a231025b9"
+    ]
+  }
 ]

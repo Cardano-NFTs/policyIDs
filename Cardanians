@@ -11,5 +11,20 @@
           "kawaii",
           "cardano"
 		]
-    }
+    },
+    
+    {
+        "project": "CardaniansLoyalty",
+        "policies": [
+            "25245a6ae33492621c370c1a4cba8e944c085f28615f7b760a47b246"
+        ],
+        "tags":[
+          "cardanians",
+          "loyalty",
+          "CardaniansLoyalty",
+          "cardano"
+		]
+    }   
+    
+    
 ]
