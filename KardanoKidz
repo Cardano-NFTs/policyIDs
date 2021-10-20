@@ -1,7 +1,9 @@
 {
-    "project": “KardanoKidz,
-    "tags": [ "KardanoKidz" ],
-    "policies": [
-        "56243840155fa79986b044a8943dc3e2bd19ca148fef9d46c92aed1c"
-    ]
+  "project": "KardanoKidz",
+  "tags": [
+    "KardanoKidz"
+  ],
+  "policies": [
+    "56243840155fa79986b044a8943dc3e2bd19ca148fef9d46c92aed1c"
+  ]
 }
