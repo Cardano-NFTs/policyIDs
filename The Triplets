@@ -1,10 +1,14 @@
 {
     "project": "The Triplets",
+    
     "tags": [
-        "cherry", "cake", "pink", "cream", "vanilla", "sad", "cake collection", "rare",
-        "honey", "avocado", "cake", "bees", "green", "yellow", "candle", "cake collection", "rare",
-        "unicorn", "cake", "twins", "colors", "purple", "yellow", "balloons", "fun","star", "cream", "layers", "cake collection","rare"
+        "Hazoz", "cherry", "cake", "pink", "cream", "vanilla", "sad", "cake collection", "rare",
+        
+       "Hazoz", "honey", "avocado", "cake", "bees", "green", "yellow", "candle", "cake collection", "rare", 
+       
+        "Hazoz", "unicorn", "cake", "twins", "colors", "purple", "yellow", "balloons", "fun","star", "cream", "layers", "cake collection","rare"
     ],
+    
     "policies": [
         "5ff55bd9f1c3c5dc6f7b95b8a689c129c157ea00a294503edd0c8413",
         "599f05338e301c92bcde8b0329f29f4790f7f2bac1a14ceff4a7f1be",
