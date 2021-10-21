@@ -1,11 +1,11 @@
 {
-    "project": "gorillAPEz",
-    "tags": [
-        "gorillAPEz",
-        "gorillapez",
-        "gorillapes"
-    ],
-    "policies": [
-        "6b4a568c2bd2c5fc9605a02743f8f39021b657c8c270de2f3bc8743c"
-        
-    ]
+  "project": "gorillAPEz",
+  "tags": [
+    "gorillAPEz",
+    "gorillapez",
+    "gorillapes"
+  ],
+  "policies": [
+    "6b4a568c2bd2c5fc9605a02743f8f39021b657c8c270de2f3bc8743c"
+  ]
+}
