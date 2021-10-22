@@ -3,9 +3,11 @@
     "tags": [
         "QuillTales",
         "QillTales",
-        "QuillTale"
+        "QuillTale",
+        "QillTale"
     ],
     "policies": [
+        "0a8424390f1a076a39006605a85a8a3920d7619687a4a3f205c93898",
         "cb23b6ef7f04ee983007bc57631ab81ede02500bec34fce73d3e8a93"
           ]
 }
