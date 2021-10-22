@@ -1,14 +1,29 @@
-{
-    "project": "Wizard Crypt",
-    "tags": [
-        "Wizdoge",
-        "Wizard Crypt",
-        "Wizard Eyes",
-        "Time Rapids"
-    ],
-    "policies": [
-        "d925606bc640b2c51704fa907cd47a0486fc235115777e5e004831fa",
-        "c0cb38a4ec36859acde16e5b887a848170bef14ed6de073ea9474e2d",
-        "6455b182feade5672746f9f184fd2742d845d5f86b043eccf0742f20"
-    ]
-}
+[
+    {
+        "project": "Wizard Crypt Fun",
+        "tags": [
+            "Wizdoge",
+            "Wizard Crypt",
+            "Wizard Eyes",
+            "Time Rapids"
+        ],
+        "policies": [
+            "d925606bc640b2c51704fa907cd47a0486fc235115777e5e004831fa",
+            "c0cb38a4ec36859acde16e5b887a848170bef14ed6de073ea9474e2d",
+            "6455b182feade5672746f9f184fd2742d845d5f86b043eccf0742f20"
+        ]
+    },
+    {
+        "project": "Wizard Crypt Wizard Spellz",
+        "tags": [
+            "Wizard Spellz",
+            "Wizard Spells",
+            "Spellz",
+            "Wizard Spell",
+            "Spell"
+        ],
+        "policies": [
+            "270a4b2c5d896c53ebeb241e111a60b590f2cecc32a204c3567a47c9"
+        ]
+    }
+]
