@@ -1,6 +1,9 @@
 {
     "project": "Bokeh-Vision",
     "policies": [
-        "2a507fa6eeb97f431e35f1d3d9eb2de24e7ecef1661987d67bd75731"
+        "2a507fa6eeb97f431e35f1d3d9eb2de24e7ecef1661987d67bd75731",
+        "a0bf57fb8b16692aa36c587d2fe01cf717a3c41f4b15eae5f184b224",
+        "2e61f5c66c85d113bf462fa3dc5244f47a877d71d70f6f5d8d3ca4d0"
+
     ]
 }
