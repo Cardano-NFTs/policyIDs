@@ -1,12 +1,10 @@
 {
-    "project": "Skull Focus",
-    "tags": [
-        "Skull Focus"
-    ],
-    "policies": [
-        "1603380d0337c56d38cdd9e9348c09f790d00e9fe8230a7b3e4df2e5",
-              "eadf22778135584d96da25ebf4696de1e2bed4b9422ea24444442ade",
-              "adb5b0ebc60b4c49fedfd28fc98facaf46db76b66f93600992303da5"
-          ]
+  "project": "Skull Focus",
+  "tags": [
+    "Skull Focus"
+  ],
+  "policies": [
+    "1603380d0337c56d38cdd9e9348c09f790d00e9fe8230a7b3e4df2e5",
+    "adb5b0ebc60b4c49fedfd28fc98facaf46db76b66f93600992303da5"
+  ]
 }
-
