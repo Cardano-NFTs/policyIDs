@@ -1,0 +1,14 @@
+{
+    "project": "Cardano Heroes",
+    "tags": [
+        "Cardano Heroes",
+        "CardanoHeroes"
+    ],
+    "policies": [
+        "b214690d79694313a4877a9476032872b899be4a420450f06b39c381",
+        "cacadda7aae943b68b94ecd270a2cf9f87d0d43044d243f98b3e58c3",
+        "8470726c687b82b76b5c6e66e698a74e75985ddd6852d8428ef4e29e",
+        "8290f7805d215aef6d91b3fa2ec22a53a39fb80f6651c3056bfd377e",
+        "9545dac72c622dfd1bbbc2119dc5cb76760f8405b2e10bdebd7043c8" 
+    ]
+}
