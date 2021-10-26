@@ -1,12 +1,27 @@
-{
+[
+  {
     "project": "Stik Friks",
     "tags": [
-        "Stik Friks",
-        "Stik Frik",
-        "StikFriks",
-        "StikFrik"
+      "Stik Friks",
+      "Stik Frik",
+      "StikFriks",
+      "StikFrik"
     ],
     "policies": [
-        "48766b78dbb52c7fc4617acf4503a9f40b2f0fb3448ba0ab0e1fda09"
+      "48766b78dbb52c7fc4617acf4503a9f40b2f0fb3448ba0ab0e1fda09"
     ]
-}
+  },
+  {
+    "project": "Stik Friks - FrikOWeen",
+    "tags": [
+      "Stik Friks",
+      "Stik Frik",
+      "StikFriks",
+      "Halloween",
+      "StikFrik"
+    ],
+    "policies": [
+      "b271482d14d9d72619f95f4a5181a364e9bede84939d9d3a15d4206a"
+    ]
+  }
+]
