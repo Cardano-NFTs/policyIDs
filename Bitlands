@@ -5,9 +5,11 @@
         "BTLND",
         "Bitlands",
         "Bitlands0",
-        "Bitlands0x"
+        "Bitlands0x",
+        "BitlandsHalloween2021"
     ],
     "policies": [
-        "ca3aeaa53c0b21fccf28c8c724141473d325fe9ea8d0314f7c3b4240"
+        "ca3aeaa53c0b21fccf28c8c724141473d325fe9ea8d0314f7c3b4240",
+        "01b3b06a99f22d7a911140f92aa74df8cf598ae5255855b68a92ef73"
     ]
 }
