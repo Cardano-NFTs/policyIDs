@@ -1,7 +1,7 @@
 {
     "project": "VirtualStrangers",
     "tags": [
-    "VirtualStrangers"
+        "VirtualStrangers"
     ],
     "policies": [
         "bc0ef2778685ec7b6456c0ac780d78c7b0f37556bb21150fa4ab0b78"
