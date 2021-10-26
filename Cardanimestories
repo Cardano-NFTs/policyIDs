@@ -1,16 +1,16 @@
 {
     "project": "Cardanime Stories: the Blind Girl",
     "tags": [
-        "Cardanime",
-	"Cardanime Stories",
-	"Blind Girl",
-	"Blind",
-	"Girl",
-	"The Blind Girl"
+    "Cardanime",
+    "Cardanime Stories",
+    "Blind Girl",
+    "Blind",
+    "Girl",
+    "The Blind Girl"
     ],
     "policies": [
-		"310a220fef357d50529000abf2bca016262ce071e817914f135c4699",
-		"459edd4d13630c4e5c38663c021765c492309a478ba3bf7b0e9af432",
+    "310a220fef357d50529000abf2bca016262ce071e817914f135c4699",
+    "459edd4d13630c4e5c38663c021765c492309a478ba3bf7b0e9af432",
     "6bbaad257be15648faf264cae3f96fe92aec0aa1e6fc62431301e627"
     ]
 }
