@@ -1,9 +1,12 @@
-{
+[{
     "project": "Bizarre Stars Series 1 Promos",
-    "tags": [
-        "BizarreStars"
-    ],
     "policies": [
         "321668648736a09a40bc3ef5fbd05590530be624e39af84fab3bc6bb"
     ]
-}
+},
+{
+    "project": "Bizarre Stars Series 1",
+    "policies": [
+        "55898621fc56ee02d5a7fc8f6f09d8cedaa571d1ad6c7316ce4868d8"
+    ]
+}]
