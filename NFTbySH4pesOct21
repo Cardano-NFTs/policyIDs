@@ -1,0 +1,40 @@
+[
+  {
+    "project": "Cardanobikes",
+    "tags": [
+      "Sh4pes_Cardanobikes",
+    ],
+    "policies": [
+      "630276680b9151ca5628c3c77d254e3dbc6db767bce779f9594655c5",
+    ]
+  },
+  {
+    "project": "SquareCircle",
+    "tags": [
+      "Sh4pes_SquareCircle",
+    ],
+    "policies": [
+      "7ae72433c0f6a29c33de803089deb6fc845c770a01876cf78c00029",
+    ]
+  },
+]
+  },
+  {
+    "project": "AdaweenCards",
+    "tags": [
+      "Sh4pes_AdaweenCards",
+    ],
+    "policies": [
+      "9129610f859e627fac4b442e316018d89e8124b7f6efde3894b5027c",
+     ]
+  },
+  {
+    "project": "Adaweenanimations",
+    "tags": [
+      ""Sh4pes_Adaweenanimations",
+    ],
+    "policies": [
+      "88d9cb270848416fd1ff8b8fdffde42465f35a3767f8009f7c9c8604",
+    ]
+  },
+]
