@@ -1,0 +1,20 @@
+{
+    "project": "FridaPug",
+    "tags": [
+      "FridaPug",
+      "frida",
+      "pug",
+      "dog",
+      "doggo",
+      "cute",
+      "animal",
+      "illustration",
+      "artwork",
+      "image"
+    ],
+    "policies": [
+        "e1104f9fd95ce1fc9f33b8d2597f6f1cf088d9c0862792fdbd0f5ec9", 
+        "41f9a7401da04245a5da1facc9350ce3273758029b21fba7ac2c1d64", 
+        "61a4458723e1a20166afb9aeb982478c104675c54ce84c3d8b6e90b1"
+    ]
+}
