@@ -1,7 +1,7 @@
 {
     "project": "CryptoPoppin",
     "tags" : [
-    "CryptoPoppin"
+        "CryptoPoppin"
     ],
     "policies": [
         "ef07e595c3316fcd106f77a8be3f05a5b0780abe0c96bb7f54867cdc",
