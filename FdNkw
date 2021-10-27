@@ -1,0 +1,33 @@
+[
+  {
+    "project": "CARDANO-TH.PNG",
+    "tags": [
+      "FdNkw",
+      "CNFTthFD01",
+    ],
+    "policies": [
+      "8170a2fe8d6717b6909fd8fd735ef99ffd8bd7e3cbfc774597cf04ef",
+      "8170a2fe8d6717b6909fd8fd735ef99ffd8bd7e3cbfc774597cf04ef",
+      "8170a2fe8d6717b6909fd8fd735ef99ffd8bd7e3cbfc774597cf04ef",
+      "8170a2fe8d6717b6909fd8fd735ef99ffd8bd7e3cbfc774597cf04ef",
+      "8170a2fe8d6717b6909fd8fd735ef99ffd8bd7e3cbfc774597cf04ef",
+      "8170a2fe8d6717b6909fd8fd735ef99ffd8bd7e3cbfc774597cf04ef",
+      "8170a2fe8d6717b6909fd8fd735ef99ffd8bd7e3cbfc774597cf04ef",
+      "8170a2fe8d6717b6909fd8fd735ef99ffd8bd7e3cbfc774597cf04ef",
+      "8170a2fe8d6717b6909fd8fd735ef99ffd8bd7e3cbfc774597cf04ef",
+      "8170a2fe8d6717b6909fd8fd735ef99ffd8bd7e3cbfc774597cf04ef"
+    ]
+  },
+  {
+    "project": "CARDANO-TH.GIF",
+    "tags": [
+      "FdNkw",
+      "CNFTthFD02",
+    ],
+    "policies": [
+      "8170a2fe8d6717b6909fd8fd735ef99ffd8bd7e3cbfc774597cf04ef",
+      "8170a2fe8d6717b6909fd8fd735ef99ffd8bd7e3cbfc774597cf04ef",
+      "8170a2fe8d6717b6909fd8fd735ef99ffd8bd7e3cbfc774597cf04ef"
+    ]
+  },
+]
