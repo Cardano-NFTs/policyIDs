@@ -1,9 +1,10 @@
 {
     "project": "GUERT",
     "tags": [
-        "guert, doge, dogecoin, cactus, balls, capybara, misc"
+        "guert, doge, dogecoin, cactus, balls, capybara, metabot, misc"
     ],
     "policies": [
+        "5c3f0378a49a680e8a876f4e0291e241fe59f3f89d03b3794ea9d2fa",
         "866c0e0fe1c41887cfd9b6af864c6b2aedad0a79eaf774a7d0985c0e",
         "ce9da9544d21023fbfc2f5d4209d0978889171d91e339a175f0a7670",
         "2c8ccdb18e0f14e72b6b04d80bec9d035eebaad4962734dc5019cbd5",
