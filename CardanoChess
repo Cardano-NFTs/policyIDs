@@ -4,6 +4,8 @@
         "CardanoChess"
     ],
     "policies": [
-        "29c8d1558754dc760d3e6144a5ecf6cd39334e800fae21583c64d14b"
+        "29c8d1558754dc760d3e6144a5ecf6cd39334e800fae21583c64d14b",
+        "80c8d38e7729c98879073fd36c4b79efc6d69ddbfc6e94e2be944ab9",
+        "ea546e232cec6571fac29f397adad5265fe38a9351f68a400958218f"
     ]
 }
