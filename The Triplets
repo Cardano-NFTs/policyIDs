@@ -1,9 +1,9 @@
 {
   "project": "The Triplets",
   "tags": [
-    "NewBorn #TTTCNB0011", "Hazoz", "Baby", "pink",
-    "Infant #TTTCIN0022", "Hazoz", "Baby", "pink",
-    "Toddler #TTTCTD0033", "Hazoz", "Baby", "pink",
+    "NewBorn #TTTCNB0011", "Hazoz", "Baby", "pink", "Taleen",
+    "Infant #TTTCIN0022", "Hazoz", "Baby", "pink", "Taleen",
+    "Toddler #TTTCTD0033", "Hazoz", "Baby", "pink","Taleen",
   ],
   "policies": [
     "6bfa402cd23fa8d1c2249797f1bbc8586562f262460d8656d18547ab",
