@@ -15,7 +15,7 @@ jobs:
           filesList="";
           echo 'Initial outputs are ${{ steps.files.outputs.all }}'
           for changed_file in ${{ steps.files.outputs.all }} do
-            filesList="${filesList}${changed_file[0]},"
+            filesList="${filesList}${changed_file},"
           done
           echo "The filesList is ${filesList}"
           echo '::set-output name=FILES_LIST::${filesList}'
