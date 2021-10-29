@@ -1,5 +1,8 @@
 {
     "project": "Cypherkicks",
+        "tags": [
+        "Cypherkicks"
+    ],
     "policies": [
         "50333947e5b8a45f562c814ab8d28562750e6bdca2b33b09d97d517e",
         "2b1085c9707bf5a18f099a729f45f76e6479158afd3fbd1db9795569",

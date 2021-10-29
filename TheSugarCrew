@@ -1,9 +1,11 @@
-{
-    "project": "TheSugarCrew",
-    "tags": [
-        "TheSugarCrew"
-    ],
-    "policies": [
-        "ce0407574781279f66a5158679bfc48cbecf789c9a6f561529406754"
-    ]
-}
+  {
+  	"project": "TheSugarCrew",
+  	"tags": [
+  		"TheSugarCrew"
+  	],
+  	"policies": [
+  		"ce0407574781279f66a5158679bfc48cbecf789c9a6f561529406754",
+  		"e57efabb9bd2f2fd67cd0adb2102c9b0ac63dd4d2960142856cb6afb",
+  		"65099cff1de0c864f70e895981f6f4548b18f186c4f87a7552680c48"
+  	]
+  }
