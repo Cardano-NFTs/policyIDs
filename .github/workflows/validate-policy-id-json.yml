@@ -13,7 +13,7 @@ jobs:
           format: 'json'
       - run: |
           filesList="";
-          echo "Initial outputs are ${{ steps.files.outputs.all }}"
+          echo 'Initial outputs are ${{ steps.files.outputs.all }}'
           for changed_file in ${{ steps.files.outputs.all }} do
             filesList="${filesList}${changed_file[0]},"
           done
