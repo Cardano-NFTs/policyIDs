@@ -1,0 +1,25 @@
+name: Validate JSONs
+
+on: [push, pull_request]
+
+jobs:
+  verify-json-validation:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - id: files
+        uses: jitterbit/get-changed-files@v1
+        with:
+          format: 'json'
+      - run: |
+          filesList="";
+          for changed_file in ${{ steps.files.outputs.all }}; do
+            filesList="${filesList} ${changed_file},"
+          echo "The filesList is ${filesList}"
+          echo '::set-output name=FILES_LIST::${filesList}'
+          done
+      - name: Validate JSON
+        uses: docker://orrosenblatt/validate-json-action:latest
+        env:
+          INPUT_SCHEMA: /internal/policy-id-schema.json
+          INPUT_JSONS: ${{ steps.files.outputs.FILES_LIST }}
