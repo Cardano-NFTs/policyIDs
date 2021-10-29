@@ -46,5 +46,12 @@
     "policies": [
       "a043ded79f98cf75e3e2918f8e71b7d158f1617fcba3783d0e471a25"
     ]
+  },
+  {
+    "project": "Cardano Robin x BizarreStarsNFT",
+    "tags": ["Halloween"],
+    "policies": [
+      "fa342ae88c816c4a5e273490a667c73af267773f97b51fbabbae552d"
+    ]
   }
 ]
