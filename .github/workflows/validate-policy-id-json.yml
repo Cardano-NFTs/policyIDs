@@ -10,11 +10,11 @@ jobs:
       - id: files
         uses: jitterbit/get-changed-files@v1
       - run: |
-        for changed_file in ${{ steps.files.outputs.all }}; do
-          echo "Do something with this ${changed_file}."
-        done
+          for changed_file in ${{ steps.files.outputs.all }}; do
+            echo "Do something with this ${changed_file}."
+          done
       - name: Validate JSON
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
-          INPUT_SCHEMA: /path/to/schema.json
+          INPUT_SCHEMA: /internal/policy-id-schema.json
           INPUT_JSONS: ${{ steps.files.outputs.all }}
