@@ -10,21 +10,21 @@
       "items": [
         {
           "type": "string"
-        },
-        "minItems": 1,
-        "maxItems": 5,
-        "uniqueItems": true
-      ]
+        }
+      ],
+      "minItems": 1,
+      "maxItems": 5,
+      "uniqueItems": true
     },
     "policies": {
       "type": "array",
       "items": [
         {
           "type": "string"
-        },
-        "minItems": 1,
-        "uniqueItems": true
-      ]
+        }
+      ],  
+      "minItems": 1,
+      "uniqueItems": true
     }
   },
   "required": [
