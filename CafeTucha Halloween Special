@@ -1,0 +1,20 @@
+[
+   {
+      "project":"CafeTucha",
+      "tags":[
+         "Cafe Blobby"
+      ],
+      "policies":[
+         "3d0350d096cf386f78e6d69dd5db17a47cdc256379314dff94c7ff76"
+      ]
+   },
+   {
+      "project":"CafeTucha Halloween Special",
+      "tags":[
+         "CafeTucha Halloween Special"
+      ],
+      "policies":[
+         "b4484a243bc474c3b031975df4a7dcd0bded1c00aad92cab8baa32c8"
+      ]
+   }
+]
