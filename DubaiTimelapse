@@ -1,11 +1,12 @@
 {
-    "project": "DubaiTimelapse",
-    "Tags": [
-           "DubaiNight",
-           "@Work",
-           "Dubai",
-           "DXB"
-    "policies": [
-        "7eb857a8bc634d0aa59635b0bc444851f222936fd4ce7c23452c654f"
-    ]
+  "project": "DubaiTimelapse",
+  "tags": [
+    "DubaiNight",
+    "@Work",
+    "Dubai",
+    "DXB"
+  ],
+  "policies": [
+    "7eb857a8bc634d0aa59635b0bc444851f222936fd4ce7c23452c654f"
+  ]
 }

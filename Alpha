@@ -1,14 +1,16 @@
 {
-	"project": "Alpha",
-	"tags": [
-		"TJ Papove", "Dog Skull 01", "Skully the Spray Can", "WorldBicycleReliefDonator01", "JHBGreenFire", "Hump Day #1", "Bird Skull 01"
-	],
-	"policies": [
-		"14fe8d39bb6e75805f4d60d36d2d0f4d8b3ef4807e719461cc0e5416",
-		"f093395d87ab54d2c01118af0b3e830481d25a2c8026466ae34842a2",
-		"540bec0f0d26f05608949f5d7b673f75fd8bb3e20526ee6c339292d3",
-		"e3b92814d4240cbb535f7667cf394e1229bbdb5df5f3340481c418ed",
-		"df50943f981b6fbe612f2db33027a4f8417448fbdcfcebac2eb8488f",
-		"cf1ff5ddccb405d89955efdda6f1185aea28784b0006aa5d2180bdbc"
-	]
+    "project": "Alpha",
+    "tags": [
+        "TJ Papove", "Dog Skull 01", "Skully the Spray Can", "WorldBicycleReliefDonator01", "JHBGreenFire", "Hump Day #1", "Bird Skull 01", "Alpha Doodz", "Pre Smart Contracts"
+    ],
+    "policies": [
+        "14fe8d39bb6e75805f4d60d36d2d0f4d8b3ef4807e719461cc0e5416",
+        "f093395d87ab54d2c01118af0b3e830481d25a2c8026466ae34842a2",
+	"540bec0f0d26f05608949f5d7b673f75fd8bb3e20526ee6c339292d3",
+	"e3b92814d4240cbb535f7667cf394e1229bbdb5df5f3340481c418ed",
+	"df50943f981b6fbe612f2db33027a4f8417448fbdcfcebac2eb8488f",
+	"cf1ff5ddccb405d89955efdda6f1185aea28784b0006aa5d2180bdbc",
+	"30409a9de3f4fc02838b066ffeb27b14f8e7e194f815acce33245765",
+	"e365ed53b888bad83989cce8c0c18ed0e8694ce678179225b2e7cd9e"
+    ]
 }
