@@ -12,10 +12,10 @@ jobs:
         with:
           format: 'json'
       - run: |
-          filesList = ""
+          filesList = "";
           for changed_file in ${{ steps.files.outputs.all }}; do
-            filesList = "{$filesList} {$changed_file},"
-          echo "The filesList is $filesList"
+            filesList = "${filesList} ${changed_file},"
+          echo "The filesList is ${filesList}"
           echo '::set-output name=FILES_LIST::${filesList}'
           done
       - name: Validate JSON
