@@ -1,9 +1,11 @@
 {
     "project": "ADACoinsNFT",
     "tags": [
-        "ADACoin"
+        "ADACoin",
+        "ADACoin-Halloween"
     ],
     "policies": [
-        "34572f9875968d9d141bbf8c746081b9921c4260c26d1553b345842c"
+        "34572f9875968d9d141bbf8c746081b9921c4260c26d1553b345842c",
+        "42801c7f335e9a87c13a198f30ccf6953764b4c04b46340b00962afc"
     ]
 }
