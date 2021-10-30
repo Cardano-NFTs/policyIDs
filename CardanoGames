@@ -9,7 +9,8 @@
         "MRSMOG",
         "MIU", 
         "ARANYA", 
-        "VOODOOTEDDYBEAR"
+        "VOODOOTEDDYBEAR",
+        "RUNA"
     ],
     "policies": [
         "a8fffdfa0124760ccd013a290ce4997f11fa9343653e73ed99ba68eb",
@@ -21,7 +22,8 @@
               "f3f81430a626ceec075cf71553d01a9ce3c34a4edf155af6b3d0267d",
               "66cef027da1a22f537874f4192fc7e09189b552ae47ed4e03e27261c",
               "43902191b4dd725e458a017c36f85708e0d466f6d8f2d1442343bd1b",
-              "53cc838e833f2e3f1deaaa5efd7ccbe3fc0d285c2bec879ad4ef3677"
+              "53cc838e833f2e3f1deaaa5efd7ccbe3fc0d285c2bec879ad4ef3677",
+              "4ae161e0a0bc777c5451a1a3f386f44750769ed25e743d2afc08d4a6"
           ]
 }
 
