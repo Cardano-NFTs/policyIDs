@@ -1,0 +1,34 @@
+{
+  "type": "object",
+  "properties": {
+    "project": {
+      "type": "string"
+    },
+    "tags": {
+      "type": "array",
+      "items": [
+        {
+          "type": "string"
+        }
+      ],
+      "minItems": 1,
+      "maxItems": 5,
+      "uniqueItems": true
+    },
+    "policies": {
+      "type": "array",
+      "items": [
+        {
+          "type": "string"
+        }
+      ],  
+      "minItems": 1,
+      "uniqueItems": true
+    }
+  },
+  "required": [
+    "project",
+    "tags",
+    "policies"
+  ]
+}
