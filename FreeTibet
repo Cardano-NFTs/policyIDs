@@ -1,7 +1,16 @@
 {
-    "project": "Free Tibet",
-    "tags": ["Potala Palace Tibet NFT#002 #Freetibet", "Free Tibet", "Traveling", "History", "Potala", "Tibet", "tourism", "beautiful world"]
-    "policies": [
-        "b12a3b1abfb4b73f86462cdd9290be30c0429cd16ce3a39887edd65b", "b12a3b1abfb4b73f86462cdd9290be30c0429cd16ce3a39887edd65b"
-    ]
+  "project": "Free Tibet",
+  "tags": [
+    "Potala Palace Tibet NFT#002 #Freetibet",
+    "Free Tibet",
+    "Traveling",
+    "History",
+    "Potala",
+    "Tibet",
+    "tourism",
+    "beautiful world"
+  ],
+  "policies": [
+    "b12a3b1abfb4b73f86462cdd9290be30c0429cd16ce3a39887edd65b"
+  ]
 }
