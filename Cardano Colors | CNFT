@@ -1,5 +1,5 @@
 {
-    "project": "Cardano Colors | First Edition",
+    "project": "Cardano Colors | CNFT",
     "tags": [ 
         "cardano",
         "colors",
@@ -10,5 +10,7 @@
     ],
     "policies": [
         "ba672844d98bbe24bde7c3256d8698d48c8f79fa10f1f32c4e615bf1"
+        "policies": [
+        "604c01d4aad70adbd1311e21d2f4959c224d8eb4051e8217fd668931"
     ]
 }
