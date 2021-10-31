@@ -16,7 +16,7 @@ jobs:
           print("INITIAL INPUT IS OF TYPE: "+str(type(${{ steps.files.outputs.all }})))
           list_as_string = ",".join(${{ steps.files.outputs.all }})
           print("list_as_string: "+list_as_string)
-          print("::set-output name=FILES_LIST::${list_as_string}")
+          print("::set-output name=FILES_LIST::"+list_as_string)
         shell: python
       - name: Validate JSON
         uses: docker://orrosenblatt/validate-json-action:latest
