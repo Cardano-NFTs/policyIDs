@@ -1,0 +1,15 @@
+{
+    "project": "$WorldCoin",
+    "tags": [ 
+        "World",
+        "WorldCoin",
+        "Token",
+        "Coin",
+        "1000000000000000000",
+        "Start pool",
+        "DEX"
+    ],
+    "policies": [
+        "9c2a02b3a38380568749ff510a27d8884bd689dd6acbe2acfee4a509"
+    ]
+}
