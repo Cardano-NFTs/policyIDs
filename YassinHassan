@@ -14,14 +14,18 @@
 	"the Bull",
 	"Bull",
 	"Vox",
-	"One Last Look"
+	"One Last Look",
+	"Cardano Bull",
+	"Broken Ethereum",
+	"Taking Charge"
     ],
     "policies": [
         "65fc6185a424e7885db9f2046beccd793e4fcf43e7e7a2235142c75b",
         "eae87df6a17660a0a075e853cd2d512fa42b587f0fb4970090e53ba4",
-		"78134bf8b81fa54de91b0905b5f29672f46a1b4991d453ec8d6b871f",
-		"c6c7aa8eb132557fa0307217cd207f60b90f16032441ce74b7acebc7",
-		"33821e65a4916a927bd60d43d28a46936a2ced289ca3e3164af021ae",
-		"90b4892e80b3cbb7b1245aab8b208b7e4b89f357cf621fec790122a3"
+	"78134bf8b81fa54de91b0905b5f29672f46a1b4991d453ec8d6b871f",
+	"c6c7aa8eb132557fa0307217cd207f60b90f16032441ce74b7acebc7",
+	"33821e65a4916a927bd60d43d28a46936a2ced289ca3e3164af021ae",
+	"90b4892e80b3cbb7b1245aab8b208b7e4b89f357cf621fec790122a3",
+	"4bad90072f7ad11eb3e3207bab47c2c8c88f54f6e4b94bbf551fcaf8"
     ]
 }
