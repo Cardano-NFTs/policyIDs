@@ -1,10 +1,9 @@
 {
-    "project": "RedLion",
-    "tags": [
-        "RedLion"
-    ],
-    "policies": [
-      dd9ebd87f7ae325ed67d1fb51e906087e05739217a8ef7020bc86fee
-          ]
+  "project": "RedLion",
+  "tags": [
+    "RedLion"
+  ],
+  "policies": [
+    "dd9ebd87f7ae325ed67d1fb51e906087e05739217a8ef7020bc86fee"
+  ]
 }
-
