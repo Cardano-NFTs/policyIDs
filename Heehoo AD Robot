@@ -1,5 +1,19 @@
 {
     "project": "Heehoo AD Robot",
+    "tags": [
+    "HeehooADRobot",
+    "heehooadrobot",
+    "Heehoo",
+    "AD",
+    "Robot",
+    "ADRobot",
+    "visualon",
+    "FinePixels",
+    "Fine Art",
+    "Artwork",
+    "Image",
+    "Sale"
+    ],
     "policies": [
         "e5b10191c072aab01815220a68c432b8b636ba1409de264f5ad3599e",
         "4e5c34f10c002625f17230020e7ec73be3dc1adc454c18fbf09284eb"
