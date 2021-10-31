@@ -1,8 +1,8 @@
 [
   {
-    "project": "BeyondRockets",
+    "project": "Beyond Rockets",
     "tags": [
-      "BeyondRockets"
+      "Beyond Rockets"
     ],
     "policies": [
       "2627a67fb76a7135e1c99d0ae543ad0b051ba8f0b7cb3a3502fd31ed",
@@ -16,9 +16,9 @@
     ]
   },
   {
-    "project": "BeyondRockets Records",
+    "project": "Beyond Rockets Records",
     "tags": [
-      "BeyondRockets Records"
+      "Beyond Rockets Records"
     ],
     "policies": [
       "dee73575bbe4adb82b286fcb47aa9db4db5ae431209e64f19cc19c5b"
