@@ -11,16 +11,12 @@ jobs:
         uses: jitterbit/get-changed-files@v1
         with:
           format: 'json'
-      - run: |
-          filesList="";
-          echo 'Initial outputs are ${{ steps.files.outputs.all }}'
-          for changed_file in ${{ steps.files.outputs.all }}; do
-            filesList="${filesList}${changed_file[0]},"
-          done
-          echo "The filesList is ${filesList}"
-          echo '::set-output name=FILES_LIST::${filesList}'
+      - id: chagedFiles
+        run: |
+          print("TYPE OF OUTPUT: "+str(type(${{ steps.files.outputs.all }})))
+        shell: python
       - name: Validate JSON
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
           INPUT_SCHEMA: /internal/policy-id-schema.json
-          INPUT_JSONS: ${{ steps.files.outputs.FILES_LIST }}
+          INPUT_JSONS: ${{ steps.chagedFiles.outputs.FILES_LIST }}
