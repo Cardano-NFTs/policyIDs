@@ -1,13 +1,12 @@
 {
-    "project": "#TouristaNFTs",
-    "tags": [
-        "Tourista.io Charles Visits the World"
-        "Tourista"
-        "Tourista.io"
-        "Charles Visits the World NFT"
-    ],
-    "policies": [
-              "8bcd88ab8ee671b076a79a654eb853e2d280e297b7b4409668ac98db"  
-          ]
+  "project": "#TouristaNFTs",
+  "tags": [
+    "Tourista.io Charles Visits the World",
+    "Tourista",
+    "Tourista.io",
+    "Charles Visits the World NFT"
+  ],
+  "policies": [
+    "8bcd88ab8ee671b076a79a654eb853e2d280e297b7b4409668ac98db"
+  ]
 }
-
