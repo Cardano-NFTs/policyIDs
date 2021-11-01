@@ -1,6 +1,9 @@
 {
-    "project": "GhostBud",
-    "policies": [
-        "c34e4f4961c2f295ff7e225b48d7071d5ddcae596c812dd2e22d8619"
-    ]
+   "project":"GhostBuds",
+   "tags":[
+      "GhostBuds"
+   ],
+   "policies":[
+      "c34e4f4961c2f295ff7e225b48d7071d5ddcae596c812dd2e22d8619"
+   ]
 }
