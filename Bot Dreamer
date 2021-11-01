@@ -1,8 +1,8 @@
 {
     "project": "Bot Dreamer",
-    "tags": {
+    "tags": [
             "Bot Dreamer"
-    }
+    ],
     "policies": [
         "4cee8107b3f925f2a6840b91b1738aff6aa8f0c8025a54203b388621"
     ]
