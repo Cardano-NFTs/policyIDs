@@ -4,9 +4,12 @@
         "tags": [
             "DigitalPlasma",
             "Plasma02Sphere",
+            "3DFractal",
+            "3D Fractal",
             "DigitalPlasmaSphere"
         ],
         "policies": [
+            "fd0f4a68b136db8ce484f4f74c2c15c3d4c9cc646b9a1c7db7d787a0",
             "79786e973d901e592263158ed6c394179beee777afae0401b407b41d",
             "3cda7e95bd0b46d20a9f2e0ad762a4464ef0a7b82f910a53efccb67d"            
         ]
@@ -29,5 +32,5 @@
         "policies": [
             "5e19af97c6822fba98258a9cdffaffbc79945d15cc519ab7b7d1547f"
         ]
-    }
+    },
 ]
