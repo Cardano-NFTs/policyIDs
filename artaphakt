@@ -1,9 +1,24 @@
-{
+[
+  {
     "project": "artaphakt",
     "tags": [
-        "artaphakt"
+      "artaphakt"
     ],
     "policies": [
-        "4f8f6c36f4e985d7fe3ed77af15669c73ecf93b2cc8482f1e3b6edcb"
+      "4f8f6c36f4e985d7fe3ed77af15669c73ecf93b2cc8482f1e3b6edcb",
+      "a31eb93d96395d9e387a563c0037bff30bb507e6ef1a8eed48f37482"
     ]
-}
+  },
+  {
+    "project": "artaphakt-UnsigMosh",
+    "tags": [
+      "UnsigMosh, artaphakt, unsig"
+    ],
+    "policies": [
+      "6179eb9f878f8b46190425501aefc621d3c31ea303d2faa3a3658256",
+      "bc68eaa90a9829fc91f8d03c957ed9cdb5665a5555cac9bf73d4dfdc",
+      "c4835770549a1f5b46d926f253bdf3d1b7fed0cafa3a90bed631ab50",
+      "0eabe851f479cb4b7bf72a1760cfb0d7382d2f31d5fdfc6d35b5c404"
+    ]
+  }
+]
