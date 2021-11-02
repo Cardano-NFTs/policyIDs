@@ -19,7 +19,6 @@
       "f1679a159fc7ce775addff3ea8935384438c3f078cc9a8a05906577f",
       "787622826f8ebd1baa04e5a9a76ae0eac7392f730544528738faafcb",
       "f91188f7ca14d5dba0b946b3a0f74f4de71fd9b5e1983af98df56109",
-      "bcac5d9730f1d4cb9cc92f8d9304870213e5875780f484747802fcb7",
       "6243462ffa62a834e4edf6d6019338c1a6d33290ff668f37125c4b34",
       "79ce63ca8ce70e8a5cfd9c2639c381709172ffcd40b7542c6d8be0f8",
       "fe66387f38439084b653ab0434321b79452f25408568baa5c123047f",
@@ -45,6 +44,13 @@
     "tags": [],
     "policies": [
       "a043ded79f98cf75e3e2918f8e71b7d158f1617fcba3783d0e471a25"
+    ]
+  },
+  {
+    "project": "Cardano Robin’s Bizarre Halloween",
+    "tags": ["Halloween Special", "Cardano Robin", "Bizarre Stars"],
+    "policies": [
+      "fa342ae88c816c4a5e273490a667c73af267773f97b51fbabbae552d"
     ]
   }
 ]
