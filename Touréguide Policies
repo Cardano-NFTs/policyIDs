@@ -1,16 +1,6 @@
 [
     {
         "project": "withspaces",
-        "tags": [
-            "withspaces", 
-            "w/_",
-            "2140",
-            "(2140)",
-            "Touréguide",
-            "Toureguide",
-            "Toure Guide",
-            "Tour Guide"
-        ],
         "policies": [
             "4027768aefcdef653acbd759b2420bd24b0b01881b52cd888d19fc1b",
             "c098fe49bfb402ca4ecb894c8a5e003b3c31dfad62750d82b2962b5c",
@@ -23,34 +13,14 @@
         ]
     },
     {
-        "project": "(2140)",
-        "tags": [
-            "withspaces",
-            "with spaces",
-            "w/_",
-            "2140",
-            "(2140)",
-            "Touréguide",
-            "Toureguide",
-            "Toure Guide",
-            "Tour Guide"
-        ],
+        "project": "(2140) by withspaces",
         "policies": [
             "6d640d40e4d55d105b2ce29e4537ad7508ca402f39fbbd769f7957ac",
             "fb6e5a332ced5ba8f1901bd35164c799fd1ec4cbf929146eed770619"
         ]
     },
     {
-        "project": "w/☻ ",
-        "tags": [
-            "withfaces", 
-            "with faces",
-            "NFTUpdate",
-            "Touréguide",
-            "Toureguide",
-            "Toure Guide",
-            "Tour Guide"
-        ],
+        "project": "w/☻",
         "policies": [
             "9cd614b79e7947794b9cbc3385c04c9dba39c6001e0d26201b29af38",
             "13cd3473eb7d33c5c2a0cfa8c770e8eb57c5155821f9e1bca6f9da12",
@@ -67,15 +37,6 @@
     },
     {
         "project": "SmittyStudio",
-        "tags": [
-            "SmittyStudio", 
-            "Smitty",
-            "Smitty Studio",
-            "Touréguide",
-            "Toureguide",
-            "Toure Guide",
-            "Tour Guide"
-        ],
         "policies": [
             "38244c0fc99d6c84abe41ed96c28406c72b76b54eb8cf27580d854e5",
             "b3dd7735bc52e4ea5d1db48503c3d28dcb5b7f41c06299b3d67295af",
@@ -85,14 +46,6 @@
     },
      {
         "project": "UGLYSTAR",
-        "tags": [
-            "UGLYSTAR",
-            "Ugly Star",
-            "Touréguide",
-            "Toureguide",
-            "Toure Guide",
-            "Tour Guide"
-        ],
         "policies": [
             "01209db9e811f0ef8e1bb31889c70768a0cf3b81094bcda56c753b3d",
             "2c8706dd2afa392e378222a0743fb9c251d5c3bb547c43ccf071660f",
@@ -101,9 +54,6 @@
     },
      {
         "project": "Cardano Numbers",
-        "tags": [
-            "Numbers"
-        ],
         "policies": [
             "3cfe77fa5b9db2291240380de0c380905baac73597cd41d63579f3a6"
         ]
