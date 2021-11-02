@@ -58,5 +58,53 @@
     "policies": [
       "ff7667108af88c7a9bf01005088c49b71582f222d71f7581ae3aa499"
     ]
+  },
+  {
+    "project": "ElementZ - FractalBlocks - Limited Collection One",
+    "policies": [
+      "1ef00288adc006f1e43c130a2171c9f77c0383e4511f1a7ac8469a98"
+    ]
+  },
+  {
+    "project": "ElementZ - FractalBlocks - Limited - OlindasRising",
+    "policies": [
+      "1ef00288adc006f1e43c130a2171c9f77c0383e4511f1a7ac8469a98"
+    ]
+  },
+  {
+    "project": "ElementZ - FractalBlocks - SeriesTwo",
+    "policies": [
+      "2d3d7f10ed99097e6df5fdba1a4c96cda429aff2783fd888419c3d46"
+    ]
+  },
+  {
+    "project": "ElementZ - FractalBlocksRemix - WaterMotion",
+    "policies": [
+      "7314740aced0c31a307057c8c9554bf848b792ed4dd999dc6d9a3240"
+    ]
+  },
+  {
+    "project": "ElementZ - FractalBlocks - Milkyway - DripDrop",
+    "policies": [
+      "a6e5cf42faaa6929bedba139b2c02eceec9d2a6aa7c4a00a02c8c22e"
+    ]
+  },
+  {
+    "project": "ElementZ - FractalBlocks - Gourdgeous - Halloween21",
+    "policies": [
+      "893ad78a45d4cfcb4dcc04daa5cb0b9a9d834b1e26b102c58a7f6944"
+    ]
+  },
+  {
+    "project": "ElementZ - FractalBlocks - SpecialEdition - Halloween21",
+    "policies": [
+      "cec3e462368d766be66091b7f9dfe7f357e8bd53d0e48b81368c0be5"
+    ]
+  },
+  {
+    "project": "ElementZ - FractalBlocks - Frackins - Halloween21",
+    "policies": [
+      "25b8ed929bc0cee5effb6895cb12d5806ec78ff762cbf9365f2cbe6d"
+    ]
   }
 ]
