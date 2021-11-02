@@ -37,7 +37,9 @@
         "ADA Symbol",
         "Quirky",
         "Cool",
-        "Unique"
+        "Unique",
+        "wagmi",
+        "gm"
     ],
     "policies": [
         "4fa7b7b7b103be7f27a438a0fb7daf1d7d6507246e7cfd8df4491ac7",
@@ -55,6 +57,7 @@
         "ca97ea06134f357a9bfdfc6f7cac06c4250e4777ca8ef42231857cf5",
         "d24ffe26c456f96c36add3f2ba9535e10df654d72f5f556e9927d903",
         "db91062876f6de62363efb2ead77b632239c5a65b12b34881093f5cd",
-        "efec38b2e4984c5ffc4fdd4a3aa87ed488b541381a9a9a3c8754f47d"
+        "efec38b2e4984c5ffc4fdd4a3aa87ed488b541381a9a9a3c8754f47d",
+        "f3b72222a3442de5744b06e5aec7b891fc24f2c1be0843cd5ff2576a"
     ]
 }
