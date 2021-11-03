@@ -1,14 +1,7 @@
-[
-  {
-    "project": "SirSpongey Giveth S1 - The beefy special",
-    "policies": [
-      "c8e64750da668e7a4ace5d8a252046458eed014550e6abc416edbe25"
-    ]
-  },
-  {
-    "project": "SirSpongey Giveth S2 - Stepping it up a thread",
-    "policies": [
-      "6d840512bd3b87f6ef202760e826ea768343367d76f88e65e7c650d4"
-    ]
-  }
-]
+{
+  "project": "ThreadPunks - SirSpongey Giveth",
+  "policies": [
+    "c8e64750da668e7a4ace5d8a252046458eed014550e6abc416edbe25",
+    "6d840512bd3b87f6ef202760e826ea768343367d76f88e65e7c650d4"
+  ]
+}
