@@ -1,0 +1,10 @@
+{
+    "project": "Cardano Donuts",
+    "policies": [
+        "6130f371d8a6fd0eb2b4039268ce71c8f7ce32905db95b9ff6003300",
+        "db7f23bc20aa42ab8bb78d191e6f01faa0caf7b6cc1e9593c16f430b",
+        "a5ac9d1d59287a364236703da015c4cd5765381154fc1ff5aee2e4a1",
+        "32dc90bb1df23fc941ebbe9c2961973436bf0deac87c77502e2f8ad4",
+        "54a4477cc926f61ed690d368d191d15a3d52bcee20a41e5f56768848"
+    ]
+}
