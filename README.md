@@ -22,10 +22,6 @@ Single Project:
 ```json
 {
   "project": "YourProjectName",
-  "tags": [
-    "Tag1",
-    "Tag2",
-  ],
   "policies": [
     "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab",
     "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab",
@@ -41,10 +37,6 @@ Multiple Projects under one name:
 [
   {
     "project": "YourFirstProjectName",
-    "tags": [
-      "Tag1",
-      "Tag2",
-    ],
     "policies": [
       "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab",
       "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab",
@@ -53,10 +45,6 @@ Multiple Projects under one name:
   },
   {
     "project": "YourSecondProjectName",
-    "tags": [
-      "Tag1",
-      "Tag2",
-    ],
     "policies": [
       "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab",
       "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab",
