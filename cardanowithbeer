@@ -1,6 +1,9 @@
  {
         "project": "cardanowithbeer",
-        "policies": [
+        "tags": [
+        "chakawutCW","beer","cardanowithbeer"
+       ],
+       "policies": [
             "493aef3d800e75128c1b1cc33aa94fc4f72747c4b03de3568459fc09",
             "8af169eca554388da1045d7e1716af93fa3e35dc80810a0fbce0fee2",
             "70ba07668a04799f5af3d86c93702e0a12bdabebf88d4d81b635d9f9",
