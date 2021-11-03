@@ -12,47 +12,44 @@ __**Information:**__
 
 **project:** Name of your project
 
-**tags:** Uniquely identifiable tags for the name of your assets (mustn't be vague, is used for finding fakes)
-
 **policies** one or many policy ids of your project
 
 https://www.youtube.com/watch?v=z6yPjed4sMI
 
+Validate your code before requesting: https://jsonformatter.curiousconcept.com/#
+
 Single Project:
 ```json
 {
-    "project": "PlanetPalz",
-    "tags": [
-        "PlanetPalz"
-    ],
-    "policies": [
-        "89fa6dc66a24799ccaee43a3a16930bb045a8152fdf2a2642034774f",
-        "example66a24799ccaee43a3a16930bb045a8152fdf2a2642034774f"
-    ]
+  "project": "YourProjectName",
+  "policies": [
+    "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab",
+    "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab",
+    "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab",
+    "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab"
+  ]
 }
+
 ```
 
 Multiple Projects under one name:
 ```json
 [
-    {
-        "project": "Example 1",
-        "tags": [
-            "Example"
-        ],
-        "policies": [
-            "Example1",
-            "Example2"
-        ]
-    },
-    {
-        "project": "Example 2",
-        "tags": [
-            "Example 2"
-        ],
-        "policies": [
-            "Example 2"
-        ]
-    }
+  {
+    "project": "YourFirstProjectName",
+    "policies": [
+      "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab",
+      "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab",
+      "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab"
+    ]
+  },
+  {
+    "project": "YourSecondProjectName",
+    "policies": [
+      "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab",
+      "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab",
+      "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab"
+    ]
+  },
 ]
 ```

@@ -1,0 +1,21 @@
+[
+    {
+        "project": "Stained Glass",
+        "policies": [
+            "8236e14a07850dec626f69977da8700297a575ded7c5f26c957be731"
+        ]
+    },
+    {
+        "project": "Fine Art by Frank Hampus Weslien",
+        "policies": [
+            "dd04ad427b8c2f76409502907063239518d81ad7415046e170d3da07",
+            "6ce34ca46c79a999643e9d58f04feca4e609370ca8745344dd08b443"
+        ]
+    },
+    {
+        "project": "AlgoMarble",
+        "policies": [
+            "fc7f00513d26a5c4de57a5863f0849559493d5ec008951eeb65ed3f1"
+        ]
+    }
+]

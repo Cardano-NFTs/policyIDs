@@ -95,6 +95,27 @@
     "policies": [
       "778c727e885ea3bcc32a1c1495b5f75d1272c9a4e6721f11b6e66fca"
     ]
+  },
+  {
+    "project": "NFT Update: Season 3",
+    "tags": [],
+    "policies": [
+      "0a85dd1543465407852c90e66c074a3b52ea2d7c77a2346ddc20550a"
+    ]
+  },
+  {
+    "project": "Digital Mortal: Season 2",
+    "tags": [],
+    "policies": [
+      "789016326803e7d7c75e9af12d2b002ae20f5cc83885df08239b41e3"
+    ]
+  },
+  {
+    "project": "withfaces: Season 2",
+    "tags": [],
+    "policies": [
+      "3e1cd590fa5051752d0a791eafd0e6fb5d2ce13a715caa11bf80392d"
+    ]
   }
 ]
 
