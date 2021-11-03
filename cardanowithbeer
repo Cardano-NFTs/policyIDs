@@ -1,5 +1,4 @@
-[
-    {
+ {
         "project": "cardanowithbeer",
         "policies": [
             "493aef3d800e75128c1b1cc33aa94fc4f72747c4b03de3568459fc09",
@@ -11,5 +10,4 @@
             "1e5c0390b53bd202f895f16b1c5c58d4b8b82bb170cba313155e54f6",
             "47fba6ec5a0e2b1166e2b941b5e9106a4deaadd46d9b0721ebc9efc6"
         ]
-    }
-]
+ }
