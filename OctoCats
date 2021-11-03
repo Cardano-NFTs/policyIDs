@@ -1,0 +1,14 @@
+[
+    {
+        "project": "OctoHallow",
+        "policies": [
+            "977abeff959d11ffee5c9c2ec6ad17ebeba1f38f45f4b7a33c834996"
+        ]
+    },
+    {
+        "project": "OctoTron",
+        "policies": [
+            "7f5bb6b7d951575617c5baf1cc1dba14d8fc6ea8159f1ad0e3be3b47"
+        ]
+    }
+]
