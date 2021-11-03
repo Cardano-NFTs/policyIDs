@@ -58,6 +58,10 @@
          "55b079432403a81e8087077432b323c09b09ca7e1e5b3159875feff3",
          "33b0a97d6d6bf0d020429564440060e0ff702660e3b429a5b7ad29e9",
          "7c6f3e7f5eb6ea80a4e939430660a6ecda4d4fbb238133a3a276cc1a",
+         "f2ff1a89ddfeb69ad9be1345675d1a3ec26ce726cdf63370d2fbb43c",
+         "bc5962a0d8fa5f4f29579af66a423367c0f26a73de177e2192470484",
+         "8429ec74a8932c6bb7689af4378ae60f8ae005958625961768eef846",
+         "487f8f5c74111f5f8c07848e7210a2f690dbc02cfc76d8f5741451b4",
          "775b9f8f8bdc29439e6a1465cc01b0652ad76e7c2915c39031d55dcc"
       ]
    },
@@ -71,17 +75,6 @@
       ],
       "policies":[
          "9aaaaae862918dbc417b86bd1fc96079afcd9133d15bb6a840f4841c"
-      ]
-   },
-   {
-      "project":"Chadi Nassar X swankpie",
-      "tags":[
-         "swankpie",
-         "Chadi Nassar",
-         "Faceless Warhal"
-      ],
-      "policies":[
-         "bcac5d9730f1d4cb9cc92f8d9304870213e5875780f484747802fcb7"
       ]
    },
    {
@@ -126,6 +119,16 @@
       ],
       "policies":[
          "bee442057d77db8c7c273aeeddc66ab55f6ae18fb2b0c444ff316dee"
+      ]
+   },
+   {
+      "project":"3DSwankLab",
+      "tags":[
+         "swankpie",
+         "3DMintLab"
+      ],
+      "policies":[
+         "f2685de667cab4ea956cd5a81c7cdcb33acf6ed3106c4169f131646a"
       ]
    }
 ]
