@@ -1,11 +1,10 @@
 {
-    "project": "ADAnauts",
-    "tags": [
-        "ADAnauts"
-        "nauts"
-    ],
-    "policies": [
-        "cb1b219ed5ac9542a6f40db993cdb65a9c1f097cd7678d78e3e328eb"
-          ]
+  "project": "ADAnauts",
+  "tags": [
+    "ADAnauts",
+    "nauts"
+  ],
+  "policies": [
+    "cb1b219ed5ac9542a6f40db993cdb65a9c1f097cd7678d78e3e328eb"
+  ]
 }
-
