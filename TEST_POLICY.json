@@ -1,3 +1,4 @@
+[
 {
     "project": "TEST POLICY",
     "tags": [
@@ -7,10 +8,9 @@
         "TEST TAG 4"
     ],
     "policies": [
-        "b8971afd20f46aiiec7ainid796ce11bf8490efdf8395420bf3a751a",
-        "c74e0e9871f6b3337cb91d4bdabd2dxqnasgqx9dnhgnwha0560e014a",
-        "c74e0e9871f6b3337cbs1d4bdabd2dxqnadgqx9dnhgnwha05d0e0141",
+        "c74e0e9871f6b3337cbsad4bdabd2dxqnadgqx9dnhgnwha05d0e0141",
         "c74e0e9871f6b3337cb91d4b4322dxqnadgqx9dnhgnwha0560e0141a",
         "a48988c9de2e38xqnwouexyhnwouxhd7b6da5985f9f11595d99bf469"
     ]
 }
+]
