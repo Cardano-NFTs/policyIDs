@@ -2,9 +2,15 @@
     "project": "CardanoSpace",
     "tags": [
         "CardanoSpace",
-        "Cardano Space"
+        "Cardano Space",
+        "CardanoSpaces",
+        "Alonzo Upload Party",
+        "Party Favor",
+        "Participation Trophy",
+        "Party Gift"
     ],
     "policies": [
-        "e3ac0dd93edbe6bafec38fb120cf7c3e223686a97261008c2bfe0d6d"
+        "e3ac0dd93edbe6bafec38fb120cf7c3e223686a97261008c2bfe0d6d",
+        "e246da43032167e581837a7eac691b2a826fb70e6508f9d4c41026ef"
     ]
 }
