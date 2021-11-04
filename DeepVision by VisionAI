@@ -1,11 +1,26 @@
-{
+[
+  {
     "project": "DeepVision by VisionAI",
     "tags": [
-        "VisionAI",
-	"DeepVision",
-	"gcuriom"
+      "VisionAI",
+      "DeepVision",
+      "gcuriom"
     ],
     "policies": [
-        "28a9ffc30a5f4e18315fc6c5d192c349efb5b259bccb40b703999de9"
+      "28a9ffc30a5f4e18315fc6c5d192c349efb5b259bccb40b703999de9"
     ]
-}
+  },
+  {
+    "project": "DeepVision Halloween by VisionAI",
+    "tags": [
+      "VisionAI",
+      "DeepVision",
+      "Halloween",
+      "DV",
+      "gcuriom"
+    ],
+    "policies": [
+      "3b7311c9dafc32161be4eacc2b29f5baf92fb0c1500455be79141c04"
+    ]
+  }
+]
