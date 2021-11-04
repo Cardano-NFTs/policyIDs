@@ -1,11 +1,26 @@
-{
-  "project": "OceanPals",
-  "tags": [
-    "Ocean Pals Promo 01",
-    "Ocean Pals"
-  ],
-  "policies": [
-    "14fc55e82562699539dda2e704d74587bac63d72b5eee85e546894fb",
-    "2b36d6ab556eea40fe0cbc79847fcfaf4da18a88c48348a85fc25174"
-  ]
-}
+[
+  {
+    "project": "OceanPals - Promos",
+    "tags": [
+      "Ocean Pals"
+    ],
+    "policies": [
+      "14fc55e82562699539dda2e704d74587bac63d72b5eee85e546894fb"
+    ]
+  },
+  {
+    "project": "OceanPals",
+    "policies": [
+      "2b36d6ab556eea40fe0cbc79847fcfaf4da18a88c48348a85fc25174"
+    ]
+  },
+  {
+    "project": "OceanPals - Halloween Pals",
+    "tags": [
+      "Ocean Pals"
+    ],
+    "policies": [
+      "0d144bf630ab125aa76d9e6b0ea286c6863474c0bb978682d4586495"
+    ]
+  }
+]
