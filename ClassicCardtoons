@@ -1,6 +1,9 @@
 [
   {
     "project": "ClassicCardtoons",
+    "tags": [
+      "ClassicCardtoons"
+    ],
     "policies": [
       "c8874b5dbfecf73b8d2f536f2c11e57cf83f6aff075dec4aba46f9e4"
     ]
