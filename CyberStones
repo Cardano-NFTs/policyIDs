@@ -1,14 +1,14 @@
 {
-    "project": "CyberStones",
-    "tags": [
-        "CyberStones",
-        "CyberStone", 
-        "Stone",
-        "Stones",
-        "cyberstones"
-        "cyberstone"
-            ],
-    "policies": [
-        "68b678a6c2d8a521b88e4c12124ecb27af42d02a23131fd0dda52ea4"
-    ]
+  "project": "CyberStones",
+  "tags": [
+    "CyberStones",
+    "CyberStone",
+    "Stone",
+    "Stones",
+    "cyberstones",
+    "cyberstone"
+  ],
+  "policies": [
+    "68b678a6c2d8a521b88e4c12124ecb27af42d02a23131fd0dda52ea4"
+  ]
 }
