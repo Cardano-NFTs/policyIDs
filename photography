@@ -1,6 +1,6 @@
 {
   "project": "Photography",
-  "tags": [wildlife],
+  "tags": ["wildlife", "Photography"],
   "policies": [
     "8a18edfacd9acccd04535c0f2acd743d43553741211acd6e8b809143"
   ]
