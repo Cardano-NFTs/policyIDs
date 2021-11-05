@@ -1,15 +1,14 @@
 {
-    "project": "FlowerPowerCFR",
-    "tags": [
-        "FlowerPowerCFR"
-        "Plants"
-        "Cape Floristic Region"
-        "flowers"
-        "nature"
-        "weird"
-    ],
-    "policies": [
-        "a1a002809b73aa4fd193866e37e75d6672dcbfc8215af202acc5604c"
-          ]
+  "project": "FlowerPowerCFR",
+  "tags": [
+    "FlowerPowerCFR",
+    "Plants",
+    "Cape Floristic Region",
+    "flowers",
+    "nature",
+    "weird"
+  ],
+  "policies": [
+    "a1a002809b73aa4fd193866e37e75d6672dcbfc8215af202acc5604c"
+  ]
 }
-
