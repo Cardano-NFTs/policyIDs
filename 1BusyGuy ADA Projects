@@ -1,30 +1,29 @@
 [
-    {
-        "project": "UnsigCircles",
-        "tags": [
-            "UnsigCircles"
-    ],
-        "policies": [
-            "8f9f9a4b666b6c8bff67ac02ffe9bcc36e78878e6f397067d0139a0d"
-        ]
-    },
-    {
-        "project": "Unsig3D",
-        "tags": [
-            "Unsig3D"
-    ],
-        "policies": [
-            "2a1b4c20e8f2cbc1d0b4e183bfbd40a9c43d1cc69adc328676465bd8"
-        ]
-    },
-    {
-        "project": "UltimateUnsigs",
-        "tags": [
-            "UltimateUnsigs"
+  {
+    "project": "UnsigCircles",
+    "tags": [ 
+        "UnsigCircles"
     ],
     "policies": [
-        "bb31c2ac22ece24cd6dc52bef0ddd7da82393967dc5aa5bfb6540d0c"
-          ]
-    }
+      "8f9f9a4b666b6c8bff67ac02ffe9bcc36e78878e6f397067d0139a0d"
+    ]
+  },
+  {
+    "project": "Unsig3D",
+    "tags": [ 
+        "Unsig3D"
+    ],
+    "policies": [
+      "2a1b4c20e8f2cbc1d0b4e183bfbd40a9c43d1cc69adc328676465bd8"
+    ]
+  },
+  {
+    "project": "UltimateUnsigs",
+    "tags": [ 
+        "UltimateUnsigs"
+    ],
+    "policies": [
+      "bb31c2ac22ece24cd6dc52bef0ddd7da82393967dc5aa5bfb6540d0c"
+    ]
+  },
 ]
-
