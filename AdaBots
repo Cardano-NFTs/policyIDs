@@ -1,13 +1,34 @@
-{
-  "project": "AdaBots",
-  "tags": [
-    "AdaBots",
-    "Charlesbot"
-  ],
-  "policies": [
-    "c362b380faf5b27fdc4bc7cd3b4fbfe2a4941082dc938e652f5feebe",
-    "754a2977300e54c98e37d36e5a8912fc25edb21fd4f5a279c1e404ad",
-    "665ccc744acb90c8e5e58300f33849b8b7619b9ce9ebf87a9ab0f1cf",
-    "dc080e8a2ac5a8ce20ce89fa14ef7b3964763fffcdb0426cc9aacc39"
-  ]
-}
+[
+  {
+    "project": "AdaBots",
+    "tags": [
+      "AdaBots",
+      "Adabots Gen 0",
+      "AdaBots Origin"
+    ],
+    "policies": [
+      "c362b380faf5b27fdc4bc7cd3b4fbfe2a4941082dc938e652f5feebe",
+      "754a2977300e54c98e37d36e5a8912fc25edb21fd4f5a279c1e404ad",
+      "665ccc744acb90c8e5e58300f33849b8b7619b9ce9ebf87a9ab0f1cf"
+    ]
+  },
+  {
+    "project": "AdaBots - Charlesbot",
+    "tags": [
+      "AdaBots",
+      "Charlesbot"
+    ],
+    "policies": [
+      "dc080e8a2ac5a8ce20ce89fa14ef7b3964763fffcdb0426cc9aacc39"
+    ]
+  },
+  {
+    "project": "AdaBots - Halloween Special",
+    "tags": [
+      "AdaBots"
+    ],
+    "policies": [
+      "74acc703a5fe6b49fb569913a253cc64a0d7390b93824d7e1e90ecc8"
+    ]
+  }
+]
