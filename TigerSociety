@@ -16,5 +16,11 @@
         "policies": [
             "df3aa00401528bc2c2f01394bbf132fadf101d56adeeeb3056572e07"
         ]
+    },
+    {
+        "project": "TS Mutants",
+        "policies": [
+            "1fa70d2ac412b5bbf220aac84152781c0c517f7aee4667587a31e395"
+        ]
     }
 ]
