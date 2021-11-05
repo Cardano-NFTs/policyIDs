@@ -1,7 +1,9 @@
 {
 	"project": "Clay Mates",
 	"tags": [
-		"Clay Mates"
+		"Clay Mates",
+		"Clay-Mate",
+		"Mystery Mate"
 	],
 	"policies": [
 		"6e9ddb1bfafae89c4b026a4d3c1721bf6948027fea9ec03658f0c72c",
