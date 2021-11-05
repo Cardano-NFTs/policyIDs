@@ -1,12 +1,12 @@
 {
-    "project": "adAIart",
-    "tags": [
-      "adAIart"
-      "AI Art"
-      "Author: adAIart"
-      "Collection: 1"
-      ],
-    "policies": [
-        "a29025ebe61e0bf2b131fffa3dc3c092b052d060e79be89040582754"
-    ]
+  "project": "adAIart",
+  "tags": [
+    "adAIart",
+    "AI Art",
+    "Author: adAIart",
+    "Collection: 1"
+  ],
+  "policies": [
+    "a29025ebe61e0bf2b131fffa3dc3c092b052d060e79be89040582754"
+  ]
 }
