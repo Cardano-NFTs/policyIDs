@@ -1,6 +1,9 @@
-{Art itALY
-    "project": "ITALIA",
-    "policies": [
-        "3283da8fc46021c43f33fd02beca44bbf1b65a20edffc1b7e73684ef"  
-    ]
+{
+  "project": "Art italy",
+  "tags": [
+    "ITALIA"
+  ],
+  "policies": [
+    "3283da8fc46021c43f33fd02beca44bbf1b65a20edffc1b7e73684ef"
+  ]
 }
