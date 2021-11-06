@@ -1,4 +1,4 @@
-{
+[{
     "project": "NFTs until 2041",
     "policies": [
         "0db5ac54e8ff0a81423f80786938db0706d6985d162dfff959a80c4b",
@@ -12,5 +12,5 @@
         "df6f8130405d97839a84765eec4ccbbe4097656ccb72058efe2b2737",
         "614b1d09fc65df153aeb7294bb0eac09d6e96be10896cfb438d9e001",
         "27780032d266703a86e3830ce7af619dae80634415f9a176930cb7b3"
-    ]
-}
+        ]
+}]
