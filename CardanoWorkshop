@@ -1,0 +1,8 @@
+{
+    "project": "CardanoWorkshop",
+    "policies": [
+        "bc8cfb4d4d4fe5a341c36d853ea39de8f898163b7aedf1b7a37dfd70",
+        "4a6959b2e732875ae92c37f54e70e014da88ba4c8fb0d96cd8e2d735",
+        "56d72a549e587dbacf3fb8009b00b7bbdbe5ee5657c6ed8d94d6c2c8"
+    ]
+}
