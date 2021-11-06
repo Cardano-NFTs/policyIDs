@@ -1,43 +1,52 @@
-{
+[
+  {
     "project": "Call Me By Your Name by Chadi Nassar",
     "tags": [
-        "Call Me By Your Name",
-        "CMBYN",
-        "Self-Portraits",
-        "Faces 1",
-        "Faces 1 GIF",
-        "Jlyle Collab",
-        "BackwardsGeometry Collab",
-        "CardanoRobin Collab",
-        "Mr Intangible Collab",
-        "Charles Gitnick Collab",
-        "CardanoKings Collab",
-        "Call Me By Your ADA Puzzle",
-        "Call Me By Your Poutine",
-        "Springboard Rockets",
-        "Low Poly Collab",
-        "Call Me By Your Artist",
-        "Chadi's 38th Birthday Mystery Drop",
-        "Twitter Giveaways 2021 Edition"
+      "Call Me By Your Name",
+      "CMBYN",
+      "Self-Portraits",
+      "Faces 1",
+      "Faces 1 GIF",
+      "Jlyle Collab",
+      "BackwardsGeometry Collab",
+      "Mr Intangible Collab",
+      "Charles Gitnick Collab",
+      "CardanoKings Collab",
+      "Call Me By Your ADA Puzzle",
+      "Call Me By Your Poutine",
+      "Springboard Rockets",
+      "Low Poly Collab",
+      "Call Me By Your Artist",
+      "Chadi's 38th Birthday Mystery Drop",
+      "Twitter Giveaways 2021 Edition"
     ],
     "policies": [
-        "c7106c654279e6053e950449e12df8df35d5e840ba5ca8765dc1764b",
-        "bb3dd4ed8d55f9c4aaf2b10b38ce77fb56d99098e3b5f17b85b85477",
-        "a025d91dca7804ae13c5231c4c44a6cfa16aa98634e9e0e874380797",
-        "63f14997b7e45a2b9759ba033271b66ccaac5ab5e7381dde9d864cc7",
-        "bcac5d9730f1d4cb9cc92f8d9304870213e5875780f484747802fcb7",
-        "942f26b14e57ab29ceac5f5d0e1ce392001ac486a019ab272f37c9c5",
-        "91db714d9fea7335e1ab7a7584d2adeb5aa6501d32aaac76b4179228",
-        "214208fe6a57187a18344fd230e583bf5b09f716f89b971eae818846",
-        "088dca81bffc22552d2e5c70178bbe645b4db0e67126cc0733ccf171",
-        "78517792ad45d22f70a8ec4a1d30c458925938a8e7a5d9acb2449a63",
-        "a18049fe1355f3826cad404906d231708e3006a0721569d8612493c7",
-        "8aa62871678f71de2328d732e679def0a5bb211c64b693de08e6fbe4",
-        "d07722f0eccaa341ac2fd525becd9e24b9e0508e909eae801d8971ea",
-        "886b3b21d205672e0b7817e7eb032da87d3bc66801930d94c947e5db",
-        "9ba2415d21dad3b912c36b2cc73a54daadb5250f3e58821e885d4e17",
-        "414ab8d522bb7830720d16d955adaa9c2ed1383660313a972b01a2af",
-        "1cb5059dabefe1f80a8868b3aac67f952fe8cddd6b4438193223d748",
-        "36c16c047a2a6152c04efb2b1a440af4d08d49be85711ee237a0008e"
+      "c7106c654279e6053e950449e12df8df35d5e840ba5ca8765dc1764b",
+      "bb3dd4ed8d55f9c4aaf2b10b38ce77fb56d99098e3b5f17b85b85477",
+      "a025d91dca7804ae13c5231c4c44a6cfa16aa98634e9e0e874380797",
+      "63f14997b7e45a2b9759ba033271b66ccaac5ab5e7381dde9d864cc7",
+      "942f26b14e57ab29ceac5f5d0e1ce392001ac486a019ab272f37c9c5",
+      "91db714d9fea7335e1ab7a7584d2adeb5aa6501d32aaac76b4179228",
+      "214208fe6a57187a18344fd230e583bf5b09f716f89b971eae818846",
+      "088dca81bffc22552d2e5c70178bbe645b4db0e67126cc0733ccf171",
+      "78517792ad45d22f70a8ec4a1d30c458925938a8e7a5d9acb2449a63",
+      "a18049fe1355f3826cad404906d231708e3006a0721569d8612493c7",
+      "8aa62871678f71de2328d732e679def0a5bb211c64b693de08e6fbe4",
+      "d07722f0eccaa341ac2fd525becd9e24b9e0508e909eae801d8971ea",
+      "886b3b21d205672e0b7817e7eb032da87d3bc66801930d94c947e5db",
+      "9ba2415d21dad3b912c36b2cc73a54daadb5250f3e58821e885d4e17",
+      "414ab8d522bb7830720d16d955adaa9c2ed1383660313a972b01a2af",
+      "1cb5059dabefe1f80a8868b3aac67f952fe8cddd6b4438193223d748",
+      "36c16c047a2a6152c04efb2b1a440af4d08d49be85711ee237a0008e"
     ]
-}
+  },
+  {
+    "project": "CMBYN x Cardano Robin",
+    "tags": [
+      "CardanoRobin Collab"
+    ],
+    "policies": [
+      "bcac5d9730f1d4cb9cc92f8d9304870213e5875780f484747802fcb7"
+    ]
+  }
+]
