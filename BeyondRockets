@@ -1,26 +1,27 @@
 [
-{
-    "project": "BeyondRockets",
+  {
+    "project": "Beyond Rockets",
     "tags": [
-        "BeyondRockets"
+      "Beyond Rockets"
     ],
     "policies": [
-        "2627a67fb76a7135e1c99d0ae543ad0b051ba8f0b7cb3a3502fd31ed",
-        "513cdfefd0c39c79ff77b77f28aca06e74a6f3bd63a2599f8481db41",
-        "60c6dcf016a99107d700b453ac880b38a59ca7ba405098cb1cd924d1",
-        "1a645cd395468cf51b24ba319aefb0279e9cac89a193dc2348619fff",
-        "638c8bb1686bc2cbaf746d1c1c7e0058b2070bb9544d671569dce438",
-        "4ef91729afe00e44b12c1e2234f151fb8e15bf4a4c3c99684b6a9b13",
-        "b60e747a753d36c8eaf08e58608e79e2d64152c94d8acd4b2a7ea25e"
+      "2627a67fb76a7135e1c99d0ae543ad0b051ba8f0b7cb3a3502fd31ed",
+      "513cdfefd0c39c79ff77b77f28aca06e74a6f3bd63a2599f8481db41",
+      "60c6dcf016a99107d700b453ac880b38a59ca7ba405098cb1cd924d1",
+      "1a645cd395468cf51b24ba319aefb0279e9cac89a193dc2348619fff",
+      "638c8bb1686bc2cbaf746d1c1c7e0058b2070bb9544d671569dce438",
+      "4ef91729afe00e44b12c1e2234f151fb8e15bf4a4c3c99684b6a9b13",
+      "b60e747a753d36c8eaf08e58608e79e2d64152c94d8acd4b2a7ea25e",
+      "8447f40c8dbd543be271b2c817281b22e77bd0444b336fc92740915a"
     ]
-},
-{
-    "project": "BeyondRockets Records",
+  },
+  {
+    "project": "Beyond Rockets Records",
     "tags": [
-        "BeyondRockets Records"
+      "Beyond Rockets Records"
     ],
     "policies": [
-        "dee73575bbe4adb82b286fcb47aa9db4db5ae431209e64f19cc19c5b"
+      "dee73575bbe4adb82b286fcb47aa9db4db5ae431209e64f19cc19c5b"
     ]
-}
+  }
 ]
