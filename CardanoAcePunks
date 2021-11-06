@@ -1,9 +1,12 @@
 {
     "project": "CardanoAcePunks",
-    "tag":["CardanoAce Punks"
+    "tag":[
+    "CardanoAcePunks"
+    "CardanoAce Punks"
 　　　],
     "policies": [
         "cd5321616fc26856393ac03fca4166c0ef1b010db39318a18d6e9812",
-        "0d49234435b39b094d05268c2b84b53e827ecbc0e73799d7653da45f"
-    ]
+        "0d49234435b39b094d05268c2b84b53e827ecbc0e73799d7653da45f",
+        "f26d58a0202fa6e016bbefd709b93b7b97e944b4a7ab2f300583044f"
+]
 }
