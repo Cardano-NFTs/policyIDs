@@ -1,4 +1,4 @@
-{
+[{
     "project": "NanoChess",
     "tags": [
         "NanoChess","Chess","onchain","on-chain"
@@ -6,4 +6,4 @@
     "policies": [
         "3352d182856ba195248e745843b3aec5c03c6ef1437f1c05f39c4e55"
     ]
-}
+}]
