@@ -1,7 +1,8 @@
 {
-    "project": "Ghosted",
+    "project": "Ghosted"
     "tags": [
-        "Ghosted"
+        "Ghosted",
+        "GhostedNFT"
     ],
     "policies": [
         "b1ae92f64472bece752336bdd39948d5e19da13130716f2c5dd42079"
