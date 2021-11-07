@@ -1,0 +1,20 @@
+[{
+        "project": "Lord of the Coins",
+        "tags": [
+                "Lord of the Coins",
+                "Angsty Orcs"
+        ],
+        "policies": [
+            "aad58602e6453eebd9daeffb6ba6ed37e0a9881f0f15e5367d76999a"        
+        ]
+    },
+    {
+        "project": "Firefly Shire Rarities",
+        "tags": [
+                "Firefly Shire"
+        ],
+        "policies": [
+            "ee24db8e4a61cc194b68d8cdfc570d4f40ed7ecc7b0dca4f502471ba"
+        ]
+    }
+]
