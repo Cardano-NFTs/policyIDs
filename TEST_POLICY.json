@@ -1,15 +1,13 @@
+[
 {
     "project": "TEST POLICY",
     "tags": [
         "TEST TAG 1",
         "TEST TAG 2",
-        "TEST TAG 3",
-        "TEST TAG 4"
+        "TEST TAG 3"
     ],
     "policies": [
-        "b8971afd20f46aiiec7ainid796ce11bf8490efdf8395420bf3751ab",
-        "c74e0e9871f6b3337cb91d4bdabd2dxqnadgqx9dnhgnwha0560e0141",
-        "1be5f8e4a1c29qndxh9qnec2c07bf3a89b96931f4a36f72b308879f0",
         "a48988c9de2e38xqnwouexyhnwouxhd7b6da5985f9f11595d99bf469"
     ]
 }
+]
