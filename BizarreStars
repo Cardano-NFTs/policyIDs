@@ -1,12 +1,20 @@
-[{
+[
+  {
     "project": "Bizarre Stars Series 1 Promos",
     "policies": [
-        "321668648736a09a40bc3ef5fbd05590530be624e39af84fab3bc6bb"
+      "321668648736a09a40bc3ef5fbd05590530be624e39af84fab3bc6bb"
     ]
-},
-{
+  },
+  {
     "project": "Bizarre Stars Series 1",
     "policies": [
-        "55898621fc56ee02d5a7fc8f6f09d8cedaa571d1ad6c7316ce4868d8"
+      "55898621fc56ee02d5a7fc8f6f09d8cedaa571d1ad6c7316ce4868d8"
     ]
-}]
+  },
+  {
+    "project": "Bizarre Stars Series 1 Rewards",
+    "policies": [
+      "e2450200a8055a8477d7f43b193c82b7942651bcd87d341830a0fd26"
+    ]
+  }
+]
