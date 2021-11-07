@@ -1,9 +1,10 @@
 {
-    "project": "PlaymateSociety",
-    "tags": [
-        "PlaymateSociety"        
-    ],
-    "policies": [
-        "516fb6427b52947fc183293f0d8387e598318dfc4245fb6e6f7ac9f9"
-    ]
+  "project": "PlaymateSociety",
+  "tags": [
+    "PlaymateSociety"
+  ],
+  "policies": [
+    "516fb6427b52947fc183293f0d8387e598318dfc4245fb6e6f7ac9f9",
+    "64700329d616f20f4e83f2bc579513fca51646d47466a97f8fd1c229"
+  ]
 }
