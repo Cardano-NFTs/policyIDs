@@ -2,13 +2,21 @@
     {
         "project": "Cyberpunk Samurais",
         "policies": [
-            "asset172m63rv8m6kzglnylcxmf0uup2654s62xqyu3h"
+            "d070fd5fb0796793ff658aa74715f73166ba29efc18f54a445d5fc9f"
+        ]
+    },
+    
+    
+     {
+        "project": "Jada Life Collection",
+        "policies": [
+            "d1c2e4eb603dc0f04dc4e086702c7855745b94e3ed1d9e2d62c440e4"
         ]
     },
     {
-        "project": "Zombie-Kong",
+        "project": "Zombie-Kong Collection",
         "policies": [
-            "asset1q0amgshuunrx8fucpt62s8tn9yk7uht6cq3nmw"
+            "ef39cc887849ac29038fde5aea1f37f0ff240251aaf6938463c11560"
         ]
     },
     {

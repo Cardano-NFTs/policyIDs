@@ -1,9 +1,13 @@
 {
     "project": "CryptoPetz",
     "tags": [
-        "CryptoPet"
+        "CryptoPet",
+        "CryptoPetz",
+        "Petz"
     ],
     "policies": [
-        "b81e5ffa08dbd35bf7ac7f9d7f0f58d3581444510b35ea4d098313b5"
+        "b81e5ffa08dbd35bf7ac7f9d7f0f58d3581444510b35ea4d098313b5",
+        "893882ea2c018b38ad3d988773aa8d49fcdbe3f5bc54cdff75b7754f",
+        "abe33696fe45238a13116f42fbb15332fd1c2adb0568a9b4b69d76ab"
     ]
 }
