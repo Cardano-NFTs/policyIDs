@@ -43,5 +43,16 @@
       "c9d1eca7345a8fd8ddf8309cc612bfd2a05e56db42353853956d8a6a",
       "074fed91205b602077de6a9bcfe0ec146962baf083bd0f8a231025b9"
     ]
+  },
+  {
+    "project": "MOB Halloween",
+    "tags": [
+      "Masked On Buttons",
+      "MOB",
+      "MOB Halloween"
+    ],
+    "policies": [
+      "8d99a6f364e82a59bbc93bee9b9db23a85d841cd9ac63b78e60b5c9c"
+    ]
   }
 ]
