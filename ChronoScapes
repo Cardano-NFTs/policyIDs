@@ -1,12 +1,12 @@
 {
-    "project": “ChronoScapes”,
-    "tags": [
-        "ChronoScapes",
-        "Chrono Scapes",
-        "ChronoScape",
-        "Chrono Scape"
-    ],
-    "policies": [
-        "df028158cdbab0bd4de10a326ce17e673c8434cdd6fe79c0fd0e403a"
-    ]
+  "project": "ChronoScapes",
+  "tags": [
+    "ChronoScapes",
+    "Chrono Scapes",
+    "ChronoScape",
+    "Chrono Scape"
+  ],
+  "policies": [
+    "df028158cdbab0bd4de10a326ce17e673c8434cdd6fe79c0fd0e403a"
+  ]
 }
