@@ -2,9 +2,15 @@
     "project": "Cardano Waifus",
     "tags": [
         "Waifu",
-        "Cardano Waifu"
+        "Cardano Waifu",
+        "Daedalus Waifu",
+        "Halloween Daedalus",
+        "Waifu Token"
     ],
     "policies": [
-        "94f2c62d03d85be7127f7bfab05c938799712930e930e1ae611b83a7"
+        "94f2c62d03d85be7127f7bfab05c938799712930e930e1ae611b83a7",
+        "a53d850c568870005faf0204c84f586239c4c44c736bedd1b9459cc2",
+        "27252b1fe5906751823992cad07023633632faaac8826afada099af8",
+        "3ae8bd433d2ca69131d16586d03c0531528cff5c83607dac17586842"
     ]
 }
