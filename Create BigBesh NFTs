@@ -1,11 +1,10 @@
 {
-    "project": "CardanianSnowGlobes",
-    "tags": [
-        "CardanianSnowGlobes"
-    ],
-    "policies": [
-        "dd9ebd87f7ae325ed67d1fb51e906087e05739217a8ef7020bc86fee",
-              "82c5ede4d07a12ea8f797d49e2c21c5214fbde82a3fe07a2b1a38083"
-             
-          ]
+  "project": "BigBesh",
+  "tags": [
+    "BigBesh"
+  ],
+  "policies": [
+    "dd9ebd87f7ae325ed67d1fb51e906087e05739217a8ef7020bc86fee",
+    "82c5ede4d07a12ea8f797d49e2c21c5214fbde82a3fe07a2b1a38083"
+  ]
 }
