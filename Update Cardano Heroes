@@ -1,4 +1,5 @@
-{
+[
+  {
     "project": "Cardano Heroes",
     "tags": [
         "Cardano Heroes",
@@ -16,4 +17,5 @@
         "ddd788d70b7f567afd2d75ff8bbc2c7e99302c3e9ce509a13c9e8a00",
         "f60c4b8b437d5ef114658c3d818b95e6efd7e19b8baf27a2e41d7389"
     ]
-}
+  }
+]
