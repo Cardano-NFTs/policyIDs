@@ -9,7 +9,8 @@
             "2f10f077252fb5b0fcd82abb6e50a178ad15e1e0920cf4b911eb45ff",
             "6c9c5303bd52ebbdab20c430d555c55d5951850a515fd948f2a00db1",
             "fd2ddabe52e5a058afe760aa15b0b63f7e302927f7fd57f35989d376",
-            "1d16914eaf12d5668cce081865b60f437e2ae9235ed25dde406ad2cd"
+            "1d16914eaf12d5668cce081865b60f437e2ae9235ed25dde406ad2cd",
+            "fc73a93d15ed3d1db612f8f1fb69a191138da73942e028cafc9c4bc5"
         ]
     },
     {
@@ -19,7 +20,8 @@
         "maps"
         ],
         "policies": [
-            "c568971030288b46870b922c26ea50320d96a393979bf3c2020207c3"
+            "c568971030288b46870b922c26ea50320d96a393979bf3c2020207c3",
+            "7a40252627555464f3f36acce585654cd1b7704febed37695a8a7654"
         ]
     },
     {
@@ -29,7 +31,8 @@
     "cardanos"
     ],
         "policies": [
-            "f58514cc07f1582e34400467545b7cff02aa10474957e4d75f89cd8e"
+            "f58514cc07f1582e34400467545b7cff02aa10474957e4d75f89cd8e",
+            "83b2cb766f73225ca01926bb5597d5ce3220f073f3b428ecb9179e7c"
         ]
     }
 ]
