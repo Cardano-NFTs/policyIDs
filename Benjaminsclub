@@ -1,13 +1,30 @@
 [
   {
-    "project": "Benjamin's Club",
+    "project": "Benjamin's Club - Zigor",
     "tags": [
-      "Benjamin's Club x Zigor",
-      "Keystone"
+      "Zigor"
     ],
     "policies": [
-      "adc2c2e89b45a5f608c710a24073b95addf9ad549662fba26ac89951",
+      "adc2c2e89b45a5f608c710a24073b95addf9ad549662fba26ac89951"
+    ]
+  },
+  {
+    "project": "Benjamin's Club - OG 50 Keystones",
+    "tags": [
+      "OG 50 Keystones"
+    ],
+    "policies": [
       "5a8a9498c17d3a7367f06eb08e4e51fb18341b36abb2acabd5603cf6"
+    ]
+  },
+  {
+    "project": "Benjamin's Club - Membership Keystones",
+    "tags": [
+      "Membership Keystones"
+    ],
+    "policies": [
+      "9f0a06006c49f452656bbb91667d0e6ca0617a09e7f7642891f42601"
     ]
   }
 ]
+
