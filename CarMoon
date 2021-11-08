@@ -1,10 +1,9 @@
 {
-    "project": "CarMoon",
-    "tags": [
-        "CarMoon"
-    ],
-    "policies": [
-        82c5ede4d07a12ea8f797d49e2c21c5214fbde82a3fe07a2b1a38083
-          ]
+  "project": "CarMoon",
+  "tags": [
+    "CarMoon"
+  ],
+  "policies": [
+    "82c5ede4d07a12ea8f797d49e2c21c5214fbde82a3fe07a2b1a38083"
+  ]
 }
-
