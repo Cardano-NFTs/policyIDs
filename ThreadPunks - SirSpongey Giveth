@@ -1,14 +1,22 @@
 [
   {
-    "project": "SirSpongey Giveth S1 - The beefy special",
+    "project": "ThreadPunks - SirSpongey Giveth",
     "policies": [
-      "c8e64750da668e7a4ace5d8a252046458eed014550e6abc416edbe25"
+      "c8e64750da668e7a4ace5d8a252046458eed014550e6abc416edbe25",
+      "6d840512bd3b87f6ef202760e826ea768343367d76f88e65e7c650d4",
+      "9db6bbe4e225ee17bf5177c79a36468c88e4b0327bf6c64e8f5c63bb"
     ]
   },
   {
-    "project": "SirSpongey Giveth S2 - Stepping it up a thread",
+    "project": "ThreadPunks - SirSpongey Giveth Prize Tokens",
     "policies": [
-      "6d840512bd3b87f6ef202760e826ea768343367d76f88e65e7c650d4"
+      "3108066b31cc955fa6732e966ef119361a574ac0b869acf2f9fcf753"
+    ]
+  },
+  {
+    "project": "ThreadPunks - SirSpongeys Uniquities",
+    "policies": [
+      "ae5605d05dc31c764b8c04d525e1ffccd46649bb3a30968e6a0dce41"
     ]
   }
 ]
