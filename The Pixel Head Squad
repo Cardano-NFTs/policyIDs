@@ -1,10 +1,10 @@
-{
-    "project": "The Pixel Head Squad",
-    "tags": [
-        "PixelHead",
-        "TPHS"  
-    ],
-    "policies": [
-        "6c880f643a86d6f5b86871952b36999bbf7e9619ca54953abd2acf62"
-    ]
-}
+[
+    {
+        "project": "The Pixel Head Squad",
+        "policies": [
+            "6c880f643a86d6f5b86871952b36999bbf7e9619ca54953abd2acf62",
+            "43997e8810ed8518a5e1d6c69f768b1788fb16a361ba35f4de61145c",
+            "fec624c17759a1c5040ecb4c0d3ce35fc01465d0b7ab57b266fa2b18"
+        ]
+    }
+]
