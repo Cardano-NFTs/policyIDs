@@ -5,7 +5,8 @@
         "Doomsday",
         "Vapor Age",
         "Infinite Space",
-        "RetroBytes"
+        "RetroBytes",
+        "Fahalloween"
     ],
     "policies": [
          "5ba29189b17c0f40facd2ca7dfcb33800a76c2421bea114da4aaa4ed",
@@ -16,6 +17,7 @@
          "5b24e9308aa869851e0d0781a0b3e10f7db4f7b5a8c3161657dd38ea",
          "5462b53515b374288bfd811c808488eb85876fbdc8d3c586a2b1ae09",
          "ac26608004bca3e44ebc8f28fd58d4ae0dc26ffa9baeb8b3e32ee4cf",
-         "eba191312bf18cb71ce6db361004ae720c9ce3bd9363d721b41c33d9"
+         "eba191312bf18cb71ce6db361004ae720c9ce3bd9363d721b41c33d9",
+         "8e2fe2fee97c4ff17ee93ed204a8218cec80cd8d499cf148f76c1b36"
     ]
 }
