@@ -20,35 +20,37 @@ Validate your code before requesting: https://jsonformatter.curiousconcept.com/#
 
 Single Project:
 ```json
-{
-    "project": "CardanianSnowGlobes",
-    "tags": [
-        "CardanianSnowGlobes"
-    ],
+[
+  {
+    "project": "YourFirstProjectName",
     "policies": [
-        "2d1e33d10789b2284788e7e67bd3fd2d07194720bc81f475adf45cbe",
-              "eadf22778135584d96da25ebf4696de1e2bed4b9422ea24444442ade",
-              "8aae5b74fb6f66755911200634427ea484bfd2bd313db30a37e96c7b"
-          ]
-}
+      "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab",
+      "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab",
+      "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab"
+    ]
+  }
+]
 
 ```
 
 Multiple Projects under one name:
 ```json
 [
-    {
-        "project": "Example 1",
-        "policies": [
-            "Example1",
-            "Example2"
-        ]
-    },
-    {
-        "project": "Example 2",
-        "policies": [
-            "Example 2"
-        ]
-    }
+  {
+    "project": "YourFirstProjectName",
+    "policies": [
+      "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab",
+      "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab",
+      "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab"
+    ]
+  },
+  {
+    "project": "YourSecondProjectName",
+    "policies": [
+      "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab",
+      "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab",
+      "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab"
+    ]
+  },
 ]
 ```
