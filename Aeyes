@@ -1,10 +1,8 @@
-{
+[
+  {
     "project": "Aeyes",
-    "tags": [
-        "Aeyes",
-        "ActonEllis"
-    ],
     "policies": [
-        "b899247b225a8ff799fe843bc8da7874a15ddd50107effd5f54fdca5"
-          ]
-}
+      "b899247b225a8ff799fe843bc8da7874a15ddd50107effd5f54fdca5"
+    ]
+  }
+]
