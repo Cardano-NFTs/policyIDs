@@ -1,6 +1,6 @@
-{
+[{
   "project": "The LowPoly Project",
-  "tags": [],
+  "tags": ["Low Poly"],
   "policies": [
     "3a3e81005c80b674505cfeedeaef55e6801db785acaa92fa4301d6d1",
     "0d22285277beb69d51608048e2fe459ea5b28033a4a257d54ad4eee3",
@@ -22,6 +22,7 @@
     "0ade07daf7fa2fa295eaf7247ad33db5855d28279b5dae3e4effb592",
     "281a4cc607c97fd7d2f9bbfdedfbfd09ac5cc430e8a4e149e5c2967d",
     "fd77ae72b91a266c9ea2e388d10b79742bfca1cce152e096c096043c",
-    "f1dc3f746130619cebc17c4c366821218c207d99e1713603d0c10ec3"
+    "f1dc3f746130619cebc17c4c366821218c207d99e1713603d0c10ec3",
+    "ade5155c550166edcc460b070bea9bd54fc46b4c1b9fb668a831cd68"
   ]
-}
+}]
