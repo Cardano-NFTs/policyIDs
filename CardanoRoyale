@@ -1,0 +1,14 @@
+[
+  {
+    "project": "CardanoRoyale",
+    "tags": [
+      "CardanoRoyale",
+      "Cardano Royale"
+    ],
+    "policies": [
+      "7968f276ec0b9b70831b79732e3f260e22691e3f2dc0ae363edc757e",
+      "82499ae0105746faef1b0cf5c94860fdf1ace3b4b7bb75b642ab031e",
+      "d55224806767e38b7ca0b988104e38a6d31f190afc2fb6d5e700465c"
+    ]
+  }
+]

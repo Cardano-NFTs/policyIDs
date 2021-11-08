@@ -1,7 +1,16 @@
-{
-  "project": "Andels",
-  "tags": [],
-  "policies": [
-    "49f565e692cbecf4b38a94df1dcc21635a07222efd4dafb470fa4057"
-  ]
-}
+[
+  {
+    "project": "Andels",
+    "tags": ["Andels"],
+    "policies": [
+      "49f565e692cbecf4b38a94df1dcc21635a07222efd4dafb470fa4057"
+    ]
+  },
+  {
+    "project": "Andelloween",
+    "tags": ["Andels", "Halloween"],
+    "policies": [
+      "cc4e6fd4a131f5a89707a53c76b980ec59bf88ce247dce921c190626"
+    ]
+  }
+]
