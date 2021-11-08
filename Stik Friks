@@ -23,5 +23,17 @@
     "policies": [
       "b271482d14d9d72619f95f4a5181a364e9bede84939d9d3a15d4206a"
     ]
+  },
+  {
+    "project": "Stik Friks - Rewards",
+    "tags": [
+      "Stik Friks",
+      "Stik Frik",
+      "StikFriks",
+      "StikFrik"
+    ],
+    "policies": [
+      "db9092a340fa079b9ec6066b646046efc0f846e96abf7eeb5f3959e0"
+    ]
   }
 ]

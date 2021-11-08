@@ -1,6 +1,6 @@
 name: Validate JSONs
 
-on: [push, pull_request]
+on: [pull_request]
 
 jobs:
   verify-json-validation:
@@ -11,16 +11,15 @@ jobs:
         uses: jitterbit/get-changed-files@v1
         with:
           format: 'json'
-      - run: |
-          filesList="";
-          echo 'Initial outputs are ${{ steps.files.outputs.all }}'
-          for changed_file in ${{ steps.files.outputs.all }}; do
-            filesList="${filesList}${changed_file[0]},"
-          done
-          echo "The filesList is ${filesList}"
-          echo '::set-output name=FILES_LIST::${filesList}'
+      - id: chagedFiles
+        run: |
+          print("INITIAL INPUT IS OF TYPE: "+str(type(${{ steps.files.outputs.all }})))
+          list_as_string = ",".join(${{ steps.files.outputs.all }})
+          print("list_as_string: "+list_as_string)
+          print("::set-output name=FILES_LIST::"+list_as_string)
+        shell: python
       - name: Validate JSON
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
           INPUT_SCHEMA: /internal/policy-id-schema.json
-          INPUT_JSONS: ${{ steps.files.outputs.FILES_LIST }}
+          INPUT_JSONS: ${{ steps.chagedFiles.outputs.FILES_LIST }}
