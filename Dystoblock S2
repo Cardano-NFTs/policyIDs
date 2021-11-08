@@ -1,9 +1,10 @@
-{
+[
+  {
     "project": "Dystoblock S2",
     "tags": [
-        "Dystoblock S2",
-    ],
+      "Dystoblock S2",
     "policies": [
-        "4ba4023b166fa1684efc89bab6957a75adbc8bc28aac8a70926f4ce3"
+      "4ba4023b166fa1684efc89bab6957a75adbc8bc28aac8a70926f4ce3"
     ]
-}
+  }
+]
