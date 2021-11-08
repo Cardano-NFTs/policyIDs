@@ -1,5 +1,12 @@
 [
   {
+    "project": "Cardano Freaks",
+    "policies": [
+      "f8791ad0ae6ef9e5facfe08783f8a261098488fb6c0183bcfd09be5b"  
+    ]
+  },
+
+  {
     "project": "Project AiDA",
     "policies": [
       "46a69b3de7f2b8ff9d0cddd801ff5eee019743a0bbc1b4330567f90c"  
