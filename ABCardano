@@ -1,4 +1,5 @@
-{
+[
+    {
     "project": "ABCardano",
     "tags": [
         "ABCardano",
@@ -64,3 +65,4 @@
         "a244cd5dd1d540a08d5e0964ec88c75439e32d46b0a917e3e91640b7"
     ]
 }
+]
