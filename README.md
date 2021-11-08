@@ -20,15 +20,16 @@ Validate your code before requesting: https://jsonformatter.curiousconcept.com/#
 
 Single Project:
 ```json
-{
-  "project": "YourProjectName",
-  "policies": [
-    "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab",
-    "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab",
-    "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab",
-    "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab"
-  ]
-}
+[
+  {
+    "project": "YourFirstProjectName",
+    "policies": [
+      "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab",
+      "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab",
+      "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab"
+    ]
+  }
+]
 
 ```
 
