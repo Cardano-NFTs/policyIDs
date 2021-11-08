@@ -1,9 +1,11 @@
-{
-    "project": "WordsNFT",
-    "tags": [
-        "WordsNFT"
-    ],
-    "policies": [
-        "a2b4f28ad94425ee7c909e4a301f0d24f2139923ac04cadb8051b73d"
-    ]
-}
+[
+    {
+        "project": "WordsNFT",
+        "tags": [
+            "WordsNFT"
+        ],
+        "policies": [
+            "a2b4f28ad94425ee7c909e4a301f0d24f2139923ac04cadb8051b73d"
+        ]
+    }
+]
