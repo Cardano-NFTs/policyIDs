@@ -1,0 +1,30 @@
+[
+    {
+        "project": "ADAkawaii",
+        "policies": [
+            "d6f58216e602613eedec7cf3532c4038532c8bb6f5812bc4c280f644"
+        ],
+        "tags":[
+          "AdaKawaii",
+          "adakawaii.io",
+          "Cardanians",
+          "kawaii",
+          "cardano"
+		]
+    },
+    
+    {
+        "project": "CardaniansLoyalty",
+        "policies": [
+            "25245a6ae33492621c370c1a4cba8e944c085f28615f7b760a47b246"
+        ],
+        "tags":[
+          "cardanians",
+          "loyalty",
+          "CardaniansLoyalty",
+          "cardano"
+		]
+    }   
+    
+    
+]
