@@ -1,0 +1,14 @@
+[
+   {
+      "project":"CardanoDonuts Testbatch",
+      "policies":[
+         "c46443f7a55e7d29d7a2d8974ed4dff22f1b720a9e13292120355a7d"
+      ]
+   },
+   {
+      "project":"CardanoDonuts",
+      "policies":[
+         "c29da0a0e950b7bf34395ab469d58af3793807b2eec51a0d340df901"
+      ]
+   }
+]
