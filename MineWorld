@@ -1,15 +1,6 @@
-{
+[
+  {
     "project": "MineWorld",
-    "tags": [ 
-        "MineWorld",
-        "Minecraft",
-        "Games",
-        "Gabriel",
-        "Mazzanti",
-        "Story",
-        "Building",
-        "creative"
-    ],
     "policies": [
         "c44f29c174ec55e2d29dd34a9c5bd98c6a575bfe57ba1290a0a328e1",
         "a3c48f72de48528990889268396a4f4591f6cadbc40a71e06cb2578a",
@@ -21,4 +12,23 @@
         "01bb7ebe887e11e75ca26a9a4a55da8f5b7e6c16b22d9f1dcec8f2b3",
         "f939881510c545411afc5934a7a70e0df708cc50bad9a9182fbe9a1a"
     ]
-}
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
