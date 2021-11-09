@@ -1,0 +1,21 @@
+[
+    {
+        "project": "Sharnold's NFT Collection",
+        "policies": [
+            "ed9640b84954fa580fe14ec93c05245d21aade7272a1a2fb75eb2c75",
+            "6e4272150221d01c222819877cdf28dff84068bc30059a49a92cbf7e",
+            "e803785214a6b478706724acb4a920fc18624777191823d651489129"
+        ]
+    },
+    {
+        "project": "Crypto Wrestlers",
+        "tags": [
+            "CryptoWrestlers",
+            "Crypto Wrestlers"
+        ],
+        "policies": [
+            "b02994dc38ad9729bdc3eb2a959391dc3bdc1dc17461710fb670670c",
+            "a677f09b2927ff1c2aa137cb08f7bed85b5e2b6c5256fc2e9147a102"
+        ]
+    }
+]
