@@ -1,9 +1,20 @@
-{
+[
+  {
     "project": "Derp Birds",
     "tags": [
-      "Derp Birds"
+      "Derp Birds", "Derp", "Birds", "Derps", "Bird", "DerpBirds"
     ],
     "policies": [
-        "b92f6473f18d4b78733d022fd89f3cacc1484fab6eddfd3c5d4b9494"
+      "b92f6473f18d4b78733d022fd89f3cacc1484fab6eddfd3c5d4b9494"
     ]
-}
+  },
+  {
+    "project": "Derp Eggs",
+    "tags": [
+      "Derp Eggs", "Derp", "Eggs", "Derps", "Egg", "DerpEggs"
+    ],
+    "policies": [
+      "2b62bb0d57c3577d624cb976f58352c38d967a30436a6acad44f23f2"
+    ]
+  }
+]
