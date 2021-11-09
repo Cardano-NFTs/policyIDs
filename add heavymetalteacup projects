@@ -1,0 +1,38 @@
+[
+  {
+    "project": "Heroes, Reimagined - 1",
+    "policies": [
+      "b0d31944444328805fd4993000aea7be73a4917e9b4f276303ca9978"
+    ]
+  },
+  {
+    "project": "Heroes, Reimagined - 2",
+    "policies": [
+      "444968bcba1d78430f41f68a31c0e38cd37ed87fe12009b2da4eae08"
+    ]
+  },
+  {
+    "project": "DarkMatter2011",
+    "policies": [
+      "94011aaf18ee1f1885b4b9a2e7a4a4fd12b112b308b7507ae19ff45b"
+    ]
+  },
+  {
+    "project": "Dragon2012",
+    "policies": [
+      "7d69b462a662737e53fbb4adc84a5a9edcc0790736ff4918427ed1b9"
+    ]
+  },
+  {
+    "project": "CreepyCrawlies2011",
+    "policies": [
+      "aed36726e075257bd364511f99112052034452fbe67cdbfbad95d568"
+    ]
+  },
+  {
+    "project": "ThatsGoingToHurt2011",
+    "policies": [
+      "e8de123300e370f857203346cef4e2f579140ae544ea5267983cea8e"
+    ]
+  }
+]
