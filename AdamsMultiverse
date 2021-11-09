@@ -2,12 +2,7 @@
     {
         "project": "AdamsMultiverse",
         "policies": [
-            "59f88761405ae29203c9b11907106053262e720047c48a732aacdad0"
-        ]
-    },
-    {
-        "project": "JoyCoins",
-        "policies": [
+            "59f88761405ae29203c9b11907106053262e720047c48a732aacdad0",
             "782aa326e15cb987ae679f705d036a92a52df12f9a898a39d1f7a233"
         ]
     }
