@@ -1,30 +1,40 @@
 [{
-	"project": "Mr.Cooper",
-	"tags": [
-		"Thin Blue Line", "Blessed Are The Peacemakers", "Time Is Our Greatest Asset", "Lost", "ADA Whale To The Moon!",
-		"Limited Edition Digital Lion", "Bull Run", "Friday The 13th", "Purgatory Onigiri", "Hump Day!", "ADA To The Moon",
-    "Smart Contracts", "Mr.Cooper"
-	],
-	"policies": [
-		"e6285917ada7b35cba52a158ed56e144794138eaa633763041b68fd6",
-		"64b3735692fafbd0db438f696bb6cdf37040ff7f3ecd8e2c2a36350a",
-		"e5adf75988efed56dab74dbd21161b1206e87eb3fc85c5ddfee80653",
-		"29d1233d494a771d2e93ff0b5118e3f3741899fbfb336824f6b41b4c",
-		"cce0bb04e4adab1f993b8a43a3bd19eb0e2c87ddece44705294e3dc4",
-		"dc140b300e3d5a3685d45a819a3f193112ee55a88dea03a919e4c1d0",
-		"ee36f1f6695aebcda43adb5f7a5979a2d9c8c310523e8475b35e0517",
-		"30227c7bb18506e5d9e85d88da471345cdcc5a591e37d08a1ae2e676",
-		"f40337f5f7927baf5bd4ec393c0ea56cd1958c5818c6a39a5ddf1ed3",
-		"a981256ec0646ea90f8c423ed971573a0cb58b3aaf90c62fa8137f2d",
-		"23501b3e618b7d7f51e872a347bfb3ede7257c9369d0e8e7cbce882f",
-		"15e891ac1950a15d98ac261b8132086ce07de8e0691657d1dd13a519",
-		"92cd50162acbfde36da7496a92eee4ff2ae23361b05bed895cb45f76",
-		"83920b84b3b396697d5243e441d7f43fa5e322ca5f2420d20c01dc04",
-		"e4280dcf73b1fafbf8194f5c2207faae1f0f932f66629b5312212b28",
-		"c6026d72cadfdaad93a1ef6f925e95b9e52d258cffb519ef226b069e",
-		"a451fab802afd705120d4b42a880d101208e920a4f14715954df02b4",
-		"f332826ef5a3822d37df2aaf284363584bfcdc7a7c11c2161e1d0da1",
-		"a4f74a5cb6173439b6500cd25ce477b6a5ec06a62115d2e99e8c31ff",
-		"22b40778f2c1ca66c272b5518de6b351f14fe476dfa0680d76c95878"
-	]
-}]
+		"project": "Mr.Cooper",
+		"tags": [
+			"Thin Blue Line", "Blessed Are The Peacemakers", "Time Is Our Greatest Asset", "Lost", "ADA Whale To The Moon!",
+			"Limited Edition Digital Lion", "Bull Run", "Friday The 13th", "Purgatory Onigiri", "Hump Day!", "ADA To The Moon",
+			"Smart Contracts", "Mr.Cooper"
+		],
+		"policies": [
+			"e6285917ada7b35cba52a158ed56e144794138eaa633763041b68fd6",
+			"64b3735692fafbd0db438f696bb6cdf37040ff7f3ecd8e2c2a36350a",
+			"e5adf75988efed56dab74dbd21161b1206e87eb3fc85c5ddfee80653",
+			"29d1233d494a771d2e93ff0b5118e3f3741899fbfb336824f6b41b4c",
+			"cce0bb04e4adab1f993b8a43a3bd19eb0e2c87ddece44705294e3dc4",
+			"dc140b300e3d5a3685d45a819a3f193112ee55a88dea03a919e4c1d0",
+			"ee36f1f6695aebcda43adb5f7a5979a2d9c8c310523e8475b35e0517",
+			"30227c7bb18506e5d9e85d88da471345cdcc5a591e37d08a1ae2e676",
+			"f40337f5f7927baf5bd4ec393c0ea56cd1958c5818c6a39a5ddf1ed3",
+			"a981256ec0646ea90f8c423ed971573a0cb58b3aaf90c62fa8137f2d",
+			"23501b3e618b7d7f51e872a347bfb3ede7257c9369d0e8e7cbce882f",
+			"15e891ac1950a15d98ac261b8132086ce07de8e0691657d1dd13a519",
+			"92cd50162acbfde36da7496a92eee4ff2ae23361b05bed895cb45f76",
+			"83920b84b3b396697d5243e441d7f43fa5e322ca5f2420d20c01dc04",
+			"e4280dcf73b1fafbf8194f5c2207faae1f0f932f66629b5312212b28",
+			"c6026d72cadfdaad93a1ef6f925e95b9e52d258cffb519ef226b069e",
+			"a451fab802afd705120d4b42a880d101208e920a4f14715954df02b4",
+			"f332826ef5a3822d37df2aaf284363584bfcdc7a7c11c2161e1d0da1",
+			"a4f74a5cb6173439b6500cd25ce477b6a5ec06a62115d2e99e8c31ff",
+			"22b40778f2c1ca66c272b5518de6b351f14fe476dfa0680d76c95878"
+		]
+	},
+	{
+		"project": "AFR₳ID AI",
+		"tags": [
+			"Mr.Cooper"
+		],
+		"policies": [
+			"904699d23c8453c45f9d8d37ab8c7b81b175e8b53f966acb73094a7b"
+		]
+	}
+]
