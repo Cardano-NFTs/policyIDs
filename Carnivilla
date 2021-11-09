@@ -1,6 +1,11 @@
-{
+[
+  {
     "project": "Carnivilla",
     "policies": [
-        "29d22e24f012f579b3b893c22cdbfc2bc3ee229c9213e8fff9c32fda",
+      "29d22e24f012f579b3b893c22cdbfc2bc3ee229c9213e8fff9c32fda",
+      "6915d42e34562862375ce16eb933e3ab694cd4020d77e9bbd9fdc1c9",
+      "a646629425b4e8babcd5a1641c0251996edc5fc2c2c64a24464e2f92"
     ]
-}
+  }
+]
+
