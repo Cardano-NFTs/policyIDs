@@ -1,13 +1,14 @@
-{
-    "project": "The Galgos",
-    "tags": [
-        "The Galgos",
-        "TheGalgos",
-        "Galgos",
-        "Galgo"
-    ],
-    "policies": [
-        "b4c830cb0b1342f7b6c14b2ece2205a3a95ea19f78a3b6e5a9e1a321",
-        "48d67fb303c89ed4297a95af6952a0195326ef4116ce29a109079427"
-    ]
-}
+[
+    {
+        "project": "The Galgos",
+        "policies": [
+            "b4c830cb0b1342f7b6c14b2ece2205a3a95ea19f78a3b6e5a9e1a321"
+        ]
+    },
+    {
+        "project": "GUT",
+        "policies": [
+            "48d67fb303c89ed4297a95af6952a0195326ef4116ce29a109079427"
+        ]
+    }
+]
