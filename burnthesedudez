@@ -1,9 +1,8 @@
-{
-   "project":"BurnTheseDudez",
-   "tags":[
-      "BurnTheseDudez"
-   ],
-   "policies":[
+[
+  {
+    "project":"BurnTheseDudez",
+    "policies":[
       "da2e86059be4f58e3c536e1de7be81cecb85a7dfb220a1c1a77f920f"
-   ]
-}
+    ]
+  }
+]
