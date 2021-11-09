@@ -1,6 +1,12 @@
-{
-    "project": "Atlas of Change",
-    "policies": [
-        "26a3ce18cc6cb81067d955dfb53b4ef7dbaf97b0f474c8a0ffbcd51f"
-    ]
-}
+[
+   {
+      "project":"Atlas of Change",
+      "policies":[
+         "26a3ce18cc6cb81067d955dfb53b4ef7dbaf97b0f474c8a0ffbcd51f",
+         "140267904b628ca0b4f565845588b4cbbf42ed2c775eecef16953b00",
+         "625c505564f66c3262d28c2999062824b479e4a3f87c29d0317f68d2",
+         "8edd9148b3dbd39d708a967c1e2bdb8c0beefd2cc5f54b9c4959e8f2",
+         "d9d248e983ee694fcca45c7ba17d9223008cc4f5a602b29cc1fd102e"
+      ]
+   }
+]
