@@ -1,0 +1,16 @@
+[
+  {
+    "project": "fiji",
+    "policies": [
+      "b9b65da932b371799c25100b92aae9c2b9f06d99c2a53080d39b2128"
+    ]
+  },
+  {
+    "project": "xSPO Members",
+    "policies": [
+      "2654f990d88fa7ca4268ebcd745188cec37202aa74d0dc10c7f81a14",
+      "9e6957bfbdd6cf9150e76731b8a0865da531bc260dda90f291a90c56",
+      "59835897409c1d899588259e794e29e09d2fddcaca782996757cbb13"
+    ]
+  },
+]
