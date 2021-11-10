@@ -1,11 +1,27 @@
-{
+[{
     "project": "Fahadouken3D",
     "tags": [
         "Fahadouken3D","Fahadouken3Dv2","Fahadouken's Angels"
     ],
     "policies": [
-        "cfb6254121586b8f9026c507fe9afbdb2f24fa67681f05b346686bad",
-        "27a669d67dfaf851a0f25b97f81345696590d7baef0f9d2088485bad",
+        "cfb6254121586b8f9026c507fe9afbdb2f24fa67681f05b346686bad"
+    ]
+},
+{
+    "project": "Fahadouken3D V2",
+    "tags": [
+        "Fahadouken3Dv2","Fahadouken's Angels"
+    ],
+    "policies": [
+        "27a669d67dfaf851a0f25b97f81345696590d7baef0f9d2088485bad"
+    ]
+},
+{
+    "project": "Fahadouken3D Promo",
+    "tags": [
+        "Fahadouken3D Promo"
+    ],
+    "policies": [
         "a6b908c6203e8b6d991fb007032044778b7316777c12c03f249b127a"
     ]
-}
+}]

@@ -1,31 +1,29 @@
 {
-    "project": "Celebrity Punks",
-    "Tags": [ 
-          "CelebrityPunks",
-          "CharlesPunk",
-          "EminemPunk",
-          "VitalikPunk",
-          "EinsteinPunk",
-          "BobMarleyPunk",
-          "ElonPunk",
-          "GeneSimmonsPunk",
-          "NikolaTeslaPunk",
-          "JuiceWrldPunk",
-          "TysonPunk"
-      
-    ]
-    "policies": [
-        "f9fe6d7f6130ad5a4d868ebb4c51483eaedcfdca108eb373011fe4f0",
-        "ad68e869a2a24b62da14beab1e3767861c70f4a81aa37e4d2d98795b",
-        "442cd4f2744cc9135a1c9696a34e86e7a8ad229106d7110037a843dd",
-        "dcc4b0bbd311670fb3d20fb1ae6b4c93e2f82d1b727e5c1ff3a9cebc",
-        "9cb9db04e4398e3e92be2dbb20d5268f6ff5d165e9348d7cfa49509f",
-        "8066fb50ed32680eec54f0ffa09c093c236b693a7e54ecdcb400fd33",
-        "d2dfc46f90f0d249121eb0b6af6e13d656c803ea13897de6f74deed3",
-        "cfcc6090e0c90907f23ca72dda50937c282d0fcf97a740256201874d",
-        "bf0b9634220916fd0bfedc903f2e18c0703700f32f79f3f6c6c945fd",
-        "ab624de69663b64decda6147531d8e0e81af8dc8a362defd90d70650",
-        "8e0a69e1e36f18b960d39486b9a255a5dda4197f64228bbd5a5e8f46"
-
-    ]
+  "project": "Celebrity Punks",
+  "Tags": [
+    "CelebrityPunks",
+    "CharlesPunk",
+    "EminemPunk",
+    "VitalikPunk",
+    "EinsteinPunk",
+    "BobMarleyPunk",
+    "ElonPunk",
+    "GeneSimmonsPunk",
+    "NikolaTeslaPunk",
+    "JuiceWrldPunk",
+    "TysonPunk"
+  ],
+  "policies": [
+    "f9fe6d7f6130ad5a4d868ebb4c51483eaedcfdca108eb373011fe4f0",
+    "ad68e869a2a24b62da14beab1e3767861c70f4a81aa37e4d2d98795b",
+    "442cd4f2744cc9135a1c9696a34e86e7a8ad229106d7110037a843dd",
+    "dcc4b0bbd311670fb3d20fb1ae6b4c93e2f82d1b727e5c1ff3a9cebc",
+    "9cb9db04e4398e3e92be2dbb20d5268f6ff5d165e9348d7cfa49509f",
+    "8066fb50ed32680eec54f0ffa09c093c236b693a7e54ecdcb400fd33",
+    "d2dfc46f90f0d249121eb0b6af6e13d656c803ea13897de6f74deed3",
+    "cfcc6090e0c90907f23ca72dda50937c282d0fcf97a740256201874d",
+    "bf0b9634220916fd0bfedc903f2e18c0703700f32f79f3f6c6c945fd",
+    "ab624de69663b64decda6147531d8e0e81af8dc8a362defd90d70650",
+    "8e0a69e1e36f18b960d39486b9a255a5dda4197f64228bbd5a5e8f46"
+  ]
 }

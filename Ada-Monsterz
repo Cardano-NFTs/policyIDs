@@ -1,9 +1,13 @@
 {
     "project": "Ada-Monsterz",
     "tags": [
-        "Ada-Monsterz"
+        "Ada-Monsterz",
+        "adamonsterz"
     ],
     "policies": [
-        "faaaaaab5038766ef74218a6be72eb20dbd9f85abd649193f6222d00"
+        "faaaaaab5038766ef74218a6be72eb20dbd9f85abd649193f6222d00",
+        "2faad31ec17b511359f99823ffcb385b4eea6e1ee1210cd6c48d649c",
+        "d3ccddce30b07075265dd9c9a336eb42fa1e2e3dafd12910cda1f758",
+        "caeae0c167c15c06ac56d5a81898af36ed1c6c9a96cff9c0a9999963"
     ]
 }
