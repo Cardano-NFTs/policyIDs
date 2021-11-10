@@ -1,6 +1,11 @@
 {
-    "project": "Cardenia",
+    "project": "Cardenia City",
+    "tags": [
+        "Cardenia",
+        "Cardenians",
+        "Cardenia City"
+    ],
     "policies": [
         "01d63b5dc783794a49d8369ec754306660c6ef1c18310c1ceb350b28"
-    ]
+          ]
 }
