@@ -1,22 +1,45 @@
-{
+[
+  {
     "project": "BrownNFT",
     "tags": [
-        "Adalotls, Lucky Neko"
+      "Abyssus Daedalus",
+      "Lucky Neko",
+      "Gunslinger"
     ],
     "policies": [
-        "c91721b68a9e4a34b25dd7570c25cce7b9f20d5e03818893cd42dd25",
-        "4316da2a892c7c5b316b52d52655f4dba9ae36105b1bb685213848e2",
-	"62ea7cb573306f6c272a2ff066679f2e4216270311d8e71b5f765251",
-	"5df412e3eb27ffa1665302f8bf97f74f89fa42215d3e5b09464c1c14",
-	"4bd2bc0c63d4548c6304604d48ca4a5a4282407fc4959b116132e67d",
-	"77e4da914068a50d9d9420dbdda80817b55516ac6304273879318d5a",
-	"56b07f1eb36fe0412dad7f6cdb8bb296fdde12e4395fcde3d48caa93",
-	"30e5975f73b63c6b30057e1a1b202afc425271b08fffcc00ed27dc2e",
-	"9d10f41b2527d769b6f9feaa49f57c1384fb7474858b08ba75695ad5",
-	"1aeec4afd78a1c7c322b5a85aa701307412536dc63ab8e349946df73",
-        "a8731ef90e36acc7083d9bd501f733cb610ad67e7143d891fd45ab89",
-        "12d557a2405d6772efb98498ecc49f29125fcd4ea93c3c9eb005dc34",
-        "cc405b8dd4f3ffe52e876f1d3b7342e5969f6a4d1e79ad09593280bf",
-	"a0aa1eb2440251208cd4ba62a2ce8fe874879be7a395e8d513f47fb8"
+      "c91721b68a9e4a34b25dd7570c25cce7b9f20d5e03818893cd42dd25",
+      "4bd2bc0c63d4548c6304604d48ca4a5a4282407fc4959b116132e67d",
+      "77e4da914068a50d9d9420dbdda80817b55516ac6304273879318d5a",
+      "56b07f1eb36fe0412dad7f6cdb8bb296fdde12e4395fcde3d48caa93",
+      "30e5975f73b63c6b30057e1a1b202afc425271b08fffcc00ed27dc2e",
+      "9d10f41b2527d769b6f9feaa49f57c1384fb7474858b08ba75695ad5",
+      "1aeec4afd78a1c7c322b5a85aa701307412536dc63ab8e349946df73",
+      "a8731ef90e36acc7083d9bd501f733cb610ad67e7143d891fd45ab89",
+      "12d557a2405d6772efb98498ecc49f29125fcd4ea93c3c9eb005dc34",
+      "cc405b8dd4f3ffe52e876f1d3b7342e5969f6a4d1e79ad09593280bf",
+      "a0aa1eb2440251208cd4ba62a2ce8fe874879be7a395e8d513f47fb8"
     ]
-}
+  },
+  {
+    "project": "Adalotls by BrownNFT",
+    "tags": [ "Adalotls, Riot Adalotls" ],
+    "policies": [
+      "4316da2a892c7c5b316b52d52655f4dba9ae36105b1bb685213848e2",
+      "62ea7cb573306f6c272a2ff066679f2e4216270311d8e71b5f765251"
+    ]
+  },
+  {
+    "project": "Dead Astonaut Crew by BrownNFT",
+    "tags": [ "DAC" ],
+    "policies": [
+      "0e793f4d9e8717247b17858bde76446b68dc3302f547699480c10750"
+    ]
+  },
+  {
+    "project": "Lucky Nekoin by BrownNFT",
+    "tags": [ "Nekoin" ],
+    "policies": [
+      "5df412e3eb27ffa1665302f8bf97f74f89fa42215d3e5b09464c1c14"
+    ]
+  }
+]
