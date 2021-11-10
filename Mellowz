@@ -1,10 +1,14 @@
-{
+[
+  {
     "project": "Mellowz Project",
-    "tags": [
+     "tags": [
             "Mellowz"
             ],
     "policies": [
         "31ab08ae3c193c30e7691e252860614a81b59eebcdd815a1e79c46b5",
-        "3e7d33fead334d7294e1a31de05e09d139cdcf2c7875fc9643b10a14"
+        "3e7d33fead334d7294e1a31de05e09d139cdcf2c7875fc9643b10a14",
+        "0b15b884818ad9cf88adfcd961926451ac3bae753cb842c9ec737213",
+        "ee04f154c19f6ec69aac74b02dbe221fa74f19ebac9aebec31131379"
     ]
-}
+  }
+]
