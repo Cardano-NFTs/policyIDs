@@ -1,12 +1,10 @@
-{
+[
+  {
     "project": "Pablo van Vinci",
-    "tags": [
-        "Pablo van Vinci", 
-        "iamnotahuman",
-        "I am not a human",
-        "pablonotahuman"
-    ],
     "policies": [
-        "9a93d0a1541ac4d1f97750416413e26cb9e9826e33bd3a5bbb817b45"
+      "9a93d0a1541ac4d1f97750416413e26cb9e9826e33bd3a5bbb817b45",
+      "e642ea6c55655a1705f6fb4facacad378eeb2fd85af1bc0d6f77deb7",
+      "88b15ff88bf59b36dc8280d3b5887a4a3a72274b8dde959db86fd363"
     ]
-}
+  }
+]
