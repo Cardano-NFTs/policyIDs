@@ -1,17 +1,9 @@
+[
 {
     "project": "Insomnium",
-    "tags": [
-        "Insomnium",
-        "Game",
-        "NFTGame",
-        "CNFTGame",
-        "Horror",
-        "Survival",
-        "Scary",
-        "Play2Earn"
-    ],
     "policies": [
         "979e11bcdbe12ad8006583b1b2622f1c94a6b75d66b9151cf87d5550",
         "8a3e9f98aee1972b2841fd43802266d595ea8d0f823bbcdd3c44e7de"
     ]
 }
+]
