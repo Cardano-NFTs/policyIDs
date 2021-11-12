@@ -1,4 +1,5 @@
-{
+[
+ {
     "project": "Catkins Lounge",
     "policies": [
         "3816692ab822e0b98ac15b1405e4b43f96d164392059e6e11010f62a",
@@ -7,4 +8,5 @@
         "9382c4805556449c311e8cf2b1f3961031a87088d431c59a38d8c1b5",
         "bc12e97d80835a7ea4f42229cdb30fffd73fdb855c07f373e3925f1c"
     ]
-}
+ }
+]
