@@ -2,6 +2,7 @@
   {
     "project": "Benjamin's Club - Zigor",
     "tags": [
+      "Benjamin's Club",
       "Zigor"
     ],
     "policies": [
@@ -9,8 +10,9 @@
     ]
   },
   {
-    "project": "Benjamin's Club - OG 50 Keystones",
+    "project": "Benjamin's Club - The Original 50 Keystones",
     "tags": [
+      "Benjamin's Club",
       "OG 50 Keystones"
     ],
     "policies": [
@@ -20,11 +22,21 @@
   {
     "project": "Benjamin's Club - Membership Keystones",
     "tags": [
+      "Benjamin's Club",
       "Membership Keystones"
     ],
     "policies": [
       "9f0a06006c49f452656bbb91667d0e6ca0617a09e7f7642891f42601"
     ]
+  },
+  {
+    "project": "Benjamin's Club - Ollorens",
+    "tags": [
+      "Benjamin's Club",
+      "Ollorens"
+    ],
+    "policies": [
+      "5d5989d428f85a3e4f60eef9a087f482304ff73ed3ffe079d55b6eae"
+    ]
   }
 ]
-
