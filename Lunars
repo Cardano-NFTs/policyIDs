@@ -1,9 +1,14 @@
-{
+[
+    {
     "project": "Lunars",
-    "tags": [
-        "Lunars"
-    ],
     "policies": [
               "0deb40ad7feaea39d92b8c86bc256bf1348db6b239fda9d3be74d30a"
           ]
-}
+    },
+    {
+    "project": "SpaceLunars",
+    "policies": [
+              "3e4c5df851d2186190e9b3fb70f6059809a7a8efa3c708fad02baaeb"
+          ]
+    }   
+]
