@@ -1,11 +1,12 @@
-{
+[{
     "project": "Time Travellers",
     "tags": [
         "Time Travellers",
-        "TimeTravellers"
+        "TimeTravellers",
+        "The Queen Anne’s Revenge"
     ],
     "policies": [
-        "0b96597c636e7974e76ca86fb7d202d6630e67730816c7f4014484f6",
+        "0b96597c636e7974e76ca86fb7d202d6630e67730816c7f4014484f6"
           ]
-}
+}]
 
