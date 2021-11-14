@@ -1,12 +1,6 @@
 {
   "project": "The Math Project".
-  "tags": [
-    "The Math Project"
-    ],
-    "policies": [
+  "policies": [
     "789de7dfbe989a881fbb2d32917fe976dac74186623ca7409dde7874"
     ]
-  
-  
-  
   }
