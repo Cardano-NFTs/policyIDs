@@ -1,4 +1,4 @@
-{
+[
     "project": "PixyNFTs",
     "tags": [
         "EmoStar"
@@ -6,4 +6,4 @@
     "policies": [
         "43f34e65c08fb275074766e00bf6a859a850d7764798f4469a316eca"
           ]
-}
+]
