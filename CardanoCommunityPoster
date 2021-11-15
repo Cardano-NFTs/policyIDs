@@ -1,4 +1,5 @@
-{
+[
+  {
     "project": "Cardano Community Poster",
     "tags": [
         "CardanoCommunityPoster"
@@ -6,4 +7,5 @@
     "policies": [
         "9d77f2eef27991cb234f72aaddcb8f3e22fb516d2d76b1fe1bf0c38f"
           ]
-}
+   }
+]
