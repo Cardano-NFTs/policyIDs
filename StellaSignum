@@ -1,9 +1,11 @@
 {
   "project": "StellaSignum", 
-  "tags": [
+  "tags": 
+  [
     "StellaSignum"
   ], 
-  "policies": [
+  "policies": 
+  [
      "46b523d8e6583e9f1499778765b7183b8950a93c15843b786f8f06f8"
   ]
 }
