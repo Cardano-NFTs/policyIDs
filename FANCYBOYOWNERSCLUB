@@ -1,5 +1,8 @@
 {
     "project": "FANCYBOYOWNERSCLUB",
+    "tags": [
+        "FANCYBOYOWNERSCLUB"
+        ],
     "policies": [
         "0d178dccfa3ce59233ebea881a743db1afe19f0a6ec90f4c6ae9f048",
         "e189ab61c1a83494f84d90f3d7b9f569b4403b0c28305bb5a369a6b4",
