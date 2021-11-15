@@ -1,14 +1,16 @@
-{
-  "project": "UnboundedEarth",
-  "tags": [
-        "UnboundedEarth",
-        "UnboundedEarth Metaverse", 
-        "Metaverse", 
-        "Cardano Metaverse"
-    ],
-  "policies": [
-    "211bf02fc0454c9822b784e20698cf314082f63f1d81c81463b8fa7d",
-    "bb78d3b6638537d6df7ae43791ead3d50e75fdae82131eff2b7ae994",
-    "c56297d6d06010faed8d28e66212380eb6472d3d88b3df3bb11761c0"
-  ]
-}
+[
+  {
+    "project": "UnboundedEarth",
+    "tags": [
+          "UnboundedEarth",
+          "UnboundedEarth Metaverse", 
+          "Metaverse", 
+          "Cardano Metaverse"
+      ],
+    "policies": [
+      "211bf02fc0454c9822b784e20698cf314082f63f1d81c81463b8fa7d",
+      "bb78d3b6638537d6df7ae43791ead3d50e75fdae82131eff2b7ae994",
+      "c56297d6d06010faed8d28e66212380eb6472d3d88b3df3bb11761c0"
+    ]
+  }
+]
