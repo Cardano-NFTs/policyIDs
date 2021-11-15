@@ -8,49 +8,49 @@ Alternatively, provide adequate proof such as a direct link to project website w
 
 Make a pull request to add a file to the repository in this format.
 
+__**Information:**__
+
+**project:** Name of your project
+
+**policies** one or many policy ids of your project
+
+https://www.youtube.com/watch?v=z6yPjed4sMI
+
+Validate your code before requesting: https://jsonformatter.curiousconcept.com/#
+
 Single Project:
 ```json
-{
-    "project": "PlanetPalz",
-    "tags": [
-        "PlanetPalz"
-    ],
+[
+  {
+    "project": "YourFirstProjectName",
     "policies": [
-        "89fa6dc66a24799ccaee43a3a16930bb045a8152fdf2a2642034774f",
-        "example66a24799ccaee43a3a16930bb045a8152fdf2a2642034774f"
+      "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab",
+      "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab",
+      "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab"
     ]
-}
+  }
+]
+
 ```
 
 Multiple Projects under one name:
 ```json
 [
-    {
-        "project": "Example 1",
-        "tags": [
-            "Example"
-        ],
-        "policies": [
-            "Example1",
-            "Example2"
-        ]
-    },
-    {
-        "project": "Example 2",
-        "tags": [
-            "Example 2"
-        ],
-        "policies": [
-            "Example 2"
-        ]
-    }
+  {
+    "project": "YourFirstProjectName",
+    "policies": [
+      "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab",
+      "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab",
+      "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab"
+    ]
+  },
+  {
+    "project": "YourSecondProjectName",
+    "policies": [
+      "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab",
+      "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab",
+      "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab"
+    ]
+  },
 ]
-
-
-
 ```
-
-
-**Project** should be the name of your project.
-**Tags** should include specific keywords that would identify the name of your NFTS, used to spot fakes.
-**Policies** is an array of policy ids that can be seperated by commas
