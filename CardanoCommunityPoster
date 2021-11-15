@@ -1,12 +1,9 @@
 {
-    "project": "CardanoCommunityPoster",
+    "project": "Cardano Community Poster",
     "tags": [
-        "Cardano Community Poster - with a quote from Charles Hoskinson, print ready size A1 (841mm x 594mm)",
-        "Income will be used to promote the Cardano project in Poland",
-        "www.cardano-polska.org"
+        "CardanoCommunityPoster"
     ],
     "policies": [
-        "d5248792bd0dcaa4e49e05f9791982626e8269c78657a6e3e5709eab"
+        "9d77f2eef27991cb234f72aaddcb8f3e22fb516d2d76b1fe1bf0c38f"
           ]
 }
-
