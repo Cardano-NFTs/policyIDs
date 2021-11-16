@@ -12,5 +12,12 @@
     "policies": [
       "cc4e6fd4a131f5a89707a53c76b980ec59bf88ce247dce921c190626"
     ]
+  },
+  {
+    "project": "Andels - Prestige Rewards",
+    "tags": ["Andels", "Banners", "Commander", "Shields"],
+    "policies": [
+      "1e071a579d3d721b1749abd7cdd9274c4fbaa19f555c7141f57ddd62"
+    ]
   }
 ]
