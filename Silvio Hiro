@@ -1,0 +1,27 @@
+[
+  {
+    "project": "Alonzo Commemorative Edition",
+    "policies": [
+      "221ea9679e8c7256bea997a7acc566676d5ad931200c936e256ad677"
+    ]
+  },
+  {
+    "project": "Fine Art Portraiture",
+    "policies": [
+      "5e1bf224bf2f63bb975adaf91d2ec45b2ccc462d620a334ee89a6593",
+      "29cc9b9da9da710b0136dfb23263ce1d4578ff314d617756708e8f84"
+    ]
+  },
+  {
+    "project": "United Colors of Cardano",
+    "policies": [
+      "eda9b767b7ec663c513e735564af4ffcfa63309d4a61c63d8f15b717"
+    ]
+  },
+  {
+    "project": "spacecoins ODYSSEY",
+    "policies": [
+      "0815a7318a91ec458e6f240f8bca31266f8efa468021b4e689341192"
+    ]
+  },
+]
