@@ -1,10 +1,14 @@
 {
-   "project": "DigiTits",
+   "project": [
+   "DigiTits"
+   ],
+   
    "tags": [
       "DigiTits",
-      "Digitits"
-   ],
-   "policies": [
+      "digitits"
+      ],
+   
+   "policy": [
       "jje72488b938e319544e8c8c991886c5d2a164680727f877e43e6b0a"
    ]
 }
