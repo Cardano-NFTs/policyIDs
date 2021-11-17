@@ -1,0 +1,21 @@
+[
+{
+        "project": "cardanowithbeer",
+        "tags": [
+        "ChakawutCW","beer","cardanowithbeer"
+       ],
+       "policies": [
+            "9be5cfdde11f73192f1047543c38747fb759cbad733962159e169dd2",
+            "493008b7a00b339df229c8410027fbb4c2894445bf3ae56edaac8c5d",
+            "0618f02be69e30e0a847c29c19c94f7f29866f52a4fb5a826be071c4",
+            "493aef3d800e75128c1b1cc33aa94fc4f72747c4b03de3568459fc09",
+            "8af169eca554388da1045d7e1716af93fa3e35dc80810a0fbce0fee2",
+            "70ba07668a04799f5af3d86c93702e0a12bdabebf88d4d81b635d9f9",
+            "7e97feb27c0f414bc33691b9495bd81e2a9e6d464c16d2f174298870",
+            "892ce6de691c38b5d23b1b6bbb4dad5eb81cb44a8a45130c58175a0f",
+            "78e09690284746e5e8782592e24dc14e559a4ce1dfac00a1871334dd",
+            "1e5c0390b53bd202f895f16b1c5c58d4b8b82bb170cba313155e54f6",
+            "47fba6ec5a0e2b1166e2b941b5e9106a4deaadd46d9b0721ebc9efc6"  
+        ]
+}
+]
