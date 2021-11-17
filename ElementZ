@@ -1,26 +1,44 @@
 [
   {
-    "project": "ElementZ - SomeTwist",
+    "project": "ElementZ - SonicBytes - AlphaSeries1 - SomeTwist",
     "policies": [
       "db3b809f2cb1076e2120aa5fcb81326ab048f461fc05b86d3b169439"
     ]
   },
   {
-    "project": "ElementZ - DreamsNeverDie",
+    "project": "ElementZ - SonicBytes - AlphaSeries2 - DreamsNeverDie",
     "policies": [
       "8506f7c6514fcd3ab254f173c3203212f85b3a0bcedd22f4a90dafe9"
     ]
   },
   {
-    "project": "ElementZ - FractalBlocks - SeriesOne",
+    "project": "ElementZ - FractalBlocks - Series1",
     "policies": [
       "0dfa01922f8472159ce8fb8859c0e26bbe4aa235615a586813688416"
+    ]
+  },
+  {
+    "project": "ElementZ - FractalBlocks - Series2",
+    "policies": [
+      "2d3d7f10ed99097e6df5fdba1a4c96cda429aff2783fd888419c3d46"
     ]
   },
   {
     "project": "ElementZ - FractalBlocksRemix - DeepFuchsia",
     "policies": [
       "86af7b23edc9058668a9f57ddefa1b73a936e238722ec91e75c7f430"
+    ]
+  },
+  {
+    "project": "ElementZ - FractalBlocksRemix - Bubbles11",
+    "policies": [
+      "236aca4aed82364caa87d84d6183da65ab4ab97bd7e8ccff5ca0b300"
+    ]
+  },
+  {
+    "project": "ElementZ - FractalBlocksRemix - WaterMotion",
+    "policies": [
+      "7314740aced0c31a307057c8c9554bf848b792ed4dd999dc6d9a3240"
     ]
   },
   {
@@ -36,15 +54,9 @@
     ]
   },
   {
-    "project": "ElementZ - FractalBlocks - DripDrop - One",
+    "project": "ElementZ - FractalBlocks - 21 Darkside",
     "policies": [
-      "a6e5cf42faaa6929bedba139b2c02eceec9d2a6aa7c4a00a02c8c22e"
-    ]
-  },
-  {
-    "project": "ElementZ - FractalBlocksRemix - Bubbles11",
-    "policies": [
-      "236aca4aed82364caa87d84d6183da65ab4ab97bd7e8ccff5ca0b300"
+      "5fc4e79589b5b4dcdb03c03143c6923ba916182a477d246f41b70ee7"
     ]
   },
   {
@@ -54,9 +66,57 @@
     ]
   },
   {
+    "project": "ElementZ - FractalBlocks - Energy Wave 2021",
+    "policies": [
+      "67f5af243b8ad938e80d6bef2bdb5e665bb930cb6a2b000941efde65"
+    ]
+  },
+  {
+    "project": "ElementZ - FractalBlocks - Gourdgeous 2021 - Halloween",
+    "policies": [
+      "a29f650f54083df4a6f89095a7c9ea1721b9789052c7601afe052119"
+    ]
+  },
+  {
+    "project": "ElementZ - FractalBlocks - SpecialEdition - Halloween 2021",
+    "policies": [
+      "cec3e462368d766be66091b7f9dfe7f357e8bd53d0e48b81368c0be5"
+    ]
+  },
+  {
+    "project": "ElementZ - FractalBlocks - Frackins - Halloween 2021",
+    "policies": [
+      "25b8ed929bc0cee5effb6895cb12d5806ec78ff762cbf9365f2cbe6d"
+    ]
+  },
+  {
+    "project": "ElementZ - FractalBlocks - DripDrop - One",
+    "policies": [
+      "a6e5cf42faaa6929bedba139b2c02eceec9d2a6aa7c4a00a02c8c22e"
+    ]
+  },
+  {
+    "project": "ElementZ - FractalBlocks - DripDrop - MilkyWay",
+    "policies": [
+      "a29f650f54083df4a6f89095a7c9ea1721b9789052c7601afe052119"
+    ]
+  },
+  {
     "project": "ElementZ - FractalBlocks - Limited - BubbleArt-Bubbles11",
     "policies": [
       "ff7667108af88c7a9bf01005088c49b71582f222d71f7581ae3aa499"
+    ]
+  },
+  {
+    "project": "ElementZ - FractalBlocks - Limited - Collection One",
+    "policies": [
+      "1ef00288adc006f1e43c130a2171c9f77c0383e4511f1a7ac8469a98"
+    ]
+  },
+  {
+    "project": "ElementZ - FractalBlocks - Limited - OlindasRising",
+    "policies": [
+      "0c3b6a74e2d84ab3553ec20beed532633265a0594addacfbe3a8c704"
     ]
   }
 ]
