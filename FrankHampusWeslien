@@ -17,5 +17,11 @@
         "policies": [
             "fc7f00513d26a5c4de57a5863f0849559493d5ec008951eeb65ed3f1"
         ]
+    },
+    {
+        "project": "MOTION",
+        "policies": [
+            "27706b242382999c8cb7e79c4bc7171a37a57768cf8f4b44754d3906"
+        ]
     }
 ]
