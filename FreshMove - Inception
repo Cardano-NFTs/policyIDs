@@ -1,16 +1,8 @@
-{
-  "project": "FreshMove - Inception",
-  "tags": [
-    "FreshMove",
-    "Fresh Move",
-    "freshmove",
-    "freshmove",
-    "Fresh move",
-    "Freshmove",
-  ],
-  "policies": [
-    "3a433fc71055804133c7c1690953efb7af12cdec68e70426413694da",
-
-  ]
-}
-
+[
+   {
+      "project":"FreshMove Inception",
+      "policies":[
+         "3a433fc71055804133c7c1690953efb7af12cdec68e70426413694da"
+      ]
+   }
+]
