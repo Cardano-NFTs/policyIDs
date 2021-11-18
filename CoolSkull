@@ -1,6 +1,12 @@
-{
+[
+  {
     "project": "CoolSkull",
+    "tags": [
+      "CoolSkull"
+    ],
     "policies": [
-        "fe29b1951d2439cb4f8c05ad564728333e762c24bee36d7f1a72419f"
+      "fe29b1951d2439cb4f8c05ad564728333e762c24bee36d7f1a72419f",
+      "736e3118d6de21cd42a86dc59c20d2e0deea6b76a249eb9e700376ad"
     ]
-}
+  }
+]
