@@ -2,10 +2,12 @@
         "project": "Lord of the Coins",
         "tags": [
                 "Lord of the Coins",
-                "Angsty Orcs"
+                "Angsty Orcs",
+                "Electric Elves"
         ],
         "policies": [
-            "aad58602e6453eebd9daeffb6ba6ed37e0a9881f0f15e5367d76999a"        
+            "aad58602e6453eebd9daeffb6ba6ed37e0a9881f0f15e5367d76999a",
+            "32808431c449d97d62303081fb60ace0ae741fef36080fbad43f2cad"
         ]
     },
     {
