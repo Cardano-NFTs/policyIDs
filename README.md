@@ -1,5 +1,5 @@
 # policyIDs
-CNFTs Verified Policy Database
+CNFTs Verified Policy Database 
 
 __**To add your project to the list of verified policies for the marketplace:**__
 
