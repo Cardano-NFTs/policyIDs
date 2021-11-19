@@ -1,6 +1,10 @@
 [
   {
     "project": "jemz_ryan",
+    "tags": [
+        "jemzryan",
+        "jemz ryan"
+    ],
     "policies": [
         "f1941bf9be2e67073637296647980893b435e48ea282005fd88c7151"
     ]
