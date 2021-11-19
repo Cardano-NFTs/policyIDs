@@ -1,5 +1,5 @@
 # policyIDs
-CNFTs Verified Policy Database
+CNFTs Verified Policy Database 
 
 __**To add your project to the list of verified policies for the marketplace:**__
 
@@ -20,19 +20,16 @@ Validate your code before requesting: https://jsonformatter.curiousconcept.com/#
 
 Single Project:
 ```json
-{
-  "project": "YourProjectName",
-  "tags": [
-    "Tag1",
-    "Tag2",
-  ],
-  "policies": [
-    "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab",
-    "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab",
-    "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab",
-    "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab"
-  ]
-}
+[
+  {
+    "project": "YourFirstProjectName",
+    "policies": [
+      "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab",
+      "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab",
+      "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab"
+    ]
+  }
+]
 
 ```
 
@@ -41,10 +38,6 @@ Multiple Projects under one name:
 [
   {
     "project": "YourFirstProjectName",
-    "tags": [
-      "Tag1",
-      "Tag2",
-    ],
     "policies": [
       "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab",
       "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab",
@@ -53,10 +46,6 @@ Multiple Projects under one name:
   },
   {
     "project": "YourSecondProjectName",
-    "tags": [
-      "Tag1",
-      "Tag2",
-    ],
     "policies": [
       "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab",
       "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab",
