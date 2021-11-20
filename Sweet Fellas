@@ -60,7 +60,17 @@
     ],
     "policies": [
       "6589364bbf0b82c9afdd34788f564b9018b066c7f7b060d79475ed51",
-      "e66393d9cabca9f040e6c0967778bd90480f0a1f49d3b17bfee44c5a"
+      "e66393d9cabca9f040e6c0967778bd90480f0a1f49d3b17bfee44c5a",
+      "79012c10147465eeac2c60fddf222d6362a5f23a74838dbd3732dd34"
+    ]
+  },
+  {
+    "project": "Sweet Fellas: House of Sweets",
+    "tags": [
+      "Sweet Fellas"
+    ],
+    "policies": [
+      "e00195e647570c61758561a9509c42e2f03132ebf25b828e5dbab6e1"
     ]
   }
 ]
