@@ -1,11 +1,6 @@
 [
   {
     "project": "BrownNFT",
-    "tags": [
-      "Abyssus Daedalus",
-      "Lucky Neko",
-      "Gunslinger"
-    ],
     "policies": [
       "c91721b68a9e4a34b25dd7570c25cce7b9f20d5e03818893cd42dd25",
       "4bd2bc0c63d4548c6304604d48ca4a5a4282407fc4959b116132e67d",
@@ -17,27 +12,27 @@
       "a8731ef90e36acc7083d9bd501f733cb610ad67e7143d891fd45ab89",
       "12d557a2405d6772efb98498ecc49f29125fcd4ea93c3c9eb005dc34",
       "cc405b8dd4f3ffe52e876f1d3b7342e5969f6a4d1e79ad09593280bf",
-      "a0aa1eb2440251208cd4ba62a2ce8fe874879be7a395e8d513f47fb8"
+      "a0aa1eb2440251208cd4ba62a2ce8fe874879be7a395e8d513f47fb8",
+      "42211dfacb9398f833f6736a2ea13751f5e398403a31abd73388e236",
+      "1c357b4283de4d3c1b195e770b38070796426357f9ce5a03497238fd"
     ]
   },
   {
     "project": "Adalotls by BrownNFT",
-    "tags": [ "Adalotls, Riot Adalotls" ],
     "policies": [
       "4316da2a892c7c5b316b52d52655f4dba9ae36105b1bb685213848e2",
       "62ea7cb573306f6c272a2ff066679f2e4216270311d8e71b5f765251"
     ]
   },
   {
-    "project": "Dead Astonaut Crew by BrownNFT",
-    "tags": [ "DAC" ],
+    "project": "Dead Astronaut Crew by BrownNFT",
     "policies": [
-      "0e793f4d9e8717247b17858bde76446b68dc3302f547699480c10750"
+      "0e793f4d9e8717247b17858bde76446b68dc3302f547699480c10750",
+      "e8fb8a4dce883c3b251e6a216a2c73b7143c7baaab0366f487b2b272"
     ]
   },
   {
     "project": "Lucky Nekoin by BrownNFT",
-    "tags": [ "Nekoin" ],
     "policies": [
       "5df412e3eb27ffa1665302f8bf97f74f89fa42215d3e5b09464c1c14"
     ]
