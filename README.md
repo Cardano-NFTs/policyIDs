@@ -1,5 +1,5 @@
 # policyIDs
-CNFTs Verified Policy Database
+CNFTs Verified Policy Database 
 
 __**To add your project to the list of verified policies for the marketplace:**__
 
@@ -14,7 +14,7 @@ __**Information:**__
 
 **policies** one or many policy ids of your project
 
-https://www.youtube.com/watch?v=z6yPjed4sMI
+https://youtu.be/Tz2gaGRrsvw
 
 Validate your code before requesting: https://jsonformatter.curiousconcept.com/#
 
