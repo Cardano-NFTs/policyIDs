@@ -1,10 +1,30 @@
-{
-  "project": "cNFTcon",
-  "tags": [
-    "cNFTcon"
-  ],
-  "policies": [
-    "101dcbab5b3c6d18f9121613cb999d12600e5e7e77c147d455b51443",
-    "5fa72fbeecbe80a3e15de1cacab54ba5e310e2c36ae85351132ed4ad"
-  ]
-}
+[
+  {
+    "project": "cNFTcon Legacy Pass",
+    "tags": [
+      "cNFTcon",
+      "Legacy Pass"
+    ],
+    "policies": [
+      "5fa72fbeecbe80a3e15de1cacab54ba5e310e2c36ae85351132ed4ad"
+    ]
+  },
+  {
+    "project": "cNFTcon 2021 Airdrops",
+    "tags": [
+      "cNFTcon"
+    ],
+    "policies": [
+      "101dcbab5b3c6d18f9121613cb999d12600e5e7e77c147d455b51443"
+    ]
+  },
+  {
+    "project": "cNFTcon 2021 Awards",
+    "tags": [
+      "cNFTcon"
+    ],
+    "policies": [
+      "e00431bdb6e9eb93b9e034458dd383fa7dfc03837a0696a21a1b61a8"
+    ]
+  }
+]

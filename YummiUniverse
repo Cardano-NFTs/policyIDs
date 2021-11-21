@@ -8,7 +8,6 @@
       "333427e94971f530653bb945f34f914252ad570c0b84dfd8c8e8c97b",
       "e3222eeec84650fee7cbf7cf852a7a441f2f2d1ff063cd77605541ab",
       "4b922d25832e5113049dc44a57a94c146a5073f3184053974bccad04",
-      "7c1201c22de0ec31c9a3af6ffbc87d09c2b8a02caa44bbe02f51d2c2",
       "7688e78e7036eef1536b45d7b04dcce29a3cc1fb074696228326da62",
       "e3a51cc7a08cb1f6af0b9aa0488b848117e8459d179d584610d4abed",
       "594b9e027099a4ce436ca12f8085c33393aa4c35a7e4327da1edc69c",
@@ -19,6 +18,15 @@
       "1f7f4f354893627bea7058d305fc8b8b2e58483f0edbb11e78f5cca5",
       "4c1749abf4b74cdf2ee617be2cd976b92d2529889ba885e5d0c648a5",
       "4acc21ce6bdb9fc89b203bc7a7650f2107986d90de3fbc62bac1ccba"
+    ]
+  },
+  {
+    "project": "Yummi Universe - Tokens",
+    "tags": [
+      "Yummi Universe"
+    ],
+    "policies": [
+      "7c1201c22de0ec31c9a3af6ffbc87d09c2b8a02caa44bbe02f51d2c2"
     ]
   },
   {
