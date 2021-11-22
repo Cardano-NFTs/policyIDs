@@ -1,7 +1,9 @@
-{
+[
+  {
     "project": "KubrixRube",
     "policies": [
-        "58607a2199eb951209122db03c058c509d17b6731a8f879c47865c92",
-  
+        "58607a2199eb951209122db03c058c509d17b6731a8f879c47865c92", 
+        "c11e82b3868f6bcb91b23239435bc70635db3356daafd801bb29ee4e"
     ]
-}
+  }
+]
