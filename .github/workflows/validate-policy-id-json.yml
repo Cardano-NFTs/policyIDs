@@ -21,6 +21,7 @@ jobs:
         shell: python
       - id: isCorrect
         run: |
+          print("::set-output name=ERROR_VALIDITY::false")
           for filename in "${{ steps.chagedFiles.outputs.FILES_LIST }}".split(","):
             if "projects/" not in filename:
               print("File "+str(filename)+" is not in projects directory!") 
