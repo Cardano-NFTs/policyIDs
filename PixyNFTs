@@ -7,5 +7,14 @@
     "policies": [
         "43f34e65c08fb275074766e00bf6a859a850d7764798f4469a316eca"
           ]
+  },
+  {
+    "project": "MysticAlien",
+    "tags": [
+        "MysticAlien"
+    ],
+    "policies": [
+        "38e2deb2bca8dc604f57021110cfc32e9550259bc404bb7bb904f501"
+          ]
   }
 ]
