@@ -23,8 +23,13 @@ jobs:
         run: |
           for filename in "${{ steps.chagedFiles.outputs.FILES_LIST }}".split(","):
             if "projects/" not in filename:
-              sys.exit("File "+str(filename)+" is not in projects directory!") 
+              print("File "+str(filename)+" is not in projects directory!") 
+              print("::set-output name=ERROR_DIR::"+str(True))
+              break
         shell: python
+      - name: Try to fail for incorrectDir
+        if: ${{ steps.isCorrectDir.outputs.ERROR_DIR }} == true
+        run: exit 1
       - name: Validate JSON
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
