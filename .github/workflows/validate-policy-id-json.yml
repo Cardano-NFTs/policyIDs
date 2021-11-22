@@ -19,6 +19,12 @@ jobs:
           print("list_as_string: "+list_as_string)
           print("::set-output name=FILES_LIST::"+list_as_string)
         shell: python
+      - id: isCorrectDir
+        run: |
+          for filename in "${{ steps.chagedFiles.outputs.FILES_LIST }}".split(","):
+            if "projects/" not in filename:
+              sys.exit("File "+str(filename)+" is not in projects directory!") 
+        shell: python
       - name: Validate JSON
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
