@@ -37,7 +37,7 @@ jobs:
         run: |
           echo ${{ steps.isCorrect.outputs.ERROR_VALIDITY }}
           exit 1
-        if: ${{ steps.isCorrect.outputs.ERROR_VALIDITY }} == true
+        if: ${{ steps.isCorrect.outputs.ERROR_VALIDITY }} == "true"
       - name: Validate JSON
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
