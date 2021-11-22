@@ -19,22 +19,24 @@ jobs:
           print("list_as_string: "+list_as_string)
           print("::set-output name=FILES_LIST::"+list_as_string)
         shell: python
-      - id: isCorrectDir
+      - id: isCorrect
         run: |
           for filename in "${{ steps.chagedFiles.outputs.FILES_LIST }}".split(","):
             if "projects/" not in filename:
               print("File "+str(filename)+" is not in projects directory!") 
-              print("::set-output name=ERROR_VALIDITY::"+str(True))
+              print("::set-output name=ERROR_VALIDITY::true")
               break
             special_characters = "\"'!@#$%^&*()-+?_=,<>"
             if any(c in special_characters for c in filename):
               print("File "+str(filename)+" has name with forbidden characters!") 
-              print("::set-output name=ERROR_VALIDITY::"+str(True))
+              print("::set-output name=ERROR_VALIDITY::true")
               break
         shell: python
       - name: Try to fail for incorrectDir
-        if: ${{ steps.isCorrectDir.outputs.ERROR_VALIDITY }} == true
-        run: exit 1
+        if: ${{ steps.isCorrect.outputs.ERROR_VALIDITY }} == true
+        run: |
+          echo ${{ steps.isCorrect.outputs.ERROR_VALIDITY }}
+          exit 1
       - name: Validate JSON
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
