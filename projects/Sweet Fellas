@@ -1,0 +1,76 @@
+[
+  {
+    "project": "Sweet Fellas: Edition Zero",
+    "tags": [
+      "Sweet Fellas"
+    ],
+    "policies": [
+      "d09bdc25de1f88ac3ad77661c1d5c30fedbb50e18739358e05a393fc"
+    ]
+  },
+  {
+    "project": "Sweet Fellas: Edition One",
+    "tags": [
+      "Sweet Fellas"
+    ],
+    "policies": [
+      "d9169b057aef6361c259b693490b66ea2b86bc729b597a87d0788a30"
+    ]
+  },
+  {
+    "project": "Sweet Fellas: Entry Ticket",
+    "tags": [
+      "Sweet Fellas"
+    ],
+    "policies": [
+      "e625ac482754e648fdda9d5c05bc1354accb82177377abaef3116f3b"
+    ]
+  },
+  {
+    "project": "Sweet Fellas: Cozy Fellas",
+    "tags": [
+      "Sweet Fellas"
+    ],
+    "policies": [
+      "0e5bcb603c0f841bda2164a34447a706d6f01b45d864963d88e41d6f"
+    ]
+  },
+  {
+    "project": "Sweet Fellas: Coat Fellas",
+    "tags": [
+      "Sweet Fellas"
+    ],
+    "policies": [
+      "b7a0a61d04cc42e868e98622521c1455d308f0bb3640f3eea6c5a16a"
+    ]
+  },
+  {
+    "project": "Sweet Fellas: Surf Fellas",
+    "tags": [
+      "Sweet Fellas"
+    ],
+    "policies": [
+      "9a3e809c63551e579a3baf14911d1007f82503172c12b1809bffe4b8"
+    ]
+  },
+  {
+    "project": "Sweet Fellas: Clay Fellas",
+    "tags": [
+      "Sweet Fellas"
+    ],
+    "policies": [
+      "6589364bbf0b82c9afdd34788f564b9018b066c7f7b060d79475ed51",
+      "e66393d9cabca9f040e6c0967778bd90480f0a1f49d3b17bfee44c5a",
+      "79012c10147465eeac2c60fddf222d6362a5f23a74838dbd3732dd34"
+    ]
+  },
+  {
+    "project": "Sweet Fellas: House of Sweets",
+    "tags": [
+      "Sweet Fellas"
+    ],
+    "policies": [
+      "e00195e647570c61758561a9509c42e2f03132ebf25b828e5dbab6e1"
+    ]
+  }
+]
