@@ -21,7 +21,7 @@ jobs:
         shell: python
       - id: isCorrectDir
         run: |
-          for filename in ${{ steps.chagedFiles.outputs.FILES_LIST }}:
+          for filename in "${{ steps.chagedFiles.outputs.FILES_LIST }}".split(","):
             if "projects/" not in filename:
               sys.exit("File "+str(filename)+" is not in projects directory!") 
         shell: python
