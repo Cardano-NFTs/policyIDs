@@ -1,0 +1,32 @@
+[
+  {
+    "project": "Ode to Difference",
+    "tags": [
+      "Meepo",
+      "AURORA"
+    ],
+    "policies": [
+      "2ba387d1e9d24e393d7a61ef86e17a8d339886e906d672bea8e768ba"
+    ]
+  },
+  {
+    "project": "Age of Propaganda",
+    "tags": [
+      "Meepo",
+      "AURORA"
+    ],
+    "policies": [
+      "f4a05f4eb0a8c51dbb6737557ea8770981f0500211a14801d4724e9a"
+    ]
+  },
+  {
+    "project": "Falling in Love",
+    "tags": [
+      "Meepo",
+      "AURORA"
+    ],
+    "policies": [
+      "74d28fbf99fa784e61c8259c8d3acb3b18e59dc8f683e6f64750fed5"
+    ]
+  }
+]
