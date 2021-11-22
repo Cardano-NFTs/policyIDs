@@ -1,9 +1,11 @@
-[{
+[
+    {
         "project": "ADA:EYES",
         "tags": [
             "ADA:AI:ART",
             "ADA:EYES",
             "ADA AI ART",
+            "ADA EYES",
             "Adamski"
         ],
         "policies": [
@@ -19,6 +21,19 @@
         ],
         "policies": [
             "ebf5967078b214b849820c54bfde3cf1e363fee7e90442e61d5336ea"
+        ]
+    },
+    {
+        "project": "ADA:WORLDS",
+        "tags": [
+            "ADA:AI:ART",
+            "ADA:WORLDS",
+            "ADA AI ART",
+            "ADA WORLDS",
+            "Adamski"
+        ],
+        "policies": [
+            "aeb10964f05f0a83350cbe36f72c1c9f6b5d18a489d0895de32c40b1"
         ]
     },
     {

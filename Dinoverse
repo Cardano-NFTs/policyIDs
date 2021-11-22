@@ -1,10 +1,14 @@
+[
 {
-    "project": "Dinoverse",
-    "tags": [
-        "Dinoverse",
-        "DinoverseNFT"
-    ],
-    "policies": [
-        "7bda260e816576e6a2ad3cd2466fe09748a4ac25fceddf434ec02e5a"
-          ]
+   "project":"Dinoverse",
+   "tags":[
+      "Dinoverse",
+      "DinoverseNFT"
+   ],
+   "policies":[
+      "7bda260e816576e6a2ad3cd2466fe09748a4ac25fceddf434ec02e5a",
+      "926075ba72037da019e28565bd379662202132723dc10bd13ffc6850",
+      "0c517d2f9cd8c1be6fc2f6f7b6f97bd7051c258fb36d57252b1d8321"
+   ]
 }
+]
