@@ -26,7 +26,7 @@ jobs:
               print("File "+str(filename)+" is not in projects directory!") 
               print("::set-output name=ERROR_VALIDITY::"+str(True))
               break
-            special_characters = "\"'!@#$%^&*()-+?_=,<>/"
+            special_characters = "\"'!@#$%^&*()-+?_=,<>"
             if any(c in special_characters for c in filename):
               print("File "+str(filename)+" has name with forbidden characters!") 
               print("::set-output name=ERROR_VALIDITY::"+str(True))
