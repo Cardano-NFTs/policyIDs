@@ -52,6 +52,6 @@ Multiple Projects under one name:
       "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab",
       "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab"
     ]
-  },
+  }
 ]
 ```
