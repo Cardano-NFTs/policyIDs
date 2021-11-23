@@ -1,6 +1,16 @@
 [
   {
     "project": "noop pre-mint",
+	"tags": [
+        "noop pre mint",
+        "noop",
+        "noop - limited edition 01",
+        "noop life",
+        "MINT CRAFT",
+	"noop production",
+	"noop classic",
+	"noop on the moon"
+    ],
     "policies": [
         "81e6dc7e9c18caf6b3c15cbd574605c758616bdd1aaccbd514b8a36f"
     ]
