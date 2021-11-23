@@ -1,11 +1,13 @@
-{
-    "project": "Bankless by Unbanks",
-    "tags":[
-        "BanklessCharles",
-        "BanklessHorlse",
-        "Unbanks"
-    ],
-    "policies": [
-        "b034bacc10e558667ff2aedc33804a42d3f142c324acafb6f16ce24d"
-    ]
-}
+[
+    {
+        "project": "Bankless",
+        "tags":[
+            "BanklessCharles",
+            "BanklessHorlse",
+            "Unbanks"
+        ],
+        "policies": [
+            "b034bacc10e558667ff2aedc33804a42d3f142c324acafb6f16ce24d"
+        ]
+    }
+]
