@@ -15,7 +15,7 @@ __**Information:**__
 
 **policies** one or many policy ids of your project
 
-https://youtu.be/Tz2gaGRrsvw
+https://youtu.be/8hoYS1xCyWM
 
 Validate your code before requesting: https://jsonformatter.curiousconcept.com/#
 
