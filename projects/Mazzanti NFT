@@ -1,0 +1,35 @@
+[
+  {
+    "project": "MineWorld",
+    "policies": [
+      "c44f29c174ec55e2d29dd34a9c5bd98c6a575bfe57ba1290a0a328e1",
+      "a3c48f72de48528990889268396a4f4591f6cadbc40a71e06cb2578a",
+      "93981e225a3a014788a9675c074346f2de81b0145a7560af5d7a2027",
+      "7c828a440e72473a655a3b997ecd17454f22a19ec136494d1d5e55ce",
+      "b95332812637a8afa9c2caac4b8d62f65216fa9b20feb0095e0be887",
+      "c271a3f818aa3dab2d085f1f3068fb2f98b64e1d0f3de059a5be28fa",
+      "5be911eb900f9e239e1528c4d2db47b2d5a036ee6e41c244b98989da",
+      "01bb7ebe887e11e75ca26a9a4a55da8f5b7e6c16b22d9f1dcec8f2b3"
+    ]
+  },
+  {
+    "project": "Piano TEXIER",
+    "policies": [
+      "776db4a2ad426c8a72cdffb4d14f305549913e2fdeb3f4b887107cbe"
+    ]
+  },
+  {
+    "project": "GODCoin",
+    "policies": [
+      "0a7e1425cc3e2429208a70867301571c3987b2d7ba8ec50a9153085a",
+      "bc351f1478d5d4c0f458b55c35474a96aa54528e790b7cb1cf1a3103"
+    ]
+  },
+  {
+    "project": "Tralalalala",
+    "policies": [
+      "201d2a099a68a8378a6f99bc7b687417202c466c6d3773611ad733fa",
+      "2390a23c7e858965e4895cba7a8d64cd196feb92b5b43bcb4936883e"
+    ]
+  }
+]
