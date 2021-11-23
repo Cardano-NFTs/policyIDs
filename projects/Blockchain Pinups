@@ -1,0 +1,26 @@
+[
+    {
+        "project": "Blockchain Bettie 1",
+        "policies": [
+            "e83cba0cf02bf9002f0b1829c6a0304606c02f46939f16f6a124a79e"
+        ]
+    },
+    {
+        "project": "Blockchain Bettie 2",
+        "policies": [
+            "a83d74fda3c8caacec126b2cc04459c6c7ad69766000f4a237582755"
+        ]
+    },
+    {
+        "project": "Blockchain Bettie 3",
+        "policies": [
+            "13c1576cc16496279822e379356d499c26c069193c48398c8b340ad7"
+        ]
+    },
+    {
+        "project": "Blockchain Bettie 4",
+        "policies": [
+            "cae4d069075922cd8fc951573fadad420f07393bebba2f36663a649e"
+        ]
+    }
+]
