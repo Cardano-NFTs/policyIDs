@@ -1,0 +1,16 @@
+[
+  {
+    "project": "CardanoToadz",
+    "tags": [
+      "CardanoToadz"
+    ],
+    "policies": [
+        "9adf6f57e659452d244d65ea3580316c9886d5270ee15f61610b4fe1",
+        "9f276b4c1f9df0830d63ba97352d52abaa0c5f191097c3be9db3ae2ca724161c",
+        "6a857fc7b3ee1321a3aa9713a279121b6aeff501c702dedf9a4c93b8",
+        "56d3cf8dd7ace7b8a2fd3ecc60e540287d5d9660693187c3df3b6104",
+        "a42cf18d1c7757f7903bdb305446fc1e1804a584188e473be41184a0",
+        "70efe3d038a598526a5184c7834caec8f975d7f126d256b6b7c0e715"
+    ]
+  }
+]
