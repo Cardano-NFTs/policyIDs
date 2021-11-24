@@ -7,7 +7,7 @@ __**To add your project to the list of verified policies for the marketplace:**_
 Alternatively, provide adequate proof such as a direct link to project website with policies**
 
 Make a pull request to add a file in the "projects" directory of this repository in the following format.
-Please note that the name of the file **must not** contain any special character (:,./\@"').
+Please note that the name of the file **must not** contain any special character (:,./\@"'-).
 
 __**Information:**__
 
@@ -15,7 +15,7 @@ __**Information:**__
 
 **policies** one or many policy ids of your project
 
-https://youtu.be/Tz2gaGRrsvw
+https://youtu.be/8hoYS1xCyWM
 
 Validate your code before requesting: https://jsonformatter.curiousconcept.com/#
 
@@ -52,6 +52,6 @@ Multiple Projects under one name:
       "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab",
       "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab"
     ]
-  },
+  }
 ]
 ```
