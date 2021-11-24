@@ -1,9 +1,9 @@
-{
-    "project": "Rhino Generation",
-    "tags": [
-        "Rhino Generation"
-    ],
-    "policies": [
-        "cfcc08e6a1882855292f72482d778966b3350a6b0e91a9a184fe6848"
-    ]
-}
+[
+    {
+        "project": "Rhino Generation",
+        "policies": [
+            "cfcc08e6a1882855292f72482d778966b3350a6b0e91a9a184fe6848",
+            "28a5a917c08bd2e97bed5fdc294bf2b10d7e35722d401953c35c71cf"
+        ]
+    }
+]
