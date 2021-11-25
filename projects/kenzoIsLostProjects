@@ -1,0 +1,23 @@
+[
+{
+     "project": "Atomic Candy",
+     "tags": ["Atomic Candy"],
+      "policies": [
+          "2f124b98a25396fa423bf47e6829f20af308133a09140776c9bd56aa"
+      ]
+  },
+{
+     "project": "Canine Companions",
+     "tags": ["Canine Companions"],
+      "policies": [
+          "146ddce9ec09332b7308ac77534f82e8e7e30190c62f5e8954dc903a"
+      ]
+  },
+ {
+      "project": "Shards of Enrapture",
+       "tags": ["Shards of Enrapture"],
+      "policies": [
+          "36214f683ccf0f512a992423a74f6dc9243fbd66027e8c77af49c900"
+    ]
+  }
+]
