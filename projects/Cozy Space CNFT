@@ -1,0 +1,13 @@
+{
+	"project": "Cozy Space CNFT",
+	"tags": [
+		"Cozy Token"
+	],
+	"policies": [
+		"f238689143d79a8770b279d8e58bef8cff9d508020bc8d1e2e0a001a",
+		"190a88557f0cbc714c47a999214c74a825e53e0d0d7d785cbe13dea5",
+		"1cbd6f2b03145043e5572808ab06ec0942cd1d6e6df449c75aa51aba",
+		"ceea7c9d82aa4c40099052b94c0d042a6c41eab46681a18ae764fdd1",
+		"23f085b274ae49f9fdda3459ec14a37c7a27958f7873c96c6ffae429"
+	]
+}
