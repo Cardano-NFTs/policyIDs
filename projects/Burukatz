@@ -1,6 +1,12 @@
 [
   {
     "project": "Burukatz",
+   "tags": [
+      "Buruka",
+      "Burukatz",
+      "Fort Gotten",
+      "FortGotten"
+    ],
     "policies": [
       "1792bc50a667703e812c1ff309ea9c76dc956cfa00357413b6358ba3"
     ]
