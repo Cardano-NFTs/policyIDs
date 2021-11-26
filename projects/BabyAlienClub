@@ -1,0 +1,23 @@
+[
+  {
+    "project": "BabyAlienClub",
+    "tags": [
+      "BabyAlien",
+      "BAC",
+      "BabyAlienClub"
+    ],
+    "policies": [
+      "15509d4cb60f066ca4c7e982d764d6ceb4324cb33776d1711da1beee"
+    ]
+  },
+  {
+    "project": "BabyAlienClub Exclusives",
+    "tags": [
+      "BabyAlienClub",
+      "BAC Halloween Raffle Tickets"
+    ],
+    "policies": [
+      "805977fe98a844f2e9536e1017a8e0b03c2f738ebfb831f1832cad46"
+    ]
+  }
+]
