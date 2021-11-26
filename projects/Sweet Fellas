@@ -72,5 +72,16 @@
     "policies": [
       "e00195e647570c61758561a9509c42e2f03132ebf25b828e5dbab6e1"
     ]
+  },
+  {
+    "project": "Sweet Fellas: Meme Fellas",
+    "tags": [
+      "meme",
+      "Sweet Fellas",
+      "Meme Monday"
+    ],
+    "policies": [
+      "addc1c8518ee34ccc37642a314ff22ad7a69b854726cd38655a8dfaf"
+    ]
   }
 ]
