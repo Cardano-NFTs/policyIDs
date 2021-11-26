@@ -1,0 +1,38 @@
+[
+  {
+    "project": "AdaSenshi Ninja",
+    "policies": [
+      "ad642ae9df72b973386cfa454fcad0c82083179ccb506afb308fc3b2"
+    ]
+  },
+  {
+    "project": "AdaSenshi Katana",
+    "policies": [
+      "ad3fe444f3e66eda53023c066267ef2727d10cb3a77da7ab50b170da"
+    ]
+  },
+  {
+    "project": "AdaSenshi Nunchaku",
+    "policies": [
+      "cb4d911b3aa619c373986a3d3d9a0659500fedc7bd4487d0624110e3"
+    ]
+  },
+  {
+    "project": "AdaSenshi Ronin",
+    "policies": [
+      "36306dbbda64d6cefb966c2cc933d574f2d02f854186035b88c8f634"
+    ]
+  },
+  {
+    "project": "AdaSenshi Samurai",
+    "policies": [
+      "a092affb4a0906745d3218089a9dfd8643af0ae01249ef602571b970"
+    ]
+  },
+  {
+    "project": "AdaSenshi Sumo",
+    "policies": [
+      "24ac642b71cb0ea06107a5172c4930baedc789880996f8a049173a9e"
+    ]
+  }
+]
