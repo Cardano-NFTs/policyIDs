@@ -1,0 +1,26 @@
+[
+{
+   "project":"AIGrafix Trading Cards",
+   "policies":[
+      "f31bed115ccdc5a504412bffc6ba6d4064825763da3a3aff5ad5cacc"
+   ]
+},
+{
+    "project": "!AIGrafix Collectible",
+    "policies": [
+        "59900ce5e717093bc3b802bfcfe6777de2dcc47b984e2d633d21cc8e"
+    ]
+},
+{
+    "project": "GFX Central",
+    "policies": [
+        "f02a5df159d3aa1c56db1775fbb8aabe182b5d6f79154cc3d64ced7d"
+    ]
+},
+{
+    "project": "cMETA.space",
+    "policies": [
+        "377a6e2c13dcc66598a69db4922c6b8f2df8aa7546987dd444e50eee"
+    ]
+}
+]
