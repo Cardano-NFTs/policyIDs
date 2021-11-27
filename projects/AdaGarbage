@@ -10,5 +10,11 @@
       "policies":[
          "11b5680e5117ece0b477aaa3e76949d9dbf66dbcfc61f61f611ad035"
       ]
+   },
+   {
+      "project":"AdaGarbageSpaceRaffle",
+      "policies":[
+         "5bb895a6192d689ee1be68527a81d462338270b60cc3a04ead234c77"
+      ]
    }
 ]
