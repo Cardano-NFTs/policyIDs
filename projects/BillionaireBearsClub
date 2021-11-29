@@ -1,10 +1,10 @@
+[
 {
     "project": "Billionaire Bears Club",
-    "tags": [
-        "Billionaire Bears Club", "Billionaire Bear"
-    ],
     "policies": [
-        "00973f9ad99981927a0a39f38b4ba10d9eb8029bd9bac943a76ae5a5"
-          ]
+      "00973f9ad99981927a0a39f38b4ba10d9eb8029bd9bac943a76ae5a5",
+      "7889c37737bf19e9194370968072415952ad0b7598217b8c53352bee"
+    ]
 }
+]
 
