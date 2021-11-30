@@ -11,6 +11,28 @@
     ]
   },
   {
+    "project": "BabyAlienClub Rock",
+    "tags": [
+      "BabyAlien",
+      "BAC",
+      "BabyRock"
+    ],
+    "policies": [
+      "3f0138768fd8dc189262811270fa8fc383f9279da1e227b32db66ad9"
+    ]
+  },
+  {
+    "project": "BabyAlienClub Spaceships",
+    "tags": [
+      "BabyAlien",
+      "BAC",
+      "BabySpaceship"
+    ],
+    "policies": [
+      "3fdc0ae45c37eb0917acd296fa296d7cf264faa4c90b058e90ddc0d8"
+    ]
+  },  
+  {
     "project": "BabyAlienClub Exclusives",
     "tags": [
       "BabyAlienClub",
