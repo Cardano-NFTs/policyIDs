@@ -1,0 +1,21 @@
+Information:
+project: Baby Otter Party
+policies 602271c40a15510c68c5fe4120a9261cd48a7291af8a8a78395edc13
+https://cardanoscan.io/tokenPolicy/602271c40a15510c68c5fe4120a9261cd48a7291af8a8a78395edc13 
+{
+  "type": "all",
+  "scripts": [
+    {
+      "type": "sig",
+      "keyHash": "45bf3b487e66d757211a7bfe15688d1a69822e42437412c1e6f31645"
+    },
+    {
+      "slot": 60541316,
+      "type": "before"
+    }
+  ]
+}
+ 
+
+
+
