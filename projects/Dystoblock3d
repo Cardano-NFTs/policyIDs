@@ -1,8 +1,9 @@
 [
    {
-      "project":"Dystoblock 3D",
+      "project":"Dystoblock3d",
       "policies":[
-         "39fba6b33c8f42fca78701d7afcc04ec6424412acd6b17387cdb86e1"
+         "39fba6b33c8f42fca78701d7afcc04ec6424412acd6b17387cdb86e1",
+         "7abbe4e07430433ad46467299e1d21ead71304c20f1954bde3dd0b90"
       ]
    }
 ]
