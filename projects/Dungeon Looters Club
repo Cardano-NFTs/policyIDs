@@ -1,9 +1,20 @@
 [
   {
-      "project": "Dungeon Looters Club",
-      "policies": [
-          "51c9f4d5e431fa2cf3e5690ddb93d3c6e7a7e91e6fdbc5c2d956e7ed",
-          "e8198d162dae2bfd7a3853e976f52a53aa717178771f6521644ddc3a"
-      ]
+    "project": "DLC - Keys",
+    "policies": [
+      "51c9f4d5e431fa2cf3e5690ddb93d3c6e7a7e91e6fdbc5c2d956e7ed"
+    ]
+  },
+    {
+    "project": "DLC - Weapons",
+    "policies": [
+      "3d73403714f6a28d7bc971d5cc5ae18002831949458fc2a7136484b6"
+    ]
+  },
+  {
+    "project": "DLC - Promotion Event",
+    "policies": [
+      "a31d8a3ec7ce10ef7f7b4d63d0decaca44f937786e2961f6436b836d"
+    ]
   }
 ]
