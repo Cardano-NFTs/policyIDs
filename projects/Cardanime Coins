@@ -1,8 +1,6 @@
-{
-    "project": "CardAnime Coins",
-    "tags": [
-        "Card₳nime Coin"
-    ],
+[
+  {
+    "project": "Cardanime Coins",
     "policies": [
         "8c39098bfc72d5e2a2b7555032f3453053f2dffcf6c8bc1c159e71a1",
         "44de1151ad4bac89f009bd9bba54dc149d63c9b3391c17669f21f8ac",
@@ -10,6 +8,8 @@
         "bd83beef42a6f84cf27989bb5546a1cabe40448b0e79479828d2a9ee",
         "adbe4b7a02cc085855240bbfc5ce796970140357c67b43c40127588a",
         "0cda0d6a8abf42b4b835c0507363de34ea7ae9a41ba77122ac6aced1",
-        "633332fd639a359d9f1ca8f7c407f14e23b668eea98dbde475c4bfbc"
+        "633332fd639a359d9f1ca8f7c407f14e23b668eea98dbde475c4bfbc",
+        "beaf9f56d1a8c92a64ce1dd5dfa66703c429cb1c3ebcaf0f7477b88b"
     ]
-}
+  }
+]
