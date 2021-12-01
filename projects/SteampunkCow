@@ -1,0 +1,22 @@
+[
+   {
+      "project": "SteampunkCow Mint",
+      "tags": [
+         "SteampunkCow",
+         "SteampunkCow Mint"
+      ],
+      "policies": [
+         "4987e322a89ffc5dd95bbfe4e52849f3500e96461fc0e18ee7a31d96"
+      ]
+   },
+   {
+      "project": "SteampunkCow PlanetMini",
+      "tags": [
+         "SteampunkCow",
+         "PlanetMini"
+      ],
+      "policies": [
+         "f4d4a496b64971bf2e5c95287d7ec41cf93edf6c134d2f299d3b31c3"
+      ]
+   }
+]
