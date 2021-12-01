@@ -4,9 +4,13 @@
     "CardoBlocks",
     "Blocks",
     "CardoBlock",
-    "Block"
+    "Block",
+    "CardoBlocks Special Edition",
+    "CardoBlocks Galaxy"
   ],
   "policies": [
-    "ee30c974e85e23a2545df946c417ad422427be8486c4d017f98818ca"
+    "ee30c974e85e23a2545df946c417ad422427be8486c4d017f98818ca",
+    "caca283b87bcda8100b2ce93f14de1eeaf59635e68cbc5c494d8584b",
+    "7ada79817271ede64e5b6e3efc805b0652a2263df05bbfa78e90967f"
   ]
 }
