@@ -1,0 +1,83 @@
+[
+    {
+        "project": "Glus",
+        "policies": [
+            "4fc17ed958dbf8ff4f2f7e876b262ceb8c127511ec99419c65f3cd6f",
+            "1a2d7f342514d1a107ff2c73b3f8e28cdb5cbdddc1664fa163628855",
+            "4b7f49d5a8ca8596e9b5ddf3a8e63e300f37a1678bc1b65f6be4cee0",
+            "d482052e706a277c5006b76c0fa47285e726ae89bcab19dbc778b6d0"     
+        ]
+    },
+    {
+        "project": "Glus X NFrogTs",
+        "policies": [
+            "56b98f0c6ffb179b503dc4d264b7d8a34aa3fb3781fabeffae0b0fd1"
+        ]
+    },
+    {
+        "project": "Charles Gitnick X Glus",
+        "policies": [
+            "df142ed23ec3d8f636d1b62e6eedf96141abec51ab18363d0bf6316d"
+        ]
+    },
+    {
+        "project": "LowPolyProject X Glus",
+        "policies": [
+            "006b9198418793ccc390a6042f9af84ecf7eadbbc9febc268ab9984b"
+        ]
+    },
+    {
+        "project": "Cardano Robin X Glus",
+        "policies": [
+            "b2a582a42c83b31e0c1ae91191f88b2a592d5a58476dbfd860781b39"
+        ]
+    },
+    {
+        "project": "Glus X Flowers For Lovelace",
+        "policies": [
+            "a577adacc8ee7becc2077110c01bd6fd1ee11c398e63840d6a3d16fe"
+        ]
+    },
+    {
+        "project": "Glus X Chaotic Mathematics",
+        "policies": [
+            "be3a4e111a307643783820c2bf15fcace87f161187be9301857b593a"
+        ]
+    },
+    {
+        "project": "Glus X Backwards Geometry",
+        "policies": [
+            "d47b3107dcc48187deaecfd0490a625b8dcbbec9499c2c319832ecb5"
+        ]
+    },
+    {
+        "project": "Yasen X Glus",
+        "policies": [
+            "958d7e61c24bcfa941c1139696864bb3aa0fa1c9d7f4d6febd643798"
+        ]
+    },
+    {
+        "project": "Glus X Sacred Studios",
+        "policies": [
+            "19d9d0c8ab8653172280872a50e55da9625d14c629af26a1eb2df4d3"
+        ]
+    },
+    {
+        "project": "Glus X Masha",
+        "policies": [
+            "8bb97f61ef50177d075679a37c32c1461797b230b2ee7e7b52b813ff"
+        ]
+    },
+    {
+        "project": "Glus X CardanoKeys - Mushroom Keys",
+        "policies": [
+            "bdf8c6170793a8d6c49089264e08dfe5cd589e1321393777150dd06e"
+        ]
+    },
+    {
+        "project": "Glus X Fettuccine",
+        "policies": [
+            "a9f27403469474f5f673449936b6b17418433498e238d683dfcd73a3"
+        ]
+    }
+]
