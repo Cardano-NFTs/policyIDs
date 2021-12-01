@@ -1,0 +1,40 @@
+[
+  {
+    "project": "DeepVision",
+    "tags": [
+      "Deep Vision",
+      "DeepVision",
+      "DV",
+      "gcuriom"
+    ],
+    "policies": [
+      "28a9ffc30a5f4e18315fc6c5d192c349efb5b259bccb40b703999de9"
+    ]
+  },
+  {
+    "project": "DeepVision Halloween",
+    "tags": [
+      "Deep Vision",
+      "DeepVision",
+      "Halloween",
+      "DV",
+      "gcuriom"
+    ],
+    "policies": [
+      "3b7311c9dafc32161be4eacc2b29f5baf92fb0c1500455be79141c04"
+    ]
+  },
+  {
+    "project": "DeepVision x Stik Friks",
+    "tags": [
+      "Deep Vision",
+      "DeepVision",
+      "Stik Friks",
+      "DV",
+      "gcuriom"
+    ],
+    "policies": [
+      "ec8baae5ef5b8e24a596d1ab09d130ff861507c01fbed3002059338c"
+    ]
+  }
+]
