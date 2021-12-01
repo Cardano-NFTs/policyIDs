@@ -81,5 +81,11 @@
       "1a38c72fdef91ab2625cf1b0cd3fc6e2dbc370e235f27bf48e3368cb",
       "18a0d7f2e8173e8cd150d5aedcb938d9edc27ba448383621328e991b"
     ]
+  },
+  {
+    "project": "BlizzEffect x Cardano Robin",
+    "policies": [
+      "79ee0628b40bd17daef8dfe97af0906af64ee9d113d7df86cf5ea322"
+    ]
   }
 ]

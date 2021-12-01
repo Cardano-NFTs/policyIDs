@@ -7,11 +7,14 @@
             "Wights",
             "Signal",
             "Concept",
-            "Poster"
+            "Poster",
+            "Ichimi"
         ],
         "policies": [
             "2dd8d11d9de92105d9c2e0379e6fecd3c3b3023f03dc8667daf301a8",
-            "2970e4fe4f0f802cefd0ed32e407a810e9dcf599c4242eee8f0d17a4"
+            "2970e4fe4f0f802cefd0ed32e407a810e9dcf599c4242eee8f0d17a4",
+            "437f3ba3b380f35b830ce588751d08affd24da14c927895cf1d4dbe3",
+            "7d0a82eaaf74f919a6eb97930e7b668f5401ea18b0b64f503ebd6246"
         ]
     }
 ]

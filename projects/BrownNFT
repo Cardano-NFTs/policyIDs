@@ -28,7 +28,14 @@
     "project": "Dead Astronaut Crew by BrownNFT",
     "policies": [
       "0e793f4d9e8717247b17858bde76446b68dc3302f547699480c10750",
-      "e8fb8a4dce883c3b251e6a216a2c73b7143c7baaab0366f487b2b272"
+      "e8fb8a4dce883c3b251e6a216a2c73b7143c7baaab0366f487b2b272",
+      "4efc9dcffca3ebb5ee0b4aeaa2cf2d8be8fea0f2fead3e0530d3c663"
+    ]
+  },
+  {
+    "project": "DIRT by BrownNFT",
+    "policies": [
+      "31b52d8b92dcb228555bd32c1eccd7ca3ced2b7e6334f748d7d8238b"
     ]
   },
   {
