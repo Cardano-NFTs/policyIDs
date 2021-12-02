@@ -1,12 +1,20 @@
-{
-  "project": "CardoBlocks",
-  "tags": [
-    "CardoBlocks",
-    "Blocks",
-    "CardoBlock",
-    "Block"
-  ],
-  "policies": [
-    "ee30c974e85e23a2545df946c417ad422427be8486c4d017f98818ca"
-  ]
-}
+[
+  {
+    "project": "CardoBlocks",
+    "policies": [
+      "ee30c974e85e23a2545df946c417ad422427be8486c4d017f98818ca"
+    ]
+  },
+  {
+    "project": "CardoBlocks Special Edition",
+    "policies": [
+      "caca283b87bcda8100b2ce93f14de1eeaf59635e68cbc5c494d8584b"
+    ]
+  },
+  {
+    "project": "CardoBlocks Galaxy",
+    "policies": [
+      "7ada79817271ede64e5b6e3efc805b0652a2263df05bbfa78e90967f"
+    ]
+  }
+]
