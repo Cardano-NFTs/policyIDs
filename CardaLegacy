@@ -2,13 +2,23 @@
   {
     "project": "CardaLegacy",
     "policies": [
-      "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab"
-    ]
-  },
-  {
-    "project": "CardaLegacy",
-    "policies": [
-      "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab"
-    ]
+     {
+  "721": {
+    "40b6b2985ad2f758611889832cbebf030f149ccd5d9b42603dc819d4": {
+      "LegacyHCollection": {
+        "name": "Holographic Journey ",
+        "image": "ipfs://QmcEApbpqnF6HRZR2egj6HSviyJ3PR69oanTMB97G7CdnL",
+        "mediaType": "image/png",
+        "description": "Holographic Collection 2021",
+        "files": [
+          {
+            "name": "Holographic Journey ",
+            "mediaType": "image/png",
+            "src": "ipfs://QmcEApbpqnF6HRZR2egj6HSviyJ3PR69oanTMB97G7CdnL"
+          }
+        ]
+      }
+    },
+    "version": "1.0"
   }
-]
+}
