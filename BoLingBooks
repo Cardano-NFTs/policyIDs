@@ -1,0 +1,17 @@
+[
+  {
+    "project": "FightingFeathers",
+    "policies": [
+      "4b7b4a2fea40ede004dca055e4fac20e0b5d48e8c43073c2fedb156e",
+      "ff7460e55dc32c2a76eafff9f9a72bb511c3e250a907fe8aab6c7806",
+      "d0100384666d9293154be83cbcc7f9a37f6c9bb6a034720a3810d5b9"
+    ]
+  },
+  {
+    "project": "2KillersAndAHooker",
+    "policies": [
+      "134dce8ff88fb5efadbe96ae630f9b79d55394b7eec31ef602c86f9b",
+      "c52288e7bb131e4ae5290709200b6d9bf6b92005913ef4ef7e05f921"
+    ]
+  }
+]
