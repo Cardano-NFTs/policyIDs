@@ -1,0 +1,9 @@
+{
+    "project": "CardanoDice",
+    "tags":[
+    "CardanoDice"
+    ],
+    "policies": [
+        "bd21f3384ff814c32d90d88a029a00159515dca12f57c384a675f659"
+    ]
+}
