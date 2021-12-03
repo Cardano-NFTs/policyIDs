@@ -1,0 +1,20 @@
+{
+  "721": {
+    "e993a8cf1789231cc458dceef6c822f81996e13fde30dc2a2ac53ab4": {
+      "LightGirls": {
+        "name": "",
+        "image": "ipfs://Qme5fDYhHhnffxG2bS45MMfNnx3z5LwtgyqxSwLyfoyu9A",
+        "mediaType": "image/jpeg",
+        "description": "",
+        "files": [
+          {
+            "name": "LightGirls",
+            "mediaType": "image/jpeg",
+            "src": "ipfs://Qme5fDYhHhnffxG2bS45MMfNnx3z5LwtgyqxSwLyfoyu9A"
+          }
+        ]
+      }
+    },
+    "version": "1.0"
+  }
+}
