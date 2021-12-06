@@ -24,5 +24,16 @@
         "policies": [
             "81fd41215b08ab60f78dda8c076487f65228ace5bb9ca122e8bc05f4"
         ]
+    },
+                {
+        "project": "Bitscoin 1/1 Artworks",
+        "tags": [
+            "Anim8bits",
+            "bitscoin",
+            "8tc"
+            ],
+        "policies": [
+            "5df0efe3205ea4af727847a5f5e422ddf9a2e590bb85474b59f2f99f"
+        ]
     }
 ]
