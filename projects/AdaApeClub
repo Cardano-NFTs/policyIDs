@@ -1,0 +1,14 @@
+[
+  {
+    "project": "AdaApeClub",
+    "policies": [
+      "c4bfa78ebb256a2e869d5b3c0d5d24754f5875e5273b37a4e369bda6"
+      ]
+  },
+  {
+    "project": "AdaApeClubVIPPass",
+    "policies": [
+      "6937a762fa1bec850073da46def7f57e5a5942e74162d5b618118c6a"
+    ]
+  }
+]
