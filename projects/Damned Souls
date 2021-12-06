@@ -1,0 +1,14 @@
+[
+  {
+    "project": "Damned Souls",
+    "policies": [
+      "60c0e193ca147cc8e5e10c11521520a97ef0d37de1474fbb1165218c"
+    ]
+  },
+  {
+    "project": "Damned Skulls",
+    "policies": [
+      "277472c69d240fcf1f3852636a887acac64beb428b9bf848cc86792f"
+    ]
+  }
+]
