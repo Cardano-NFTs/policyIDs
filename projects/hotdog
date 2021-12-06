@@ -1,0 +1,21 @@
+[
+    {
+        "project": "Hotdogs",
+        "policies": [
+            "e1cfa8419f021d9b52a15f0d50fcb23534e62e9f0af0418640d85d2b",
+            "2a0148b79b28d01546914b9ad4604232806d7c6b75147713b5843a4b",
+            "07853b661f464e7ada5ab55e96c7bdde8fa6387abfcdf8f697801f87",
+            "e5da02739ea6ca207d58de2a6dbe4667e2c8aeba81af4c792b700207"
+        ]
+    },
+    {
+        "project": "Halloweiners",
+        "policies": [
+            "e30fb8caaa179b371b14fb681d103c1d424c27b66f31d76ef0e1fb50",
+            "7d0e857a76232383a7afcbeb0b3e85f56806acc01e8e6c2b0d4d2331",
+            "203cebb18885ac60e066d18ed70ff0e909c67d42047c41f23ac5953b",
+            "1b304cbcd97a7e0f6335b903d3a720b06453a56ac0bc23ea39980ba1",
+            "5291359850ac0e4b930fd2975e2c43a11442e9739c99fc2822fd2e46"
+        ]
+    }
+]
