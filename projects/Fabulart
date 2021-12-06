@@ -1,3 +1,4 @@
+[
 {
     "project": "Roleggs",
     "tags": [
@@ -8,4 +9,14 @@
         "203d8bd5a7b74780228964d6dfdd7d37946b22df6e5496722b2fc92e",
         "77226dba6fce3b0ccc850269b111ba774236071c0eea970d5f2cdfe0"
     ]
+    },
+    {
+    "project": "CARDanoBirds",
+    "tags": [
+        "CARDanoBirds"
+    ],
+    "policies": [
+        "5941232a03a230b00265716f629496693514d09701047152473b8a00"
+    ]
 }
+]
