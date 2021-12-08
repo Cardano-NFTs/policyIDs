@@ -1,4 +1,6 @@
+[
 {
+
     "project": "AnotherTree",
     "policies": [
         "d9321e4ccc40f89a4961e5b0e9829fa4026df7a3aefa2b2502ffc20a",
@@ -30,6 +32,5 @@
         
         
     ]
-}
-
-  
+  }
+ ] 
