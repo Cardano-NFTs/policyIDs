@@ -1,0 +1,39 @@
+   [
+        {
+        "project": "Anim8Bits",
+        "tags": [
+            "Anim8bits",
+            "Minim8bits",
+            "Voxelized"
+            ],
+        "policies": [
+            "eedee8ab75886ed9a8a691ba54768ecab4f7da47b8659a89a573c00a",
+            "6590687768bf097900b546a15efb0e413010cbefca2ade9f629c6d43",
+            "4091043eb3cdd8be40e5683488aeda3a48b219245576a1f221e3e725",
+            "3e54cc07d4c1f9dfb9332ce7c6c865efe6980cef4ec785aec4814b83",
+            "804778fc7307fd9159f5894cd4f9d24eef84cb2ca092c3b60d8f36a7"
+        ]
+    },
+            {
+        "project": "Bitscoin",
+        "tags": [
+            "Anim8bits",
+            "bitscoin",
+            "8tc"
+            ],
+        "policies": [
+            "81fd41215b08ab60f78dda8c076487f65228ace5bb9ca122e8bc05f4"
+        ]
+    },
+                {
+        "project": "Bitscoin 1/1 Artworks",
+        "tags": [
+            "Anim8bits",
+            "bitscoin",
+            "8tc"
+            ],
+        "policies": [
+            "5df0efe3205ea4af727847a5f5e422ddf9a2e590bb85474b59f2f99f"
+        ]
+    }
+]
