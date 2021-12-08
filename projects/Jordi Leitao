@@ -1,0 +1,14 @@
+[
+  {
+    "project": "Jordi Leitao - Genesis",
+    "policies": [
+      "e1e7525136e7f2f529db8ebf1baa3054b638925216e29707d8095719",
+    ]
+  },
+  {
+    "project": "YourSecondProjectName",
+    "policies": [
+      "This is where I will add new policys for other series I will create",
+    ]
+  }
+]
