@@ -20,13 +20,23 @@
     ]
   },
   {
-    "project": "Benjamin's Club - Membership Keystones",
+    "project": "Benjamin's Club - Keystone Shards",
     "tags": [
       "Benjamin's Club",
-      "Membership Keystones"
+      "Keystone Shards"
     ],
     "policies": [
       "9f0a06006c49f452656bbb91667d0e6ca0617a09e7f7642891f42601"
+    ]
+  },
+  {
+    "project": "Benjamin's Club - Membership Keys",
+    "tags": [
+      "Benjamin's Club",
+      "Membership Keys"
+    ],
+    "policies": [
+      "39444484d7a844f3c59ea383649b498f40fd3d8e2ae6a923efc60897"
     ]
   },
   {
@@ -37,6 +47,16 @@
     ],
     "policies": [
       "5d5989d428f85a3e4f60eef9a087f482304ff73ed3ffe079d55b6eae"
+    ]
+  },
+  {
+    "project": "Benjamin's Club - Fran",
+    "tags": [
+      "Benjamin's Club",
+      "Fran Rodriguez"
+    ],
+    "policies": [
+      "23ca70a559759fa22417a0353d8d8deadfbfe40b7e661b7c4d285a35"
     ]
   }
 ]
