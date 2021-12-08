@@ -20,13 +20,23 @@
     ]
   },
   {
-    "project": "Benjamin's Club - Membership Keystones",
+    "project": "Benjamin's Club - Keystone Shards",
     "tags": [
       "Benjamin's Club",
-      "Membership Keystones"
+      "Keystone Shards"
     ],
     "policies": [
       "9f0a06006c49f452656bbb91667d0e6ca0617a09e7f7642891f42601"
+    ]
+  },
+  {
+    "project": "Benjamin's Club - Membership Keys",
+    "tags": [
+      "Benjamin's Club",
+      "Membership Keys"
+    ],
+    "policies": [
+      "39444484d7a844f3c59ea383649b498f40fd3d8e2ae6a923efc60897"
     ]
   },
   {
