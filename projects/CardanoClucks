@@ -1,0 +1,11 @@
+
+{
+    "project": "CardanoClucks",
+    "tags": [
+        "CardanoClucks"
+    ],
+    "policies": [
+        "a0783518d08823a8cf0a3e94f0386d0984752659c911ec99ec17ce20",
+        "f7aea40697334123214df498025cab015dead5aef893f00b1578d25a"
+    ]
+}
