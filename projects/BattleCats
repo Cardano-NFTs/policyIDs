@@ -1,4 +1,5 @@
-{
+[
+ {
     "project": "BattleCats",
     "tags": [
         "BattleCats",
@@ -11,4 +12,5 @@
         "cd2f9cee4102e355e2c0177c191650c29ec2c7d4c98f33c015d5606f",
         "baf017739de75a5331f96ef3b51b8992785622ddcd91afc10a1c8421"
     ]
-}
+ }
+]
