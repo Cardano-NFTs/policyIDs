@@ -14,6 +14,18 @@
             "804778fc7307fd9159f5894cd4f9d24eef84cb2ca092c3b60d8f36a7"
         ]
     },
+                {
+        "project": "Fanart Key",
+        "tags": [
+            "benjamin",
+            "clubofbenjamin",
+            "fanartkey",
+            "memberkey"
+            ],
+        "policies": [
+            "a1ed50c8e6c77f51c0543e0592a22647c8e385f03ef7f36a4c724d7b"
+        ]
+    },
             {
         "project": "Bitscoin",
         "tags": [
