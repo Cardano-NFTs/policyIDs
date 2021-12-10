@@ -1,0 +1,26 @@
+[
+  {
+    "project": "AnarchyCNFT",
+    "tags": [ 
+        "anarchy_cnft",
+        "AnarchyCNFT",
+        "anarchycnft"
+    ],
+    "policies": [
+      "8be48195b34601787ff4db3439198dab6f687eb2f12d8389da6c457f",
+      "215a8825baf8c6d2c78f368ec9c547f8589df88ce7d8f254a9c17e94",
+      "3b186db4a00ea2232aa35baca723ea6759e7e5746f82c171e436e0fb"
+    ]
+  },
+  {
+    "project": "Phaces by AnarchyCNFT",
+    "tags": [ 
+        "Phaces",
+        "PhacesNFT",
+        "PhacesCNFT",
+    ],  
+    "policies": [
+      "699ac1523e99f03e041804d1d413ea6b120007ce0b9c27bb7132f8b4"
+    ]
+  }
+]
