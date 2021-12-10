@@ -1,6 +1,19 @@
 
 [
    {
+      "project":"Gold Edition",
+      "tags":[
+         "goldedition",
+         "robot",
+         "futuristic"
+         
+      ],
+      "policies":[
+         "f9b5e1c27e29759b45b1fa42e43906408c0c17cbff6b4e100afbda58"
+      ]
+   },
+   
+   {
       "project":"Toys in the box",
       "tags":[
          "VoxelHeroes",
