@@ -1,0 +1,24 @@
+{
+    "project": "Car_Danos",
+    "tags": [
+        "Car_Dano"
+    ],
+    "policies": [
+              "1dc7d7efce26328bd8e8aedd7b0f7813a4062e3bf68c95327507a57d",
+              "2a2e60448e1bb9fcf92afd6e11679d8041977cb4ada7697a0a5b5c98",
+              "2ba83356ad06b694b7fd93a3234e74b2728d12be0df845c2fec4ef79",
+              "33d6975c3f18be47f32682abe13e2941a6bdbdd8bcc18e43dcc5104a",
+              "3b46c92e6ed7f17c202e12278449f8ff7f6391d2d861565e5a1163f0",
+              "4755ec865ce7d89e8d8a20decc7846bcc8fa4801f70c5fb5df818e92",
+              "5920c44d3c18ae18fd98c578003ff3483acaf276a46afea4629bd5aa",
+              "605800d0b682fb1e2ea4604d6bf88a316eb26930ac81188affa0d57d",
+              "624646a280f9782892267424fafe5194fb5c30b3077d0a81af0b4c17",
+              "7091dbb603af1c7b819a2a2ddf9299288c477baf00851189c8ff4c3e",
+              "76cf24d369db5b4dd87cfee9d42dca6d57d463467b6df6563d5e163f",
+              "7a69db18b4170844733eb59eaccec4267db79f8fd772bc918e842737",
+              "847d9c3801641b938f12eb8248fbd56a72cf05c52937d7c34478a3b1",
+              "941471332a4b13b51e485ed35fb24989180ec2413076e68e2c33cd53",
+              "b45f66c85d6cc94e35d574d01728e589b4875e73a1efbd7806ccdfa0",
+              "c7adaa0d26be381e563ee668baa22fb71d10f2c19e06bcf2c0c8863f"
+          ]
+}
