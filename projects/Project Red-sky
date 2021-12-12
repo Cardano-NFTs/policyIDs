@@ -1,0 +1,45 @@
+[
+    {
+        "project": "Googly Eyes ABCD",
+        "policies": [
+            "f1c721eb4dbd1265b969a9ca876efc3c9124bbeb1f3242f2c0d617f5"
+        ]
+    },
+    {
+        "project": "Toronto Raptors",
+        "policies": [
+            "f7eeb4bcc069283ef99947ca65e5a348a24eef3d29c3a23948017815"
+        ]
+    },
+    {
+        "project": "The Alliance Group",
+        "policies": [
+            "7158632ee64715076bdf3373d50f68296269919655226db5a7d69fef"
+        ]
+    },
+    {
+        "project": "Enigm₳ Delegator Badge",
+        "policies": [
+            "404c2403b7e935fc95ecbdc4570ca28fa4789d37563526a010cd8c87"
+        ]
+    },
+    {
+        "project": "fun facts EIP-1559",
+        "policies": [
+            "3fc0e408e6cfa5e6d793ee2735b9ea46495669734d242ae51998e394"
+        ]
+    },
+    {
+        "project": "benohanlon",
+        "policies": [
+            "ee2a005bb33016177dc5bfad435cc7341f7879fe40f8185f2bea428d"
+        ]
+    },
+    {
+        "project": "King Charles ftw",
+        "policies": [
+            "dd8fc87506e8b7484008f05a9cfaaaef690698f6ec5ebed15261e0f4"
+        ]
+    }
+]
+

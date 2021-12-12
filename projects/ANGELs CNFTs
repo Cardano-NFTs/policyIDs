@@ -1,0 +1,11 @@
+{
+    "project": "ANGELsCNFTs",
+    "tags": [ 
+        "Angels_CNFTs"
+    ],   
+    "policies": [
+         "2fc1c8b7156427fccd9de88089b5d1e55341000f1a7a2b0c24ba5d77",
+         "e8beb2480004fbd5aba2f704eca20a0f2bfcc0899e022e80e73687d4",
+         "51c8bc088117bb2068c850f8f52122657cc08886c25cc233c74c996d"
+    ]
+}
