@@ -1,9 +1,11 @@
 {
     "project": "CardAmigos",
     "tags": [
-      "CardAmigos"
+      "CardAmigos",
+	  "Cardamigos3D"
     ],
     "policies": [        
-        "79c0d56ac5698178be42537907b3f4ac1a753493785ff2a90f146503"
+        "79c0d56ac5698178be42537907b3f4ac1a753493785ff2a90f146503",
+		"195bbfd7861d40d0f2d3a92ca5dc81931b010b1b11927ad49dc35d3e"
     ]
 }
