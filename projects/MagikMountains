@@ -1,9 +1,13 @@
-{
-    "project": "MagikMountains",
-    "tags": [
-        "MagikMountains"
-     ],
-     "policies": [
-        "1837dc95d65d99e51f5a10c45e38f0b471066ce8f9d9ec2101abc300"
-    ]
-}
+[
+    {
+        "project": "MagikMountains",
+        "tags": [
+            "MagikMountains"
+        ],
+        "policies": [
+            "1837dc95d65d99e51f5a10c45e38f0b471066ce8f9d9ec2101abc300",
+            "9aac3b7cdd975894501e91e1d6222d3623db00312290d2754a2ca715",
+            "280e6272dfadd8ae1c70192153f6e5e8aa3b1c28e185832388d69d56"
+        ]
+    }
+]

@@ -1,8 +1,15 @@
 [
   {
-    "project": "KidYokai",
+    "project": "KidYokai Collection",
     "policies": [
       "9997c9e9e6d0c2f516a2f2229fa39bff9c30b729e3e02679a422d6ec"
+    ]
+  },
+  
+  {
+    "project": "KidYokai Customs and Collabs",
+    "policies": [
+      "80e60cb4580ff462335059681189c88dc14693f3fe6d04635967346c"
     ]
   }
 ]
