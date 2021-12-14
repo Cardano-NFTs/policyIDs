@@ -1,0 +1,20 @@
+[
+  {
+    "project": "HOSKY Token",
+    "policies": [
+      "a0028f350aaabe0545fdcb56b039bfb08e4bb4d8c4d7c3c7d481c235"
+    ]
+  },
+  {
+    "project": "HOSKY Stamps",
+    "policies": [
+      "eea2cf3fcb974e75c3e4fb1c305475efedfc0fe032764625fc91a5ae"
+    ]
+  },
+  {
+    "project": "HOSKY C(ash grab)NFT",
+    "policies": [
+      "a5bb0e5bb275a573d744a021f9b3bff73595468e002755b447e01559"
+    ]
+  }
+]
