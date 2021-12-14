@@ -1,9 +1,11 @@
 [
   {
-    "project": "DeepVision by VisionAI",
+    "project": "DeepVision",
     "tags": [
-      "VisionAI",
+      "Deep Vision",
       "DeepVision",
+      "Deep",
+      "DV",
       "gcuriom"
     ],
     "policies": [
@@ -11,10 +13,11 @@
     ]
   },
   {
-    "project": "DeepVision Halloween by VisionAI",
+    "project": "DeepVision Halloween",
     "tags": [
-      "VisionAI",
+      "Deep Vision",
       "DeepVision",
+      "Deep",
       "Halloween",
       "DV",
       "gcuriom"
