@@ -1,6 +1,8 @@
-{
-    "project": "Cardano Empires",
+[
+  {
+    "project": "YourFirstProjectName",
     "policies": [
-        "47207b53d4a031fa7d023a8ffd154c8db855c7b42201ff44d3847d4f",
-       
-}
+      "47207b53d4a031fa7d023a8ffd154c8db855c7b42201ff44d3847d4f"
+    ]
+  }
+]
