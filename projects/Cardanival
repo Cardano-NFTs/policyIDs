@@ -2,7 +2,14 @@
   {
     "project": "Cardanival",
     "policies": [
-      "35750587dd22ddced0886fa68b10697c8f6c9a7ceb71f724b3ddaabb"
+      "35750587dd22ddced0886fa68b10697c8f6c9a7ceb71f724b3ddaabb",
+      "18111c6676f1065383263fddd3fafabccf25556ddbc6e079b1633fba"
+    ]
+  },
+  {
+    "project": "Cardanival x Low Poly Project",
+    "policies": [
+      "4d30f867d7a0e4cc0b7d783f47bc128ce00c2f035a92da0e8d64529a"
     ]
   }
 ]
