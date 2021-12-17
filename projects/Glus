@@ -69,6 +69,12 @@
         ]
     },
     {
+        "project": "Glus - CRYPTODELICS 02",
+        "policies": [
+            "20211215310a6919fa3ba4817a6771676499506ea109ff75400937a9"
+        ]
+    },
+    {
         "project": "Glus X CardanoKeys - Mushroom Keys",
         "policies": [
             "bdf8c6170793a8d6c49089264e08dfe5cd589e1321393777150dd06e"
