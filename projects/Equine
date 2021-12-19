@@ -1,5 +1,26 @@
 [
   {
+    "project": "EquineNFT Pioneer Horses",
+    "tags": ["Pioneer", "Equine", "Horses"],
+    "policies": [
+        "30ed3d95db1d6bb2c12fc5228a2986eab4553f192a12a4607780e15b"
+    ]
+  },
+  {
+    "project": "EquineNFT Pioneer Jockeys",
+    "tags": ["Pioneer", "Equine", "Jockeys"],
+    "policies": [
+        "23a000a839f04bb71b59b4ae74bf8cf5ed21ee0be520690e665ae4b4"
+    ]
+  },
+  {
+    "project": "EquineNFT Pioneer Skins",
+    "tags": ["Pioneer", "Equine", "Skins"],
+    "policies": [
+        "22d843e9e8b39d105c645944cc848abee2673d64e60f1f022791ec85"
+    ]
+  },
+  {
     "project": "EquineNFT Posters Season 1",
     "tags": ["Poster 1"],
     "policies": [
