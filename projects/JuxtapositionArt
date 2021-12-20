@@ -1,0 +1,19 @@
+[
+    {
+        "project": "JuxLight",
+        "tags": ["JuxLight", "Jux Photography"],
+        "policies": [
+            "a31eb93d96395d9e387a563c0037bff30bb507e6ef1a8eed48f37482",
+            "87eed37773452faa0aec372bab6e74ae19055402487a56755d5a3361",
+            "dd2dfa7921ee8e198e2bac99e3b1f0b11111fc8ba573acfbb04c991a"
+        ]
+    },
+
+    {
+        "project": "JuxAbstract",
+        "tags": ["JuxAbstract", "Jux Photography"],
+        "policies": [
+            "8df8a0f6205a89dde6823339c96b02cf2dc438e2a38bb741b30b9936"
+        ]
+    }
+]
