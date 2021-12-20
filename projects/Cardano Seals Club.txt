@@ -1,9 +1,0 @@
-[
-  {
-    "project": "Cardano Seals Club",
-    "policies": [
-      "4dc0732104bc6ce86f9e715f6acf9fce0acac84eccd33f117c702258"
-
-    ]
-  }
-]
