@@ -1,0 +1,27 @@
+[
+  {
+    "project": "AdaweenCards",
+    "policies": [
+      "9129610f859e627fac4b442e316018d89e8124b7f6efde3894b5027c"
+    ]
+  },
+  {
+    "project": "Adaweenanimations",
+    "policies": [
+      "88d9cb270848416fd1ff8b8fdffde42465f35a3767f8009f7c9c8604"
+    ]
+  },
+[
+  {
+    "project": "CardanoExplorer",
+    "policies": [
+      "ada012c4d3e37e7cfa4c9267f24c805c95603f645f9bf81bda958a53"
+    ]
+  },
+  {
+    "project": "VividRobin",
+    "policies": [
+      "d3b7e60e3c43b32ae5f6675d0952ec0925794cc9d043e7f8e146614f"
+    ]
+  }
+]
