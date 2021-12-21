@@ -1,9 +1,10 @@
-{
+[
+  {
     "project": "Adalantic",
-    "tags": [
-        "Adalantic"
-    ],
     "policies": [
-        "11140b49b060dbddd24462ab86f22c0d013006c233228c7f339afcf2"
+        "11140b49b060dbddd24462ab86f22c0d013006c233228c7f339afcf2",
+        "1e62c6c94cbd1a964e0f76dd9f8cdd83a8f000cfa242a20f9b8570c1",
+        "d3d9225f7d7f3ab7fe80c82ec5efae713c5ef3f595a02c4ba38a4522"
     ]
-}
+  }
+]
