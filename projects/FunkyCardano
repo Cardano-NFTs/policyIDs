@@ -3,7 +3,8 @@
         "project": "FunkyDreams",
         "tags":[
         "funky",
-        "dreams"
+        "dreams",
+        "funkydreams"
         ],
         "policies": [
             "2f10f077252fb5b0fcd82abb6e50a178ad15e1e0920cf4b911eb45ff",
@@ -14,14 +15,16 @@
             "ec498d7fc1432be17f9f301ae3b9c39c772582dc385de15f75989ddd",
             "accbd14358136499059b255f03ee018879ef7281e6a6dedc49819096",
             "3cff89553df240109ec54db765a487bdf452e91cc2cd6c508405d889",
-            "c83b8197ab47de4162d416d9ef5c45ce383c4d899aa7d092c725efe5"
+            "c83b8197ab47de4162d416d9ef5c45ce383c4d899aa7d092c725efe5",
+            "98c85df48b87c2cf64a8795256f00a2590f75da51e8ff6d6e49a503e"
         ]
     },
     {
         "project": "FunkyMaps",
         "tags":[
         "funky",
-        "maps"
+        "maps",
+        "funkymaps"
         ],
         "policies": [
             "c568971030288b46870b922c26ea50320d96a393979bf3c2020207c3",
@@ -34,7 +37,8 @@
     "project": "FunkyCardanos",
     "tags":[
     "funky",
-    "cardanos"
+    "cardanos",
+    "funkycardanos"
     ],
         "policies": [
             "f58514cc07f1582e34400467545b7cff02aa10474957e4d75f89cd8e",
