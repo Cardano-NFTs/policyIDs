@@ -6,5 +6,11 @@
       "a25a04713e9c35f01d8add8b06fbdda0332a8a85f6ce050763eb97b5",
       "b26645955f90c663d202aae11cafb7751674afd552cd4bcc94fa3783"
     ]
+  },
+  {
+    "project": "Candle",
+    "policies": [
+      "f28cda2404dd01841290fdedf1c6237c96cf7b88b5ac92405cde0b31"
+    ]
   }
 ]
