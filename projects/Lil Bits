@@ -1,6 +1,9 @@
 [
    {
       "project":"LilBits",
+      "tags":[
+         "Lil Bit"
+      ],
       "policies":[
          "2e9ed192e512a2a94ae68e59fb0ccb5897dd6c87d8627cba63ceb933"
       ]
