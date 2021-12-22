@@ -1,0 +1,10 @@
+{
+    "project": "CardanoChain",
+    "tags": ["CardanoChainPunks"],
+    "policies": [
+         "24f62c178ea87dffec51ff56d084a11ebc674e7c4512a9285fbd5b4c",
+         "4e803ef8cbdaf33617bb705c605e229df6a9976af957948edb801171",
+         "2793d4894e740db4580a887dee589b897c73966cea3f260c42af6254"
+       ]
+       
+  }
