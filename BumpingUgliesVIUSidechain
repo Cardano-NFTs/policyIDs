@@ -1,8 +1,24 @@
+{
 [
   {
+    "project": "BumpingUglies",
+    "policies": [
+      "aa63d7de85fb677012ab0f3effa8ea1475d569c3801420b475efaefa"
+    ]
+  },
+    {
+    "project": "BumpingUglyVIPCoin001",
+    "policies": [
+      "2dbf006893e1cffa5f7695f77419f2773a8c334c8250862c6d88e98c"
+    ]
+  },
+    {
     "project": "BumpingUgliesVIUSidechain",
     "policies": [
       "e77d8f7cf2ef6733213ce087d02af1cce4fa29f02cd47bc2989c85c1"
     ]
-  }
+  },
 ]
+}
+
+
