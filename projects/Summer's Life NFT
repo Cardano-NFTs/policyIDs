@@ -1,8 +1,8 @@
 [
-  {
-    "project": "SummersLifeNFT",
-    "policies": [
-      "73a6cc7d7c76d2a3697c8aa83ed7e766fe853b65de5c24aa002b23da"
-    ]
-  }
+   {
+      "project":"SummersLifeNFT",
+      "policies":[
+         "73a6cc7d7c76d2a3697c8aa83ed7e766fe853b65de5c24aa002b23da"
+      ]
+   }
 ]
