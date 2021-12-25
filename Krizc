@@ -11,4 +11,31 @@
         ]
         
     }
+    ,
+    {
+        "project": "RoboWorld V1",
+        "tags": [
+            "RoboWorldV1",
+            "Robo"
+        ]
+        ,
+        "policies": [
+            "8ff6131d0a6dd8eff09e17ae655b383456699d0a19cd310ce440c4f8"
+        ]
+        
+    }
+    ,
+    {
+        "project": "RoboWorld V1",
+        "tags": [
+            "RoboWorldV1",
+            "Robo"
+        ]
+        ,
+        "policies": [
+            "c4d2ad659aef9c1cb727892fb5a0525dc1030baa67a9b134f96ff57e"
+        ]
+        
+    }
+    
 ]
