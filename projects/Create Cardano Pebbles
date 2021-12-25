@@ -2,7 +2,9 @@
   {
     "project": "CardanoPebbles",
     "policies": [
-        "8497990a01e2ea885609f79af6a0542d04f5fb02d77459120ca9ab44"
+        "8497990a01e2ea885609f79af6a0542d04f5fb02d77459120ca9ab44",
+        "c83761cf60c64f1655b8e30be2f5aa372753f9bcf0db47415869b5b8",
+        "debbca65711b544cf92e0aaadbb9c2d2e2e9c8d103c95215cc48aef9"
     ]
   }
 ]
