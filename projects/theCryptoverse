@@ -1,10 +1,12 @@
 {
-    "project": "The Cryptoverse",
+    "project": "Cryptoverse Comics",
     "tags": [
         "The Cryptoverse",
-	      "TheCryptoverse",
-	      "Cryptoverse",
-	      "CryptoverseCNFT"
+	"TheCryptoverse",
+	"Cryptoverse",
+	"CryptoverseCNFT",
+	"Comics",
+	"Comicbook"
     ],
     "policies": [
         "ecdeecb419d95b8f58389a99a15fe81e973a7cf200e6a4d5be729b21",
