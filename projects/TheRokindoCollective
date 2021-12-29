@@ -60,5 +60,15 @@
 		"policies": [
 			"8b77cc11556ce5741affea047f913650b13160ffc062e3f8e5916bd0"
 		]
+	},
+	{
+		"project": "H.Y.P.E. x ERGnomes",
+		"tags": [
+			"H.Y.P.E.",
+			"ERGnomes"
+		],
+		"policies": [
+			"10060545d09579ae7db18c2b94386a3d95deb75e9f31e5ebbe06d867"
+		]
 	}
 ]
