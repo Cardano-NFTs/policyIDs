@@ -1,0 +1,40 @@
+[
+  {
+    "project": "Fine Art Portraiture",
+    "policies": [
+      "66a82928627e24a4e842e320064ce70887d982158e5347e916471308",
+      "130b14cfaadc6629cbcf9f4edd13395043e9f8e1669d4e68e5cc29ba",
+      "29cc9b9da9da710b0136dfb23263ce1d4578ff314d617756708e8f84",
+      "5e1bf224bf2f63bb975adaf91d2ec45b2ccc462d620a334ee89a6593",
+      "3bc247635ee4473fb43c770f13fedd8631ffc2e5300d19b5a1048557",
+      "e1c4a1f9b896ce90cebb383f53e905b516e5a55642a63a3e0489d042"
+    ]
+  },
+  {
+    "project": "Alonzo Commemorative Edition",
+    "policies": [
+      "221ea9679e8c7256bea997a7acc566676d5ad931200c936e256ad677"
+    ]
+  },
+  {
+    "project": "United Colors of Cardano",
+",
+    "policies": [
+      "eda9b767b7ec663c513e735564af4ffcfa63309d4a61c63d8f15b717"
+    ]
+  },
+  {
+    "project": "The Memes Adventure",
+",
+    "policies": [
+      "23dee9c7d00096d9454764f277f48ebcc3393e7aa495414298086e60"
+    ]
+  },
+  {
+    "project": "spacecoins ODYSSEY",
+",
+    "policies": [
+      "0815a7318a91ec458e6f240f8bca31266f8efa468021b4e689341192"
+    ]
+  }
+]
