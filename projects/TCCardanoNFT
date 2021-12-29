@@ -1,0 +1,21 @@
+[
+{
+     "project": "TCCardanoNFT",
+     "tags": ["TC Cardano NFT "],
+      "policies": [
+          "5a18ffd4138d47a1014220a66a102959afef9b291a04741c8a986c73",
+          "6c66be53fb9a29eed4bf8bf4dd4e389d836157b292763b019d814c77"
+      ]
+  },
+ {
+      "project": "TCCardanoNFT2",
+       "tags": ["Metaverse Art series "],
+      "policies": [
+          "88af813026255d28064f354d391db0c6ab8093fc325be246279d51c3",
+          "9bd2e411f5d55f8761a93a4acaf53b7a5d922fcdb12ea379f543b0cd",
+          "22fd33831734b9d9a0477e3277bfa8ed6949f2cb1e2c00f5ef497573",
+          "df3fedcfa3e7f50adf65228fc7c8b87b79b43610a1166e9cf19c25c4",
+          "cc8cc2d6be4b7555b361c810d55c42dffd42b9289fcf0e22b862b9cc"
+    ]
+  }
+]
