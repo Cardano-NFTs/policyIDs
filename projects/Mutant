@@ -1,0 +1,13 @@
+[{
+    "project": "Mutant Crocs",
+    "tags": ["Mutant", "Crocs", "MutantCrocs", "Croc", "Mutant Crocs"],
+    "policies": ["d517f38dd2c5acc3347c8e933e2c0185fafe3ba838f8830000a3c95f"]
+}, {
+    "project": "Mutant Special Events",
+    "tags": ["Mutant", "Crocs", "MutantCrocs", "Croc", "Mutant Crocs", "Special", "Events"],
+    "policies": ["2085a1eac33df4fb9c6f7d40aa9b64cb1f95afd316e72489de6672a3"]
+}, {
+    "project": "Mutant Toads",
+    "tags": ["Mutant", "Toads", "MutantToads", "Toad", "Mutant Toads"],
+    "policies": ["1cda8886f4cbab2217346187a923b3be670e42ef5778a0ad7d25358c"]
+}]
