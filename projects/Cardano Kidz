@@ -1,0 +1,21 @@
+{
+    "project": "Cardano Kidz",
+    "tags": [
+        "Cardano Kidz"
+    ],
+    "policies": [
+         "2a7f741d816d066fd58d552196ab910bbbe47f49ec725f7938f8a10b",
+         "6afd2b286ec8d119f803e72ef14a487ea380a9ae094527e001160caa",
+         "5534595a12198346446ca7be0a56548e7091c3f2126f360a5fd8fe2d",
+         "e09b900a1dba5d39e58e2f796fcdc1b5681068ba30379d59e141aca9",
+         "5d2c310ba30ee79a9139defb690af87a110444492c9caf4b2038e0f1",
+         "4277af377ea2832f66d907636590bcbe822e4b009d254d28d84bd7cb",
+         "7f99c7ca1427b416e0eafb93132f6a13d081d7c61ef0debb4a77d2cd",
+         "c3f7c24203e407f8345238dece33aea3744a90b984a35c3fc0422540",
+         "5ed67962f702fd4773b2d1ec13d156e73954aa61b8f42e9f10c8e1b1", 
+         "500726355df9bb55c4e80a2c36ecb7a8f143e24d67fc1db121f66a60",
+         "5bb7f3c67cb9bece3ae0f654ec5eed2f8c0b16ecd18e66157392eb3c",
+         "b22cdb567a859e243053692802985d1585f4d5c5bcd79be732cff6cc",
+         "a891242ea63771bc37d810143ab050677102cab7ebeb88bed8fa670d"
+    ]
+}
