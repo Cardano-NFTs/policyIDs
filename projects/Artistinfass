@@ -4,5 +4,23 @@
     "policies": [
         "62cf0b2479f8da9b51668d1d36592fc4ec2da3c24af9d6a6475b825a"
     ]
+  },
+    {
+    "project": "Artist - Rohith",
+    "policies": [
+        "3c44190396385b8e34f897d5aea92fb8383cf6d6aefc735354e8fe74"
+    ]
+  },
+    {
+    "project": "Artist - Sanjay Kannan",
+    "policies": [
+        "a9e2713a515fb79b89676c0d2870092ecee74b002df8d673fe858e17"
+    ]
+  },
+    {
+    "project": "Artist - Bonny Babu",
+    "policies": [
+        "47fa0f0ae4773c457139387d334dba34d81960edc179964a3a2ba052"
+    ]
   }
 ]
