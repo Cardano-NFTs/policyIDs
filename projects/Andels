@@ -14,6 +14,13 @@
     ]
   },
   {
+    "project": "SantAndels",
+    "tags": ["Andels", "Xmas"],
+    "policies": [
+      "7ae7f80b4e1d29b5dae131920f928a7e25380d4ee848e15d054181bc"
+    ]
+  },
+  {
     "project": "Andels - Prestige Rewards",
     "tags": ["Andels", "Banners", "Commander", "Shields"],
     "policies": [

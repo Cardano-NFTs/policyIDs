@@ -1,6 +1,20 @@
-{
-    "project": "Cardano Dragonz",
+[
+  {
+    "project": "Cardano Dragonz - Season 1",
     "policies": [
-        "691d5cd8edee42c504f63a8801a242fe75303543dedd8df981ae538a"
+      "691d5cd8edee42c504f63a8801a242fe75303543dedd8df981ae538a"
     ]
-}
+  },
+  {
+    "project": "Cardano Dragonz - Season 2",
+    "policies": [
+      "9f579936879694e57fc0688513e9911bd84911c7eb1cd79f13001764"
+    ]
+  },
+  {
+    "project": "Cardano Dragonz - Toddlerz",
+    "policies": [
+      "2cfa6383f5f975cbb58d6d99109b8886e0cd30e0d6e3d6f9c64e577f"
+    ]
+  }
+]
