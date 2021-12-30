@@ -69,6 +69,12 @@
         ]
     },
     {
+        "project": "Glus x Adarealms Plots",
+        "policies": [
+            "a9714f0cf102ce365bcdbe921ed001135bbc6a8420a01463d45da405"
+        ]
+    },
+    {
         "project": "Glus - CRYPTODELICS 02",
         "policies": [
             "20211215310a6919fa3ba4817a6771676499506ea109ff75400937a9"
