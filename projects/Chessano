@@ -1,10 +1,11 @@
-{
+[
+  {
     "project": "Chessano",
-    "tags": [
-        "Chessano"
-    ],
     "policies": [
-        "d7def572e24c0baab147522989c8b2dcfa17137fc893e3e835ab81ff",
-        "80c8d38e7729c98879073fd36c4b79efc6d69ddbfc6e94e2be944ab9"
+      "d7def572e24c0baab147522989c8b2dcfa17137fc893e3e835ab81ff",
+      "80c8d38e7729c98879073fd36c4b79efc6d69ddbfc6e94e2be944ab9",
+      "ea546e232cec6571fac29f397adad5265fe38a9351f68a400958218f",
+      "cee7ac5e4840b6578691a3146f6f1ea281dd4c28f53efbc0984f3f7d"
     ]
-}
+  }
+]
