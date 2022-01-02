@@ -26,6 +26,17 @@
             "a1ed50c8e6c77f51c0543e0592a22647c8e385f03ef7f36a4c724d7b"
         ]
     },
+                {
+        "project": "Cute Dudes",
+        "tags": [
+            "Anim8bits",
+            "cute",
+            "cutedudes"
+            ],
+        "policies": [
+            "dcb16550b3831a9c675b5bd827ad0ffced2dc0310b0d839c5c1dcd5e"
+        ]
+    },
             {
         "project": "Bitscoin",
         "tags": [
