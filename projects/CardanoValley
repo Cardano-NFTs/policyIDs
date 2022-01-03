@@ -1,9 +1,20 @@
-{
+[
+  {
     "project": "Cardagotchi",
     "tags": [
-        "Cardagotchis"
+      "Cardagotchis"
     ],
     "policies": [
-        "1746ee8096f7f1da9c1858a3254db610106e0d9cc42fce300d5e2ed7"
+      "1746ee8096f7f1da9c1858a3254db610106e0d9cc42fce300d5e2ed7"
     ]
-}
+  },
+  {
+    "project": "Cryptochichis",
+    "tags": [
+      "Cryptochichis"
+    ],
+    "policies": [
+      "2d253a05f5da37d9531b94faa6c9716a5c36377c287b154d92ba4941"
+    ]
+  }
+]
