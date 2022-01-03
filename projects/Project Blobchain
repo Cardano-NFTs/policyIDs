@@ -1,0 +1,38 @@
+[
+  {
+    "project": "Project Blobchain: Part I",
+    "tags": [
+      "Project Blobchain",
+      "ProjectBlobchain",
+      "Project Blobchain Part 1",
+      "Project Blobchain Part I"
+    ],
+    "policies": [
+      "594f1fafd2cc01ee592aa257ed38938c1bcc7d1feb5ab9c8e30e749d"
+    ]
+  },
+  {
+    "project": "Project Blobchain: Part II",
+    "tags": [
+      "Project Blobchain",
+      "ProjectBlobchain",
+      "Project Blobchain Part 2",
+      "Project Blobchain Part II"
+    ],
+    "policies": [
+      "6d40ebe13c92dc7955d3378d69e79a5e86f86c71b0d3018398a8b0ad"
+    ]
+  },
+  {
+    "project": "Project Blobchain: Part III",
+    "tags": [
+      "Project Blobchain",
+      "ProjectBlobchain",
+      "Project Blobchain Part 3",
+      "Project Blobchain Part III"
+    ],
+    "policies": [
+      "40b5a5db15d8608fd06e7a10ccc1fad2708b8e94e92c134275135a2f"
+    ]
+  }
+]
