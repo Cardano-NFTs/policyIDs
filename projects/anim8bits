@@ -1,3 +1,4 @@
+   [
         {
         "project": "Anim8Bits",
         "tags": [
@@ -12,4 +13,50 @@
             "3e54cc07d4c1f9dfb9332ce7c6c865efe6980cef4ec785aec4814b83",
             "804778fc7307fd9159f5894cd4f9d24eef84cb2ca092c3b60d8f36a7"
         ]
+    },
+                {
+        "project": "Fanart Key",
+        "tags": [
+            "benjamin",
+            "clubofbenjamin",
+            "fanartkey",
+            "memberkey"
+            ],
+        "policies": [
+            "a1ed50c8e6c77f51c0543e0592a22647c8e385f03ef7f36a4c724d7b"
+        ]
+    },
+                {
+        "project": "Cute Dudes",
+        "tags": [
+            "Anim8bits",
+            "cute",
+            "cutedudes"
+            ],
+        "policies": [
+            "dcb16550b3831a9c675b5bd827ad0ffced2dc0310b0d839c5c1dcd5e"
+        ]
+    },
+            {
+        "project": "Bitscoin",
+        "tags": [
+            "Anim8bits",
+            "bitscoin",
+            "8tc"
+            ],
+        "policies": [
+            "81fd41215b08ab60f78dda8c076487f65228ace5bb9ca122e8bc05f4"
+        ]
+    },
+                {
+        "project": "Bitscoin 1/1 Artworks",
+        "tags": [
+            "Anim8bits",
+            "bitscoin",
+            "8tc"
+            ],
+        "policies": [
+            "5df0efe3205ea4af727847a5f5e422ddf9a2e590bb85474b59f2f99f"
+        ]
     }
+]

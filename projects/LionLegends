@@ -1,10 +1,14 @@
-{
-    "project": "LionLegends",
-    "tags": [
-        "LionLegends"
-    ],
-    "policies": [
-        "7eb7cf060a9740b63de68afb1c0fde7f74f2895c981573259046ae3f"
-    ]
-}
-
+[
+    {
+        "project": "LionLegends",
+        "policies": [
+            "7eb7cf060a9740b63de68afb1c0fde7f74f2895c981573259046ae3f"
+        ]
+    },
+    {
+        "project": "LionLegends - Lioness",
+        "policies": [
+            "9d4c40c114d3d69d4f8209e205686db296683073c0ca5c63a8d2456e"
+        ]
+    }
+]
