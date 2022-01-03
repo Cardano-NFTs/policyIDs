@@ -12,6 +12,30 @@
     ]
   },
   {
+    "project": "ElementZ - SonicBlocks - Lost In A Groove",
+    "policies": [
+      "c5749e41587e5ac03172933df88f245fe57b9a6bf63a26d0982bf916"
+    ]
+  },  
+  {
+    "project": "ElementZ - AlchemyBlocks - Genesis",
+    "policies": [
+      "8a4b3181885a83402a9063ff245bfe8e5aef6b3e5184b20cbe2ebdb1"
+    ]
+  },
+  {
+    "project": "ElementZ - Electrix - Drop_0001",
+    "policies": [
+      "29283e30507d4052e3cef64caf4f42ebbf05ff16f7e8486fe7734f14"
+    ]
+  },
+  {
+    "project": "ElementZ - EZ ROLLERZ - 0001",
+    "policies": [
+      "3242b5719aae2894c7103ec0a28e59d66fa979deb22724b15772fbb5"
+    ]
+  },       
+  {
     "project": "ElementZ - FractalBlocks - Series1",
     "policies": [
       "0dfa01922f8472159ce8fb8859c0e26bbe4aa235615a586813688416"
@@ -118,5 +142,11 @@
     "policies": [
       "0c3b6a74e2d84ab3553ec20beed532633265a0594addacfbe3a8c704"
     ]
-  }
+  },
+  {
+    "project": "ElementZ - FractalBlocks - Limited - Milky Way",
+    "policies": [
+      "1f22846ef25807bb2282adf620c996ccd9dd73952d2463fc2895ad96"
+    ]
+  }  
 ]
