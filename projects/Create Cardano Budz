@@ -1,17 +1,36 @@
-[
-{
-    "project": "Cardano Budz",
-    "tags": [
-        "Cardano Budz"
-    ],
-    "policies": [
-        "8e0829598ee023424bf6a8e178c2f10c5e51f0fbc8316eacdbd42af0",
-        "6bc0188b5b0857d5996d43f0e92653419aa912b1b7bf5f52b8b5a7f6",
-	"b97919795280e20e60b8b3f222ba9e42f101e10d03ca4d29586f005c",
-	"43d98e4e526535349b434ca6af699b8d7de88691311ea5359e4117ec",
-	"3d9ae691ab835da9f98cdc1374d5d934c4cc509500418ec3d513a98b",
-	"b675cc3eafc7102bc342103f3799552a62c72f58584ae7e0461f0d79",
-	"025146866af908340247fe4e9672d5ac7059f1e8534696b5f920c9e6"
-    ]
-}
+[{
+		"project": "Cardano Budz",
+		"tags": [
+			"Cardano Budz H1"
+		],
+		"policies": [
+			"b97919795280e20e60b8b3f222ba9e42f101e10d03ca4d29586f005c"
+		]
+	},
+	{
+		"project": "Cardano Budz H2",
+		"policies": [
+			"39086ef91d452d1b6ea9c8c92a2f3243467ddf93bf7c142d370e7d64"
+		]
+	},
+	{
+		"project": "Cardano Budz Promos",
+		"policies": [
+			"8e0829598ee023424bf6a8e178c2f10c5e51f0fbc8316eacdbd42af0",
+			"6bc0188b5b0857d5996d43f0e92653419aa912b1b7bf5f52b8b5a7f6",
+			"43d98e4e526535349b434ca6af699b8d7de88691311ea5359e4117ec"
+		]
+	},
+	{
+		"project": "Cardano Budz GYOA",
+		"policies": [
+			"3d9ae691ab835da9f98cdc1374d5d934c4cc509500418ec3d513a98b",
+			"b675cc3eafc7102bc342103f3799552a62c72f58584ae7e0461f0d79"
+		]
+	}, {
+		"project": "Cardano Budz Yield",
+		"policies": [
+			"025146866af908340247fe4e9672d5ac7059f1e8534696b5f920c9e6"
+		]
+	}
 ]
