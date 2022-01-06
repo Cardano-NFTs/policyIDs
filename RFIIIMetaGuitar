@@ -1,8 +1,13 @@
-[
-  {
-    "project": "YourFirstProjectName",
-    "policies": [
-      "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab"
-    ]
-  }
-]
+{
+  "type": "all",
+  "scripts": [
+    {
+      "slot": 49872760,
+      "type": "before"
+    },
+    {
+      "keyHash": "c868e5d8a81a63707bd9dad9e1b03eb29b9e1630268e9bddf5ba2a44"
+      "type": "sig"
+    }
+  ]
+}
