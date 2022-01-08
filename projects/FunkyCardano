@@ -42,7 +42,8 @@
             "3beb93866c3db1de5600544a83fef27f4acf6303a38e7c5c215f5b91",
             "42626ebc01de20db4fc4ea3f61d1d8f294f817dcece2f0c04886c867",
             "eb5091a72dfd9ff37cc6fe48e30921ad770359ef1fd543ea97e9a726",
-            "022df315a2e094a3efa0ced6a4e9991a65058288c2b8e2e3c39ba751"
+            "022df315a2e094a3efa0ced6a4e9991a65058288c2b8e2e3c39ba751",
+            "8ab9ea75e88489010369bf70d390308bfa1d450b46ff07504d9ca5f0"
         ]
     },
     {
@@ -70,7 +71,10 @@
     "pietrobon"
     ],
         "policies": [
-            "1c67e1797a25b7421df156903418a48286e4baec2aa4145f87f3683c"
+            "1c67e1797a25b7421df156903418a48286e4baec2aa4145f87f3683c",
+            "9a7129b034973a2eb692a6198398e19916a33829e01d35020a5153ed",
+            "e133ae9b3749d9a0c824548f12ea7932d232ca4b0718c5624134cd23",
+            "767395ca34fe7d470a9eed4adf08082f25a019c1a3eb8b8fb2a7c46d"            
         ]
     }
 ]

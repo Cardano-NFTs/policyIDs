@@ -1,13 +1,17 @@
-{
-    "project": "*XESTNIC*",
-    "tags": [
-        "xestnic"    
-    ],
-    "policies": [
-        "49b6c59f328011abd31a0f23a0c637f56176eddd1def9187f98c32f2",
-        "806c1795de52acd32ea4411ee98719dcbfccb8cc258d5dbc955e9a65",
-        "a89b2b5c566b8b3699b3f2d25da3d94c6c20cbd12ea44f07109e856a",
-        "6c990a3c41547899447c1f5032b2c2635f79736f10655c092a9e6f27",
-        "36d32fc35abbe8f17d08564cd9f83195655fbdd638418f7616f8abb5"
-    ]
-}
+[
+	{
+		"project": "*XESTNIC*",
+		"tags": [
+			"xestnic"
+		],
+		"policies": [
+			"49b6c59f328011abd31a0f23a0c637f56176eddd1def9187f98c32f2",
+			"806c1795de52acd32ea4411ee98719dcbfccb8cc258d5dbc955e9a65",
+			"a89b2b5c566b8b3699b3f2d25da3d94c6c20cbd12ea44f07109e856a",
+			"6c990a3c41547899447c1f5032b2c2635f79736f10655c092a9e6f27",
+			"36d32fc35abbe8f17d08564cd9f83195655fbdd638418f7616f8abb5",
+			"20e23a21d5134876c769b701c6d91088595c8a28118da879fdf0154d",
+			"978fa11b56c33b2de84bdd7a2cbec99fe9775ff6193a3657be691002"
+		]
+	}
+]
