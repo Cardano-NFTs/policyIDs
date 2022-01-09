@@ -1,0 +1,18 @@
+[
+  {
+    "project": "Artist: Shalini",
+    "policies": ["5e170dea80f9d81c926056d75f0523452260dadb6d6770b237847f99"]
+  },
+    {
+    "project": "Artist - Rohith",
+    "policies": ["c1c32d322894afc5502f4ef383de75ce89c8f956d869f8f0596201b8"]
+  },
+    {
+    "project": "Artist: Kamal",
+    "policies": ["2cfe47aeead937fc4bb5a638525242def58479435bb60b61d0aa30d5"]
+  },
+    {
+    "project": "Artist: Surya",
+    "policies": ["580b2205dd2f69d417d97c38999bc6fb96f14d0132c9cdd1dbb3960e"]
+    }
+    ]
