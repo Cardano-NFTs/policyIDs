@@ -1,4 +1,5 @@
-{
+[
+  {
     "project": "PS Max Zaxster",
     "tags": [
         "PS Max Zaxster",
@@ -6,6 +7,8 @@
         "Zaxster"
     ],
     "policies": [
-        "9a91b4a1b14840291bb00e99f395475ec9877c2d7874c3d3bc4a248b"
-    ]
-}
+        "9a91b4a1b14840291bb00e99f395475ec9877c2d7874c3d3bc4a248b",
+        "585f042622bebacfe75f6b0d64d4ca2020c1d3ae2645b2d28a8ba7c8"
+     ]
+  }
+]
