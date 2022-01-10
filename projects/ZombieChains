@@ -23,5 +23,18 @@
     "policies": [
         "1f4e8266f33bc86f81f1dd19aefd640e582a4d44c03d1d3409e0bae8"
     ]
+ },
+ {
+    "project": "Zombie Chains Coins",
+    "tags": [
+        "ZombieChainsCoins",
+        "Zombie Chains Coins",
+        "Zombie",
+        "Zombies",
+        "Coins"
+    ],
+    "policies": [
+        "e30726d8b91be8e8f3860db0eaccfa6b7c038b2a13bfd8e3df18b9bb"
+    ]
  }
 ]
