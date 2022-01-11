@@ -71,6 +71,16 @@
     ]
   },
   {
+    "project": "Benjamin's Club - Ruye",
+    "tags": [
+      "Benjamin's Club",
+      "Ruye"
+    ],
+    "policies": [
+      "c4cb2636ed6bea21061f6c44f81aeba63d667caa3ae7c56c9c7477d8"
+    ]
+  },
+  {
     "project": "Benjamin's Club - Mystery Box",
     "tags": [
       "Benjamin's Club"
