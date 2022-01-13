@@ -1,4 +1,11 @@
-[{
+[
+  {
+    "project": "Crypto Heroez 22",
+    "policies": [
+      "f110c30e9926a7f9040107bbc20ec3467e6c9251f594036907948c41"
+    ]
+  },
+  {
     "project": "Crypto Heroez",
     "tags": [
         "Miami Jack Dorsey",
@@ -77,4 +84,5 @@
       "683de686c82994b528e336d8864d24ead0ec4c3586180eff86b49109",
       "770351dc724f948acd2cf857a0fbc19f239124be46db55ea8f91f261"
     ]
-}]
+  }
+]
