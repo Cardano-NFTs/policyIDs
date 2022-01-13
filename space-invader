@@ -1,4 +1,4 @@
-{
+}
 [
     "project": "Space Invader",
         "tags": [
@@ -7,5 +7,5 @@
     "policies": [
         "41b2d7cf70e77c04e83c9bd9152577b0982b0b6ef8d7ad593cc9b7dd"
 	]
-    }
-]
+    ]
+}
