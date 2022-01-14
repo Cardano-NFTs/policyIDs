@@ -1,0 +1,9 @@
+[
+  {
+    "project": "CardanoProxies",
+    "policies": [
+      "6ce2d3c06e323d522d0d1c67b4ebae39d62549acc633733e357d6027",
+      "00c5ee75c364ae10409040172538e3d5d295aafc18bfbf4d5e26f352"
+    ]
+  }
+]

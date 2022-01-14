@@ -1,11 +1,14 @@
-{
+[{
     "project": "Death Squad",
     "tags": [
         "DeathSquad"
     ],
     "policies": [
-        "8fbc0e1050b3a15534eab8b532d90ae92d50b23f5f7c5e82d8249e74",
-
-          ]
-}
-
+        "fc88af875ddfc6ee00e2cf77099b2c88353291b580869db5fb87f92b"
+    ]
+}, {
+    "project": "Death Squad - Cute Squad",
+    "policies": [
+        "32d5e01e4b6cb5119f00b68672fccf7e8bec75fd99d918db7a785032"
+    ]
+}]
