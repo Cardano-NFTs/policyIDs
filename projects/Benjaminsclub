@@ -3,11 +3,13 @@
     "project": "Benjamin's Club - Zigor",
     "tags": [
       "Benjamin's Club",
-      "Zigor"
+      "Zigor",
+      "Monchito #9"
     ],
     "policies": [
       "adc2c2e89b45a5f608c710a24073b95addf9ad549662fba26ac89951",
-      "a821d033413b63e14368917cb9eb066fbe71b0b37b1ec87dd5f86206"
+      "a821d033413b63e14368917cb9eb066fbe71b0b37b1ec87dd5f86206",
+      "a8f3af4ac115487a75a3541a081451169f0f3bd0992259b0baa61e77"
     ]
   },
   {
@@ -68,6 +70,16 @@
     ],
     "policies": [
       "575c72ec851e4b85bbc2753b0e880f87fbef278ee691c9b15ab2a872"
+    ]
+  },
+  {
+    "project": "Benjamin's Club - Ruye",
+    "tags": [
+      "Benjamin's Club",
+      "Ruye"
+    ],
+    "policies": [
+      "c4cb2636ed6bea21061f6c44f81aeba63d667caa3ae7c56c9c7477d8"
     ]
   },
   {
