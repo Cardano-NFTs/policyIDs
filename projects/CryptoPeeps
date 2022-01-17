@@ -1,0 +1,10 @@
+{
+    "project": "CryptoPeeps",
+    "tags": [
+        "CryptoPeeps"
+    ],
+    "policies": [
+        "5f19f28bf48e3c15b2454a0e3c14c8ba19f7ee399a978a9bc5242c46",
+        "15b8520fae0359f40249c3c70ba967dbde925ae375573316d5b50c20"
+    ]
+}
