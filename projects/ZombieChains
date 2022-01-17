@@ -36,5 +36,20 @@
     "policies": [
         "e30726d8b91be8e8f3860db0eaccfa6b7c038b2a13bfd8e3df18b9bb"
     ]
+ },
+ {
+    "project": "Zombie Hunters",
+    "tags": [
+        "ZombieHunters",
+        "Zombie Hunters",
+        "Zombie Hunter",
+        "Zombie",
+        "Zombies",
+        "Hunter",
+        "Hunters"
+    ],
+    "policies": [
+        "320bb921e517c8111e309b2822633da6c9af346ca4e18b79a94864b3"
+    ]
  }
 ]
