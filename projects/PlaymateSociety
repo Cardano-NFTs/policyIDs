@@ -1,10 +1,12 @@
-{
-  "project": "PlaymateSociety",
-  "tags": [
-    "PlaymateSociety"
-  ],
-  "policies": [
-    "516fb6427b52947fc183293f0d8387e598318dfc4245fb6e6f7ac9f9",
-    "64700329d616f20f4e83f2bc579513fca51646d47466a97f8fd1c229"
-  ]
-}
+[
+  {
+    "project": "YourFirstProjectName",
+    "policies": [
+      "516fb6427b52947fc183293f0d8387e598318dfc4245fb6e6f7ac9f9",
+      "64700329d616f20f4e83f2bc579513fca51646d47466a97f8fd1c229",
+      "654e380c8753659f578ebf4b4e95cc89dad3ae6a3a362596dfafaeb4",
+      "b49714804e90cc2ff064fc614853e582a30a497b40bb5a13ea5962b4",
+      "6cb123c2a0cbbafbafd3593e21589815cb13ab3ac3110870d034e214"
+    ]
+  }
+]
