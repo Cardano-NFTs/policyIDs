@@ -1,0 +1,14 @@
+[
+  {
+    "project": "Ninja",
+    "policies": [
+      "6c8fbcb89e6b85dfee01bf00c9bad148aa6752ac7d4eda32a2852ce0"
+    ]
+  },
+  {
+    "project": "CrossChain",
+    "policies": [
+      "87f92cc71280d379ab4cbdd7d503ea0205014e1a26681303a8840c40"
+    ]
+  }
+]
