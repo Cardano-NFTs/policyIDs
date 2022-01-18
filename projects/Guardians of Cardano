@@ -1,9 +1,19 @@
+[
 {
     "project": "Guardians of Cardano",
     "tags": [
         "Guardians of Cardano"
     ],
     "policies": [
-        "02222229b373b3917247726e2781d276b9fc1d0db80b6c2ad5e13e4b"
+        "02222229b373b3917247726e2781d276b9fc1d0db80b6c2ad5e13e4b",
+        "43234e1a0ddbf180d2b0c2e181141a86fd82ddec19196af0605a58ef" 
     ]
-}
+},
+{
+    "project": "Guardians of Cardano - Collabs",
+    "policies": [
+      "82267448fd562f8689f191aff36b1e719577148b32dec479d7052e1e",
+      "27b3772b27427700f5a04a5683490c18660fa75aa680f1c4aebe1906"
+    ]
+  }
+]
