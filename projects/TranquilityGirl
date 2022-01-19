@@ -1,8 +1,6 @@
-[
-  {
-    "project": "TranquilityGirl",
-    "policies": [
-        "89fa6dc66a24799ccaee43a3a16930bb045a8152fdf2a2642034774f",
-    ]
-  }
-]
+[{
+	"project": "TranquilityGirl",
+	"policies": [
+		"85274b3d6bf1f14d1566aeb498c733db8c3269d8ca85997d02c5ccc8"
+	]
+}]
