@@ -1,8 +1,10 @@
-{
+[
+  {
     "project": "Encryptants",
-    "tags": ["Encryptants"],
     "policies": [
         "44444c088e888d191be2379e99ec23224819e20f667cb2a28bdcfaa4",
-        "8844dfeca8d42fabd3243880b6eecd47fffffa5eb3c23a5da59384a8"
+        "8844dfeca8d42fabd3243880b6eecd47fffffa5eb3c23a5da59384a8",
+        "8d44ce10134a20eebd448d38a6a6f287af5d78107c68063894584b3f"
     ]
-}
+  }
+]

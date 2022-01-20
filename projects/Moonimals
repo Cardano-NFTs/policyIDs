@@ -6,13 +6,13 @@
     ]
   },
   {
-    "project": "Moonimals - BigBang Collection",
+    "project": "Moonimals v2 - BigBang Collection",
     "policies": [
       "c8d7c20720dfd4eb41bb9d621ca7a142723a8cf3fff03b6f86669a77"
     ]
   },
   {
-    "project": "Moonimals - Armstrong Collection",
+    "project": "Moonimals - Acorn Serum",
     "policies": [
       "1e3d0b008376997e9bc5cd645908eae777f0c8813ddad4d8075c4444"
     ]
@@ -21,6 +21,18 @@
     "project": "Moonimals Hodler",
     "policies": [
       "8f26d45112288e51db6f2f441912110331ee968c570503fc3c4492e5"
+    ]
+  },
+    {
+    "project": "Moonimals - Moonimalist",
+    "policies": [
+      "4bbbea74a226f3c3ef05e0015fde1b4a9d3e6d48a3e9a4d7379c7a23"
+    ]
+ },
+  {
+    "project": "Moonimals Special Drop",
+    "policies": [
+      "bbc662631e8fa6d808d40bc4b0e46a893a8c2e7fb0e6d837821d86f0"
     ]
   }
 ]

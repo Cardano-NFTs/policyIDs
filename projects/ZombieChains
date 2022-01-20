@@ -1,4 +1,5 @@
-{
+[
+ {
     "project": "Zombie Chains",
     "tags": [
         "ZombieChains",
@@ -9,4 +10,46 @@
     "policies": [
         "96580bbc4fe27ac0d127db3f8a0dc698c58d303d8cae870f5771f336"
     ]
-}
+ },
+ {
+    "project": "Zombie Chains Concepts",
+    "tags": [
+        "ZombieChainsConcepts",
+        "Zombie Chains Concepts",
+        "Zombie",
+        "Zombies",
+        "Concetps"
+    ],
+    "policies": [
+        "1f4e8266f33bc86f81f1dd19aefd640e582a4d44c03d1d3409e0bae8"
+    ]
+ },
+ {
+    "project": "Zombie Chains Coins",
+    "tags": [
+        "ZombieChainsCoins",
+        "Zombie Chains Coins",
+        "Zombie",
+        "Zombies",
+        "Coins"
+    ],
+    "policies": [
+        "e30726d8b91be8e8f3860db0eaccfa6b7c038b2a13bfd8e3df18b9bb"
+    ]
+ },
+ {
+    "project": "Zombie Hunters",
+    "tags": [
+        "ZombieHunters",
+        "Zombie Hunters",
+        "Zombie Hunter",
+        "Zombie",
+        "Zombies",
+        "Hunter",
+        "Hunters"
+    ],
+    "policies": [
+        "320bb921e517c8111e309b2822633da6c9af346ca4e18b79a94864b3"
+    ]
+ }
+]

@@ -1,13 +1,12 @@
-{
-    "project": "Bitlands",
-    "tags": [
-        "BTLND0",
-        "BTLND",
-        "Bitlands",
-        "Bitlands0",
-        "Bitlands0x"
-    ],
-    "policies": [
-        "ca3aeaa53c0b21fccf28c8c724141473d325fe9ea8d0314f7c3b4240"
-    ]
-}
+[
+    {
+        "project": "Bitlands",
+        "policies": [
+            "ca3aeaa53c0b21fccf28c8c724141473d325fe9ea8d0314f7c3b4240",
+            "01b3b06a99f22d7a911140f92aa74df8cf598ae5255855b68a92ef73",
+            "8e74c085955f44ca165ef411bbea170218e00b6fc435749356c31568",
+            "557b91cd144a12efdb1db03d56fbe51612d25d86eef13aac16ec2b2d",
+            "ef2644982fd91365c77db1bbbffffe28f4a5cb201b29817447357330"
+        ]
+    }
+]

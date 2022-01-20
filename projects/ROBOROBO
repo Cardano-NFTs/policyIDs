@@ -1,0 +1,15 @@
+[
+  {
+    "project": "ROBOROBO",
+    "policies": [
+      "f4db6ebd66ca30d3c49af3aa4285b08c64f4cb3f53790d0f760e09fc"
+    ]
+  },
+
+  {
+    "project": "ROBO Token",
+    "policies": [
+      "6394b7c94d47d97761ca8007e3498eef419cddfbea088d1eda20bd12"
+    ]
+  }
+]
