@@ -1,9 +1,12 @@
-{
-    "project": "Kryptoids",
-    "tags": [
-        "Kryptoid", "Kryptoids"
-    ],
-    "policies": [
-        "db27347c6715573dd77c37d5580f7618777287b88d9ed922f83c93fe"
-    ]
-}
+[
+    {
+        "project": "Kryptoids",
+        "tags": [
+            "Kryptoid", "Kryptoids"
+        ],
+        "policies": [
+            "db27347c6715573dd77c37d5580f7618777287b88d9ed922f83c93fe",
+            "8abbd9f4cd6f6177f637ab0eb94d370eee7b483a108f2d93246a6bf5"
+        ]
+    }
+]
