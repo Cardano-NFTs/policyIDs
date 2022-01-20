@@ -1,0 +1,15 @@
+[
+  {
+    "project": "Crypto Defenders",
+    "policies": [
+      "111cc4169734ddc7622eec9b67fb3cbd8b1594707689f4c869ecf482",
+      "f327fb8b5946b1b132592be00b2e53ffceaa34f1969a3dc52bccc1f6"
+    ]
+  },
+  {
+    "project": "Crypto Defenders Synergy",
+    "policies": [
+      "f327fb8b5946b1b132592be00b2e53ffceaa34f1969a3dc52bccc1f6"
+    ]
+  }
+]

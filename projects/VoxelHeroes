@@ -1,0 +1,41 @@
+
+[
+   {
+      "project":"Toys in the box",
+      "tags":[
+         "VoxelHeroes",
+         "voxel",
+         "minihero",
+         "firzzahrin",
+         "mfz",
+         "hero",
+         "fz",
+         "3d",
+         "360views",
+         "toy",
+         "toyinabox"
+         
+      ],
+      "policies":[
+         "f9b5e1c27e29759b45b1fa42e43906408c0c17cbff6b4e100afbda58"
+      ]
+   },
+
+   {
+      "project":"KufiCalligraphy",
+      "tags":[
+         "voxel",
+         "3d",
+         "360views",
+         "calligraphy",
+         "kufi"
+      ],
+      "policies":[
+         "f9b5e1c27e29759b45b1fa42e43906408c0c17cbff6b4e100afbda58"
+      ]
+   }
+]
+
+
+
+
