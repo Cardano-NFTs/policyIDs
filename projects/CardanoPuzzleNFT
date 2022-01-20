@@ -1,4 +1,5 @@
-{
+[
+  {
     "project": "CardanoPuzzleNFT",
     "tags": [
         "CardanoPuzzleNFT"
@@ -9,4 +10,5 @@
         "adbe595e37c858421b52e3fde16e34948dec12825d23dc2cbd5fbce9",
         "3725e79cbbea1bce4f937b4b137adbfbe5ad26d7de4a61afe398f11a"
     ]
-}
+  }
+]
