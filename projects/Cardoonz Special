@@ -1,4 +1,5 @@
 [
+{
     "project": "Cardoonz Special",
     "tags": [
              "Cardoonz"
@@ -6,4 +7,5 @@
     "policies": [
         "60aac2ac77cb70122cf7bc94d5042d29ac81d7e9669ff0acfd1295af"
     ]
+    }
 ]
