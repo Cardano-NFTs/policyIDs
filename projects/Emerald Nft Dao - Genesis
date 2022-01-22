@@ -1,6 +1,10 @@
 [
   {
     "project": "Emerald Nft Dao - Genesis",
+    "tags": [
+      "EmeraldNftClub",
+      "EmeraldNftDao"
+    ],
     "policies": [
       "1cad64fda64efd18c2379e53543b14dfe5b3ecb273794ab630acf59c"
     ]
