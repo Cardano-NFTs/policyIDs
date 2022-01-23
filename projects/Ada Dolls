@@ -1,0 +1,33 @@
+[
+{
+    "project": "Ada Dolls",
+    "tags": [
+        "Ada Doll"
+    ],
+    "policies": [
+        "345ee0e7737379e1b5bf1f72350adbab2d35d9f32c8f1f72bba99def"
+    ]
+},
+{
+    "project": "Ada Dolls Buddy S1",
+    "tags": [
+        "Ada Doll", "Buddy"
+    ],
+    "policies": [
+        "523433c68bb669f450ed0a51514a47b09aecb705d4ee7e7efe49e3d6"
+    ]
+}
+
+,
+{
+    "project": "Ada Dolls S2",
+    "tags": [
+        "Ada Doll", "Ada Dolls", "Ada Dolls S2"
+    ],
+    "policies": [
+        "233c1eb2803d6474b1e5b320d65709935c11850d3c2bc3f74cc88c4a",
+        "32a43ea2a62643f8ea7f7aff1a388835a62f7deff2e4110b24fc2117"
+    ]
+}
+
+]
