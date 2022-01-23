@@ -2,7 +2,7 @@
   {
     "project": "BengaJs",
     "policies": [
-      "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab",
+      "0142f691e15af95c67203af422dbc4606200b6d43e132c4563eba2b4",
       - name: Validate JSON
   uses: OrRosenblatt/validate-json-action@0.1.0
 
