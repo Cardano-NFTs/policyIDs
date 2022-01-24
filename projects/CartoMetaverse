@@ -1,0 +1,17 @@
+[
+{
+    "project": "CartoMetaverse",
+    "tags": [
+        "BerlinGermanyMap_BlackReverse",
+	"BerlinGermanyMap_Black",
+	"BrisbaneAustraliaMap_BlackReverse",
+	"BrisbaneAustraliaMap_BlueReverse"
+    ],
+    "policies": [
+        "0452f10c2b028907a578660c0860b296e72abdb5333b4fe54d207c44",
+	"ad272330dfba7b923f38f7df66649523714816e2613ced6cbc198232",
+	"fbb88e693c2a45ec88c0f555c6bd7993245796e3586f8f7827858e49",
+	"033880c1bc49d57de381752625313f7b4a1130c45c52a5904fd05f11"
+    ]
+}
+]
