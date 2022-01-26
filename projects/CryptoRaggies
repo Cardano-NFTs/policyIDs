@@ -1,10 +1,42 @@
-{
-    "project": "CryptoRaggies",
-    "tags": [
-        "CryptoRaggies"
-    ],
-    "policies": [
-        "697cd745ab35d2ed95d05416686047a6b45a0541d7caa63cc73cc348",
-        "9e3d7540365ebda2f15a55b15bda02f2ffe24ed3150a57a226714357"
-    ]
-}
+[{
+		"project": "CryptoRaggies Original Series",
+		"tags": [
+			"CryptoRaggies",
+            "Raggies",
+            "Raggie"
+		],
+		"policies": [
+			"9e3d7540365ebda2f15a55b15bda02f2ffe24ed3150a57a226714357"
+		]
+	},
+	{
+		"project": "CryptoRaggies VIP Plushies",
+		"tags": [
+			"Plushies"
+		],
+		"policies": [
+			"697cd745ab35d2ed95d05416686047a6b45a0541d7caa63cc73cc348"
+		]
+	},
+	{
+		"project": "CryptoRaggies-BlockchainGames Special",
+		"tags": [
+			"Bloody Raggie"
+		],
+		"policies": [
+			"e12cb027e62541ee54e8f0a02bef732d6f310082d193190d15bd7bd8"
+		]
+	},
+	{
+		"project": "CryptoRaggies Collaborative Specials",
+		"policies": [
+			"3d61e2f9c78766e6d2d1fa881eff3989450430d3b1928dff52030798"
+		]
+	},
+	{
+		"project": "CryptoRaggies Game Shop Items",
+		"policies": [
+			"5bf224b6e90d79fcc79ed6833af5e284c1c7c510eedcd902f8660619"
+		]
+	}
+]

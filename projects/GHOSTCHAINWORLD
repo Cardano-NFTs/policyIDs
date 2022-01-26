@@ -1,0 +1,14 @@
+[
+  {
+    "project": "GHOSTCHAINCity",
+    "policies": [
+      "c523f8f180aa7d18ab40ed8a5f4da3396946bf8d2792f2b621fda59a"
+    ]
+  },
+  {
+    "project": "GHOSTCHAINClassic",
+    "policies": [
+      "210e1e203f08058886260f03f8726e96f488b406190528ee1ce807ae"
+    ]
+  }
+]
