@@ -1,12 +1,10 @@
 [
   {
+    [
     "project": "MilesArtwork",
-    "tags": [
-        "texas"
-        ],
-    "policies"
-      "684386cf012ae60c996623f11fa0e2165dcf8317f576cee5575f6aaa",
-     
+    "tags": "texas",
+    "policies":
+      "684386cf012ae60c996623f11fa0e2165dcf8317f576cee5575f6aaa",     
     ]
   }
 ]
