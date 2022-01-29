@@ -1,10 +1,20 @@
-{
-    "project": "nftseed",
-    "tags": [
-        "nftseed"
-    ],
-    "policies": [
-        "6020989a22a1f99dcea309b6086e018444e2676d23008d51d960cbda"
-    ]
-}
-
+[
+    {
+        "project": "nftseed",
+        "tags": [
+            "nftseed"
+        ],
+        "policies": [
+            "6020989a22a1f99dcea309b6086e018444e2676d23008d51d960cbda"
+        ]
+    },
+    {
+        "project": "nftseed bees",
+        "tags": [
+            "nftseed", "bees"
+        ],
+        "policies": [
+            "dd8c0e3409397080d6b71412c5bba490d8104474edfa1759ed6b8cf3"
+        ]
+    }
+]
