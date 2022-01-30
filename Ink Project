@@ -1,6 +1,8 @@
-{
-    "project": "InkProject",
+[
+  {
+    "project": "Ink Project",
     "policies": [
-        "3124742922d4d9ee7c88b00df4b55438f31a1eed504d057495e983ec"
+      "3124742922d4d9ee7c88b00df4b55438f31a1eed504d057495e983ec"
     ]
   }
+]
