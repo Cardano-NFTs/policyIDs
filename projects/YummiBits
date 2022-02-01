@@ -1,3 +1,4 @@
+[
 {
     "project": "YummiBits",
     "tags": [
@@ -6,6 +7,9 @@
         "Anim8Bits"
     ],
     "policies": [
-        "9d0dd643ce0b3ba482dc8ba5ee69dba7c7a10f6d59ecc1e5142454bc"
+        "9d0dd643ce0b3ba482dc8ba5ee69dba7c7a10f6d59ecc1e5142454bc",
+        "e9d21b1ca92b38615f6af991331072a6f34c42d748a6313c43cf44b9",
+        "545dc65868a8bf49318d7f375321245b008e34056336c9b9d165f8f0"
           ]
 }
+]

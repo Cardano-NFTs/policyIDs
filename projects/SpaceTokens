@@ -1,4 +1,5 @@
-{
+[
+  {
     "project": "SpaceTokens",
     "tags": [
         "SpaceTokens",
@@ -8,6 +9,9 @@
         "Planets"
     ],
     "policies": [
-        "5ade68ae73cd2a67c8de59238164487da03119f9a5c9f3abd990c251"
+        "5ade68ae73cd2a67c8de59238164487da03119f9a5c9f3abd990c251",
+        "edf3b8f67e72e6fbe92c513c30fce7946712013b88efb4e9e860c0de",
+        "5B2FA063C299C443DBBAD0A186574ABBDCBBC323318CCCB8F207E224"
     ]
-}
+  }
+]

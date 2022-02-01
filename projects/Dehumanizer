@@ -1,14 +1,17 @@
 [
     {
-        "project": "Dehumananizer",
+        "project": "Dehumanizer",
         "tags": [
             "Dehumanizer",
             "Dehumanizer NFT",
             "3D NFT",
-            "Robot NFT"
+            "Robot NFT",
+            "Dehumanizer AR",
+            "Augmented Reality"
         ],
         "policies": [
-            "516ea409dac6b8b5ba6740dcb476b9243a3da0f6d7e1a68bef6b54a4"
+            "516ea409dac6b8b5ba6740dcb476b9243a3da0f6d7e1a68bef6b54a4",
+            "5f4321058b70d6598c228c5dbe1f9939e33c0412637cc479f632d51b"
         ]
     }
 ]
