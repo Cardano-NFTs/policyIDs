@@ -1,0 +1,2 @@
+git fetch origin pull/{id}/head:temporary
+git push origin temporary
