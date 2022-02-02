@@ -1,3 +1,4 @@
+[
 {
     "project": "Mandelbrots",
     "tags": [
@@ -6,4 +7,14 @@
     "policies": [
       "7fd3ba96b30cfa7475fd9eb76fec669390a0aab9d9f012db5fba334e"
     ]
+},
+{
+    "project": "Mandelbrot Bonuses",
+    "tags": [
+        "MandelbrotGems"
+    ],
+    "policies": [
+      "dde8208cea490965c82dd1de211e423c7848e3ba9128f4ea83bc568e"
+    ]
 }
+]
