@@ -1,10 +1,14 @@
-{
+[
+  {
     "project": "CardanoPuzzleNFT",
     "tags": [
         "CardanoPuzzleNFT"
     ],
     "policies": [
         "0a065dd59a94d39e19e263989bf7858abed3f3f7cf67f451746e7c1e",
-        "35c504fd8c5d45baa44436c6608f12cdfdf6997a917f1ff5922ef8e1"
+        "35c504fd8c5d45baa44436c6608f12cdfdf6997a917f1ff5922ef8e1",
+        "adbe595e37c858421b52e3fde16e34948dec12825d23dc2cbd5fbce9",
+        "3725e79cbbea1bce4f937b4b137adbfbe5ad26d7de4a61afe398f11a"
     ]
-}
+  }
+]
