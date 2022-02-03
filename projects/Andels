@@ -24,7 +24,8 @@
     "project": "Andels - Prestige Rewards",
     "tags": ["Andels", "Banners", "Commander", "Shields"],
     "policies": [
-      "1e071a579d3d721b1749abd7cdd9274c4fbaa19f555c7141f57ddd62"
+      "1e071a579d3d721b1749abd7cdd9274c4fbaa19f555c7141f57ddd62",
+      "9d30d818194b1261b79edf76220c562a1610a61d6179df6bb60fe34f"
     ]
   }
 ]
