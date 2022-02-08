@@ -16,5 +16,14 @@
         "policies": [
             "874bffc030b6a63e1711903bc47552eb11e55da54a5798a9b22f07c5"
         ]
+    },
+    {
+        "project": "Gingerbread Squad: GingerMoon Raffle",
+         "tags": [
+            "Gingerbread Squad", "Gingerbread", "Ginger", "Gingers", "Rebaked", "GingerMoon", "Raffle"
+        ],
+        "policies": [
+            "dae56e147ec0904379c86f1ee27195b26196afa2b15b5fecc538f96c"
+        ]
     }
 ]
