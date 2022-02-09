@@ -1,0 +1,12 @@
+ [
+    {
+      "project": "FudBuddies",
+      "tags": [
+           "FudBuddies", 
+           "Fud"
+       ],
+      "policies": [
+        "d4162cfa26718e8a4357226ffbfc3df6a210b2a4d5727ecbfd1e8eac"
+       ]
+    }
+  ]
