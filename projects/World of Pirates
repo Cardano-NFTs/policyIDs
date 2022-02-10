@@ -2,7 +2,8 @@
   {
     "project": "WorldOfPirates",
     "policies": [
-      "ef5fa783b64fed07e18ae29a86d924d3f55a690997e49151bbd8e3fb"
+      "ef5fa783b64fed07e18ae29a86d924d3f55a690997e49151bbd8e3fb",
+      "cadad0ea4f54d59d58fbac15411b10f80fc5ec7d69149bbf07134f41"
     ]
   }
 ]
