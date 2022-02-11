@@ -1,0 +1,47 @@
+[
+  {
+    "project": "Cardano Gems",
+    "policies": [
+      "5751a02af46d45f7e4a3ae5f59a5f742b09bc41c98cbeb5a258278e9"
+	],
+	"website": [
+	  "https://www.zeedomainnft.com/cardano-gems"
+    ]
+  },
+  {
+    "project": "Alien Machines",
+    "policies": [
+      "0b1d29efd8fb1f60fae86e32794652ce70eead1f80e4b905e12e2cd2"
+	],
+	"website": [
+	  "https://www.zeedomainnft.com/alien-machines"
+    ]
+  },
+  {
+    "project": "Strange Scapes",
+    "policies": [
+      "cd0bd22a18d799325f269bcc28379cf5bc8cbb8966ff059b91896203"
+	],
+	"website": [
+	  "https://www.zeedomainnft.com/strange-scapes"
+    ]
+  },
+  {
+    "project": "CyberWizards",
+    "policies": [
+      "bfe9cf0c9ae90eb0371044daa94690fa06b8866c595510f4170ccdb2"
+	],
+	"website": [
+	  "https://www.zeedomainnft.com/cyberwizards"
+	]
+  },
+  {
+    "project": "CyberVerse",
+    "policies": [
+      "f439dc9d9b7f73d487068d0705fade7b61bf0e2719939054edd54857"
+	],
+	"website": [
+	  "https://www.zeedomainnft.com/cyberverse"
+    ]
+  }
+]
