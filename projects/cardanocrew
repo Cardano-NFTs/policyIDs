@@ -1,0 +1,11 @@
+{
+    "project": "CardanoCrew",
+    "tags": [
+        "CardanoCrew"
+    ],
+    "policies": [
+        "5e6e47a32bbafadcf98fa8cb5727135dd401431a2f3ccc5da9dc270c",
+              "49882c238e112afaa5f1b8bbaeb4236d15ac2da49615674705f38619",
+              "6f881ee54d5036584adc884e01da8d362c081475fec8dea0a86bba53"
+          ]
+}

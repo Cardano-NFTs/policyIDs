@@ -1,0 +1,14 @@
+[
+    {
+        "project": "Pandorea",
+        "policies": [
+            "5e77d51cd1c28a8cd9b6a6f4a6b507fff54ea075e9c6e1d676d39ba5"
+        ]
+    },
+    {
+        "project": "Pandorea Token",
+        "policies": [
+            "25b0500abab12b79ebc8608c2c325716ad00fca57964ba273b08c67a"
+        ]
+    }
+]

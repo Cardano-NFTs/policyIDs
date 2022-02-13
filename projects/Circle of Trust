@@ -1,0 +1,12 @@
+{
+    "project": "Circle of Trust",
+    "tags": [
+        "Circle of Trust"
+    ],
+    "policies": [
+        "329595c31ade387c174e391762df92c6adda20214b14b5dbadb5e5fa",
+              "73d59593b2e3e6fe563766857646f8e5465f3fb2325770d419c91029",
+              "9a8b4eb5fdce9ea8e8ce48dc179f12026dea0558c5e267ed6ad86dff"
+          ]
+}
+

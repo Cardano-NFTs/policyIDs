@@ -1,0 +1,44 @@
+[
+  {
+    "project": "Not Fucking Triangles",
+    "policies": [
+      "bfbc198416cc0edf9a0a2e7f8478b1f512a649e55b3ab612d14b621c"
+    ]
+  },
+  {
+    "project": "Deep in Psyche",
+    "policies": [
+      "af8674692c81bfea1553bfed004caddd5354d8636db95260d4803bbd"
+    ]
+  },
+    {
+      "project": "UHD Psych",
+      "policies": [
+        "cb666605adfffcd849bc73879d6265ed0f16774880f4b4e2afc29678"
+      ]
+    },
+      {
+        "project": "Natural Psychedelia",
+        "policies": [
+          "fd7189f4426a06814e73ad80bd4a06eb5619dcdd87709181b30bf9ce"
+        ]
+      },
+        {
+          "project": "Antagonism",
+          "policies": [
+            "322983a18068102dc6dd27b4b07247c7c4cd43e434aefe236f4a2920"
+          ]
+      },
+          {
+            "project": "Antagonism 2",
+            "policies": [
+              "2b2f2a2d0f565373e1dac26baf91577c1801f8ee9f23c84ea8e1c154"
+            ]
+      },
+            {
+              "project": "Birds of Paradise",
+              "policies": [
+                "713b702be7c21dfa32c0211572a35546630c016e9a0e0ad3753ff810"
+              ]
+}
+]

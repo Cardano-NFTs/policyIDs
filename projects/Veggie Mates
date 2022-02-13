@@ -1,0 +1,26 @@
+[
+  {
+    "project": "VeggieMates",
+    "tags": [
+      "VeggieMates",
+      "VM",
+      "Veggie Mates"
+    ],
+    "policies": [
+      "4c9f7d6c24ba8e2b12f3269ac38d706025e39a50a524afe6eaf79d95"
+    ]
+  },
+  {
+    "project": "VeggieMates Exclusives",
+    "tags": [
+      "VeggieMates",
+      "VeggieMates Exclusives",
+      "VM",
+      "Veggie Mates",
+      "Veggie Mates Exclusives"
+    ],
+    "policies": [
+      "94bc36e6c48a1477803dc60f762a324e2f352512451073426ffb87ad"
+    ]
+  }
+]
