@@ -2,9 +2,16 @@
   {
     "project": "Pillars of Creation",
     "tags": [
-    "pillars",
-    "space",
-    "creation"
+    "Pillars of Creation",
+    "Fire",
+    "Aqua",
+    "Earth",
+    "Ice",
+    "Gas",
+    "Diamond",
+    "Iron",
+    "Ada",
+    "series 2"
     ],
     "policies": [
       "0289911c700dc683d9d496b6c34c4545c1b3e2bd8d48a5f8b77b9e2c",
@@ -13,4 +20,3 @@
     ]
   }
 ]
-
