@@ -1,7 +1,9 @@
-{
+[{
     "project": "EOK",
     "policies": [
         "37f4d52540b5ac221a47b6906be1ecfb1193fa73580313e0ef1e0e81",
-        "54a9050a8183afc2124c8636b4a80ccf36a097bb33e3295799aaeef8"
+        "54a9050a8183afc2124c8636b4a80ccf36a097bb33e3295799aaeef8",
+	"eb986b47ebc896aaba358e6b7ce1170db277ab55a91c3732b490987f",
+	"68a87249cf91ce808821a07a3028c74a1deef4c6120f86042de3a1fc"
     ]
-}
+}]

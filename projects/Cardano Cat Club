@@ -1,6 +1,9 @@
-{
+[
+  {
     "project": "Cardano Cat Club",
     "policies": [
-        "bcf9ce45e986b8f57fbcece6ab456c39adca4ebdc2dd9113c5574b1f"
+      "bcf9ce45e986b8f57fbcece6ab456c39adca4ebdc2dd9113c5574b1f",
+      "dc0e383c714a96394afcadfc4a3a12b443036ab71c6f30973e6c929d"
     ]
-}
+  }
+]
