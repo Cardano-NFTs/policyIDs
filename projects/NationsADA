@@ -1,9 +1,6 @@
 {
     "project": "NationsADA",
-    "tags": [
-        "NationsADA"
-    ],
-    "policies": [
+       "policies": [
         "a0c45879d1fdfc2b3d0ed717502ec4a0ad44b789c19d4f5f0a5c22a2",
               "ac77db6f45c21a77d6cc0638f3b02f92c25d703ebf2097ca12511248",
               "605bcc0236eaa85af2a4c025049d6ecd8b948dcf7b6010e49cffd7d2",
