@@ -1,0 +1,43 @@
+[
+  {
+    "project": "DeepVision",
+    "tags": [
+      "Deep Vision",
+      "DeepVision",
+      "Deep",
+      "DV",
+      "gcuriom"
+    ],
+    "policies": [
+      "28a9ffc30a5f4e18315fc6c5d192c349efb5b259bccb40b703999de9"
+    ]
+  },
+  {
+    "project": "DeepVision Halloween",
+    "tags": [
+      "Deep Vision",
+      "DeepVision",
+      "Deep",
+      "Halloween",
+      "DV",
+      "gcuriom"
+    ],
+    "policies": [
+      "3b7311c9dafc32161be4eacc2b29f5baf92fb0c1500455be79141c04"
+    ]
+  },
+  {
+    "project": "DeepVision Christmas",
+    "tags": [
+      "Deep Vision",
+      "DeepVision",
+      "Deep",
+      "Christmas",
+      "DV",
+      "gcuriom"
+    ],
+    "policies": [
+      "6780043c73ef79907293b6b2751c4e099134643632a1e2bb7636812c"
+    ]
+  }
+]
