@@ -1,6 +1,14 @@
-[{
-  "project": "Space Ape Club - Halloween Apes",
-  "policies": [
-    "9cc83ea54377108dd022f18095040e8d5808a3061c4fe54f3fd64a7a"
-  ]
-}]
+[
+  {
+    "project": "Space Ape Club - Halloween Apes",
+    "policies": [
+      "9cc83ea54377108dd022f18095040e8d5808a3061c4fe54f3fd64a7a"
+    ]
+  },
+    {
+      "project": "Space Ape Club - SAC Apes",
+      "policies": [
+        "ee6da4b71e0913cbebec02edc23653f9b970af69324fdddfed1285d9"
+      ]
+    }
+]

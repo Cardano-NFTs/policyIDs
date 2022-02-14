@@ -8,13 +8,19 @@
     {
     "project": "Dungeon Looters Club Weapons",
     "policies": [
-      "3d73403714f6a28d7bc971d5cc5ae18002831949458fc2a7136484b6"
+      "9e9e948d01bc64e29c26fbf85922d8d80dbf987222ffb45a6fe9f480"
     ]
   },
   {
     "project": "Dungeon Looters Club Promo",
     "policies": [
       "a31d8a3ec7ce10ef7f7b4d63d0decaca44f937786e2961f6436b836d"
+    ]
+  },
+  {
+    "project": "Dungeon Looters Club Limited Editions",
+    "policies": [
+      "3d2d76856a6490f7b377633df0757cf37a1aa84f4f8e8238cc522e19"
     ]
   }
 ]

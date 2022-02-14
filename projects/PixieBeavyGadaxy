@@ -1,9 +1,24 @@
-{
+[
+  {
     "project": "PixieBeavyGadaxy",
     "tags": [
-        "PixieBeavyGadaxy"
+      "PixieBeavyGadaxy"
     ],
     "policies": [
-        "1060098d2e468f00608734ca04a19e90fa4b832d05e8a5970dc8d104"
-          ]
-}
+      "1060098d2e468f00608734ca04a19e90fa4b832d05e8a5970dc8d104"
+    ]
+  },
+  {
+    "project": "Prime Beaviz",
+    "tags": [
+      "Metadams",
+      "Prime Beaviz",
+      "PrimeBeaviz",
+      "PrimeBeavy",
+      "Prime Beavy"
+    ],
+    "policies": [
+      "02d5d953cfd8b9163836a8611bc3973297f7e4d29c4fd2b066993fda"
+    ]
+  }
+]

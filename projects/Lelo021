@@ -6,12 +6,14 @@
         "lelo",
         "animalpedia",
         "lelo021",
+        "bulls",
         "ladybird"
     ],
     "policies": [
         "55c73d1225db7df53d66ade0261f3e27192bda51fb6d30c8b2635d93",
         "0c090d576b34741f45b46ec621cc878fc98afed3f2fc06d70f6deaa8",
         "1120a35bb4374b260a6f82517e0b5b71efaaf12bd39e2f6788b9311b",
+        "79b3fcf20cfaaf6a5ff819a6e0a132ad532aa543ec3764b1a8370bde",
         "7e4306585f5aeb6a8b1105623cfb700ddece8ef9e707a1929daa617e"
     ]
 }

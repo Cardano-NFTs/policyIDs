@@ -1,49 +1,11 @@
 [{
-    "project": "STALE X ChadiNassar",
-    "tags": [
-        "Call Me By Your Ducc"
-    ],
+    "project": "STALE Delegator Rewards",
     "policies": [
-        "eb645507d51cc9bc3605fec1c318e88102efa4cbacda90a822845138"
-    ]
-},
-{
-    "project": "STALE",
-    "tags": [
-    ],
-    "policies": [
-        "6ce4f2fd965a3f782baa0b9aa421c21299d434ad6c566ed077d6d663"
-    ]
-},
-{
-    "project": "STALE x CORN 'n FRIENDS",
-    "tags": [
-      "Wiggle Ducc"
-    ],
-    "policies": [
-        "8e993c88bdf3784bd4dd3aada25f700fe14afa3d700bf015ce459709"
-    ]
-},
-{
-    "project": "STALE Celestials",
-    "tags": [
-    ],
-    "policies": [
-        "1889cd88319c6d2b543211f99bb605f95672f3c2b4878000459c9eb8"
-    ]
-},
-{
-    "project": "STALE X Blizzeffect",
-    "tags": [
-      "Ducc Came First"
-    ],
-    "policies": [
-        "6ce4f2fd965a3f782baa0b9aa421c21299d434ad6c566ed077d6d663"
-    ]
-},
-{
-    "project": "STALE X Atomic Heroes",
-    "policies": [
-        "59babeb2b2bb2f4ecfc1cef94634157209eff89d569b72d2ad17d519"
+        "eb645507d51cc9bc3605fec1c318e88102efa4cbacda90a822845138",
+        "6ce4f2fd965a3f782baa0b9aa421c21299d434ad6c566ed077d6d663",
+        "8e993c88bdf3784bd4dd3aada25f700fe14afa3d700bf015ce459709",
+        "1889cd88319c6d2b543211f99bb605f95672f3c2b4878000459c9eb8",
+        "6ce4f2fd965a3f782baa0b9aa421c21299d434ad6c566ed077d6d663",
+        "c5d5ba875f31502ad529c800865d9461d742713d37c32ab46ac7af1d"
     ]
 }]

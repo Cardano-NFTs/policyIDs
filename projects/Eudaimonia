@@ -1,9 +1,12 @@
-{
-	"project": "Eudaimonia",
-	"tags": [
-		"Eudaimonia"
-	],
-	"policies": [
-		"f55fcea33a0b690b23438f7f16ec81c0f80daf8338a7012ba64dca37"
-	]
-}
+[
+	{
+		"project": "Eudaimonia",
+		"tags": [
+			"Eudaimonia"
+		],
+		"policies": [
+			"f55fcea33a0b690b23438f7f16ec81c0f80daf8338a7012ba64dca37",
+			"8f43df9dc84244eec8544569fd47ad470c73d6a7be600887c3b79e8b"
+		]
+	}
+]

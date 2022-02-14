@@ -1,11 +1,22 @@
 [{
-		"project": "CardanoCarnival",
+		"project": "Cardano Carnival",
+    		"tags": [
+        		"Carnival",
+			"Cardano Carnival"
+		],
 		"policies": [
 			"db2d714cf1bad9774279ae9b03adcfe893f66a2b1dd8a706a61fcf12"
 		]
 	},
 	{
-		"project": "CardanoCarnivalCollabs",
+		"project": "Cardano Carnival Collabs",
+		    		"tags": [
+        		"Carnival",
+			"Cardano Carnival",
+			"carniart",
+			"carni-art",
+			"carni art"
+		],
 		"policies": [
 			"e914f2a3cf4100f0425fa8ea0f8e5d62d1f4e85dce8cfd3c001d188a"
 		]

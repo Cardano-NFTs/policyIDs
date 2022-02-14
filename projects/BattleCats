@@ -1,12 +1,16 @@
-{
+[
+ {
     "project": "BattleCats",
     "tags": [
         "BattleCats",
         "BattleCats Series 1",
-        "BattleCats Series 2"
+        "BattleCats Series 2",
+        "BattleCats Series 3"
     ],
     "policies": [
         "c07e62a665caad39fed2acfdfdd6d7deed59e2f58b134f977340202d",
-        "cd2f9cee4102e355e2c0177c191650c29ec2c7d4c98f33c015d5606f"
+        "cd2f9cee4102e355e2c0177c191650c29ec2c7d4c98f33c015d5606f",
+        "baf017739de75a5331f96ef3b51b8992785622ddcd91afc10a1c8421"
     ]
-}
+ }
+]

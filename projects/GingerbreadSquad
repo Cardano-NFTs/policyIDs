@@ -1,9 +1,29 @@
-{
-    "project": "Gingerbread Squad",
-    "tags": [
-        "Gingerbread Squad"
-    ],
-    "policies": [
-        "ff1463bdfaf9268cafba9918a4b389723a90a21b3a4068d36b2fe405"
-    ]
-}
+[
+    {
+        "project": "Gingerbread Squad",
+        "tags": [
+            "Gingerbread Squad", "Gingerbread", "Ginger", "Gingers", "Rebaked" 
+        ],
+        "policies": [
+            "ff1463bdfaf9268cafba9918a4b389723a90a21b3a4068d36b2fe405"
+        ]
+    },
+    {
+        "project": "Gingerbread Squad: Holidazed",
+         "tags": [
+            "Gingerbread Squad", "Gingerbread", "Ginger", "Gingers", "Rebaked", "Holidazed"
+        ],
+        "policies": [
+            "874bffc030b6a63e1711903bc47552eb11e55da54a5798a9b22f07c5"
+        ]
+    },
+    {
+        "project": "Gingerbread Squad: GingerMoon Raffle",
+         "tags": [
+            "Gingerbread Squad", "Gingerbread", "Ginger", "Gingers", "Rebaked", "GingerMoon", "Raffle"
+        ],
+        "policies": [
+            "dae56e147ec0904379c86f1ee27195b26196afa2b15b5fecc538f96c"
+        ]
+    }
+]

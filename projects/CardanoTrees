@@ -1,3 +1,4 @@
+[
 {
     "project": "CardanoTrees",
     "tags": [
@@ -7,4 +8,14 @@
         "e09e4f4217669b7f735b7a3724e835d8d6344db128eb03d6ea72885e",
         "03928bd24b6afb832bf94503c73f8e46380e7c32b6ec3907ca100adb"
     ]
+},
+{
+    "project": "CardanoTrees Add-Ons",
+    "tags": [
+        "CardanoTrees Add-Ons"
+    ],
+    "policies": [
+        "78168d51b7b81e155fb13ccc195685d5ca022e9947c95a0cc314f7d6"
+    ]
 }
+]
