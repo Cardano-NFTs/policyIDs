@@ -1,28 +1,5 @@
 [
-  {
-    "project": "LandscapeSeries01",
-    "policies": [
-      "d00723c859cbf3b06f5fbae717761f014753d6b701b2e6171e790d6e"
-    ]
-  },
-  {
-    "project": "LandscapeSeries01RED",
-    "policies": [
-      "d00723c859cbf3b06f5fbae717761f014753d6b701b2e6171e790d6e"
-    ]
-  },
-  {
-    "project": "LandscapeSeries01BLUE",
-    "policies": [
-      "d00723c859cbf3b06f5fbae717761f014753d6b701b2e6171e790d6e"
-    ]
-  },
-  {
-    "project": "LandscapeSeries01GREEN",
-    "policies": [
-      "d00723c859cbf3b06f5fbae717761f014753d6b701b2e6171e790d6e"
-    ]
-  },
+
   {
     "project": "LandscapeSeries #1 RBG",
     "policies": [
