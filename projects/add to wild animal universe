@@ -1,0 +1,26 @@
+[
+   {
+      "project":"WAU Halloween",
+      "policies":[
+         "ac6ac9c652d9bad1c3cc04f01c3de294d5781c17e57074bbfefbf8d8"
+      ]
+   },
+   {
+      "project":"WAU Black Friday",
+      "policies":[
+         "74c89605c96ee853b29ad13e89b3c42972dda63e11bba5fe5a041ec9"
+      ]
+   },
+   {
+      "project":"WAU Alex and his friends",
+      "policies":[
+         "b7e08a2fb1b01737654dd43a6d5504dddb35affd41e0112ea4447b00"
+      ]
+   },
+   {
+      "project":"WAU Christmas balls",
+      "policies":[
+         "388412bc5662a28c0d0f1402ba6c36ea404e0d0f271ec20a1a1f7b77"
+      ]
+   }
+]
