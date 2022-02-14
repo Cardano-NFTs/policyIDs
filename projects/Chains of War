@@ -1,0 +1,14 @@
+[
+  {
+    "project": "Chains of War Collectibles",
+    "policies": [
+      "ed0b8cbd6784015e98bde4c57d898ea900a218ed5542b9aadb950485"
+    ]
+  },
+  {
+    "project": "Chains of War Heroes",
+    "policies": [
+      "69af40e0df8e225200177d10a63fab2c33f68947ecfaa9d080cc047a"
+    ]
+  }
+]

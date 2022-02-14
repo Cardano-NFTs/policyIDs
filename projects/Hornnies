@@ -1,9 +1,15 @@
-{
-    "project": "Hornnies",
-    "tags": [ 
-        "hornnies"
-    ],
+[
+  {
+    "project": "Hornnies Series 0",
     "policies": [
-        "c805f32096ccb75be6b9d155ba8250b6a23ac9dffd95948551f57eeb"
+      "c805f32096ccb75be6b9d155ba8250b6a23ac9dffd95948551f57eeb",
+      "6202c72d0246587cee46bc56cb8722c17556da43307afcdc119fc593"
     ]
-}
+  },
+  {
+    "project": "Hornnies Series 1",
+    "policies": [
+      "4481ea3809c2e19eff0b29f7997b15781b4f1d06a9e8ef9fd2fbcef7"
+    ]
+  }
+]
