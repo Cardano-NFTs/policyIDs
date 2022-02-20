@@ -1,0 +1,17 @@
+[
+  {
+    "project": "Weekdays",
+    "tags":[
+    "monday",
+    "tuesday",
+    "wednesday",
+    "thursday",
+    "friday",
+    "saturday",
+    "sunday"
+    ],
+    "policies": [
+      "975d13e7daf142c1cf6a0683220f2110f7391ece9c33123460dce453"
+    ]
+  }
+]

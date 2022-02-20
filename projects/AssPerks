@@ -1,0 +1,20 @@
+[
+  {
+    "project": "AssPerks 1 Percent",
+    "policies": [
+      "665d27705fb902783641356046f3401b82cd2a95963f0b2d40d24f44"
+    ]
+  },
+  {
+    "project": "AssPerks 5 Percent",
+    "policies": [
+      "019107e1c02e8cf4533b3a71e10e0e974079445ed37cc0179673cd7b"
+    ]
+  },
+  {
+    "project": "AssPerks 10 Percent",
+    "policies": [
+      "64a4d11ad565e62f29abde0f6045de51c1193df2ea9cf240cce94760"
+    ]
+  }
+]
