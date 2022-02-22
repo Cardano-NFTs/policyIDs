@@ -1,22 +1,27 @@
 [
   {
-    "project": "AdaverseX - Goguen Galaxy",
+    "project": "Adaverse - Goguen Galaxy",
     "policies": [
       "f8cf05076cade023bab6bd9b4ad4d668b82369c06fb2e89a5c7b7978",
-      "efedf186c0e49a723cae1f89d7c81820933f8015a18a980fc07cd558",
-      "72973bc46ca88fbe971bacb52deea31043b1c7437c77ccabc9258302"
+      "efedf186c0e49a723cae1f89d7c81820933f8015a18a980fc07cd558"
     ]
   },
   {
-    "project": "AdaverseX - Worlds",
+    "project": "Adaverse - Worlds",
     "policies": [
       "17adcbbf7e6f7d06dd394e98d3413c92b7f8a07185f64b221fd65a18"
     ]
   },
   {
-    "project": "AdaverseX - Community",
+    "project": "Adaverse - Community",
     "policies": [
       "a947f577c0148bb7c4798dabb12242f821b99c883191a938cea6ce3c"
+    ]
+  },
+  {
+    "project": "Adaverse - Fleet",
+    "policies": [
+      "d2dd0187d927513f6e7b123918b09bc6fde1e7b7d1619d336ec5a9da"
     ]
   }
 ]
