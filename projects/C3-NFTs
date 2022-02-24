@@ -1,9 +1,10 @@
 {
     "project": "Charli3 CNFTs",
     "tags": [
-        "C3Tubular", "C3", "Charli3"
+        "C3Tubular", "C3", "Charli3", "Cuties"
     ],
     "policies": [
-        "09b1b803d93666547abaa825425da69baf03d09681c1b990c0a3c096"
+        "09b1b803d93666547abaa825425da69baf03d09681c1b990c0a3c096",
+        "83117b5acb702fd086db386d26e83b7de3b19fbfe24c9e96f8f101a3"
     ]
 }
