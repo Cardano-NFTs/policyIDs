@@ -1,9 +1,20 @@
-{
+[
+  {
     "project": "Clumsy Ghosts",
     "tags": [
-        "ClumsyGhosts","Clumsy Ghosts"
+      "ClumsyGhosts","Clumsy Ghosts"
     ],
     "policies": [
-        "b000e9f3994de3226577b4d61280994e53c07948c8839d628f4a425a"
+      "b000e9f3994de3226577b4d61280994e53c07948c8839d628f4a425a"
     ]
-}
+  },
+  {
+    "project": "Ghostwatch",
+    "tags": [
+      "Ghostwatch","Ghost watch"
+    ],
+    "policies": [
+      "b000e43ed65c89e305bdb5920001558d9f642f3488154b2552a3ad63"
+    ]
+  }
+]
