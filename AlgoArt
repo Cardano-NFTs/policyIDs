@@ -10,5 +10,16 @@
         "policies": [
             "62e67fa45f5fa0d999950cbfacaed05de4ba3e809711a7196cf21141"
         ]
+    },
+    {
+        "project": "AlgoArt: Aberrations",
+        "tags": [
+            "AlgoArt",
+            "Aberrations",
+            "AlgoArt Aberrations"
+        ],
+        "policies": [
+            "7d84ff08af83788e93fbda77875a9df948c9554a1ed18ac3f8046ce2"
+        ]
     }
 ]
