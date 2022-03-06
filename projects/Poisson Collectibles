@@ -1,0 +1,28 @@
+[{
+		"project": "Poisson Collectibles - Community Collection",
+		"policies": [
+			"7a625201a8e197b13ff81cf3850519cb23bedae9e8a71c1300d8d4dc",
+			"02ccfc43f6f459e2c4c520dbd495176f2d42540d84487ad6ecb0e420",
+			"8d625a569b664c54be9d25fd87d1a5af0a98a8cd4dfeb27402b9d961"
+		]
+	},
+	{
+		"project": "Poisson Collectibles - Founders",
+		"policies": [
+			"b349906de8873c72dbc345d469498073205e72723e1abd610ee7185b"
+		]
+	},
+	{
+		"project": "Poisson Collectibles - Genesis",
+		"policies": [
+			"6fe8586bcf9e7f3f2b3b7a4b4826053062411abacb8cc9cb6c1485c5"
+		]
+	},
+	{
+		"project": "Poisson Collectibles - Weekends",
+		"policies": [
+			"45a5fa9311a12e74dcf6d463820a635d36b65469f0edee2ad9fff043"
+		]
+	}
+	
+]

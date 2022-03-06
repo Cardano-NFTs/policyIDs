@@ -2,7 +2,8 @@
 		"project": "Joseph Miranda",
 		"tags": [
 			"Joseph Miranda",
-			"We The People"
+			"We The People",
+			"Digital Lowlifes"
 		],
 		"policies": [
 			"11900000ea22e5aa13742b6ad355b109f55d80433088d8382c96d0e6",
@@ -16,7 +17,9 @@
 			"9ec93fd47d1e43ec5bb5dad70af92b6498b92d20d4325f9027ac4743",
 			"5f4b9232544a6bfef7a1aeb07a0eafe3430bc40a8f20614578f8dcbe",
 			"faa8ddb4852f5b93ca1fec4db3e8c3371e434e4c6024057961c53328",
-			"821b636862f9160d68f875ac7d460b9642e462d499c00cae9b88ec25"
+			"821b636862f9160d68f875ac7d460b9642e462d499c00cae9b88ec25",
+			"a1c74e98c9a6618deed1e39f74062588ef2c43a19eaa2f11a1eda733",
+			"950ba79bc54acf43aef84a2222f4199e21656220d7b4fac414a49b7f"
 		]
 	},
 	{
@@ -45,7 +48,9 @@
 			"ee022b6fa14e1b479c257607f702aaba3ed2b69b4024476335173524",
 			"cf8947df03d15368362445b7a171ae382d30cdd7f9b2058de1b4e029",
 			"19d9d0c8ab8653172280872a50e55da9625d14c629af26a1eb2df4d3",
-			"e0f5a72c62ea4d26a764ce03a166eea17e9b6d085e78019150357b72"
+			"e0f5a72c62ea4d26a764ce03a166eea17e9b6d085e78019150357b72",
+			"96e768e125c222cab106ef5ac0e41e9286fa96fe8090d36a225bc0df",
+			"c9c3a6d978fd0aa40608c913d5f007d2d016408c8a2914a344db0e32"
 		]
 	},
 	{
@@ -55,6 +60,16 @@
 		],
 		"policies": [
 			"8b77cc11556ce5741affea047f913650b13160ffc062e3f8e5916bd0"
+		]
+	},
+	{
+		"project": "H.Y.P.E. x ERGnomes",
+		"tags": [
+			"H.Y.P.E.",
+			"ERGnomes"
+		],
+		"policies": [
+			"10060545d09579ae7db18c2b94386a3d95deb75e9f31e5ebbe06d867"
 		]
 	}
 ]

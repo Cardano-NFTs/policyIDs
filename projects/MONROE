@@ -1,12 +1,17 @@
-{
+[
+   {
     "project": "MONROE",
     "tags": [
-        "MONROE","MORDOR","COLORS","SKULLS","HALLOWEEN"
+        "MONROE","MORDOR","COLORS","SKULLS","HALLOWEEN","ORIGINE, NANO,"
     ],
     "policies": [
         "c0651746ffa8b643e28bdaaa24c2ca050a7f7823f3a98dcaf3c540bf",
         "56ea38ec9da43d974fd85e3721c1a450f18bcc2a89f28bc9d9731172",
         "d2c00e2e39a19124dd17d55075e0123a3e353eaa0bb6748f1243d7a4",
-        "d75f749decf81bf49e5bb11b628877b5adfe184d1a3b144d8672f4cd"
+        "d75f749decf81bf49e5bb11b628877b5adfe184d1a3b144d8672f4cd",
+        "18e1235437e15fff3518ae0bb5b77b94c87dd94310643e0dbe1096e0",
+        "d18adc69e1795f2609957d47359392cdaaa8759de7a0bc84401cf9a6",
+        "a5c279c97c6378c80e7e48a313a8241f466e389f0b60f5720ec2ed73"
     ]
-}
+   }
+]

@@ -2,7 +2,8 @@
   {
     "project": "AirportNFT",
     "policies": [
-        "95ac15e6f7a3213fb362ce3dad177b81c5e97af83518c7805d336e19"
+        "95ac15e6f7a3213fb362ce3dad177b81c5e97af83518c7805d336e19",
+        "6c9d1bc9a4238a183525d03dab6e9a8c4bd7fe2ebadb9fc1787ec369"
     ]
   }
 ]

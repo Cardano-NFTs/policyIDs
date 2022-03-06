@@ -1,10 +1,6 @@
+[
 {
     "project": "Cardania",
-    "tags": [
-        "Cardania", "Founder's", "Founder", "Founders", "Cleansing Fire", "Technocracy", "Dark Technology",
-        "Dark Technologies", "Engine Wash", "Mysterious Orb", "Quantum Angel", "Crate of Space Bees", "Hull Breach",
-        "Quantum Angel", "Cursed Nanites", "Dark Poolspawn", "Medical Drone", "Transfungalism"
-    ],
     "policies": [
         "ccb3577601d6cf0e021288871112926338bee685c6c37eeadf6dddd9",
         "f9c7a0cb60e2bd7c2bcd7041460dc19f8767623a735994e1d2f54186",
@@ -12,6 +8,12 @@
         "a8437dfff20edb4bff07b00277e9a197f111bcf12c44728c19519663",
         "4de8f6ef521125e09d898267368ebeebf2287a562620daea3d853163",
         "a1dbe9979c84f028c7c24f0ae63a32e10ebac8e091cc5fdb94e22e67",
-        "f1dd8861a9b92fb42c54c3d11486a7ae60a48c3aaa87b717d586a667"
+        "f1dd8861a9b92fb42c54c3d11486a7ae60a48c3aaa87b717d586a667",
+        "5e5fa5618b01679afecbda56f63df9dbd699ce0fa93434896d314513",
+        "c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8",
+        "c872827bbd63ddef2fb635b2136d224c7e5871c749f818ff0dbf9eb7",
+        "3cf7bd1c22f87aa81adaf886089fbefa01af9339099f999df0e0c708",
+        "d0b4c7811012fc5e9860c2fe374265f4e465ff99586ed7352fa9a866"
     ]
 }
+]

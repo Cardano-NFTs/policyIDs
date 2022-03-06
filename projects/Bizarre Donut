@@ -1,0 +1,14 @@
+[
+  {
+    "project": "Bizarre Donut",
+    "policies": [
+        "f4d6d8378c381bc139109d1b1fb0981f3478fe22fba324b15a225872"
+    ]
+  },
+  {
+    "project": "Bizarre Merchant",
+    "policies": [
+        "3640d2d1b71104460ac18b21e0406de9e368131522f882cd42e1b3ca"
+    ]
+  }
+]
