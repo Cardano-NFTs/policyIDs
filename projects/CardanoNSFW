@@ -1,0 +1,18 @@
+[{
+    "project": "Cardano NSFW",
+    "tags": [
+        "CardanoNSFW",
+	"Cardano NSFW",
+	"gcuriom",
+	"NSFW"
+    ],
+    "policies": [
+        "dd83d80d814a12ec1f20a9622bb773fdc5aeff661f2b735738587824",
+	"503cc4f2670ea51d8ca7b2cfd39452de0b81cf4255b08eb6e5e1ba2b",
+	"5fe1c50f957b785944d6bea39a0a4f6c79a60bd5bd53e0270ee4c97b",
+	"8d9a4d2817bb97b379718ef35bf35a62c8a3d6057a6ffc5d3da61144",
+        "01f39c1151ecbd67bf124029d9c45d82249d128a4507525da81d382a",
+	"943b29020412ee750f4d1415cc85fc0a284d9124196f1092a2878a4f",
+	"7d0a28c2132b28a144bceb3696179555c58add2692c5079d147c33ef"
+    ]
+}]

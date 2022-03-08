@@ -1,0 +1,10 @@
+{
+    "project": "CardanoCars",
+    "tags" : ["CardanoCar",
+        "CardanoCars",
+        "CardanoCarFactory"
+        ],
+    "policies": [
+        "64015a9f1e1385f277339ae6a24c1b24753c0634901bd24a90aa851f"
+    ]
+}

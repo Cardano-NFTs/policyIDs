@@ -1,0 +1,33 @@
+[
+  {
+    "project": "ADApes S1",
+    "policies": [
+      "a72217d53e81e7075c0198315f57a84825a3a2d62d74ce34baa7b0bb",
+      "6202c72d0246587cee46bc56cb8722c17556da43307afcdc119fc593"
+    ]
+  },
+  {
+    "project": "Chedda Ape",
+    "policies": [
+      "0a14128cae695768a61cbecf45f87750893fa65a3430be2bfdbdc60b"
+    ]
+  },
+  {
+    "project": "ADApes Special Airdrops",
+    "policies": [
+      "fa89210feed7cb4fbab4ae352c713034cc898b1ebc53db23af04d306"
+    ]
+  },
+  {
+    "project": "ADApes S2 pre-sale box",
+    "policies": [
+      "555fccec700bbdc0ec4733078d8a50b1ca3dfb623a90eb0f17929303"
+    ]
+  },
+  {
+    "project": "ADApes S2",
+    "policies": [
+      "61326897a69a96ce77f5ddcbccc7f00404b8c10e21ab4bb9cb7e9f96"
+    ]
+  }
+]

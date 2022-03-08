@@ -1,0 +1,22 @@
+[
+   {
+      "project":"NFT Vision",
+      "policies":[
+         "210c537e77c2c8e4533456c29cfab67cb93e3e118f156110293a8ec6",
+         "c9f8b06037b47758859ad019ad2010e768e6507d8867bb0bc7a30fc2"
+      ]
+   },
+   {
+      "project":"ADAPandas",
+      "policies":[
+         "c784c8e293353996075393f480c020276daf2585f9305a3682c02e31"
+      ]
+   },
+   {
+      "project":"ADARobotics",
+      "policies":[
+         "aa00ebf6ec3f50ddf6f27f247c4eeb40a85d6ea508f1b9c2ea177b77",
+         "5a3daff3f5f36011cb91f66e54deee638156e6b827bf19248eef533a"
+      ]
+   }
+]

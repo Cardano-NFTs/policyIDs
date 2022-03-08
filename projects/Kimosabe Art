@@ -1,0 +1,35 @@
+[
+    {
+        "project": "Cyberpunk Samurais",
+        "policies": [
+            "d070fd5fb0796793ff658aa74715f73166ba29efc18f54a445d5fc9f"
+        ]
+    },
+    
+    
+     {
+        "project": "Jada Life Collection",
+        "policies": [
+            "d1c2e4eb603dc0f04dc4e086702c7855745b94e3ed1d9e2d62c440e4"
+        ]
+    },
+    {
+        "project": "Zombie-Kong Collection",
+        "policies": [
+            "ef39cc887849ac29038fde5aea1f37f0ff240251aaf6938463c11560"
+        ]
+    },
+    {
+        "project": "T800",
+        "policies": [
+            "7b42adc18b3769119f66b71f0c7e3a16c382c343a2c8cbfe24046bf5"
+        ]
+    },
+    {
+        "project": "Symbiotes Collection",
+        "policies": [
+            "a4c634ee5f8edc1ca5b755c306612a1f7058c02dc08d51a19ea856ab"
+        ]
+    }
+    
+    ]

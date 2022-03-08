@@ -1,0 +1,34 @@
+[
+    {
+        "project": "Ada Slimes",
+        "tags": [
+            "Ada Slimes",
+            "AdaSlimes",
+            "AdaSlime"
+        ],
+        "policies": [
+            "acedcd940e1dbb6d774b6504eddc03bcbae50d6cebb2099e99f68d26"
+        ]
+    },
+    {
+        "project": "Ada Slimes Series 2",
+        "tags": [
+            "Ada Slimes Series 2",
+            "S2AdaSlime"
+        ],
+        "policies": [
+            "b5f5036991a1ad6755c8717509aace9d6264842a5dd761ba6a03bc29"
+        ]
+    },
+    {
+        "project": "Ada Slimes - Breeding",
+        "tags": [
+            "Ada Slimes - Breeding",
+            "BigAdaSlime",
+            "MiniAdaSlime"
+        ],
+        "policies": [
+            "973ae7b499cacf818af06df8b37228637f7d951e664d6bf4b46105fe"
+        ]
+    }
+]

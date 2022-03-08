@@ -1,0 +1,17 @@
+[
+    {
+        "project": "CardanoKeys",
+        "tags": [
+            "CardanoKeys"
+        ],
+        "policies": [
+            "423aaa3a092aff29c00cef49fe0bef65abf7838226d6869ca9c44f24"
+        ]
+    },
+    {
+        "project": "CardanoKeys - Extended",
+        "policies": [
+            "7b65769199af77dd581afbc4162a61692bac90baf43eb78e64f5f51e"
+        ]
+    }
+]

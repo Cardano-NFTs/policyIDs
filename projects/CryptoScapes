@@ -1,0 +1,16 @@
+{
+    "project": "CryptoScapes",
+    "tags": [
+        "CryptoScapes"
+    ],
+    "policies": [
+              "4ed429497be7c763bc4e1d14233b04e752eca0886b77c5569afe5f42",
+              "9d736296b47136b688cd63ee29cb55655d881704048defd0a6cd6440",
+              "8f7572104489e9b28a625d880273e27a0742b2e54957a7d7027686c7",
+              "048c07458beaaf073c25e4df6627ad3d113abebd7bab5193c4c37f1c",
+              "5d1d8b9d343e9be78b5e20457d3c81b7f2275f6818cb975da67aac7c",
+              "6c9e948fc5a3e098282d3a1eeb84756833a87c671fdc97b697d8541e",
+              "430b077da1fc93db0e61f3c59f3da18f58a05efdb5cb881d3a02ce6e"
+          ]
+}
+

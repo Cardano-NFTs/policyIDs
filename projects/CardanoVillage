@@ -1,0 +1,12 @@
+[
+    {
+        "project": "CardanoVillage",
+        "tags": [
+            "CardanoVillage",
+            "Cardano-Village"
+        ],
+         "policies": [ 
+            "2c763e2db8337324df122fffa38e0d97ecdf53d139025a0e1b6d6b97"
+        ]
+    }
+]
