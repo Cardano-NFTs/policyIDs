@@ -1,7 +1,62 @@
-{
+[
+  {
     "project": "Cardano Noodz",
     "policies": [
-        "71fee2e950d9357d29d90af25a2a20e78963a3094173f52c39a3d9da",
-        
+      "948cd842829ab5e08e17c8ac8ab17c798538df7454bfd528f6b5b2b8"
     ]
-}
+  },
+  {
+    "project": "Cardano Noodz 2: Spicy NOODZ + Specials",
+    "policies": [
+      "10a5ed146024f83df637de4b9e8daf495af9db89597097aad3715190"
+    ]
+  },
+      {
+    "project": "Cardano Noodz: The ReNOVATION",
+    "policies": [
+      "5672fd39fdf4fbffb6ef0f28ca97e1bec2e32d3927b4ac13ae9bceb4"
+    ]
+  },
+      {
+    "project": "Cardano Noodz: ADA Fantasy ",
+    "policies": [
+      "7d0f80b3933ca4a3f321ae5e68bcd0e2166942684a313004390bb46b"
+    ]
+  },
+        {
+    "project": "Cardano Noodz: Blockchain Multilingualism",
+    "policies": [
+      "c9a7e215e74244f40cb26b649544bc3e619ea5d7917c39f8eb4e96ed"
+    ]
+  },
+    {
+    "project": "Cardano Noodz: Lovelace Rising",
+    "policies": [
+      "71fee2e950d9357d29d90af25a2a20e78963a3094173f52c39a3d9da",
+      "7dda90c77d44d408fe3916e7ab078919e999cac0d92849322bd52a6b",
+      "07ab11d15f48d1d01f87f4e25328ae0f83f0a22d577aa86f2e260f1d",
+      "13f986e909b406630e9c203d9d269ae764464195e323271b59b72275"
+    ]
+  },
+    {
+    "project": "Cardano Noodz: COLLAB",
+    "policies": [
+      "504fab4b8d75913064128dea8131985558aa1ce96940443601718b70",
+      "27e011754463b6897de02320c33249d1029a471a03cab8696b928720"
+    ]
+  },
+    {
+    "project": "Cardano Noodz: House Specials",
+    "policies": [
+      "61d41d24d0d778524c239f615cdb14fd68bc19ad1ea1c5d6591c3899",
+      "c8a1bb33428622a6b05e4fb9779514dc92c2ea4cfb594ec148418295",
+      "dc04d3fc69c2bf1e7ad132ac16067e57c8defbd6930eea778c58c72b"
+    ]
+  }
+    {
+    "project": "Cardano Noodz: DUALism",
+    "policies": [
+      "e0e4baae3726859cd110d2f61d651ae5dacd87c4aa8babc805aad2b2"
+    ]
+  },
+]
