@@ -1,0 +1,20 @@
+[
+   {
+      "project":"AdaGarbageBags",
+      "policies":[
+         "e3fe2263817d7e1f3bd3559d615c7ec6428b17755f332576046aebb0"
+      ]
+   },
+   {
+      "project":"AdaGarbageBills",
+      "policies":[
+         "11b5680e5117ece0b477aaa3e76949d9dbf66dbcfc61f61f611ad035"
+      ]
+   },
+   {
+      "project":"TrashPFPs",
+      "policies":[
+         "bd1abcb0014b6025d0dc305a31777a434087dbbb8555ee726eeff64c"
+      ]
+   }
+]

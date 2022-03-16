@@ -1,0 +1,14 @@
+[
+   {
+      "project":"BROOM Token",
+      "policies":[
+         "8d0ae3c5b13b47907b16511a540d47436d12dcc96453c0f59089b451"
+      ]
+   },
+   {
+      "project":"BROOMerch",
+      "policies":[
+         "5d6b58869f83d893894968ce1c965b9ec6942cdd63acade0c9f94be0"
+      ]
+   }
+]

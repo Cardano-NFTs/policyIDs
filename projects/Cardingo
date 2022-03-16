@@ -1,0 +1,32 @@
+[
+    {
+        "project": "HoskeyChains",
+        "policies": [
+            "d734b1b17551d02bd255283b014b990d3403cb4e5d6c52a6da8dc72b"
+        ]
+    },
+        {
+        "project": "HoskeyMates",
+        "policies": [
+            "b0255e29833d690e71a3232bae76e561e38dff4a3782b4382e9171a9"
+        ]
+    },
+    {
+        "project": "HoskeyMations",
+        "policies": [
+            "e10211f3fb818253839a312a6397e1deeefd15a0cfd1ebef6c25dc04"
+        ]
+    },
+    {
+        "project": "HoskeyPunks",
+        "policies": [
+            "4cbd42e5eac0e42a6ad618cd20f6e73abef22b86780e2b3fe72a64e0"
+        ]
+    },
+    {
+        "project": "HoskeySmokeys",
+        "policies": [
+            "d139b9996e50b63b00f46d719d7f06e4cebea4eaeb7f09b4574f0bf7"
+        ]
+    }
+]
