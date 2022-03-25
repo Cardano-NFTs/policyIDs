@@ -1,8 +1,14 @@
 [
   {
-    "project": "MetaFreakzNFT",
+    "project": "MetaFreakz Founders",
     "policies": [
       "eed4815f29840c4477ccac2831cc1337111d878021047f4c03f1b87a"
          ]
+  },
+  {
+    "project": "MetaFreakz Season 1",
+    "policies": [
+      "231fbe5b770c89a9ab3378114c1840fbe8e4cef95507027656039c35"
+    ]
   }
 ]

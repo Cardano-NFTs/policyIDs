@@ -31,7 +31,16 @@
             "c4ba3b82dd65f14419793e360795bfafa0a02aa1fd509baa2085ce68"
         ]
     },
-        {
+    {
+        "project": "BokehFins",
+        "tags": [
+            "BokehFins"
+        ],
+        "policies": [
+            "53ff0e6e401ea941a69b1d39da43ace7a16948b85ee6cf0f88791f18"
+        ]
+    },
+    {
         "project": "BitFins - Collection: Depths of Creation",
         "tags": [
             "Bitfins",
