@@ -1,0 +1,25 @@
+{
+   "cc0450d757c96c509b1d817b72b2ba963b47e7c4a26d36b5477ffaf6":{
+      "BLCGOLD":{
+         "image":"ipfs://Qmeaj2WnfemowuUFNQLpe4TuDr2Y8TqnDqvWnYeTTzPJNo",
+         "ticker":"BLCGOLD",
+         "name":"IBILEGOLD",
+         "URL":"Https://www.Ibilecoin.com",
+         "Description":"To celebrate Ibilecoin successful launch without I.C.O"
+      },
+      "BLCSILVER":{
+         "image":"ipfs://Qmf2v8RxMucRPuHyz3SiEGPcYzgfmcCPuWtwBxeu7bhSL1",
+         "ticker":"BLCSILVER",
+         "name":"IBILESILVER",
+         "URL":"Https://www.Ibilecoin.com",
+         "Description":"To celebrate Ibilecoin successful launch without I.C.O"
+      },
+      "BLCBRONZE":{
+         "image":"ipfs://QmXEAm179uVQbgV1hTcqcw3cGBn6fGYoZZ7kduXwQTyGwP",
+         "ticker":"BLCBRONZE",
+         "name":"IBILEBRONZE",
+         "URL":"Https://www.Ibilecoin.com",
+         "Description":"To celebrate Ibilecoin successful launch without I.C.O"
+      }
+   }
+}
