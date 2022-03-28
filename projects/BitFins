@@ -1,6 +1,6 @@
 [
     {
-        "project": "BitFins",
+        "project": "BitFins - Series 1 Discovery",
         "tags": [
             "BitFins",
             "Your Digital Sanctuary",
@@ -8,7 +8,17 @@
             "The First Interactive #CNFT Aquarium"
         ],
         "policies": [
-            "c16777d742784b7acd3940e0356596d313e141200fe8e48c8df16ba7",
+            "c16777d742784b7acd3940e0356596d313e141200fe8e48c8df16ba7"
+        ]
+    },
+        {
+        "project": "BitFins - Collection: Kori",
+        "tags": [
+            "BitFins",
+            "Kori",
+            "Kori Token"
+        ],
+        "policies": [
             "028ada6ae2ad3fca73058b51bda63d186df562ebb578cc3c4e4ec7cb"
         ]
     },
@@ -19,6 +29,25 @@
         ],
         "policies": [
             "c4ba3b82dd65f14419793e360795bfafa0a02aa1fd509baa2085ce68"
+        ]
+    },
+    {
+        "project": "BokehFins",
+        "tags": [
+            "BokehFins"
+        ],
+        "policies": [
+            "53ff0e6e401ea941a69b1d39da43ace7a16948b85ee6cf0f88791f18"
+        ]
+    },
+    {
+        "project": "BitFins - Collection: Depths of Creation",
+        "tags": [
+            "Bitfins",
+            "Depths of Creation"
+        ],
+        "policies": [
+            "00b61eb000ed0e297b9136267d72008183569d548e8a5ce0e5eeca00"
         ]
     }
 ]
