@@ -1,0 +1,20 @@
+[
+  {
+    "project": "Future Fest - Futurebots",
+    "tags": [
+	"Futurebots"
+    ],
+    "policies": [
+      "2b43a53d30347c1983d632e0437e2dec5a5c00ee3007627f1f0b1d30"
+    ]
+  },
+  {
+    "project": "Future Fest - Deluxe Futurebots",
+    "tags": [
+	"Futurebots"
+    ],
+    "policies": [
+      "b65ce524203b7a7d48b55ff037c847c5ec8c185cd3bdb7abad0a02d4"
+    ]
+  }
+]

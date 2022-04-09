@@ -1,0 +1,8 @@
+{
+    "project": "CryptoCows",
+    "tags": ["CryptoCows"],
+    "policies": [
+        "34ce02040ff37fa102c0c02e5d9c2807b087f17236bdabc104ee74d2",
+        "ac621757ca126a2f4c78153a8b740fa9c768664c0aaeae0761b875ec"
+    ]
+}

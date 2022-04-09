@@ -1,0 +1,15 @@
+[
+  {
+    "project": "The Guild",
+    "policies": [
+      "22366c2a3c78d8ee2e7f0830b131b907c58795210a57fb8335d6f81f",
+      "db63d766374c745a002424e5f3f9a1e44a7e0c367ae41bde7d02089f"
+    ]
+  },
+  {
+    "project": "Cardano Veins",
+    "policies": [
+      "46ed96a6c5c5cfb1f9f8638aebeff2b00285932e4bc9d7d22382e4a0"
+    ]
+  }
+]

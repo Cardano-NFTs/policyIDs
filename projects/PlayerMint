@@ -1,0 +1,14 @@
+[
+    {
+        "project": "PlayerMintGreen",
+        "policies": [
+            "c7fe3a3c3443a2a3d453efb7df0c276712bb22f8470f12965f5cae42"        
+        ]
+    },
+    {
+        "project": "PlayerMintPurple",
+        "policies": [
+            "aa4f61af3a968b979b53c5f2cbd9ebc656c172cef6a49626db24482d"        
+        ]
+    }
+]
