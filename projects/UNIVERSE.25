@@ -1,0 +1,23 @@
+[
+   {
+     "project": "UNIVERSE.25",
+     "tags": [
+          "UNIVERSE.25", 
+          "U25"
+      ],
+     "policies": [
+       "bec1c38bac9be7235b2b697b5a87e5da29eacb40d38e00c0e9f111c4"
+      ]
+   },
+   {
+     "project": "SOCIETY.25 by U25",
+     "tags": [
+          "UNIVERSE.25", 
+          "U25", 
+          "SOCIETY.25"
+      ],
+     "policies": [
+       "023cec350597bdf2a2b6945e62e0111d9808caf7a9353a2ab91e8beb"
+     ]
+   }
+ ]

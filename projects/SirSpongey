@@ -1,0 +1,29 @@
+[
+  {
+    "project": "ThreadWorld SirSpongey Giveth",
+    "policies": [
+      "c8e64750da668e7a4ace5d8a252046458eed014550e6abc416edbe25",
+      "6d840512bd3b87f6ef202760e826ea768343367d76f88e65e7c650d4",
+      "9db6bbe4e225ee17bf5177c79a36468c88e4b0327bf6c64e8f5c63bb"
+    ]
+  },
+  {
+    "project": "ThreadWorld SirSpongey Giveth Prize Tokens",
+    "policies": [
+      "3108066b31cc955fa6732e966ef119361a574ac0b869acf2f9fcf753"
+    ]
+  },
+  {
+    "project": "ThreadWorld SirSpongeys Uniquities",
+    "policies": [
+      "ae5605d05dc31c764b8c04d525e1ffccd46649bb3a30968e6a0dce41"
+    ]
+  },
+  {
+    "project": "SirSpongeys Hash Browns",
+    "policies": [
+      "00b32a57933de2009f7b0a8e0ca70c1c3a287e70e3a5aab87eea3701",
+      "025db8c0c5c9e182c350262cc0c02625545482e0dcd34a0d4d527e41"
+    ]
+  }
+]

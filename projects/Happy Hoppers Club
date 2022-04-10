@@ -1,0 +1,26 @@
+[
+  {
+    "project": "Happy Hoppers Club",
+    "policies": [
+      "11ff0e0d9ad037d18e3ed575cd35a0513b8473f83008124db89f1d8f"
+    ]
+  },
+  {
+    "project": "Swanky Swimmers from Happy Hoppers",
+    "policies": [
+      "00ff3ae62bd2d44dab9ad8ff3eed7770201840784bd05cd524856520"
+    ]
+  },
+  {
+    "project": "Happy Hoppers Gallery",
+    "policies": [
+      "ffff5571ecec795284f04ad6e6852ed2d46d924535ed68ad97fa1e70"
+    ]
+  },
+  {
+    "project": "Hoppy Valentines Day from Happy Hoppers",
+    "policies": [
+      "0062d938b717a580c4032afb5db49fe0ec153c193621f84cd46d87ed"
+    ]
+  }
+]

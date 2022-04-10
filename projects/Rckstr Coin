@@ -1,0 +1,14 @@
+[
+  {
+    "project": "Rckstr Gold Coin",
+    "policies": [
+      "aa1d863f5b5244eea534a757c7512fa47abcd3fe784de8e2cbba3fe7"
+    ]
+  },
+  {
+    "project": "Rckstr Silver Coin",
+    "policies": [
+      "29f2f0eb9ad0a71a3a6590436cfaec3713c4227f5825006a3586b70e"
+    ]
+  }
+]
