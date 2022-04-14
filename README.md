@@ -1,6 +1,8 @@
 # policyIDs
 CNFTs Verified Policy Database 
 
+__**From 20/04/2022 this will become a legacy system, please do not submit anymore PRs! A new easy to use system will take it's place.**__
+
 __**To add your project to the list of verified policies for the marketplace:**__
 
 **__Important:__ You must show proof of your project by tweeting your pull request to your projects twitter and linking in your pull request
