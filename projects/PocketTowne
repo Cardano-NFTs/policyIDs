@@ -2,7 +2,10 @@
   {
     "project": "PocketTowne",
     "policies": [
-      "ce85ef5fd643bca1d17facdbc74a83c8568689dcf2e5bf3ee120f102"
+      "ce85ef5fd643bca1d17facdbc74a83c8568689dcf2e5bf3ee120f102",
+      "007394e3117755fbb0558b93c54ce3bc6c85770920044ade143dc742",
+      "2af98b94c4a9c380d464161e47f983c4f9817822044be1e1b4979cf8",
+      "79631a72d44608d24a3a2d226e90a20c58aa444aa76315b3119245eb"
     ]
   }
 ]
