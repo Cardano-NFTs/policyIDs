@@ -93,5 +93,20 @@
         "policies": [
             "c3ec1074f02f3468150e64fca6824bc4a36435545c55e84074c1f982"
         ]
+    },
+    {
+    "project": "Capitan Mas Ideas",
+    "tags":[
+    "funky",
+    "funkycardano",
+    "capitan",
+    "mas",
+    "ideas",
+    "massimo",
+    "pietrobon"
+    ],
+        "policies": [
+            "4d5a27a7fd90c2098da50c4f8afff1243c3ed1e6f970c6ebad38b7c4"
+        ]
     }
 ]
