@@ -1,5 +1,8 @@
-# policyIDs
+# policyIDs - From 20/04/2022 this will become a legacy system, please do not submit anymore PRs! A new easy to use system will take it's place.
+
 CNFTs Verified Policy Database 
+
+__**From 20/04/2022 this will become a legacy system, please do not submit anymore PRs! A new easy to use system will take it's place.**__
 
 __**To add your project to the list of verified policies for the marketplace:**__
 
