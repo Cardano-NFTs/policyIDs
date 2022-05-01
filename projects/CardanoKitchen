@@ -1,10 +1,9 @@
-{
+[
+  {
     "project": "CardanoKitchen",
-    "tags": [
-        "CardanoKitchen"
-    ],
     "policies": [
-        "70ab22ae70717c90079e6ba9c4a9f23eecc800c4abcc306b742432f8"
+      "70ab22ae70717c90079e6ba9c4a9f23eecc800c4abcc306b742432f8",
+      "61ce2bc5182bc0c8bc5151bcc4363f017620786abfb0bdab36c35fc5"
     ]
-}
-
+  }
+]

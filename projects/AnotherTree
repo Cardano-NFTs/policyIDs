@@ -1,4 +1,6 @@
+[
 {
+
     "project": "AnotherTree",
     "policies": [
         "d9321e4ccc40f89a4961e5b0e9829fa4026df7a3aefa2b2502ffc20a",
@@ -21,11 +23,14 @@
         "b3c5aca762d102157e3506e148b900f423408330516917eb9eb1cc4b",
         "7285bf671c0eec4f3e5ac466cad5a14836d1c83c9da9770aff3cb7b7",
         "c560d65b77a8e2ca16225ae4bc9018e4b406dc205148cff7a5a6e1ca",
+        "8ea730f616585729e935885f03cef24b88775134a5e69478a28290c4",
+        "01a7856d5fc69d5b57425f7fa7c76cf4a9f7ebba08a47f96144c5a9d",
+        "e42791fab3da187ae3d6ba7d1fa48c4c432dc2ea8d13630bcf11da79"
+        
         
         
         
         
     ]
-}
-
-  
+  }
+ ] 

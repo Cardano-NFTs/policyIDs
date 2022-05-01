@@ -1,0 +1,14 @@
+[
+  {
+    "project": "Borg Club",
+    "policies": [
+      "8c06b3c611ec9bc9037c76a9e2cf270c7a147341e6daffeda614cdd5"
+    ]
+  },
+  {
+    "project": "Borg Club Cards",
+    "policies": [
+      "aa12f938907496cac73cdf640fe653f3260536bc69cc26f3796d1df3"
+    ]
+  }
+]

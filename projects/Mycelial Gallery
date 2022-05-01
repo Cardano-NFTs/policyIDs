@@ -8,5 +8,26 @@
     "policies": [
       "ceb5dedd6cda3f0b4a98919b5d3827e15e324771642b57e0e6aabd57"
     ]
+  },
+  {
+    "project": "Mycelial Gallery: Hyphae",
+    "tags": [
+      "Mycelial",
+      "Mycelial Gallery",
+      "Hyphae"
+    ],
+    "policies": [
+      "65cb5c652b6a493f881f19c1e4c19d1d48aba7ffe6fa460a12e40c61"
+    ]
+  },
+  {
+    "project": "Mycelial Gallery: Utility",
+    "tags": [
+      "Mycelial",
+      "Mycelial Gallery"
+    ],
+    "policies": [
+      "396b73184437655a4dcbf718eab36c9bb966c37ebd44c8432d2fbac9"
+    ]
   }
 ]

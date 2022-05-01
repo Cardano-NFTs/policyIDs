@@ -1,0 +1,14 @@
+[
+    {
+       "project":"LoveTree",
+       "policies":[
+          "75a5881d4eb9e301fb0ccb426c681395d33b9d314b1f40de8404f34b"
+       ]
+    },
+    {
+       "project":"Spidy",
+       "policies":[
+          "d4c4749ad42a9d4b25d4f09047d20d07fb3859ab99ea1fc05e4bf667"
+       ]
+    }
+ ]

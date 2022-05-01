@@ -1,13 +1,16 @@
-{
-    "project": "Canuckz NFT",
-    "tags": [
-        "Canuckz",
-        "CanuckzBeaver",
-        "CanuckzMoose",
-        "CanuckzRaccoon"
-    ],
-    "policies": [
-        "32f13cdaa51c1ea28221a9f656c498f1d05f7bda49d324d6ff0ad976",
-        "6e3f5e11921e3d337504a0dc89edded6f52adf0df97d712afaec7ade"
-    ]
-}
+[
+    {
+        "project": "Canuckz NFT",
+        "tags": [
+            "Canuckz",
+            "CanuckzBeaver",
+            "CanuckzMoose",
+            "CanuckzRaccoon"
+        ],
+        "policies": [
+            "32f13cdaa51c1ea28221a9f656c498f1d05f7bda49d324d6ff0ad976",
+            "6e3f5e11921e3d337504a0dc89edded6f52adf0df97d712afaec7ade",
+            "d9c89513a435cc36a4f89bc417e1805ed92945b50caa0413dd12258e"
+        ]
+    }
+]

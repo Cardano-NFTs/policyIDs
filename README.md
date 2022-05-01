@@ -1,5 +1,8 @@
-# policyIDs
+# policyIDs - From 20/04/2022 this will become a legacy system, please do not submit anymore PRs! A new easy to use system will take it's place.
+
 CNFTs Verified Policy Database 
+
+__**From 20/04/2022 this will become a legacy system, please do not submit anymore PRs! A new easy to use system will take it's place.**__
 
 __**To add your project to the list of verified policies for the marketplace:**__
 
@@ -7,7 +10,7 @@ __**To add your project to the list of verified policies for the marketplace:**_
 Alternatively, provide adequate proof such as a direct link to project website with policies**
 
 Make a pull request to add a file in the "projects" directory of this repository in the following format.
-Please note that the name of the file **must not** contain any special character (:,./\@"'-).
+Please note that the name of the file **must not** contain any special character (:,./\@"'-_).
 
 __**Information:**__
 

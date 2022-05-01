@@ -1,9 +1,13 @@
-{
-    "project": "Booberts",
-    "tags": [
-      "Boobert's First Halloween"
-    ],
-    "policies": [
-        "360c3e09d8fd74656e4689cd86525a27a2ebb4a1c8b89682f4198490"
-    ]
-}
+[
+    {
+        "project": "Booberts",
+        "tags": [
+          "Boobert's First Halloween",
+          "Boobert's First Christmas"
+        ],
+        "policies": [
+            "360c3e09d8fd74656e4689cd86525a27a2ebb4a1c8b89682f4198490",
+            "8d086811b443512253d61abcf5b721e864fd4d125d015a41982f71ae"
+        ]
+    }
+]
