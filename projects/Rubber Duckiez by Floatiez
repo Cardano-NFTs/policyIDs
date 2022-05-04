@@ -1,10 +1,15 @@
-{
-    "project": "Rubber Duckiez by Floatiez",
-    "tags": [
-        "Rubber Duckiez"
-    ],
-    "policies": [
-        "1ee5021a2c574f3d52db8bcc43d3d2fbdbffd33aaa9507c4a852cea6"
-          ]
-}
-
+[
+    {
+        "project": "Rubber Duckiez by Floatiez",
+        "tags": [
+            "Rubber Duckiez"
+        ],
+        "policies": [
+            "1ee5021a2c574f3d52db8bcc43d3d2fbdbffd33aaa9507c4a852cea6",
+            "71bf65a701996d0bbb2a62fe452c4ad9038fbaddb5e53c9c83f75c21",
+            "23674c4dbf8945bef65d10cc5f1365d661243c354a7b64fb00190177",
+            "fa550157ae360a7d6eba418639eb970fbd593d205f6a149f8b16ac94",
+            "171e96b355ba4d5497adbe39d3480de1224cad690d4363b5381f3c2a"
+              ]
+    }
+]

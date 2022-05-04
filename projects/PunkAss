@@ -14,6 +14,12 @@
     ]
 },
 {
+    "project": "PunkAss Season 2",
+    "policies": [
+        "fd2cc6dacc2294c0886f91dc2c4f1d66dc3f18c9ff738e67b4d56651"
+    ]
+},
+{
     "project": "PunkAss 12 Days of Xm-ASS",
     "policies": [
         "ff56a76a67fd8fe73323e121d063c99179367794dd01c81f99930a51"
