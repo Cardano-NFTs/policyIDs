@@ -1,0 +1,15 @@
+[
+  {
+    "project": "OldsMobile",
+    "policies": [
+      "ce887cad844bd0b7b28d37723ae63d68b7e6b71f749f3aebaa42698b",
+      "44baadcfcd5777c012c01142b93c7312a3f7e99be69a649baaa099c3"
+    ]
+  },
+  {
+    "project": "SpecialNFT",
+    "policies": [
+      "91eef27af73dbe6bb10dee472c0f27ce42054e81212a642ace16f79d"
+    ]
+  }
+]
