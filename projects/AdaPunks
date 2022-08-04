@@ -1,9 +1,13 @@
-{
+[
+  {
     "project": "AdaPunks",
     "tags": [
-        "AdaPunks"
+        "AdaPunks",
+        "PunksAda"
     ],
     "policies": [
-        "92413eeb677428b2c037dee81b5df5f0392119b8827205ba24a8d611"
+        "92413eeb677428b2c037dee81b5df5f0392119b8827205ba24a8d611",
+        "227ae4893513a77711a256eefdd9f435ef6930b09d10d076cb07da25"
     ]
-}
+  }
+]

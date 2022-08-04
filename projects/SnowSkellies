@@ -4,5 +4,12 @@
     "policies": [
       "40cc2fa3e16c997f7b2ea222c6e795e7aa9d63c271621f8e54b31d0a"
     ]
+  },
+  {
+    "project": "Snow Skellies Founder Badge",
+    "policies": [
+      "5bfa19922cc65ff4d882755ed1fc94fbb2f76e40bea9f44ed44dc7fa",
+      "e60f013d8ef912b1b6b2e447fe43ff02dea3fdc3f271d4502a54e280"
+    ]
   }
 ]

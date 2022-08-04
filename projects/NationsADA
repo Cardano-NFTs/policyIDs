@@ -1,15 +1,14 @@
-{
+[
+  {
     "project": "NationsADA",
-    "tags": [
-        "NationsADA"
-    ],
     "policies": [
-        "a0c45879d1fdfc2b3d0ed717502ec4a0ad44b789c19d4f5f0a5c22a2",
+      "a0c45879d1fdfc2b3d0ed717502ec4a0ad44b789c19d4f5f0a5c22a2",
               "ac77db6f45c21a77d6cc0638f3b02f92c25d703ebf2097ca12511248",
               "605bcc0236eaa85af2a4c025049d6ecd8b948dcf7b6010e49cffd7d2",
               "aa8269f83fc2ae27130a3bcc8f6f9a66c1c304345ea3374499a87953",
+              "05f074a1341b1312ff15e1274842a8822a1a6d327ef65e4a89efc420",
               "2331b3d789ddca2f42b50f81bdcecd32c3a45c4f2f621995b213e011",
               "cfd6eba2303585bb8df4218791338951fcc916dfa2f621b63510c092"
-          ]
-}
-
+    ]
+  }
+]

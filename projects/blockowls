@@ -1,8 +1,24 @@
 [
   {
     "project": "BlockOwls",
+    "tags": [
+        "BlockOwls Chapter 1 - GBOiC - Part 1 Hydra",
+        "BlockOwls Chapter 1 - GBOiC - Tygar Collection",
+        "BlockOwls Chapter 1 - GBOiC - Part 2 Plutus"
+    ],
     "policies": [
-        "bff82d31352d9bdfdb49e243ab74af715488631f330b2cf064178f90"
+      "bff82d31352d9bdfdb49e243ab74af715488631f330b2cf064178f90",
+      "3f4360edd7f689b637b44587150e71453a51ba29655336ff374c201c",
+      "7ea3e7719938f8acd700327d6c9dffd7523a02dce1d9891b5f3a452d"
+    ]
+  },
+  {
+    "project": "BlockOwls - StoryCollection",
+    "tags": [
+        "BlockOwls Chapter 1 - GBOiC - Tygar Collection"
+    ],
+    "policies": [
+      "62afb32c355614608390ccfd007f87fb06844cec373dba4ce8272184"
     ]
   }
 ]

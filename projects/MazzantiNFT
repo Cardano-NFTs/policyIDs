@@ -1,0 +1,41 @@
+[
+  {
+    "project": "MineWorld",
+    "policies": [
+      "c44f29c174ec55e2d29dd34a9c5bd98c6a575bfe57ba1290a0a328e1",
+      "a3c48f72de48528990889268396a4f4591f6cadbc40a71e06cb2578a",
+      "93981e225a3a014788a9675c074346f2de81b0145a7560af5d7a2027",
+      "7c828a440e72473a655a3b997ecd17454f22a19ec136494d1d5e55ce",
+      "b95332812637a8afa9c2caac4b8d62f65216fa9b20feb0095e0be887",
+      "c271a3f818aa3dab2d085f1f3068fb2f98b64e1d0f3de059a5be28fa",
+      "5be911eb900f9e239e1528c4d2db47b2d5a036ee6e41c244b98989da",
+      "01bb7ebe887e11e75ca26a9a4a55da8f5b7e6c16b22d9f1dcec8f2b3"
+    ]
+  },
+  {
+    "project": "Piano TEXIER",
+    "policies": [
+      "776db4a2ad426c8a72cdffb4d14f305549913e2fdeb3f4b887107cbe"
+    ]
+  },
+  {
+    "project": "GODCoin",
+    "policies": [
+      "0a7e1425cc3e2429208a70867301571c3987b2d7ba8ec50a9153085a",
+      "bc351f1478d5d4c0f458b55c35474a96aa54528e790b7cb1cf1a3103"
+    ]
+  },
+  {
+    "project": "Cardano Era",
+    "policies": [
+      "5e8352c1c47f8b88e5a86f8f68f48b8bee176604d05f092adaf47e00",
+      "d4e1d2df56651f6eb383dc14b54e529f34df72d6b943231c3ff7dc97"
+    ]
+  },
+  {
+    "project": "$MineWorld",
+    "policies": [
+      "4c4a04f30a4146c92bd68d4861bc39482f24905936b6807308784ca4"
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "project": "Emerald Nft Dao - Genesis",
+    "tags": [
+      "EmeraldNftClub",
+      "EmeraldNftDao"
+    ],
+    "policies": [
+      "1cad64fda64efd18c2379e53543b14dfe5b3ecb273794ab630acf59c"
+    ]
+  },
+  {
+    "project": "Emerald Nft Dao - Gen 1",
+    "tags": [
+      "EmeraldNftClub",
+      "EmeraldNftDao"
+    ],
+    "policies": [
+      "c7e043870f52b06b55f9003fdb2de82646066592c0eb054c8d763b92"
+    ]
+  }
+]

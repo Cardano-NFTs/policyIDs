@@ -2,7 +2,8 @@
   {
     "project": "Cardano Postcards",
     "policies": [
-        "2611db11c3083fb3a59d6ec2666fbd1eea8e916d1faade0d0f39b29a"
+        "2611db11c3083fb3a59d6ec2666fbd1eea8e916d1faade0d0f39b29a",
+        "d1359406d417e862bfb3cde6bad49e6177736230ab40068e57e8d468"
     ]
   }
 ]

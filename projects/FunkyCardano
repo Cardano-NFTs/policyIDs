@@ -3,38 +3,116 @@
         "project": "FunkyDreams",
         "tags":[
         "funky",
-        "dreams"
+        "dreams",
+        "funkydreams",
+        "massimo",
+        "pietrobon"
         ],
         "policies": [
             "2f10f077252fb5b0fcd82abb6e50a178ad15e1e0920cf4b911eb45ff",
             "6c9c5303bd52ebbdab20c430d555c55d5951850a515fd948f2a00db1",
+            "6ada9c2d188e4e08f4dd4b898a6c9abef791d36269db12badbf36c53",
+            "bdb4064404b19fc95200b6d2f0f4cabd0f13cc45e805c89b3d4de3b1",
+            "ec498d7fc1432be17f9f301ae3b9c39c772582dc385de15f75989ddd",
+            "c83b8197ab47de4162d416d9ef5c45ce383c4d899aa7d092c725efe5",
+            "98c85df48b87c2cf64a8795256f00a2590f75da51e8ff6d6e49a503e",
+            "acda5874e763ba1a2b7e86300a1687afbdde1e0b9461c984904b6662",
+            "33a647eb03b016885238e1b60500f4018790bdddfc1ce695e64f0bcc",
+            "2b006a2c28a9ebb6216a79a93dcd960c8b78e3eb6a33793e452d4570",
+            "3611d036b1222d365d7cdecaebe5e621047d9b2aef290f6733ce69b5",
+            "a6653324df57d96eae0b9359b766e66227441ff05fd0d443d03aa75c",
+            "7ab07d0d848a304e4ea446f60182dfa791cd9e3352d2e7f4101d714b",
+            "828a34328485fe8b1e8c9676c39b179b2d40b85eabc86c0fbcf42593",
+            "e86cd30bae96ce1c8dc722fb75c0ee7c4e3338866cabbbe15e5dd261",
+            "fc73a93d15ed3d1db612f8f1fb69a191138da73942e028cafc9c4bc5",
             "fd2ddabe52e5a058afe760aa15b0b63f7e302927f7fd57f35989d376",
             "1d16914eaf12d5668cce081865b60f437e2ae9235ed25dde406ad2cd",
-            "fc73a93d15ed3d1db612f8f1fb69a191138da73942e028cafc9c4bc5",
-            "ec498d7fc1432be17f9f301ae3b9c39c772582dc385de15f75989ddd"
+            "accbd14358136499059b255f03ee018879ef7281e6a6dedc49819096",
+            "3cff89553df240109ec54db765a487bdf452e91cc2cd6c508405d889",
+            "4643606d3b5036c6395cac43fc1f8535e5270116dc0a4b2f98ce0d28",
+            "0ce948cdc399759bd9c53f4b2fb2910813deadd43ee00f9c50dd1103",
+            "fefa7033bffe06b4e071815cddd55df894691ded78848f87d30001f8",
+            "84e85aee6e2b4765c6abd08ed92fa48a4bc68b0c9a7fc790e5defee0",
+            "ef75208101179a39010a7dae142b6ec877523a5f342952c945507bc1",
+            "549e05cb9d12ac7479f4b37d69f98ba7d89c36bd6540fff7ea890a05",
+            "64fac981aeee15d5f85689aad1c1ad85eb0be83a32416720b557438f",
+            "58f13a5c48a4164ecf6fb7f6d26586bf0d99b3697e8095c837c0d45e",
+            "c34d3756c12bad26931a27dea271d840d26b01ba856dcfb42c65fa73"
         ]
     },
     {
         "project": "FunkyMaps",
         "tags":[
         "funky",
-        "maps"
+        "maps",
+        "funkymaps",
+        "massimo",
+        "pietrobon"
         ],
         "policies": [
             "c568971030288b46870b922c26ea50320d96a393979bf3c2020207c3",
             "7a40252627555464f3f36acce585654cd1b7704febed37695a8a7654",
-            "3beb93866c3db1de5600544a83fef27f4acf6303a38e7c5c215f5b91"
+            "3beb93866c3db1de5600544a83fef27f4acf6303a38e7c5c215f5b91",
+            "42626ebc01de20db4fc4ea3f61d1d8f294f817dcece2f0c04886c867",
+            "eb5091a72dfd9ff37cc6fe48e30921ad770359ef1fd543ea97e9a726",
+            "022df315a2e094a3efa0ced6a4e9991a65058288c2b8e2e3c39ba751",
+            "8ab9ea75e88489010369bf70d390308bfa1d450b46ff07504d9ca5f0",
+            "5c3a7cf69ab68f402b7c235a7838bef696610a8ba3e2d16b0cb47cc7",
+            "76e7c3bb7a36783e3cdfabdcd4b4c0d9ae529db337102f766e078ada",
+            "19c92a25deb96c85aaa086dad3cd93de09568471a456ac1c61e2d72a",
+            "7e47ee1ba794a64ef3de82c27644111b3ad43c26f60b174bb5de007f",
+            "d0719fb82edf61fceda4a813ee4afde8248cd0f45b6f6c298243ed4d"
         ]
     },
     {
     "project": "FunkyCardanos",
     "tags":[
     "funky",
-    "cardanos"
+    "cardanos",
+    "funkycardanos",
+    "massimo",
+    "pietrobon"
     ],
         "policies": [
             "f58514cc07f1582e34400467545b7cff02aa10474957e4d75f89cd8e",
-            "83b2cb766f73225ca01926bb5597d5ce3220f073f3b428ecb9179e7c"
+            "83b2cb766f73225ca01926bb5597d5ce3220f073f3b428ecb9179e7c",
+            "0635fb423e4287e52f8cbbb39024e857723d15c43aeac52043cf7b2d",
+            "83e7d560a3e7bb5e8af4f92b5bd43cfc827de202b58e73fcfb48920d"
+        ]
+    },
+    {
+    "project": "FunkyIdols",
+    "tags":[
+    "funky",
+    "idols",
+    "funkyidols",
+    "music",
+    "massimo",
+    "pietrobon"
+    ],
+        "policies": [
+            "1c67e1797a25b7421df156903418a48286e4baec2aa4145f87f3683c",
+            "9a7129b034973a2eb692a6198398e19916a33829e01d35020a5153ed",
+            "e133ae9b3749d9a0c824548f12ea7932d232ca4b0718c5624134cd23",
+            "767395ca34fe7d470a9eed4adf08082f25a019c1a3eb8b8fb2a7c46d",
+            "05d8c5bc25ccfe149999b64d453f96d97d50c86750d3e1db3c3d1cbf",
+            "03f278838064c9eb07d6ad052e1c91f3f256fa6767e1ab6c3b019ddc"
+        ]
+    },
+    {
+    "project": "Capitan Mas pencil drawings",
+    "tags":[
+    "funky",
+    "funkycardano",
+    "capitan",
+    "mas",
+    "pencil",
+    "drawings",
+    "massimo",
+    "pietrobon"
+    ],
+        "policies": [
+            "c3ec1074f02f3468150e64fca6824bc4a36435545c55e84074c1f982"
         ]
     }
 ]

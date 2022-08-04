@@ -1,6 +1,22 @@
-{
+[
+  {
     "project": "Camel Club",
     "policies": [
-        "0b19caa0bc17664b4ef0b769f146269c1400eba0174e9944a8745ff9"
+      "0b19caa0bc17664b4ef0b769f146269c1400eba0174e9944a8745ff9"
     ]
-}
+  },
+  {
+    "project": "Camel Club - Membership Cards",
+    "policies": [
+      "5adb68cd967ec021d1e1e079c9dac356aa7d267ebdff3f3b8b06c9d6",
+      "0667a61a37584b381ff94106b06cc5a4caf565fca33638e725a9e02d",
+      "62da0d832d1b53439331ef111c438f6d24fea1e66c08c8f1fccd8417"
+    ]
+  },
+  {
+    "project": "Camel Club: Wall of Fame",
+    "policies": [
+      "6a12613c4600155096be236b70dd27d42aa7c553adf367f8da748e6c"
+    ]
+  }
+]

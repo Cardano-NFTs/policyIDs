@@ -3,10 +3,13 @@
     "project": "Benjamin's Club - Zigor",
     "tags": [
       "Benjamin's Club",
-      "Zigor"
+      "Zigor",
+      "Monchito #9"
     ],
     "policies": [
-      "adc2c2e89b45a5f608c710a24073b95addf9ad549662fba26ac89951"
+      "adc2c2e89b45a5f608c710a24073b95addf9ad549662fba26ac89951",
+      "a821d033413b63e14368917cb9eb066fbe71b0b37b1ec87dd5f86206",
+      "a8f3af4ac115487a75a3541a081451169f0f3bd0992259b0baa61e77"
     ]
   },
   {
@@ -20,13 +23,23 @@
     ]
   },
   {
-    "project": "Benjamin's Club - Membership Keystones",
+    "project": "Benjamin's Club - Keystone Shards",
     "tags": [
       "Benjamin's Club",
-      "Membership Keystones"
+      "Keystone Shards"
     ],
     "policies": [
       "9f0a06006c49f452656bbb91667d0e6ca0617a09e7f7642891f42601"
+    ]
+  },
+  {
+    "project": "Benjamin's Club - Membership Keys",
+    "tags": [
+      "Benjamin's Club",
+      "Membership Keys"
+    ],
+    "policies": [
+      "39444484d7a844f3c59ea383649b498f40fd3d8e2ae6a923efc60897"
     ]
   },
   {
@@ -37,6 +50,45 @@
     ],
     "policies": [
       "5d5989d428f85a3e4f60eef9a087f482304ff73ed3ffe079d55b6eae"
+    ]
+  },
+  {
+    "project": "Benjamin's Club - Fran",
+    "tags": [
+      "Benjamin's Club",
+      "Fran Rodriguez"
+    ],
+    "policies": [
+      "23ca70a559759fa22417a0353d8d8deadfbfe40b7e661b7c4d285a35"
+    ]
+  },
+  {
+    "project": "Benjamin's Club - Laprisamata",
+    "tags": [
+      "Benjamin's Club",
+      "Laprisamata"
+    ],
+    "policies": [
+      "575c72ec851e4b85bbc2753b0e880f87fbef278ee691c9b15ab2a872"
+    ]
+  },
+  {
+    "project": "Benjamin's Club - Ruye",
+    "tags": [
+      "Benjamin's Club",
+      "Ruye"
+    ],
+    "policies": [
+      "c4cb2636ed6bea21061f6c44f81aeba63d667caa3ae7c56c9c7477d8"
+    ]
+  },
+  {
+    "project": "Benjamin's Club - Mystery Box",
+    "tags": [
+      "Benjamin's Club"
+    ],
+    "policies": [
+      "92bcf73e34ee159430c4dd9c47a25ff74b712faebc7e52930c3b786f"
     ]
   }
 ]

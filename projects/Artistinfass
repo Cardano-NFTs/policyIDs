@@ -1,0 +1,40 @@
+[
+  {
+    "project": "Artist - infass xp",
+    "policies": [
+        "62cf0b2479f8da9b51668d1d36592fc4ec2da3c24af9d6a6475b825a"
+    ]
+  },
+    {
+    "project": "Artist - Rohith",
+    "policies": [
+        "3c44190396385b8e34f897d5aea92fb8383cf6d6aefc735354e8fe74"
+    ]
+  },
+    {
+    "project": "Artist - Sanjay Kannan",
+    "policies": [
+        "a9e2713a515fb79b89676c0d2870092ecee74b002df8d673fe858e17",
+        "69d0ec2e16ab18ce29dbc620f34edb53b42f02d36e9cd914313e6e87"
+    ]
+  },
+    {
+    "project": "Artist - Bonny Babu",
+    "policies": [
+        "47fa0f0ae4773c457139387d334dba34d81960edc179964a3a2ba052",
+        "7e136bad35e39c52c96045865c975eb4d53913803f23235232c86760"
+    ]
+  },
+      {
+    "project": "Artist - Pavethran",
+    "policies": [
+        "63416d5a76b0a2fcce5432c47b2faaca853befbfa78b4b6dfce464bc"
+    ]
+  },
+        {
+    "project": "Artist - Naibin Joy",
+    "policies": [
+        "4f53aff0a98b3579ec9056feb5b234c6ad2eccd30b9ab45be1ca40f3"
+    ]
+  }
+]

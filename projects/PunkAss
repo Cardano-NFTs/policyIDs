@@ -1,18 +1,34 @@
 [
 {
-    "project": "PunkAss CP",
-    "tags": [ "PunkAss"
-    ],
+    "project": "PunkAss CheekPeek",
     "policies": [
-        "332e8287a8aa7afca42ab7668b8b16ae912b01b4bdbf8a55fed6deea"
+        "332e8287a8aa7afca42ab7668b8b16ae912b01b4bdbf8a55fed6deea",
+        "6b60164463a2b3f0d8869f870cd5e9ac728db478232ab90c5fbf1c97"
     ]
 },
 {
-    "project": "PunkAss S1",
-    "tags": [ "PunkAss"
-    ],
+    "project": "PunkAss Season 1",
     "policies": [
-        "f217f1369229c314c5377935f95097b4b10b83c779c53888e0b07f45"
+        "f217f1369229c314c5377935f95097b4b10b83c779c53888e0b07f45",
+        "727107f1e38f21c92819d022f54a7aca8f30da379aa1aaa2d7667d4e"
+    ]
+},
+{
+    "project": "PunkAss Season 2",
+    "policies": [
+        "fd2cc6dacc2294c0886f91dc2c4f1d66dc3f18c9ff738e67b4d56651"
+    ]
+},
+{
+    "project": "PunkAss 12 Days of Xm-ASS",
+    "policies": [
+        "ff56a76a67fd8fe73323e121d063c99179367794dd01c81f99930a51"
+    ]
+},
+{
+    "project": "PunkAss Caricature Collection",
+    "policies": [
+        "c2715c8cc23e998fc6e8629d88121f33afce3d80f25fe9698eb7c17a"
     ]
 }
 ]

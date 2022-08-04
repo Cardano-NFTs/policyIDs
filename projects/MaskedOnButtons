@@ -54,5 +54,63 @@
     "policies": [
       "8d99a6f364e82a59bbc93bee9b9db23a85d841cd9ac63b78e60b5c9c"
     ]
-  }
+  },
+  {
+    "project": "MOB X SHOCKWAVES",
+    "tags": [
+      "Masked On Buttons",
+      "MOB",
+      "Shockwaves",
+      "TeamSeas"
+    ],
+    "policies": [
+      "07a1eccb577e4f9d0683b8f8f0bf1067db200653c40608fab1e609ad",
+      "2fbe8ab48985e582fc6dbf5f18479e77f0ae4b7056b8ec9d00c51e7f"
+    ]
+   },
+   {
+     "project": "MOB Xclusives",
+     "tags": [
+       "Masked On Buttons",
+       "MOB",
+       "MOB PFP"
+     ],
+     "policies": [
+       "7462d5fee5112854877b0ca5a77648023b98089f9fc12e964f422233"
+     ]
+   },
+   {
+     "project": "MOB Santa",
+     "tags": [
+       "Masked On Buttons",
+       "MOB",
+       "Santa MOB"
+     ],
+     "policies": [
+       "a8231c25a8ccc1430359b4bf255b055366401258474834e6906a95aa"
+     ]
+   },
+   {
+     "project": "MOB City Map",
+     "tags": [
+       "Masked On Buttons",
+       "MOB",
+       "MOB City"
+     ],
+     "policies": [
+       "6e5103651199d2938643fc4fab5d4a61c0950752443cd8794cd3792d"
+     ]
+   },
+   {
+     "project": "MOB City",
+     "tags": [
+       "Masked On Buttons",
+       "MOB",
+       "MOB City"
+     ],
+     "policies": [
+       "286757443c4ca2e1e3f425013cfeacca063264ef998117ab5bd8fc22"
+     ]
+   }
 ]
+

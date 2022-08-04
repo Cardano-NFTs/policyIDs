@@ -69,9 +69,27 @@
         ]
     },
     {
+        "project": "Glus x Adarealms Plots",
+        "policies": [
+            "a9714f0cf102ce365bcdbe921ed001135bbc6a8420a01463d45da405"
+        ]
+    },
+    {
+        "project": "Glus - CRYPTODELICS 02",
+        "policies": [
+            "20211215310a6919fa3ba4817a6771676499506ea109ff75400937a9"
+        ]
+    },
+    {
         "project": "Glus X CardanoKeys - Mushroom Keys",
         "policies": [
             "bdf8c6170793a8d6c49089264e08dfe5cd589e1321393777150dd06e"
+        ]
+    },
+    {
+        "project": "Glus X Fettuccine",
+        "policies": [
+            "a9f27403469474f5f673449936b6b17418433498e238d683dfcd73a3"
         ]
     }
 ]

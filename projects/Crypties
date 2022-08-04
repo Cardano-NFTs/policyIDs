@@ -1,10 +1,20 @@
-{
-    "project": "Crypties",
-    "tags": [
-        "Crypties"
-    ],
+[
+  {
+    "project": "Crypties S1",
     "policies": [
-        "2a8af0f19ba8bfe934649a789565274b42bab9cc14ea8427c9d2e94a",
-        "e77fe5101469bdbd2d596f69abbd8ea6311008f5687dec3d950bb17a"
+      "2a8af0f19ba8bfe934649a789565274b42bab9cc14ea8427c9d2e94a"
     ]
-}
+  },
+  {
+    "project": "Crypties S2",
+    "policies": [
+      "e77fe5101469bdbd2d596f69abbd8ea6311008f5687dec3d950bb17a"
+    ]
+  },
+  {
+    "project": "Crypties Postcards",
+    "policies": [
+      "e606f72a4528ad64562d701a1a6b3bc130121105c6360be643c064c2"
+    ]
+  }
+]

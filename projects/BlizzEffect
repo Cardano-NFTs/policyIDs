@@ -40,7 +40,9 @@
       "DogShit Coin",
       "Uniraffes",
       "Winter Nights Egg",
-      "Blocc Sheep"
+      "Blocc Sheep",
+      "Slime Egg",
+      "Wolf"
     ],
     "policies": [
       "9900680bccc9955c81c40afa1e562c9d5cbd31d1c80e1aff68c2f0db",
@@ -59,7 +61,9 @@
       "fa44effd22875cff1b7a2247984ac5c4064fb1268c2e1b1f49c040f2",
       "556873689d76028f50745cae95a644c3a886e83cba2e705922c7f04c",
       "69f49e1917904d850ea4a43e1e10709b45c5119939f28de9cc24f5d7",
-      "dbba634ef36aa75f7a2ad4c478d7797ec79c8e721b6e31f6f50cbbd4"
+      "dbba634ef36aa75f7a2ad4c478d7797ec79c8e721b6e31f6f50cbbd4",
+      "c250e250d6ca70b0d76bc3c883f848fff9db4d61690030397cfdd94b",
+      "14723adb49db3a89626c5809be1276f93e15f78422b7c69bcc4a2d39"
     ]
   },
   {
@@ -80,6 +84,12 @@
       "e521ff81606befadffb5c76e6a5c824e8d3baa724aff477b6bc432ea",
       "1a38c72fdef91ab2625cf1b0cd3fc6e2dbc370e235f27bf48e3368cb",
       "18a0d7f2e8173e8cd150d5aedcb938d9edc27ba448383621328e991b"
+    ]
+  },
+  {
+    "project": "BlizzEffect x Cardano Robin",
+    "policies": [
+      "79ee0628b40bd17daef8dfe97af0906af64ee9d113d7df86cf5ea322"
     ]
   }
 ]

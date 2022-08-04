@@ -1,13 +1,9 @@
-{
+[
+  {
     "project": "CryptoMuseum",
-    "tags" : [
-          "CryptoMuseum",
-          "CardanoMuseum",
-          "Crypto Museum",
-          "Museum",
-          "van gogh",
-          ],
     "policies": [
-        "6654c3dca29414a1404479fe989fae1794623d2c4733ca8891645c7f"
+        "6654c3dca29414a1404479fe989fae1794623d2c4733ca8891645c7f",
+        "945e166af18e12e410b460288772127de65606b32f8ba4a78442f064"
     ]
-}
+  }
+]

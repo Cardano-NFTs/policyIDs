@@ -1,26 +1,33 @@
 [
-{
-   "project":"AIGrafix Trading Cards",
-   "policies":[
-      "f31bed115ccdc5a504412bffc6ba6d4064825763da3a3aff5ad5cacc"
-   ]
-},
-{
-    "project": "!AIGrafix Collectible",
-    "policies": [
-        "59900ce5e717093bc3b802bfcfe6777de2dcc47b984e2d633d21cc8e"
-    ]
-},
-{
-    "project": "GFX Central",
-    "policies": [
-        "f02a5df159d3aa1c56db1775fbb8aabe182b5d6f79154cc3d64ced7d"
-    ]
-},
-{
-    "project": "cMETA.space",
-    "policies": [
-        "377a6e2c13dcc66598a69db4922c6b8f2df8aa7546987dd444e50eee"
-    ]
-}
+   {
+      "project":"AIGrafix Trading Cards",
+      "policies":[
+         "f31bed115ccdc5a504412bffc6ba6d4064825763da3a3aff5ad5cacc",
+         "5eeab3e3d2f3d25bbc16ce85eaa9a0a02c75ecdf543b47ea91610a13",
+         "171f0f3724a47e4f75580dcdd157778ddd6b8dedc18f3fc46d14220f",
+         "462865ecbe2c83df7918c669901c6cf03ca96dddd39156b8e2ee1f5f",
+         "7495ae8c10a0bc003a9488546c27867e332e18947f80e105ec06807f",
+         "8f0861d368671b57325457c7898d18d618d642f697f587ba015d15fc",
+         "e7b8d2165c2e914266abff0e6b8717b1135025da0852a54bdc2cfe63"
+      ]
+   },
+   {
+      "project":"!AIGrafix Collectible",
+      "policies":[
+         "59900ce5e717093bc3b802bfcfe6777de2dcc47b984e2d633d21cc8e"
+      ]
+   },
+   {
+      "project":"GFX Central",
+      "policies":[
+         "f02a5df159d3aa1c56db1775fbb8aabe182b5d6f79154cc3d64ced7d"
+      ]
+   },
+   {
+      "project":"cMETA.space",
+      "policies":[
+         "377a6e2c13dcc66598a69db4922c6b8f2df8aa7546987dd444e50eee",
+         "6acb7c816f839148e2140427b181662380e3074616cbcfb0e644df9a"
+      ]
+   }
 ]

@@ -8,5 +8,24 @@
     "policies": [
       "d6fe6efa7788cb70e57a91891605e3694352cabb4837e870610300e9"
     ]
+  },
+  {
+    "project": "ADA Army Utility Token",
+    "tags": [
+      "ADA Army Utility Token",
+      "AdaArmyUtilityToken"
+    ],
+    "policies": [
+      "a883d4a02f4c2cf0c5eeec0f13a5c3ab9a98a8b619cfe6df331eb515"
+    ]
+  },
+  {
+    "project": "ADA Army x SAC",
+    "tags": [
+      "ADA Army x SAC"
+    ],
+    "policies": [
+      "16b75e67b5cd92a111db1358c2001d17af8bf400f3fa04939e37d416"
+    ]
   }
 ]
